@@ -125,8 +125,8 @@
       "category": "moments",
       "file": "art/moments/moment_joseph_revealed.webp",
       "pixelSize": [
-        1920,
-        640
+        1672,
+        941
       ],
       "subjectId": "moment-joseph-revealed",
       "kind": "scene",
@@ -136,7 +136,7 @@
       "refs": [
         "art/characters/char_joseph_vizier.webp"
       ],
-      "reviewNote": "형 10명(좌5·우5)+베냐민 확인, 시종 없음, 벽 글씨 없음. 3:1 파노라마",
+      "reviewNote": "16:9 재제작(이전 3:1 대체). 1차 형 11명으로 탈락 후 재생성: 좌5·우5=10명+베냐민, 시종 없음, 벽 글씨 없음",
       "adoptedAt": "2026-10-13",
       "historicalAccuracyStatus": "not_verified",
       "rightsStatus": "usage_terms_check_required"
@@ -146,8 +146,8 @@
       "category": "moments",
       "file": "art/moments/moment_joseph_sold.webp",
       "pixelSize": [
-        1920,
-        809
+        1672,
+        941
       ],
       "subjectId": "moment-joseph-sold",
       "kind": "scene",
@@ -157,7 +157,7 @@
       "refs": [
         "art/characters/char_joseph_youth.webp"
       ],
-      "reviewNote": "17세 청년으로 수정됨, 결박·폭력 없음, 형들은 능선 위 원경. 구덩이는 생략됨. 2.37:1 파노라마",
+      "reviewNote": "16:9 재제작(이전 2.37:1 파노라마 대체). 결박·폭력 없이 상인 행렬과 걷는 10대 요셉, 형들은 능선 위 원경. 구덩이 앞 돌담",
       "adoptedAt": "2026-10-13",
       "historicalAccuracyStatus": "not_verified",
       "rightsStatus": "usage_terms_check_required"
@@ -167,8 +167,8 @@
       "category": "moments",
       "file": "art/moments/moment_joseph_vizier.webp",
       "pixelSize": [
-        1916,
-        821
+        1672,
+        941
       ],
       "subjectId": "moment-joseph-vizier",
       "kind": "scene",
@@ -178,7 +178,7 @@
       "refs": [
         "art/characters/char_joseph_vizier.webp"
       ],
-      "reviewNote": "측면 구도·전진 방향, 엎드려 절하는 군중, 바로 미등장. 건축은 일반 애굽 양식(특정 왕조 아님). 2.37:1 파노라마",
+      "reviewNote": "16:9 재제작(이전 2.37:1 대체). 측면·전진 방향, 마부 동승, 엎드려 절하는 군중, 바로 미등장, 일반 애굽 양식",
       "adoptedAt": "2026-10-13",
       "historicalAccuracyStatus": "not_verified",
       "rightsStatus": "usage_terms_check_required"

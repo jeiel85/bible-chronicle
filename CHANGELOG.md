@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.11 — 2026-10-13
+
+- git 이력 관리 시작(GitHub 비공개 저장소 `jeiel85/bible-chronicle`). 줄바꿈 변환 없음(`.gitattributes`, D-006).
+- `docs/16_GAME_DIRECTION.md`: 문명형 흐름의 게임 같은 교보재로 방향 확정. 고정 서사와 수렴형 선택, 시대·주인공 교대, 역사적 순간 화면, 네 가지 시점(관찰자/중심인물/주변인물/제3자), 가상 공동체 운영.
+- `docs/17_ART_PIPELINE.md` + `tools/codex_images.py`: 외부 이미지 에이전트(Codex CLI, 막히면 Antigravity)로 일러스트 제작. v1.10 시안은 참고용으로만 사용.
+- `DECISIONS.md` 신설(D-001~D-006).
+
 ## v1.1 — 2026-10-12
 
 - '이스라엘의 시작과 멸망' 핵심 캠페인 설계 추가.

@@ -40,6 +40,9 @@
 | docs/07_ART_DIRECTION.md | 문명형 사건 일러스트, 에셋 제작 명세와 출처 구분 |
 | docs/08_LICENSE_SOURCES.md | 확인한 근거 URL, 저작권, 상용 배포 점검 |
 | docs/09_TEST_STRATEGY.md | 테스트 시나리오 및 공개 전 안전장치 |
+| docs/16_GAME_DIRECTION.md | **게임 방향(2026-10-13 확정)**: 고정 서사, 네 가지 시점, 역사적 순간, 가상 공동체 |
+| docs/17_ART_PIPELINE.md | 외부 이미지 에이전트(`tools/codex_images.py`)로 일러스트를 만드는 방법과 요청 규칙 |
+| DECISIONS.md | 프로젝트 오너의 결정 기록 |
 | data/books.json | 66권 원장, 장수, 핵심 본문 범위, 문학 장르 |
 | data/chapter_index.json | **1,189개 장 색인** (미집필로 명시) |
 | data/historical_claims.json | 실제 확인한 출처의 범위 한정 예시 |

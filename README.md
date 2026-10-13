@@ -1,82 +1,76 @@
-# Bible Chronicle / 성경 역사 문명
+# Bible Chronicle — 성경 역사 문명
 
-> 성경 정경의 사건 결과는 바꾸지 않고, 역사·지리·인물·문화의 맥락을 학습하는 반응형 역사 탐험 교보재.
->
-> 설계 패키지 v1.1 | 2026-10-12 | 언어: 한국어 | 기준: 개신교 66권
+> 문명(Civilization)처럼 시대가 흐르고, 나라가 일어서고 무너지고, 주인공이 바뀌는 **성경 기반 게임형 교보재**.
+> 이야기는 성경에 기록된 그대로 흐르고, 플레이어의 선택은 **보는 방식·배우는 내용·가상 공동체의 삶**만 바꿉니다.
 
-## 산출물의 범위 (중요)
+**[▶ 라이브 데모 — 요셉의 시대 (창세기 37–50장)](https://jeiel85.github.io/bible-chronicle/)** · 개발 미리보기 · 한국어 · PC/모바일 · 오프라인 지원
 
-**바로 개발 착수할 수 있도록** 제품 명세, 콘텐츠 계약, JSON Schema, 66권/1,189장 색인, 사건 예시, 사료 추적 장부, 구현 체크리스트, 검사 스크립트, 참조 상태 전이 코드를 제공합니다.
+<p align="center">
+  <img src="docs/images/moment.webp" alt="역사적 순간 화면: 요셉의 시대가 시작되는 장면 일러스트와 내레이션" width="72%">
+  <img src="docs/images/phone-moment.webp" alt="휴대폰 세로 화면의 역사적 순간" width="23%">
+</p>
 
-**완성했다고 주장하지 않는 것**: 성경 1,189장의 개별 본문·해설 집필, 모든 성경 사건의 고고학적 검증, 완성된 고대 왕국 국경 폴리곤, 전 시대의 고정 연대표, 게임 클라이언트, 역사 삽화. 이들은 별도 취재·저술·검수·제작이 필요합니다. `data/chapter_index.json`의 `content_status: "not_authored"`는 그 사실을 기계적으로 표시합니다. 잘못된 '완성' 표기를 방지하기 위한 의도적인 설계입니다.
+> ⚠️ **검수 전 초안입니다.** 본문 요약, 해설, 학습 문항, 일러스트는 신학·역사·교육 전문가의 검수를 받기 전입니다. 성경 번역 본문은 사용 허가를 받기 전이라 넣지 않았고, 구절 위치(예: 창세기 37:1–4)로만 안내합니다.
 
-## v1.1 신규 핵심 캠페인 — 이스라엘의 시작과 멸망
+## 무엇을 하는 게임인가
 
-- 아브라함과 야곱의 족장 시대, 출애굽과 사사, 사울·다윗·솔로몬, 분열왕국과 북이스라엘/남유다 멸망, 포로·회복 에필로그를 하나의 연속 학습 캠페인으로 설계.
-- `docs/campaign_israel/11_CAMPAIGN_PRODUCT.md`: 캠페인 명세·화면·정경 불변 계약
-- `docs/campaign_israel/12_SERMON_LESSONS.md`: 교사·설교 연계 **13차시** 학습 과정
-- `docs/campaign_israel/13_CHRONOLOGY_MAP.md`: 두 왕국 병렬 연표·외세·지도 신뢰도
-- `docs/campaign_israel/14_CONTENT_EDITORIAL.md`: 본문/사료/신학/연출 구분과 집필 승인
-- `docs/campaign_israel/15_IMPLEMENTATION_TICKETS.md`: 직접 개발 가능한 에픽·인수 기준
-- `data/campaign_israel/campaign_events_index.json/.csv`: **219개 집필용 사건 개요**, 최종 원고 아님
-- `data/campaign_israel/rulers.json`: 통일3·북19·남20 통치자, 시기 미확정 처리
-- `data/campaign_israel/prophets_cross_index.json`: **26명 예언자/문헌** 연결
-- `data/campaign_israel/chapter_campaign_coverage.json`: 34권/686장 범위와 사건 개요 매핑(절별 검수 아님)
-- `data/campaign_israel/historical_anchor_reviews.json`: 박물관·학술 기관 등 **9개 사건 한정 외부 근거**
-- `scripts/validate_israel_campaign.py`: 신규 사건 색인·참조·제약 검증
-
-**참고:** 출판 가능한 성경 원문 및 역사 서술을 실제로 작성/검증했다는 뜻은 아닙니다. 이번 추가 파일 역시 전반적으로 `outline_not_authored` 상태입니다. 문서 우선순위는 `CHANGELOG.md` 참조.
-
-## 설계 파일
-
-| 파일 | 설명 |
+| 문명 게임의 느낌 | Bible Chronicle에서는 |
 |---|---|
-| docs/01_PRODUCT.md | 제품 요구사항, 모드, 선택 규칙, 교보재 게임 루프 |
-| docs/02_CONTENT_SYSTEM.md | 정경 66권, 전체 1,189장 커버리지, 병행본문, 비서사 장르 |
-| docs/03_TECH_ARCHITECTURE.md | 기술 스택, 로컬 저장, 콘텐츠 파이프라인, API/상태 모델 |
-| docs/04_UI_UX.md | 모바일 세로/가로·PC 와이어프레임 및 접근성 |
-| docs/05_HISTORY_MAP_FACTCHECK.md | 역사·고고학 근거, 지도 확실성, 검증 게이트 |
-| docs/06_IMPLEMENTATION_BACKLOG.md | 에픽/스토리/수용 기준/완료 정의 |
-| docs/07_ART_DIRECTION.md | 문명형 사건 일러스트, 에셋 제작 명세와 출처 구분 |
-| docs/08_LICENSE_SOURCES.md | 확인한 근거 URL, 저작권, 상용 배포 점검 |
-| docs/09_TEST_STRATEGY.md | 테스트 시나리오 및 공개 전 안전장치 |
-| docs/16_GAME_DIRECTION.md | **게임 방향(2026-10-13 확정)**: 고정 서사, 네 가지 시점, 역사적 순간, 가상 공동체 |
-| docs/17_ART_PIPELINE.md | 외부 이미지 에이전트(`tools/codex_images.py`)로 일러스트를 만드는 방법과 요청 규칙 |
-| DECISIONS.md | 프로젝트 오너의 결정 기록 |
-| data/books.json | 66권 원장, 장수, 핵심 본문 범위, 문학 장르 |
-| data/chapter_index.json | **1,189개 장 색인** (미집필로 명시) |
-| data/historical_claims.json | 실제 확인한 출처의 범위 한정 예시 |
-| data/events.sample.json | 시각·사료·선택/결말 고정을 포함한 샘플 이벤트 |
-| data/places.sample.geojson | **좌표 검증 전** GeoJSON 샘플 (프로덕션 사용 금지) |
-| schemas/event.schema.json | 사건 데이터 계약(JSON Schema) |
-| scripts/validate_package.py | 정경 수/장 합산/참조/선택 제약/출처의 기계 검사 |
-| reference/storyEngine.ts | 결정론적 진행·사건 결과 불변 참조 구현 |
+| 시대의 흐름 | 성경의 선형 서사를 그대로 따라가는 에피소드. 어떤 선택을 해도 결말은 같습니다 |
+| 역사적 순간 | 큰 사건마다 전면 일러스트와 내레이션 화면이 뜨고, 본 순간은 **연대기**에 남습니다 |
+| 주인공 교대 | 시대가 바뀌면 이야기의 중심도 바뀝니다(야곱 → 요셉 …) |
+| 문명 경영 | **이름 없는 가상 가문**의 삶을 꾸립니다. 기근 같은 성경 속 사건은 가문에 영향을 주지만, 가문은 성경 이야기를 바꾸지 못합니다 |
+| 시점 | **관찰자**(현대의 나) · **중심인물** · **주변인물** · **제3자**(가상 인물), 네 가지 시점 |
+| 학습 | 절별 해설, 근거 카드 도감("성경 기록"과 "외부 사료 입증"을 구분), 복습 퀴즈 |
 
-## 실행 (설계 데이터 정합성 확인)
+<p align="center"><img src="docs/images/episode.webp" alt="에피소드 화면: 에피소드 목록, 일러스트 자리, 중심인물 시점 카드와 가상 공동체 카드" width="90%"></p>
+
+## 지키는 원칙
+
+1. **정경 불변**: 성경에 기록된 사건의 결과는 바뀌지 않습니다. 모든 선택 순서에서 결말이 같다는 것을 자동 테스트로 확인합니다.
+2. **사실과 창작의 구분**: 성경 기록, 학술 자료, 창작 재구성, 가상 인물에는 각각 다른 표지가 붙습니다. 성경 인물의 속마음이나 대사는 지어내지 않습니다.
+3. **가상 공동체는 이름 없는 주변 사람들**: 성경 인물을 만나거나 정경 장면에 끼어들지 않습니다.
+4. **근거 없는 지도는 그리지 않음**: 검토되지 않은 좌표와 국경은 표시하지 않습니다.
+
+자세한 방향: [docs/16_GAME_DIRECTION.md](docs/16_GAME_DIRECTION.md) · 결정 기록: [DECISIONS.md](DECISIONS.md)
+
+## 현재 상태
+
+| 범위 | 상태 |
+|---|---|
+| 요셉의 시대(창 37–50) 플레이 가능 시범판 | ✅ 에피소드 64개, 역사적 순간 6개(일러스트), 가상 공동체 이벤트 9개, 절별 해설 449절 |
+| 창세기 전체 콘텐츠 | 50장 · 1,533절 · 에피소드 179개의 구조와 절별 1차 해설 초안 (`phases/`, `genesis_*`) |
+| 이스라엘 캠페인(아브라함 ~ 포로기) | 시대 22개, 에피소드 219개의 집필용 목록 (`data/campaign_israel/`) |
+| 성경 66권 전체 | 1,189장 색인 (`data/`) |
+| 남은 일 | [BACKLOG.md](BACKLOG.md) — 지도, 에피소드 문구 재작성, 생활사 출처, 전문가 검수 등 |
+
+## 직접 실행하기
 
 ```bash
-python scripts/validate_package.py
-python scripts/validate_israel_campaign.py
+cd apps/web
+npm install
+npm run dev        # 개발 서버
+npm test           # 단위 테스트(이야기 엔진 불변식, 콘텐츠 규칙)
+npm run e2e        # Playwright: 플레이·같은 결말·회전·이어 하기·오프라인·접근성
+npm run build      # 오프라인 PWA 빌드(dist/)
 ```
 
-검증 결과는 '**색인 무결성 및 샘플 구조 검증**'에 한정되며, 역사적 진위 확인을 자동화했다는 뜻이 아닙니다.
+기술: React 18 · TypeScript · Vite · vite-plugin-pwa · IndexedDB · Vitest · Playwright. 계정, 광고, 분석 도구는 없습니다. 진행 상황은 각자의 브라우저에만 저장됩니다.
 
-## 첫 개발 권장 진입점
+## 저장소 구조
 
-1. `docs/01_PRODUCT.md` → 무엇을 만들지 결정
-2. `docs/02_CONTENT_SYSTEM.md` → 66권 전범위를 어떤 형식으로 담을지 고정
-3. `schemas/event.schema.json` + `reference/storyEngine.ts` → 엔진 구현
-4. `docs/05_HISTORY_MAP_FACTCHECK.md` → 사료의 엄밀성 확보
-5. `docs/06_IMPLEMENTATION_BACKLOG.md` → 이슈로 분해해 개발
+```text
+apps/web/                 웹 앱(요셉의 시대 시범판)
+content/                  새로 쓴 콘텐츠: 역사적 순간, 가상 공동체
+art/                      외부 이미지 에이전트로 만든 일러스트, 요청서, 매니페스트
+phases/S01A–S01D/         창세기 에피소드·장면·학습 데이터(원본 보존)
+genesis_*_v1_7–v1_10/     창세기 해설·교안·일러스트 시안 패키지(원본 보존)
+data/, docs/, master/     성경 66권 색인, 설계 문서, 이스라엘 캠페인
+tools/                    일러스트 생성(codex_images.py)·채택(adopt_art.py) 도구
+```
 
-## 설계 상 핵심 약속
-
-- 정경의 사건 결과/순서를 플레이어 선택으로 조작하지 않는다.
-- 외부 사료가 없다는 이유로 성경 기록을 '거짓'으로 단정하지 않고, 성경에 기록되었다는 이유만으로 고고학적으로 '검증됨'으로 단정하지도 않는다.
-- 시대/영역별 지도가 불확실하면 점선·범위·불명 표시를 쓰고 임의 폴리곤을 만들지 않는다.
-- 한국어 성경 번역 본문은 해당 번역판의 사용권 검토 전 포함하지 않는다.
-- 초기 제품은 계정·분석 SDK·광고 없이 로컬 기록으로 작동한다.
+설계 문서 목록은 [docs/](docs/)에 있습니다. 초기 설계 패키지 안내는 [docs/00_DESIGN_PACKAGE_v1_1.md](docs/00_DESIGN_PACKAGE_v1_1.md)에 있습니다.
 
 ## 라이선스
 
-코드는 [MIT](LICENSE), 콘텐츠(문서·데이터·일러스트)는 [CC BY-NC 4.0](LICENSE-CONTENT)입니다. 어느 파일이 어느 쪽인지는 [LICENSING.md](LICENSING.md)를 보세요. 성경 번역 본문은 포함하지 않습니다.
+코드는 [MIT](LICENSE), 콘텐츠(문서·데이터·일러스트)는 [CC BY-NC 4.0](LICENSE-CONTENT)입니다. 어느 파일이 어느 쪽인지는 [LICENSING.md](LICENSING.md)를 보세요. 일러스트는 AI로 생성했으며, 프롬프트와 생성 도구를 [art/manifest.json](art/manifest.json)에 기록해 두었습니다.

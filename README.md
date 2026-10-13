@@ -76,3 +76,7 @@ python scripts/validate_israel_campaign.py
 - 시대/영역별 지도가 불확실하면 점선·범위·불명 표시를 쓰고 임의 폴리곤을 만들지 않는다.
 - 한국어 성경 번역 본문은 해당 번역판의 사용권 검토 전 포함하지 않는다.
 - 초기 제품은 계정·분석 SDK·광고 없이 로컬 기록으로 작동한다.
+
+## 라이선스
+
+코드는 [MIT](LICENSE), 콘텐츠(문서·데이터·일러스트)는 [CC BY-NC 4.0](LICENSE-CONTENT)입니다. 어느 파일이 어느 쪽인지는 [LICENSING.md](LICENSING.md)를 보세요. 성경 번역 본문은 포함하지 않습니다.

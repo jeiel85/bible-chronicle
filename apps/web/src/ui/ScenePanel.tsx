@@ -3,6 +3,7 @@ import type { Slice } from '../content/joseph';
 import type { Episode, Scene } from '../content/types';
 import type { Perspective, StoryState } from '../engine/story';
 import { LensChooser } from './LensViews';
+import { narrationOf } from '../content/narration';
 import { osisToKo, SENSITIVITY_KO } from './labels';
 
 interface Props {
@@ -32,6 +33,7 @@ function Chip({ kind, children }: { kind: 'scripture' | 'study' | 'fiction' | 'c
 export function ScenePanel(props: Props) {
   const { slice, episode, scene, state } = props;
   const visited = new Set(state.visitedSceneIds);
+  const narration = narrationOf(episode.id);
 
   if (scene.sceneType === 'canonical_intro') {
     return (
@@ -40,10 +42,12 @@ export function ScenePanel(props: Props) {
         {/* The episode title is already the page heading; repeat the scene heading only when it says something else. */}
         <h2 id="scene-heading" className={scene.headingKo === episode.titleKo ? 'visually-hidden' : undefined}>{scene.headingKo}</h2>
         <div className="chips">
-          <Chip kind="scripture">성경 기록 요약 · 검수 전 초안</Chip>
+          <Chip kind="scripture">{narration ? '성경 이야기를 우리말로 풀어 씀 · 검수 전' : '성경 기록 요약 · 검수 전 초안'}</Chip>
           {episode.sensitivity.filter(tag => SENSITIVITY_KO[tag]).map(tag => <Chip key={tag} kind="caution">{SENSITIVITY_KO[tag]}</Chip>)}
         </div>
-        <ol className="beats">{scene.linesKo.map(line => <li key={line}>{line}</li>)}</ol>
+        {narration
+          ? <div className="narration">{narration.introKo.map(line => <p key={line}>{line}</p>)}</div>
+          : <ol className="beats">{scene.linesKo.map(line => <li key={line}>{line}</li>)}</ol>}
         {props.beforeChoices}
         <h3 className="hub-title">무엇을 살펴볼까요?</h3>
         <p className="hub-note">어느 것을 고르든 이야기는 본문 그대로 이어집니다.</p>
@@ -65,8 +69,8 @@ export function ScenePanel(props: Props) {
       <section className="panel outcome" aria-labelledby="scene-heading">
         <p className="passage">{osisToKo(episode.passage.osis)}</p>
         <h2 id="scene-heading">본문은 이렇게 이어집니다</h2>
-        <Chip kind="scripture">성경 기록 요약 · 검수 전 초안</Chip>
-        <p className="outcome-text">{scene.linesKo.join(' ')}</p>
+        <Chip kind="scripture">{narration ? '성경 이야기를 우리말로 풀어 씀 · 검수 전' : '성경 기록 요약 · 검수 전 초안'}</Chip>
+        <p className="outcome-text">{narration?.outcomeKo ?? scene.linesKo.join(' ')}</p>
         <p className="hub-note">이 결과는 어떤 선택으로도 바뀌지 않습니다.</p>
         <button className="primary" onClick={props.onNextEpisode}>다음 이야기 →</button>
       </section>
@@ -152,7 +156,7 @@ export function ScenePanel(props: Props) {
               );
             })}
           </div>
-          {answered && <p className="limit">{lesson.answerExplanationKo}</p>}
+          {answered && <p className="limit">{narration?.quizExplanationKo ?? lesson.answerExplanationKo}</p>}
           <p className="muted">{lesson.reflectionPromptKo}</p>
         </article>
       )}

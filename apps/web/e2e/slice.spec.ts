@@ -28,11 +28,14 @@ test('plays from the era transition into the story and on to the next episode', 
   await recordMoment(page);
 
   await expect(page.getByRole('heading', { level: 1, name: '편애와 형제 갈등' })).toBeVisible();
+  // The rewritten narration (content/narration) replaces the S01D scene lines.
+  await expect(page.getByText('열일곱 살 요셉은 형들과 함께 양을 치다가', { exact: false })).toBeVisible();
   await page.getByRole('button', { name: '성경 원문 위치·자료 상태 확인' }).click();
   await expect(page.getByText('외부 사료 입증: 확인되지 않음')).toBeVisible();
   await page.getByRole('button', { name: /다른 것도 살펴보기/ }).click();
   await page.getByRole('button', { name: /이야기 계속/ }).click();
   await expect(page.getByText('이 결과는 어떤 선택으로도 바뀌지 않습니다.')).toBeVisible();
+  await expect(page.locator('.outcome-text')).toHaveText('아버지의 편애를 본 형들은 요셉을 미워해, 그에게 다정한 말 한마디 건네지 못했다.');
   await page.getByRole('button', { name: /다음 이야기/ }).click();
   await expect(page.getByRole('heading', { level: 1, name: '두 꿈과 형제들의 반응' })).toBeVisible();
   await expect(page.getByRole('button', { name: /근거 1/ })).toBeVisible();

@@ -48,6 +48,20 @@ describe('household content (docs/16 §5.1)', () => {
     expect(checkCommunity(joseph, unknown, biblicalNamesOf(joseph), communitySources)).toContainEqual(expect.stringMatching(/unknown source/));
   });
 
+  it('requires an external source for every life-history note', () => {
+    const lifeHistory = content.events.find(event => event.lifeNoteKind === 'life_history')!;
+    const biblicalOnly: CommunityContent = {
+      ...content,
+      events: [{ ...lifeHistory, lifeNoteSources: [{ kind: 'biblical_text', osis: 'GEN.37.25' }] }],
+    };
+    expect(checkCommunity(joseph, biblicalOnly, biblicalNamesOf(joseph), communitySources)).toContainEqual(expect.stringMatching(/needs an external source/));
+  });
+
+  it('classifies every note, and the committed notes are three life-history and six text-background notes', () => {
+    expect(content.events.filter(event => event.lifeNoteKind === 'life_history').map(event => event.id)).toEqual(['cm-joseph-01', 'cm-joseph-02', 'cm-joseph-03']);
+    expect(content.events.filter(event => event.lifeNoteKind === 'text_background')).toHaveLength(6);
+  });
+
   it('every external source states what it supports and what it does not', () => {
     for (const source of communitySources) {
       expect(source.url.startsWith('https://'), source.id).toBe(true);

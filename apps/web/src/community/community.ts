@@ -25,6 +25,11 @@ export interface CommunityEvent {
   canonEffect?: { effects: Effects; textKo: string; scriptureOsis: string };
   situationKo: string;
   choices: CommunityChoice[];
+  /**
+   * life_history: a claim about how people lived, which needs a checked external source (docs/16 §5.1-7).
+   * text_background: only says what Genesis records, so Genesis passages are its evidence.
+   */
+  lifeNoteKind: 'life_history' | 'text_background';
   /** Sourced background (not the household's story), so it may name biblical people when citing the text. */
   lifeNoteKo: string;
   lifeNoteSources: LifeNoteSource[];
@@ -129,6 +134,11 @@ export function checkCommunity(slice: Slice, content: CommunityContent, biblical
     seen.add(event.episodeId);
     if (event.choices.length === 0) errors.push(`${event.id}: no choices`);
     if (!event.lifeNoteSources?.length) errors.push(`${event.id}: life note has no source`);
+    const hasExternal = (event.lifeNoteSources ?? []).some(source => 'sourceId' in source);
+    const hasPassage = (event.lifeNoteSources ?? []).some(source => 'osis' in source);
+    if (event.lifeNoteKind === 'life_history' && !hasExternal) errors.push(`${event.id}: a life-history note needs an external source`);
+    else if (event.lifeNoteKind === 'text_background' && !hasPassage) errors.push(`${event.id}: a text-background note needs a Genesis passage`);
+    else if (event.lifeNoteKind !== 'life_history' && event.lifeNoteKind !== 'text_background') errors.push(`${event.id}: unknown life note kind ${event.lifeNoteKind}`);
     for (const source of event.lifeNoteSources ?? []) {
       if ('osis' in source) {
         if (!OSIS.test(source.osis)) errors.push(`${event.id}: bad passage ${source.osis}`);

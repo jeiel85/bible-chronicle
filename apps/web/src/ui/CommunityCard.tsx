@@ -5,6 +5,13 @@ import { osisToKo } from './labels';
 
 const signed = (value: number) => (value > 0 ? `+${value}` : `${value}`);
 
+/** The badge names exactly the kinds of evidence the note has (an external-only note gets no biblical label). */
+export function lifeNoteLabel(kind: CommunityEvent['lifeNoteKind'], hasPassage: boolean, hasExternal: boolean): string {
+  const prefix = kind === 'life_history' ? '생활사' : '성경 속 배경';
+  const evidence = hasPassage && hasExternal ? '외부 자료와 성경 본문 근거' : hasExternal ? '외부 자료 근거' : '성경 본문 근거';
+  return `${prefix} · ${evidence}`;
+}
+
 /** The life note with its evidence: Genesis passages, and checked external sources with their limits. */
 function LifeNote({ event }: { event: CommunityEvent }) {
   const passages = event.lifeNoteSources.flatMap(source => ('osis' in source ? [source.osis] : []));
@@ -12,7 +19,7 @@ function LifeNote({ event }: { event: CommunityEvent }) {
   return (
     <div className="life-note">
       <p className="limit">
-        <span className="chip chip-study">{external.length ? '생활사 · 성경 본문과 외부 자료 근거' : '생활사 · 성경 본문 근거'}</span> {event.lifeNoteKo}
+        <span className="chip chip-study">{lifeNoteLabel(event.lifeNoteKind, passages.length > 0, external.length > 0)}</span> {event.lifeNoteKo}
       </p>
       <ul className="life-sources">
         {passages.length > 0 && <li>성경: {passages.map(osisToKo).join(', ')}</li>}

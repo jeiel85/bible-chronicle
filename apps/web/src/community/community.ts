@@ -3,6 +3,7 @@
 // Influence runs one way only: canonical events change the household (canonEffect), the household never
 // changes the story. Nothing here takes or returns a StoryState, and the story engine never reads this.
 import communityJson from '@repo/content/community/joseph_community.json';
+import sourcesJson from '@repo/content/community/sources.json';
 import type { Slice } from '../content/joseph';
 
 export type ResourceId = 'flock' | 'grain' | 'silver' | 'harmony';
@@ -24,9 +25,23 @@ export interface CommunityEvent {
   canonEffect?: { effects: Effects; textKo: string; scriptureOsis: string };
   situationKo: string;
   choices: CommunityChoice[];
+  /** Sourced background (not the household's story), so it may name biblical people when citing the text. */
   lifeNoteKo: string;
-  /** The one field that may name biblical people: it points the player to the passage to compare. */
+  lifeNoteSources: LifeNoteSource[];
+  /** Points the player to the passage to compare; may name biblical people. */
   readAlongKo: string;
+}
+
+/** A life note's evidence: a passage of Genesis, or an entry of content/community/sources.json. */
+export type LifeNoteSource = { kind: 'biblical_text'; osis: string } | { sourceId: string };
+
+export interface ExternalSource {
+  id: string;
+  kind: 'external_primary' | 'external_secondary';
+  citationKo: string;
+  url: string;
+  supportsKo: string;
+  limitsKo: string;
 }
 
 export interface CommunityContent {
@@ -98,11 +113,14 @@ export function levelKo(value: number): string {
   return '넉넉';
 }
 
+const OSIS = /^GEN\.\d+\.\d+(-GEN\.\d+\.\d+)?$/;
+
 /**
- * Content rules from docs/16 §5.1: events sit on real episodes, one per episode, and the household's own
- * text never names a biblical person (only readAlongKo may, to point to the passage to compare).
+ * Content rules from docs/16 §5.1: events sit on real episodes, one per episode, the household's own text
+ * never names a biblical person (the sourced life note and readAlongKo may, as they cite the text), and every
+ * life note has evidence: a Genesis passage or a checked external source with what it does and does not support.
  */
-export function checkCommunity(slice: Slice, content: CommunityContent, biblicalNames: string[]): string[] {
+export function checkCommunity(slice: Slice, content: CommunityContent, biblicalNames: string[], sources: ExternalSource[]): string[] {
   const errors: string[] = [];
   const seen = new Set<string>();
   for (const event of content.events) {
@@ -110,7 +128,17 @@ export function checkCommunity(slice: Slice, content: CommunityContent, biblical
     if (seen.has(event.episodeId)) errors.push(`${event.id}: a second event on ${event.episodeId}`);
     seen.add(event.episodeId);
     if (event.choices.length === 0) errors.push(`${event.id}: no choices`);
-    const ownText = [event.titleKo, event.situationKo, event.lifeNoteKo, event.canonEffect?.textKo ?? '',
+    if (!event.lifeNoteSources?.length) errors.push(`${event.id}: life note has no source`);
+    for (const source of event.lifeNoteSources ?? []) {
+      if ('osis' in source) {
+        if (!OSIS.test(source.osis)) errors.push(`${event.id}: bad passage ${source.osis}`);
+      } else {
+        const found = sources.find(candidate => candidate.id === source.sourceId);
+        if (!found) errors.push(`${event.id}: unknown source ${source.sourceId}`);
+        else if (!found.url.startsWith('https://') || !found.supportsKo || !found.limitsKo) errors.push(`${found.id}: needs an https url, what it supports and its limits`);
+      }
+    }
+    const ownText = [event.titleKo, event.situationKo, event.canonEffect?.textKo ?? '',
       ...event.choices.flatMap(choice => [choice.labelKo, choice.resultKo])].join('\n');
     for (const name of biblicalNames) {
       if (ownText.includes(name)) errors.push(`${event.id}: names the biblical person "${name}"`);
@@ -135,3 +163,4 @@ export function biblicalNamesOf(slice: Slice): string[] {
 }
 
 export const josephCommunity = communityJson as unknown as CommunityContent;
+export const communitySources = (sourcesJson as { sources: ExternalSource[] }).sources;

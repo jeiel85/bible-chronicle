@@ -1,9 +1,31 @@
 import {
-  canChoose, isResolved, levelKo, type CommunityContent, type CommunityEvent, type CommunityState, type Effects,
+  canChoose, communitySources, isResolved, levelKo, type CommunityContent, type CommunityEvent, type CommunityState, type Effects,
 } from '../community/community';
 import { osisToKo } from './labels';
 
 const signed = (value: number) => (value > 0 ? `+${value}` : `${value}`);
+
+/** The life note with its evidence: Genesis passages, and checked external sources with their limits. */
+function LifeNote({ event }: { event: CommunityEvent }) {
+  const passages = event.lifeNoteSources.flatMap(source => ('osis' in source ? [source.osis] : []));
+  const external = event.lifeNoteSources.flatMap(source => ('sourceId' in source ? communitySources.filter(found => found.id === source.sourceId) : []));
+  return (
+    <div className="life-note">
+      <p className="limit">
+        <span className="chip chip-study">{external.length ? '생활사 · 성경 본문과 외부 자료 근거' : '생활사 · 성경 본문 근거'}</span> {event.lifeNoteKo}
+      </p>
+      <ul className="life-sources">
+        {passages.length > 0 && <li>성경: {passages.map(osisToKo).join(', ')}</li>}
+        {external.map(source => (
+          <li key={source.id}>
+            <a href={source.url} target="_blank" rel="noopener noreferrer">{source.citationKo}</a>
+            <span className="muted"> — 이 자료가 말하지 않는 것: {source.limitsKo}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
 
 export function EffectList({ content, effects }: { content: CommunityContent; effects: Effects }) {
   const entries = content.resources.filter(resource => effects[resource.id]);
@@ -71,7 +93,7 @@ export function CommunityCard({ content, event, state, onChoose }: Props) {
           {resolution?.helped && <p className="muted">곡식이 바닥났지만 이웃과 친족의 도움으로 버텼다.</p>}
         </div>
       )}
-      <p className="limit"><span className="chip chip-caution">생활사 · 출처 확인 필요</span> {event.lifeNoteKo}</p>
+      <LifeNote event={event} />
       <p className="read-along">함께 읽기: {event.readAlongKo}</p>
     </section>
   );

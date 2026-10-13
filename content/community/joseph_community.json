@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "eraId": "era-joseph",
-  "basis": "가상 공동체(docs/16 §5). 등장하는 가족과 사건은 모두 창작이며 이름 없는 주변 사람들이다. 생활사 메모는 출처 확인 전 일반 배경.",
+  "basis": "가상 공동체(docs/16 §5). 등장하는 가족과 사건은 모두 창작이며 이름 없는 주변 사람들이다. 생활사 메모마다 출처(성경 본문 또는 확인한 외부 자료, content/community/sources.json)를 붙였다.",
   "reviewStatus": "draft_not_reviewed",
   "householdKo": "가나안 어느 골짜기의 목자 가족",
   "resources": [
@@ -21,7 +21,8 @@
         { "id": "far", "labelKo": "풀이 많은 먼 언덕으로 옮긴다", "effects": { "flock": 1, "harmony": -1 }, "resultKo": "양 떼는 살이 올랐지만, 먼 길을 오가느라 식구들이 지쳤다." },
         { "id": "share", "labelKo": "이웃 가족과 목초지를 나눠 쓴다", "effects": { "harmony": 1, "flock": -1, "silver": 1 }, "resultKo": "풀이 모자라 양 몇 마리를 이웃에게 팔았지만, 골짜기에 다툼이 없었다." }
       ],
-      "lifeNoteKo": "족장 시대의 목축민은 계절에 따라 물과 풀을 찾아 양 떼를 옮겼다.",
+      "lifeNoteKo": "목축민은 계절에 따라 풀과 물이 있는 곳으로 가축을 옮기곤 했다. 창세기에서도 야곱의 아들들이 양 떼를 몰고 세겜과 도단까지 옮겨 다닌다.",
+      "lifeNoteSources": [{"sourceId": "SRC-BRIT-TRANSHUMANCE"}, {"kind": "biblical_text", "osis": "GEN.37.12-GEN.37.17"}],
       "readAlongKo": "창세기 37:12–17 — 형들이 세겜과 도단에서 양 떼를 친 이야기와 함께 읽어 보세요."
     },
     {
@@ -34,7 +35,8 @@
         { "id": "grain", "labelKo": "곡식으로 바꾼다", "effects": { "grain": 2, "flock": -1 }, "resultKo": "곡식 자루가 늘어 식구들의 저녁이 넉넉해졌다." },
         { "id": "keep", "labelKo": "바꾸지 않고 양 떼를 지킨다", "effects": { "flock": 1 }, "resultKo": "거래는 하지 않았다. 봄에 새끼 양이 태어나 양 떼가 조금 늘었다." }
       ],
-      "lifeNoteKo": "가나안을 지나 애굽으로 가는 교역로가 있었다. 구체적인 교역품과 값은 확인이 필요하다.",
+      "lifeNoteKo": "창세기는 향품을 싣고 길르앗에서 애굽으로 내려가는 상인 행렬을 기록한다. 애굽 중왕국 시대 무덤 벽화에도 서아시아 사람들의 무리가 그려져 있어, 서아시아와 애굽 사이의 왕래를 보여 준다. 구체적인 교역품과 값은 이 자료들로 알 수 없다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.37.25"}, {"sourceId": "SRC-MET-AAMU"}],
       "readAlongKo": "창세기 37:25 — 길르앗에서 애굽으로 향품을 싣고 가던 상인들이 나옵니다."
     },
     {
@@ -47,7 +49,8 @@
         { "id": "sell", "labelKo": "팔아서 은을 모은다", "effects": { "silver": 2, "grain": 1 }, "resultKo": "보리 일부를 팔아 은을 모았다." },
         { "id": "feast", "labelKo": "잔치를 열어 이웃과 나눈다", "effects": { "harmony": 2, "grain": 1 }, "resultKo": "이웃을 불러 수확을 함께 기뻐했다." }
       ],
-      "lifeNoteKo": "곡식은 흙 항아리나 저장 구덩이에 보관했다.",
+      "lifeNoteKo": "가나안 지역에서는 큰 저장 항아리와 저장 구덩이가 발굴되었다. 중기 청동기 궁전 저장실의 항아리 40개(포도주), 그보다 훨씬 후대인 철기 시대 므깃도의 공공 곡식 저장고가 그 예다. 목자 가정이 곡식을 어떻게 저장했는지를 직접 보여 주는 자료는 아니다.",
+      "lifeNoteSources": [{"sourceId": "SRC-PLOS-KABRI"}, {"sourceId": "SRC-UMICH-MEGIDDO"}],
       "readAlongKo": "창세기 41:47–49 — 애굽에서 풍년의 곡식을 모은 이야기와 비교해 보세요."
     },
     {
@@ -65,7 +68,8 @@
         { "id": "sellflock", "labelKo": "양 몇 마리를 판다", "effects": { "flock": -2, "silver": 2 }, "resultKo": "아끼던 양을 팔아 은을 마련했다." },
         { "id": "move", "labelKo": "물이 남은 곳을 찾아 옮긴다", "effects": { "flock": -1, "harmony": -1 }, "resultKo": "샘이 남은 골짜기를 찾아 떠났다. 길에서 양 한 마리를 잃었다." }
       ],
-      "lifeNoteKo": "기근은 목축민과 농부 모두의 생계를 흔들었다.",
+      "lifeNoteKo": "창세기는 아브라함, 이삭, 야곱의 가족이 살던 때에 걸쳐 가나안 땅에 기근이 들었다고 여러 번 기록한다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.12.10"}, {"kind": "biblical_text", "osis": "GEN.26.1"}, {"kind": "biblical_text", "osis": "GEN.41.56-GEN.41.57"}],
       "readAlongKo": "창세기 41:53–57"
     },
     {
@@ -78,7 +82,8 @@
         { "id": "barter", "labelKo": "가축을 끌고 가 곡식과 바꾼다", "effects": { "flock": -2, "grain": 3 }, "resultKo": "양을 몰고 먼 길을 내려가 곡식과 바꿨다." },
         { "id": "endure", "labelKo": "가지 않고 남은 것으로 버틴다", "effects": { "grain": -1 }, "resultKo": "먼 길이 두려워 남았다. 곡식 항아리가 거의 비었다." }
       ],
-      "lifeNoteKo": "기근 때 가나안 사람들이 애굽으로 내려가 곡식을 구하는 일은 창세기 여러 곳에 나온다.",
+      "lifeNoteKo": "기근 때 애굽으로 내려가 양식을 구하는 일은 창세기에 거듭 나온다. 아브람이 애굽으로 내려갔고, 야곱의 아들들도 곡식을 사러 온 여러 땅의 사람들 틈에 섞여 애굽에 갔다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.12.10"}, {"kind": "biblical_text", "osis": "GEN.41.57"}, {"kind": "biblical_text", "osis": "GEN.42.5"}],
       "readAlongKo": "창세기 42:1–5 — 같은 소식을 듣고 야곱의 아들들도 애굽으로 내려갔습니다."
     },
     {
@@ -96,7 +101,8 @@
         { "id": "ownfirst", "labelKo": "우리 식구를 먼저 챙긴다", "effects": { "harmony": -1 }, "resultKo": "곡식을 지켰지만, 이웃과 눈을 마주치기 어려워졌다." },
         { "id": "together", "labelKo": "함께 곡식을 사러 갈 사람을 모은다", "effects": { "silver": -1, "grain": 2, "harmony": 1 }, "resultKo": "두 집이 은을 모아 함께 길을 떠났다." }
       ],
-      "lifeNoteKo": "어려운 시기에 친족과 이웃의 도움은 생존에 중요했다.",
+      "lifeNoteKo": "창세기의 족장 이야기에서는 친족이 위기에 처한 친족을 돕는다. 아브람은 사로잡혀 간 조카 롯을 구하러 나섰다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.14.14-GEN.14.16"}],
       "readAlongKo": "창세기 43:1–10"
     },
     {
@@ -114,7 +120,8 @@
         { "id": "selltools", "labelKo": "털옷과 도구를 판다", "effects": { "silver": 1, "harmony": -1 }, "resultKo": "겨울옷까지 내다 팔았다. 식구들의 얼굴이 어두웠다." },
         { "id": "kin", "labelKo": "친족에게 도움을 청한다", "effects": { "grain": 1 }, "resultKo": "먼 친족이 곡식 한 자루를 보내 주었다." }
       ],
-      "lifeNoteKo": "기근이 길어지면 가축과 재산을 곡식과 바꾸는 일이 생겼다.",
+      "lifeNoteKo": "창세기는 기근이 길어지자 애굽 백성이 은이 떨어진 뒤 가축을 내고 곡식을 받았다고 기록한다. 가나안의 목자 가정에서도 같았는지는 본문이 말하지 않는다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.47.15-GEN.47.17"}],
       "readAlongKo": "창세기 47:13–17 — 애굽 백성이 가축으로 곡식을 산 기록과 비교해 보세요."
     },
     {
@@ -126,7 +133,8 @@
         { "id": "watch", "labelKo": "길가에 나가 멀리서 지켜본다", "effects": { "harmony": 1 }, "resultKo": "가족은 먼발치에서 낯선 애곡 소리를 들었다. 큰 슬픔이 지나가고 있었다." },
         { "id": "work", "labelKo": "하던 일을 계속한다", "effects": {}, "resultKo": "양 떼를 돌보며 소식만 전해 들었다." }
       ],
-      "lifeNoteKo": "고대 근동에서는 여러 날에 걸쳐 장례 애곡을 하는 관습이 있었다.",
+      "lifeNoteKo": "창세기는 야곱의 장례 때 애굽 사람들이 칠십 일 동안 곡했고, 아닷 타작마당에서 칠 일 동안 애곡했다고 기록한다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.50.3"}, {"kind": "biblical_text", "osis": "GEN.50.10"}],
       "readAlongKo": "창세기 50:7–11 — 가나안 사람들이 그 애곡을 보았다는 기록이 있습니다."
     },
     {
@@ -138,7 +146,8 @@
       "choices": [
         { "id": "pass", "labelKo": "다음 세대에게 넘긴다", "effects": { "harmony": 1 }, "resultKo": "가문은 이제 다음 세대의 이야기가 된다." }
       ],
-      "lifeNoteKo": "가문의 기억은 이야기로 다음 세대에 전해졌다.",
+      "lifeNoteKo": "창세기에서 야곱은 손자들을 축복하며 조상의 이름이 그들에게 이어지기를 빌었고, 요셉은 하나님의 약속을 다음 세대에게 남겼다.",
+      "lifeNoteSources": [{"kind": "biblical_text", "osis": "GEN.48.15-GEN.48.16"}, {"kind": "biblical_text", "osis": "GEN.50.24-GEN.50.25"}],
       "readAlongKo": "창세기 50:22–26"
     }
   ]

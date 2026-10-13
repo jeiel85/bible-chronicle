@@ -2,6 +2,7 @@
 import { get, set } from 'idb-keyval';
 import type { Slice } from '../content/joseph';
 import type { StoryState } from '../engine/story';
+import { josephCommunity, startCommunity, type CommunityState } from '../community/community';
 
 const KEY = 'bible-chronicle.joseph.progress';
 export const SCHEMA_VERSION = 1;
@@ -14,6 +15,8 @@ export interface Progress {
   quizAnswers: Record<string, string>;
   /** Historic Moments the player has seen, in order: the player's chronicle (docs/16 §3.3). */
   chronicleMomentIds: string[];
+  /** The nameless household (docs/16 §5). Kept apart from the story state, which never reads it. */
+  community: CommunityState;
 }
 
 /**
@@ -25,6 +28,7 @@ export function fitsContent(slice: Slice, value: unknown): value is Progress {
   const progress = value as Progress;
   // Saves made before the chronicle existed are kept; they simply have an empty chronicle.
   if (!Array.isArray(progress.chronicleMomentIds)) progress.chronicleMomentIds = [];
+  if (!progress.community || !Array.isArray(progress.community.resolutions)) progress.community = startCommunity(josephCommunity);
   if (progress.schemaVersion !== SCHEMA_VERSION || !progress.story) return false;
   const graph = slice.graphById.get(progress.story.episodeId);
   return !!graph && graph.scenes.some(scene => scene.id === progress.story.sceneId)

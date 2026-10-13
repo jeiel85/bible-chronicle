@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react';
 import type { Slice } from '../content/joseph';
 import type { Episode, Scene } from '../content/types';
 import type { StoryState } from '../engine/story';
@@ -15,6 +16,8 @@ interface Props {
   onNextEpisode: () => void;
   onPerspective: (perspective: string) => void;
   onAnswer: (lessonId: string, answerId: string) => void;
+  /** The household's news for this episode, shown at the hub (docs/16 §5). */
+  community?: ReactNode;
 }
 
 /** A content-type chip: text first, never colour alone (docs/04 화면 상세 규칙 1). */
@@ -46,6 +49,7 @@ export function ScenePanel(props: Props) {
             </button>
           ))}
         </div>
+        {props.community}
         <button className="primary" onClick={props.onContinue}>이야기 계속 →</button>
       </section>
     );

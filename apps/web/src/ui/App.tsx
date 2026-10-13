@@ -1,21 +1,26 @@
 import { useEffect, useRef, useState } from 'react';
 import { joseph } from '../content/joseph';
 import { josephMoments, momentAt, type Moment } from '../content/moments';
+import { eventAt, isResolved, josephCommunity, resolve, startCommunity } from '../community/community';
 import {
   currentScene, nextAfter, openBranch, proceedToOutcome, returnToHub, setPerspective, startEpisode, type Next,
 } from '../engine/story';
 import { loadProgress, saveProgress, SCHEMA_VERSION, type Progress } from '../storage/progress';
 import { ChronicleDialog } from './ChronicleDialog';
+import { CommunityCard } from './CommunityCard';
+import { HouseholdDialog } from './HouseholdDialog';
 import { MomentScreen } from './MomentScreen';
 import { ScenePanel } from './ScenePanel';
 import { osisToKo } from './labels';
 
 const slice = joseph;
 const moments = josephMoments;
+const community = josephCommunity;
 const FIRST = slice.episodes[0].id;
 
 const freshProgress = (): Progress => ({
   schemaVersion: SCHEMA_VERSION, story: startEpisode(slice, FIRST), completedEpisodeIds: [], quizAnswers: {}, chronicleMomentIds: [],
+  community: startCommunity(community),
 });
 
 /** A moment on screen. In the story it is recorded on close, then the story goes on (advance: to the next episode). */
@@ -31,6 +36,7 @@ export function App() {
   const [locked, setLocked] = useState<Extract<Next, { kind: 'locked' }> | null>(null);
   const [listOpen, setListOpen] = useState(false);
   const [chronicleOpen, setChronicleOpen] = useState(false);
+  const [householdOpen, setHouseholdOpen] = useState(false);
   const [shown, setShown] = useState<ShownMoment | null>(null);
   const headingRef = useRef<HTMLDivElement>(null);
 
@@ -55,6 +61,7 @@ export function App() {
   const scene = currentScene(slice, story);
   const art = slice.artById.get(episode.illustrationId);
   const index = slice.episodes.indexOf(episode);
+  const communityEvent = eventAt(community, episode.id);
 
   const unrecorded = (base: Progress, episodeId: string, timing: Moment['timing']) => {
     const moment = momentAt(moments, episodeId, timing);
@@ -69,8 +76,11 @@ export function App() {
     if (moment) setShown({ moment, mode: 'story', base: next, advance: false });
   };
 
-  const advance = (base: Progress) => {
-    const episodeId = base.story.episodeId;
+  const advance = (passed: Progress) => {
+    const episodeId = passed.story.episodeId;
+    // Passing an episode without deciding still lets its canonical events reach the household.
+    const event = eventAt(community, episodeId);
+    const base = event && !isResolved(passed.community, event.id) ? { ...passed, community: resolve(passed.community, event, null) } : passed;
     const completed = base.completedEpisodeIds.includes(episodeId) ? base.completedEpisodeIds : [...base.completedEpisodeIds, episodeId];
     const next = nextAfter(slice, episodeId);
     if (next.kind === 'locked') { update({ ...base, completedEpisodeIds: completed }); setLocked(next); return; }
@@ -127,6 +137,7 @@ export function App() {
           <span className="era-name">요셉의 시대</span>
           <span className="era-meta">{osisToKo(episode.passage.osis)} · {index + 1} / {slice.episodes.length}</span>
         </div>
+        <button className="list-toggle chronicle-toggle" onClick={() => setHouseholdOpen(true)}>가문</button>
         <button className="list-toggle chronicle-toggle" onClick={() => setChronicleOpen(true)}>연대기 {recordedMoments.length}</button>
         <progress max={slice.episodes.length} value={progress.completedEpisodeIds.length} aria-label="완료한 이야기 수" />
       </header>
@@ -173,6 +184,10 @@ export function App() {
             onNextEpisode={nextEpisode}
             onPerspective={perspective => update({ ...progress, story: setPerspective(story, perspective) })}
             onAnswer={(lessonId, answerId) => update({ ...progress, quizAnswers: { ...progress.quizAnswers, [lessonId]: answerId } })}
+            community={communityEvent && (
+              <CommunityCard content={community} event={communityEvent} state={progress.community}
+                onChoose={choiceId => update({ ...progress, community: resolve(progress.community, communityEvent, choiceId) })} />
+            )}
           />
         )}
         {storageProblem && <p className="warning" role="alert">진행 저장 실패: {storageProblem}</p>}
@@ -182,6 +197,7 @@ export function App() {
         <ChronicleDialog moments={recordedMoments} onClose={() => setChronicleOpen(false)}
           onOpen={moment => setShown({ moment, mode: 'replay' })} />
       )}
+      {householdOpen && !shown && <HouseholdDialog content={community} state={progress.community} onClose={() => setHouseholdOpen(false)} />}
       {shown && <MomentScreen moment={shown.moment} mode={shown.mode} onClose={closeMoment} />}
     </div>
   );

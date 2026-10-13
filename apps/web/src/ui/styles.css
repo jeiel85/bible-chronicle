@@ -203,3 +203,19 @@ button.primary { background: var(--accent); color: var(--accent-ink); border-col
 .chronicle { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
 .chronicle button { width: 100%; display: flex; gap: .75rem; align-items: center; }
 .chronicle img, .thumb-empty { width: 6rem; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px; flex: none; background: #8a5a2b; }
+
+/* Household (docs/16 §5): set apart from the scripture-based content by a dashed accent border. */
+.community { border: 1px dashed var(--accent); border-radius: 12px; padding: .9rem; margin: 1rem 0; }
+.community h3 { font-size: 1rem; }
+.canon-effect { font-size: .92rem; }
+.effects { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0; margin: .4rem 0; font-size: .85rem; font-variant-numeric: tabular-nums; }
+.effects li { border: 1px solid var(--line); border-radius: 6px; padding: .05rem .45rem; }
+.community-result { background: var(--bg); border-radius: 8px; padding: .6rem .8rem; margin: .5rem 0; }
+.read-along { font-size: .88rem; color: var(--teal); }
+button:disabled { opacity: .55; cursor: not-allowed; }
+.resources { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: .5rem; margin: .75rem 0; }
+.resources div { background: var(--bg); border-radius: 8px; padding: .4rem .6rem; }
+.resources dt { font-size: .82rem; color: var(--muted); }
+.resources dd { margin: 0; display: flex; align-items: center; gap: .4rem; }
+.resources meter { width: 4.5rem; }
+.household-log { padding-left: 1.2rem; }

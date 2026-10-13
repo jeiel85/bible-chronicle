@@ -6,6 +6,8 @@
 - `docs/16_GAME_DIRECTION.md`: 문명형 흐름의 게임 같은 교보재로 방향 확정. 고정 서사와 수렴형 선택, 시대·주인공 교대, 역사적 순간 화면, 네 가지 시점(관찰자/중심인물/주변인물/제3자), 가상 공동체 운영.
 - `docs/17_ART_PIPELINE.md` + `tools/codex_images.py`: 외부 이미지 에이전트(Codex CLI, 막히면 Antigravity)로 일러스트 제작. v1.10 시안은 참고용으로만 사용.
 - `DECISIONS.md` 신설(D-001~D-006).
+- 공동체 대잇기(D-007), 첫 슬라이스 요셉 시대(D-008), 웹 PWA(D-009) 확정. `docs/18_JOSEPH_SLICE_PLAN.md`.
+- `apps/web` 요셉 시대 슬라이스 M1: 창 37–50의 64개 에피소드를 처음부터 끝까지 플레이할 수 있다. 수렴형 엔진 불변식 테스트 70건, 세로/가로/PC 배치, IndexedDB 진행 저장, CI(`web.yml`).
 
 ## v1.1 — 2026-10-12
 

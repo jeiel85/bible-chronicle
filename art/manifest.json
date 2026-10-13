@@ -58,6 +58,48 @@
       "rightsStatus": "usage_terms_check_required"
     },
     {
+      "assetId": "moment_jacob_blessing",
+      "category": "moments",
+      "file": "art/moments/moment_jacob_blessing.webp",
+      "pixelSize": [
+        1672,
+        940
+      ],
+      "subjectId": "moment-jacob-blessing",
+      "kind": "scene",
+      "createdWithAI": true,
+      "generator": "codex",
+      "prompt": "Historic moment, Jacob's last blessing (Genesis 49:28-33), gentle and not frightening: a dim room lit by oil lamps. Very old Jacob from the reference sheet (same face, white beard) lies propped on a simple bed in the center, one hand raised in blessing, eyes calm. EXACTLY TWELVE grown sons, bearded Semitic men in wool garments: six on the left side of the bed and six on the right side, clearly countable, some kneeling, heads bowed. Warm lamplight, quiet grief and reverence. No death imagery, no angels, no halos.",
+      "refs": [
+        "art/characters/char_jacob_elder.webp"
+      ],
+      "reviewNote": "2차: 아들 13명으로 보이던 1차 탈락 후 재생성. 좌6·우6=12명, 축복하는 손, 죽음 묘사 없음. 16:9",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "moment_joseph_descent",
+      "category": "moments",
+      "file": "art/moments/moment_joseph_descent.webp",
+      "pixelSize": [
+        1672,
+        941
+      ],
+      "subjectId": "moment-joseph-descent",
+      "kind": "scene",
+      "createdWithAI": true,
+      "generator": "codex",
+      "prompt": "Historic moment, Jacob's family sets out from Beersheba toward Egypt (Genesis 46:1-7): early morning in the dry northern Negev near Beersheba, a simple stone altar with a thin line of smoke behind them. A long procession heads south across empty dry hills that continue to the horizon: NO river, NO palm groves, NO city or Egyptian buildings in view (Egypt is far beyond sight). Wooden ox-drawn wagons carry women and small children, and very old Jacob from the reference sheet (same face, white beard, dark-brown mantle) sits in the front wagon; his grown sons walk beside, followed by flocks of sheep, goats and cattle and pack donkeys. Hopeful but solemn.",
+      "refs": [
+        "art/characters/char_jacob_elder.webp"
+      ],
+      "reviewNote": "2차: 나일강·애굽 도시가 보이던 1차 탈락 후 재생성. 브엘세바 제단, 소 수레의 노년 야곱, 강·도시 없음. 16:9",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
       "assetId": "moment_joseph_era",
       "category": "moments",
       "file": "art/moments/moment_joseph_era.webp",
@@ -74,6 +116,69 @@
         "art_out/joseph_m2/char_joseph_youth.png"
       ],
       "reviewNote": "요셉 얼굴·옷이 시트와 일치, 형들과의 거리감 표현. 글자·후광 없음",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "moment_joseph_revealed",
+      "category": "moments",
+      "file": "art/moments/moment_joseph_revealed.webp",
+      "pixelSize": [
+        1920,
+        640
+      ],
+      "subjectId": "moment-joseph-revealed",
+      "kind": "scene",
+      "createdWithAI": true,
+      "generator": "codex",
+      "prompt": "Historic moment, Joseph makes himself known to his brothers (Genesis 45:1-15): inside a private lamp-lit Egyptian hall with plain plastered walls (no carved inscriptions), everyone else has been sent out so only the family is present. Joseph from the reference sheet (same face, clean-shaven, white linen, gold collar) weeps openly and embraces his youngest brother Benjamin, a young Semitic man in Canaanite wool clothing. Around them stand EXACTLY TEN older bearded Semitic brothers (five on the left, five on the right) in travel-worn Canaanite wool garments, frozen in shock and fear, some stepping back. Emotional and tender, no weapons, no Egyptian guards.",
+      "refs": [
+        "art/characters/char_joseph_vizier.webp"
+      ],
+      "reviewNote": "형 10명(좌5·우5)+베냐민 확인, 시종 없음, 벽 글씨 없음. 3:1 파노라마",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "moment_joseph_sold",
+      "category": "moments",
+      "file": "art/moments/moment_joseph_sold.webp",
+      "pixelSize": [
+        1920,
+        809
+      ],
+      "subjectId": "moment-joseph-sold",
+      "kind": "scene",
+      "createdWithAI": true,
+      "generator": "codex",
+      "prompt": "Historic moment, Joseph sold to traders (Genesis 37:25-28), shown with restraint for children: dry barren hills near Dothan at dusk. In the foreground an empty stone-rimmed dry pit. In the middle distance a caravan of Ishmaelite traders with several camels loaded with bundles of spices moves away along a road toward the southwest horizon. Walking with the caravan, seen from behind at a distance, is Joseph from the reference sheet: a SEVENTEEN-YEAR-OLD young man of adult height (not a child), same dark curly hair, wearing only a plain undyed under-tunic because his ornamented robe was taken. On a ridge, tiny silhouettes of shepherd brothers watch. No ropes, no chains, no violence, no visible faces, no blood. Mood: loss and a long road.",
+      "refs": [
+        "art/characters/char_joseph_youth.webp"
+      ],
+      "reviewNote": "17세 청년으로 수정됨, 결박·폭력 없음, 형들은 능선 위 원경. 구덩이는 생략됨. 2.37:1 파노라마",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "moment_joseph_vizier",
+      "category": "moments",
+      "file": "art/moments/moment_joseph_vizier.webp",
+      "pixelSize": [
+        1916,
+        821
+      ],
+      "subjectId": "moment-joseph-vizier",
+      "kind": "scene",
+      "createdWithAI": true,
+      "generator": "codex",
+      "prompt": "Historic moment, Joseph made ruler over Egypt (Genesis 41:41-43): a sunlit ancient Egyptian processional road lined with painted columns, the Nile beyond. Seen FROM THE SIDE: a light two-wheeled chariot drawn by two horses moves from left to right, and Joseph from the reference sheet (same face, clean-shaven, white linen, gold collar, signet ring on his hand) stands in it FACING FORWARD in the direction of travel, a driver beside him. Along the road Egyptians bow the knee: kneeling and bowing low with foreheads toward the ground or hands on their knees, in ancient Egyptian manner, NOT Christian praying hands. The pharaoh is NOT shown. Generic Egyptian architecture, no readable hieroglyphs, no specific pharaoh, no royal crown on Joseph.",
+      "refs": [
+        "art/characters/char_joseph_vizier.webp"
+      ],
+      "reviewNote": "측면 구도·전진 방향, 엎드려 절하는 군중, 바로 미등장. 건축은 일반 애굽 양식(특정 왕조 아님). 2.37:1 파노라마",
       "adoptedAt": "2026-10-13",
       "historicalAccuracyStatus": "not_verified",
       "rightsStatus": "usage_terms_check_required"

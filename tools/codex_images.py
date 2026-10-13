@@ -47,7 +47,7 @@ STYLE = ("ORIGINAL painterly 2D historical educational illustration of the ancie
          "no text, no letters, no captions, no watermark, no UI, not a video game screenshot. ")
 KIND = {
     "scene": ("Use the image generation tool to draw ONE image. A cinematic widescreen LANDSCAPE panorama "
-              "(wider than tall) with a low horizon, full-bleed with no border, frame or torn-paper edge; keep the "
+              "in 16:9 aspect ratio (wider than tall, not an ultra-wide strip) with a low horizon, full-bleed with no border, frame or torn-paper edge; keep the "
               "main subject inside the central third so the picture can also be cropped to 4:5 portrait. " + STYLE),
     "sheet": ("Use the image generation tool to draw ONE image. A character reference sheet on a plain flat "
               "parchment background: the same person shown full body front, three-quarter and side, plus a "

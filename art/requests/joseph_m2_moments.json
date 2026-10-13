@@ -37,7 +37,7 @@
     "refs": [
       "art/characters/char_jacob_elder.webp"
     ],
-    "prompt": "Historic moment, Jacob's family goes down to Egypt (Genesis 46:1-7): morning at the edge of the Negev near Beersheba, a simple stone altar with a thin line of smoke behind them. A long procession heads south across dry land: wooden ox-drawn wagons carry women and small children, and very old Jacob from the reference sheet (same face, white beard, dark-brown mantle) sits in the front wagon; his sons walk beside, followed by flocks of sheep, goats and cattle and donkeys with packs. Wide panorama, dusty light, hopeful but solemn."
+    "prompt": "Historic moment, Jacob's family sets out from Beersheba toward Egypt (Genesis 46:1-7): early morning in the dry northern Negev near Beersheba, a simple stone altar with a thin line of smoke behind them. A long procession heads south across empty dry hills that continue to the horizon: NO river, NO palm groves, NO city or Egyptian buildings in view (Egypt is far beyond sight). Wooden ox-drawn wagons carry women and small children, and very old Jacob from the reference sheet (same face, white beard, dark-brown mantle) sits in the front wagon; his grown sons walk beside, followed by flocks of sheep, goats and cattle and pack donkeys. Hopeful but solemn."
   },
   {
     "id": "moment_jacob_blessing",
@@ -45,6 +45,6 @@
     "refs": [
       "art/characters/char_jacob_elder.webp"
     ],
-    "prompt": "Historic moment, Jacob's last blessing (Genesis 49:28-33), gentle and not frightening: a dim room lit by oil lamps. Very old Jacob from the reference sheet (same face, white beard) lies propped on a simple bed, one hand raised in blessing, eyes calm. His twelve grown sons, bearded Semitic men in wool garments, gather closely around the bed, some kneeling, heads bowed, one sitting near his feet. Warm lamplight, quiet grief and reverence. No death imagery, no skulls, no angels, no halos."
+    "prompt": "Historic moment, Jacob's last blessing (Genesis 49:28-33), gentle and not frightening: a dim room lit by oil lamps. Very old Jacob from the reference sheet (same face, white beard) lies propped on a simple bed in the center, one hand raised in blessing, eyes calm. EXACTLY TWELVE grown sons, bearded Semitic men in wool garments: six on the left side of the bed and six on the right side, clearly countable, some kneeling, heads bowed. Warm lamplight, quiet grief and reverence. No death imagery, no angels, no halos."
   }
 ]

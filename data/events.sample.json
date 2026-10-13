@@ -1,0 +1,34 @@
+[
+  {
+    "id":"event-siege-lachish-701", "eventType":"canonical_narrative", "titleKo":"라기스 공성전",
+    "scriptureRefs":[{"bookId":"2KI","chapterStart":18,"chapterEnd":18},{"bookId":"ISA","chapterStart":36,"chapterEnd":36}],
+    "historicalClaimIds":["H-701-LACHISH"],
+    "date":{"kind":"exactYear","yearAstronomical":-700,"displayLabel":"기원전 701년(외부 사료의 공성 연대)","sourceIds":["SRC-BM-LACHISH-GALLERY"]},
+    "placeIds":["place-lachish"], "canonicalOutcomeId":"canon-lachish-besieged",
+    "canonicalNextEventIds":[], "synopsisKo":"산헤립 시대 유다에 대한 앗수르의 공격을 성경의 서술과 라기스 부조를 통해 비교한다.",
+    "representation":"biblical_and_external_sources", "factcheckStatus":"source_checked_scope_limited",
+    "contentStatus":"demonstration_not_publishable",
+    "scenes":[
+      {"id":"scene-lachish-intro", "type":"historical_reconstruction", "imageAssetId":null,
+       "disclosureKo":"아직 장면 미술은 제작되지 않았습니다. 그림이 추가되면 상상 재현임을 명시해야 합니다.",
+       "choices":[
+         {"id":"choice-engineering","labelKo":"공성 전술과 부조 살펴보기","inspectionTags":["siege_technology"],"nextSceneId":"scene-lachish-context"},
+         {"id":"choice-civilians","labelKo":"전쟁과 주민의 삶 살펴보기","inspectionTags":["captivity_context"],"nextSceneId":"scene-lachish-context"},
+         {"id":"choice-geography","labelKo":"유다의 도시 관계 살펴보기","inspectionTags":["geography"],"nextSceneId":"scene-lachish-context"}
+       ]
+      },
+      {"id":"scene-lachish-context", "type":"evidence_comparison", "imageAssetId":null,
+       "disclosureKo":"역사·성경 기록이 어디까지 서로 대조되는지 확인합니다.","choices":[]}
+    ]
+  },
+  {
+    "id":"event-597-jerusalem", "eventType":"canonical_narrative", "titleKo":"바벨론의 예루살렘 원정",
+    "scriptureRefs":[{"bookId":"2KI","chapterStart":24,"chapterEnd":24}],
+    "historicalClaimIds":["H-597-JERUSALEM"],
+    "date":{"kind":"exactYear","yearAstronomical":-596,"displayLabel":"기원전 597년(외부 연대기 기록)","sourceIds":["SRC-BM-BABYLON-CHRONICLE"]},
+    "placeIds":["place-jerusalem"], "canonicalOutcomeId":"canon-jerusalem-597-siege",
+    "canonicalNextEventIds":[], "synopsisKo":"열왕기하 24장과 바벨론 연대기에 언급된 예루살렘 원정의 관계를 확인한다.",
+    "representation":"biblical_and_external_sources", "factcheckStatus":"source_checked_scope_limited",
+    "contentStatus":"demonstration_not_publishable", "scenes":[]
+  }
+]

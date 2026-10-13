@@ -1,0 +1,4596 @@
+[
+  {
+    "id": "ep-gen-064",
+    "stageId": "S01C",
+    "titleKo": "이삭에게 이어진 약속",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 6
+      },
+      "osis": "GEN.26.1-GEN.26.6"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "기근에 이삭이 그랄로 감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "애굽으로 내려가지 말라는 지시",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "아브라함에게 주어진 약속이 이삭에게 재확인됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "기근에 이삭이 그랄로 감 → 애굽으로 내려가지 말라는 지시 → 아브라함에게 주어진 약속이 이삭에게 재확인됨",
+    "knowledgeObjectiveKo": "기근 때 이삭에게 내려가지 말라고 한 곳은?",
+    "canonicalOutcomeId": "canon-gen-064",
+    "canonicalNextId": "ep-gen-065",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "abimelech"
+    ],
+    "placeIds": [
+      "gerar",
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-064"
+    ],
+    "illustrationId": "art-gen-064",
+    "lessonId": "lesson-gen-064",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-065",
+    "stageId": "S01C",
+    "titleKo": "리브가를 누이라 말하다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 11
+      },
+      "osis": "GEN.26.7-GEN.26.11"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이삭이 리브가를 누이라고 소개함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "아비멜렉이 둘의 관계를 알아차림",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "왕이 부부를 해치지 말라고 명함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "이삭이 리브가를 누이라고 소개함 → 아비멜렉이 둘의 관계를 알아차림 → 왕이 부부를 해치지 말라고 명함",
+    "knowledgeObjectiveKo": "아비멜렉이 보호를 명한 두 사람은?",
+    "canonicalOutcomeId": "canon-gen-065",
+    "canonicalNextId": "ep-gen-066",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "rebekah",
+      "abimelech"
+    ],
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-065"
+    ],
+    "illustrationId": "art-gen-065",
+    "lessonId": "lesson-gen-065",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-066",
+    "stageId": "S01C",
+    "titleKo": "풍요와 시기",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 17
+      },
+      "osis": "GEN.26.12-GEN.26.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이삭이 농사에서 풍성한 소출을 얻음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "우물들이 메워지고 다툼이 생김",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "이삭이 그랄 골짜기로 옮겨 감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "이삭이 농사에서 풍성한 소출을 얻음 → 우물들이 메워지고 다툼이 생김 → 이삭이 그랄 골짜기로 옮겨 감",
+    "knowledgeObjectiveKo": "이삭이 떠나게 된 갈등의 주요 자원은?",
+    "canonicalOutcomeId": "canon-gen-066",
+    "canonicalNextId": "ep-gen-067",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "abimelech"
+    ],
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-066"
+    ],
+    "illustrationId": "art-gen-066",
+    "lessonId": "lesson-gen-066",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-067",
+    "stageId": "S01C",
+    "titleKo": "에섹·싯나·르호봇",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 22
+      },
+      "osis": "GEN.26.18-GEN.26.22"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아버지 때의 우물을 다시 팜",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "에섹과 싯나의 다툼을 겪음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "르호봇의 우물에서는 다투지 않음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "아버지 때의 우물을 다시 팜 → 에섹과 싯나의 다툼을 겪음 → 르호봇의 우물에서는 다투지 않음",
+    "knowledgeObjectiveKo": "다툼이 없었던 세 번째 우물의 이름은?",
+    "canonicalOutcomeId": "canon-gen-067",
+    "canonicalNextId": "ep-gen-068",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac"
+    ],
+    "placeIds": [
+      "gerar",
+      "rehoboth"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-067"
+    ],
+    "illustrationId": "art-gen-067",
+    "lessonId": "lesson-gen-067",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-068",
+    "stageId": "S01C",
+    "titleKo": "브엘세바의 제단",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 23
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 25
+      },
+      "osis": "GEN.26.23-GEN.26.25"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이삭이 브엘세바로 감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "하나님의 약속을 다시 들음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "제단을 쌓고 장막을 침",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "이삭이 브엘세바로 감 → 하나님의 약속을 다시 들음 → 제단을 쌓고 장막을 침",
+    "knowledgeObjectiveKo": "이삭이 제단을 쌓은 곳은?",
+    "canonicalOutcomeId": "canon-gen-068",
+    "canonicalNextId": "ep-gen-069",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac"
+    ],
+    "placeIds": [
+      "beer_sheba"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-068"
+    ],
+    "illustrationId": "art-gen-068",
+    "lessonId": "lesson-gen-068",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-069",
+    "stageId": "S01C",
+    "titleKo": "아비멜렉과 언약",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 33
+      },
+      "osis": "GEN.26.26-GEN.26.33"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아비멜렉 일행이 이삭을 찾아옴",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "서로 해치지 않기로 약속하고 잔치를 엶",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "우물의 물을 얻어 이름을 붙임",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "아비멜렉 일행이 이삭을 찾아옴 → 서로 해치지 않기로 약속하고 잔치를 엶 → 우물의 물을 얻어 이름을 붙임",
+    "knowledgeObjectiveKo": "이삭과 아비멜렉은 무엇을 맺었나?",
+    "canonicalOutcomeId": "canon-gen-069",
+    "canonicalNextId": "ep-gen-070",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "abimelech"
+    ],
+    "placeIds": [
+      "beer_sheba",
+      "gerar"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-069"
+    ],
+    "illustrationId": "art-gen-069",
+    "lessonId": "lesson-gen-069",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-070",
+    "stageId": "S01C",
+    "titleKo": "에서의 혼인",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 34
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 35
+      },
+      "osis": "GEN.26.34-GEN.26.35"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에서가 헷 족속 여인 둘과 혼인함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "이 일로 이삭과 리브가의 마음이 근심하게 됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "에서가 헷 족속 여인 둘과 혼인함 → 이 일로 이삭과 리브가의 마음이 근심하게 됨",
+    "knowledgeObjectiveKo": "에서의 혼인을 두고 근심한 사람들은?",
+    "canonicalOutcomeId": "canon-gen-070",
+    "canonicalNextId": "ep-gen-071",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "isaac",
+      "rebekah"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-070"
+    ],
+    "illustrationId": "art-gen-070",
+    "lessonId": "lesson-gen-070",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-071",
+    "stageId": "S01C",
+    "titleKo": "맏아들을 부른 이삭",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 4
+      },
+      "osis": "GEN.27.1-GEN.27.4"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "늙은 이삭의 시력이 약해짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "에서에게 사냥해 음식을 가져오라고 말함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "축복을 준비함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "늙은 이삭의 시력이 약해짐 → 에서에게 사냥해 음식을 가져오라고 말함 → 축복을 준비함",
+    "knowledgeObjectiveKo": "이삭이 먼저 불러 음식을 부탁한 아들은?",
+    "canonicalOutcomeId": "canon-gen-071",
+    "canonicalNextId": "ep-gen-072",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "esau"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-071"
+    ],
+    "illustrationId": "art-gen-071",
+    "lessonId": "lesson-gen-071",
+    "sensitivity": [
+      "family_deception"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-072",
+    "stageId": "S01C",
+    "titleKo": "리브가와 야곱의 계획",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 5
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 17
+      },
+      "osis": "GEN.27.5-GEN.27.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "리브가가 말을 엿듣고 야곱에게 알림",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "음식을 준비하고 에서의 옷과 염소 가죽을 사용함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 아버지에게 다가감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "리브가가 말을 엿듣고 야곱에게 알림 → 음식을 준비하고 에서의 옷과 염소 가죽을 사용함 → 야곱이 아버지에게 다가감",
+    "knowledgeObjectiveKo": "리브가가 야곱의 손과 목에 씌운 것은?",
+    "canonicalOutcomeId": "canon-gen-072",
+    "canonicalNextId": "ep-gen-073",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "rebekah",
+      "jacob",
+      "isaac"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-072"
+    ],
+    "illustrationId": "art-gen-072",
+    "lessonId": "lesson-gen-072",
+    "sensitivity": [
+      "family_deception"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-073",
+    "stageId": "S01C",
+    "titleKo": "야곱이 받은 축복",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 29
+      },
+      "osis": "GEN.27.18-GEN.27.29"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 자신을 에서라고 말함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "이삭이 목소리와 손을 확인함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "마침내 야곱에게 축복함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 자신을 에서라고 말함 → 이삭이 목소리와 손을 확인함 → 마침내 야곱에게 축복함",
+    "knowledgeObjectiveKo": "이삭이 야곱의 정체를 의심한 단서는?",
+    "canonicalOutcomeId": "canon-gen-073",
+    "canonicalNextId": "ep-gen-074",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "isaac"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-073"
+    ],
+    "illustrationId": "art-gen-073",
+    "lessonId": "lesson-gen-073",
+    "sensitivity": [
+      "family_deception"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-074",
+    "stageId": "S01C",
+    "titleKo": "에서의 눈물",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 30
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 40
+      },
+      "osis": "GEN.27.30-GEN.27.40"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에서가 사냥에서 돌아옴",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "이미 축복이 이루어졌음을 알게 됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "이삭이 에서에게도 장래에 관한 말을 전함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "에서가 사냥에서 돌아옴 → 이미 축복이 이루어졌음을 알게 됨 → 이삭이 에서에게도 장래에 관한 말을 전함",
+    "knowledgeObjectiveKo": "이미 축복을 받은 사람은?",
+    "canonicalOutcomeId": "canon-gen-074",
+    "canonicalNextId": "ep-gen-075",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "isaac",
+      "jacob"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-074"
+    ],
+    "illustrationId": "art-gen-074",
+    "lessonId": "lesson-gen-074",
+    "sensitivity": [
+      "family_deception"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-075",
+    "stageId": "S01C",
+    "titleKo": "형제 사이의 위기",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 41
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 46
+      },
+      "osis": "GEN.27.41-GEN.27.46"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에서가 야곱에게 분노함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "리브가가 위험을 알고 피하도록 계획함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "혼인 문제를 들어 이삭에게 의견을 말함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "에서가 야곱에게 분노함 → 리브가가 위험을 알고 피하도록 계획함 → 혼인 문제를 들어 이삭에게 의견을 말함",
+    "knowledgeObjectiveKo": "리브가가 야곱에게 피하도록 생각한 곳은?",
+    "canonicalOutcomeId": "canon-gen-075",
+    "canonicalNextId": "ep-gen-076",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "jacob",
+      "rebekah",
+      "isaac"
+    ],
+    "placeIds": [
+      "canaan",
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-075"
+    ],
+    "illustrationId": "art-gen-075",
+    "lessonId": "lesson-gen-075",
+    "sensitivity": [
+      "family_deception"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-076",
+    "stageId": "S01C",
+    "titleKo": "고향을 떠나는 야곱",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 9
+      },
+      "osis": "GEN.28.1-GEN.28.9"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이삭이 야곱을 축복하여 외가로 보냄",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "가나안 여인과 혼인하지 말라고 함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "에서가 이스마엘 가문의 여인과도 혼인함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "이삭이 야곱을 축복하여 외가로 보냄 → 가나안 여인과 혼인하지 말라고 함 → 에서가 이스마엘 가문의 여인과도 혼인함",
+    "knowledgeObjectiveKo": "야곱이 향하는 외가 친족의 지역은?",
+    "canonicalOutcomeId": "canon-gen-076",
+    "canonicalNextId": "ep-gen-077",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "isaac",
+      "esau"
+    ],
+    "placeIds": [
+      "beer_sheba",
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-076"
+    ],
+    "illustrationId": "art-gen-076",
+    "lessonId": "lesson-gen-076",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-077",
+    "stageId": "S01C",
+    "titleKo": "벧엘의 꿈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 17
+      },
+      "osis": "GEN.28.10-GEN.28.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 브엘세바에서 하란으로 길을 감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "잠들어 하늘에 닿은 사다리를 꿈에서 봄",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "하나님이 약속하시고 야곱이 경외함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 브엘세바에서 하란으로 길을 감 → 잠들어 하늘에 닿은 사다리를 꿈에서 봄 → 하나님이 약속하시고 야곱이 경외함",
+    "knowledgeObjectiveKo": "꿈에서 땅과 하늘을 잇는 것으로 등장한 것은?",
+    "canonicalOutcomeId": "canon-gen-077",
+    "canonicalNextId": "ep-gen-078",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob"
+    ],
+    "placeIds": [
+      "beer_sheba",
+      "bethel",
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-077"
+    ],
+    "illustrationId": "art-gen-077",
+    "lessonId": "lesson-gen-077",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-078",
+    "stageId": "S01C",
+    "titleKo": "벧엘의 기둥과 서원",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 22
+      },
+      "osis": "GEN.28.18-GEN.28.22"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 아침에 돌을 세우고 기름을 부음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "그곳을 벧엘이라고 부름",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "하나님 앞에서 서원을 함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 아침에 돌을 세우고 기름을 부음 → 그곳을 벧엘이라고 부름 → 하나님 앞에서 서원을 함",
+    "knowledgeObjectiveKo": "야곱이 그곳에 붙인 이름은?",
+    "canonicalOutcomeId": "canon-gen-078",
+    "canonicalNextId": "ep-gen-079",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob"
+    ],
+    "placeIds": [
+      "bethel"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-078"
+    ],
+    "illustrationId": "art-gen-078",
+    "lessonId": "lesson-gen-078",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-079",
+    "stageId": "S01C",
+    "titleKo": "우물가의 라헬",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 14
+      },
+      "osis": "GEN.29.1-GEN.29.14"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 동방 사람들의 땅에 도착함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "우물에서 라헬을 만나고 돌을 옮김",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "라반의 집에서 환영받음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 동방 사람들의 땅에 도착함 → 우물에서 라헬을 만나고 돌을 옮김 → 라반의 집에서 환영받음",
+    "knowledgeObjectiveKo": "야곱이 우물에서 처음 만난 라반의 딸은?",
+    "canonicalOutcomeId": "canon-gen-079",
+    "canonicalNextId": "ep-gen-080",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "rachel",
+      "laban"
+    ],
+    "placeIds": [
+      "haran",
+      "paddan_aram"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-079"
+    ],
+    "illustrationId": "art-gen-079",
+    "lessonId": "lesson-gen-079",
+    "sensitivity": [
+      "coerced_marriage_and_servitude"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-080",
+    "stageId": "S01C",
+    "titleKo": "칠 년의 수고",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 20
+      },
+      "osis": "GEN.29.15-GEN.29.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "라반이 임금에 대해 물음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 라헬을 위해 칠 년을 일하기로 함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "긴 시간이 사랑으로 짧게 여겨졌다고 서술됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "라반이 임금에 대해 물음 → 야곱이 라헬을 위해 칠 년을 일하기로 함 → 긴 시간이 사랑으로 짧게 여겨졌다고 서술됨",
+    "knowledgeObjectiveKo": "야곱이 처음 약속한 일한 기간은?",
+    "canonicalOutcomeId": "canon-gen-080",
+    "canonicalNextId": "ep-gen-081",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "laban",
+      "rachel"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-080"
+    ],
+    "illustrationId": "art-gen-080",
+    "lessonId": "lesson-gen-080",
+    "sensitivity": [
+      "coerced_marriage_and_servitude"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-081",
+    "stageId": "S01C",
+    "titleKo": "혼인의 속임과 두 아내",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 30
+      },
+      "osis": "GEN.29.21-GEN.29.30"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "라반이 잔치를 열고 레아를 들여보냄",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 속임을 알게 됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "라헬과도 혼인하고 추가 일곱 해를 섬김",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "라반이 잔치를 열고 레아를 들여보냄 → 야곱이 속임을 알게 됨 → 라헬과도 혼인하고 추가 일곱 해를 섬김",
+    "knowledgeObjectiveKo": "라반이 첫 혼인에서 야곱에게 준 딸은?",
+    "canonicalOutcomeId": "canon-gen-081",
+    "canonicalNextId": "ep-gen-082",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "laban",
+      "leah",
+      "rachel"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-081"
+    ],
+    "illustrationId": "art-gen-081",
+    "lessonId": "lesson-gen-081",
+    "sensitivity": [
+      "coerced_marriage_and_servitude"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-082",
+    "stageId": "S01C",
+    "titleKo": "레아의 네 아들",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 31
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 35
+      },
+      "osis": "GEN.29.31-GEN.29.35"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "레아가 사랑받지 못하는 상황이 서술됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "르우벤·시므온·레위·유다가 태어남",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "이름에 얽힌 고백이 기록됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "레아가 사랑받지 못하는 상황이 서술됨 → 르우벤·시므온·레위·유다가 태어남 → 이름에 얽힌 고백이 기록됨",
+    "knowledgeObjectiveKo": "레아가 첫째로 낳은 아들은?",
+    "canonicalOutcomeId": "canon-gen-082",
+    "canonicalNextId": "ep-gen-083",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "leah",
+      "jacob"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-082"
+    ],
+    "illustrationId": "art-gen-082",
+    "lessonId": "lesson-gen-082",
+    "sensitivity": [
+      "coerced_marriage_and_servitude"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-083",
+    "stageId": "S01C",
+    "titleKo": "라헬과 빌하",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 8
+      },
+      "osis": "GEN.30.1-GEN.30.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "라헬이 자녀 문제로 괴로워함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "라헬의 종 빌하가 단과 납달리를 낳음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "가족 관계의 긴장이 이어짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "라헬이 자녀 문제로 괴로워함 → 라헬의 종 빌하가 단과 납달리를 낳음 → 가족 관계의 긴장이 이어짐",
+    "knowledgeObjectiveKo": "빌하를 통해 태어난 두 아들은?",
+    "canonicalOutcomeId": "canon-gen-083",
+    "canonicalNextId": "ep-gen-084",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "rachel",
+      "jacob",
+      "bilhah"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-083"
+    ],
+    "illustrationId": "art-gen-083",
+    "lessonId": "lesson-gen-083",
+    "sensitivity": [
+      "family_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-084",
+    "stageId": "S01C",
+    "titleKo": "레아와 실바",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 13
+      },
+      "osis": "GEN.30.9-GEN.30.13"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "레아가 자신의 종 실바를 야곱에게 줌",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "실바가 갓과 아셀을 낳음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "가족 계보가 확장됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "레아가 자신의 종 실바를 야곱에게 줌 → 실바가 갓과 아셀을 낳음 → 가족 계보가 확장됨",
+    "knowledgeObjectiveKo": "실바의 두 아들은?",
+    "canonicalOutcomeId": "canon-gen-084",
+    "canonicalNextId": "ep-gen-085",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "leah",
+      "zilpah",
+      "jacob"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-084"
+    ],
+    "illustrationId": "art-gen-084",
+    "lessonId": "lesson-gen-084",
+    "sensitivity": [
+      "family_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-085",
+    "stageId": "S01C",
+    "titleKo": "합환채와 가족의 확장",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 21
+      },
+      "osis": "GEN.30.14-GEN.30.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "르우벤이 들에서 합환채를 구함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "레아와 라헬 사이에 합환채가 등장함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "잇사갈·스불론과 딸 디나가 태어남",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "르우벤이 들에서 합환채를 구함 → 레아와 라헬 사이에 합환채가 등장함 → 잇사갈·스불론과 딸 디나가 태어남",
+    "knowledgeObjectiveKo": "레아의 딸로 이름이 언급되는 사람은?",
+    "canonicalOutcomeId": "canon-gen-085",
+    "canonicalNextId": "ep-gen-086",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "leah",
+      "rachel",
+      "reuben",
+      "dinah"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-085"
+    ],
+    "illustrationId": "art-gen-085",
+    "lessonId": "lesson-gen-085",
+    "sensitivity": [
+      "family_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-086",
+    "stageId": "S01C",
+    "titleKo": "요셉의 탄생",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 24
+      },
+      "osis": "GEN.30.22-GEN.30.24"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "하나님이 라헬을 기억하셨다고 본문이 전함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "라헬이 아들 요셉을 낳음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "또 다른 아들을 바라는 이름 풀이가 이어짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "하나님이 라헬을 기억하셨다고 본문이 전함 → 라헬이 아들 요셉을 낳음 → 또 다른 아들을 바라는 이름 풀이가 이어짐",
+    "knowledgeObjectiveKo": "라헬이 이때 낳은 아들은?",
+    "canonicalOutcomeId": "canon-gen-086",
+    "canonicalNextId": "ep-gen-087",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "rachel",
+      "joseph",
+      "jacob"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-086"
+    ],
+    "illustrationId": "art-gen-086",
+    "lessonId": "lesson-gen-086",
+    "sensitivity": [
+      "family_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-087",
+    "stageId": "S01C",
+    "titleKo": "고향으로 돌아갈 때",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 25
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 36
+      },
+      "osis": "GEN.30.25-GEN.30.36"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 태어난 뒤 야곱이 떠나기를 요청함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "라반과 가축 보수에 관해 협의함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "양 떼와 염소 떼를 나누어 관리함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 태어난 뒤 야곱이 떠나기를 요청함 → 라반과 가축 보수에 관해 협의함 → 양 떼와 염소 떼를 나누어 관리함",
+    "knowledgeObjectiveKo": "이 단락에서 야곱이 라반에게 요구한 것은?",
+    "canonicalOutcomeId": "canon-gen-087",
+    "canonicalNextId": "ep-gen-088",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "laban",
+      "joseph"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-087"
+    ],
+    "illustrationId": "art-gen-087",
+    "lessonId": "lesson-gen-087",
+    "sensitivity": [
+      "family_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-088",
+    "stageId": "S01C",
+    "titleKo": "가축 번식 이야기",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 37
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 43
+      },
+      "osis": "GEN.30.37-GEN.30.43"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 나뭇가지 껍질을 벗겨 물구유에 둠",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "가축 떼가 늘어나고 야곱의 재산이 풍부해짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "오늘날 생물학적 번식 원리로 단정하지 않음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 나뭇가지 껍질을 벗겨 물구유에 둠 → 가축 떼가 늘어나고 야곱의 재산이 풍부해짐 → 오늘날 생물학적 번식 원리로 단정하지 않음",
+    "knowledgeObjectiveKo": "나뭇가지를 두었다고 기록된 장소는?",
+    "canonicalOutcomeId": "canon-gen-088",
+    "canonicalNextId": "ep-gen-089",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "laban"
+    ],
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-088"
+    ],
+    "illustrationId": "art-gen-088",
+    "lessonId": "lesson-gen-088",
+    "sensitivity": [
+      "family_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-089",
+    "stageId": "S01C",
+    "titleKo": "떠날 결심",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 16
+      },
+      "osis": "GEN.31.1-GEN.31.16"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "라반 아들들의 말과 라반의 태도가 달라짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "하나님이 야곱에게 돌아가라고 말씀하심",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "라헬과 레아가 함께 떠나는 데 동의함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "라반 아들들의 말과 라반의 태도가 달라짐 → 하나님이 야곱에게 돌아가라고 말씀하심 → 라헬과 레아가 함께 떠나는 데 동의함",
+    "knowledgeObjectiveKo": "야곱이 돌아가려는 땅은?",
+    "canonicalOutcomeId": "canon-gen-089",
+    "canonicalNextId": "ep-gen-090",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "leah",
+      "rachel",
+      "laban"
+    ],
+    "placeIds": [
+      "haran",
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-089"
+    ],
+    "illustrationId": "art-gen-089",
+    "lessonId": "lesson-gen-089",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-090",
+    "stageId": "S01C",
+    "titleKo": "라반의 집을 떠나다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 21
+      },
+      "osis": "GEN.31.17-GEN.31.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 가족과 가축을 이끌고 출발함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "라헬이 드라빔을 가져감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 라반에게 알리지 않고 길을 떠남",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 가족과 가축을 이끌고 출발함 → 라헬이 드라빔을 가져감 → 야곱이 라반에게 알리지 않고 길을 떠남",
+    "knowledgeObjectiveKo": "라헬이 가져간 라반의 물건은?",
+    "canonicalOutcomeId": "canon-gen-090",
+    "canonicalNextId": "ep-gen-091",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "rachel",
+      "leah",
+      "laban"
+    ],
+    "placeIds": [
+      "haran",
+      "gilead"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-090"
+    ],
+    "illustrationId": "art-gen-090",
+    "lessonId": "lesson-gen-090",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-091",
+    "stageId": "S01C",
+    "titleKo": "추격과 수색",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 35
+      },
+      "osis": "GEN.31.22-GEN.31.35"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "라반이 뒤늦게 소식을 듣고 추격함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "하나님이 꿈에서 라반에게 경고하심",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "드라빔을 찾지 못하고 수색이 끝남",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "라반이 뒤늦게 소식을 듣고 추격함 → 하나님이 꿈에서 라반에게 경고하심 → 드라빔을 찾지 못하고 수색이 끝남",
+    "knowledgeObjectiveKo": "라반이 수색한 물건은?",
+    "canonicalOutcomeId": "canon-gen-091",
+    "canonicalNextId": "ep-gen-092",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "laban",
+      "jacob",
+      "rachel"
+    ],
+    "placeIds": [
+      "gilead"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-091"
+    ],
+    "illustrationId": "art-gen-091",
+    "lessonId": "lesson-gen-091",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-092",
+    "stageId": "S01C",
+    "titleKo": "야곱의 항변",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 36
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 42
+      },
+      "osis": "GEN.31.36-GEN.31.42"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 수색과 오랜 노동에 항변함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "사십이 아니라 스무 해를 섬긴 일을 언급함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "공정한 보상과 보호를 이야기함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 수색과 오랜 노동에 항변함 → 사십이 아니라 스무 해를 섬긴 일을 언급함 → 공정한 보상과 보호를 이야기함",
+    "knowledgeObjectiveKo": "야곱이 라반에게 섬겼다고 말한 기간은?",
+    "canonicalOutcomeId": "canon-gen-092",
+    "canonicalNextId": "ep-gen-093",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "laban"
+    ],
+    "placeIds": [
+      "gilead"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-092"
+    ],
+    "illustrationId": "art-gen-092",
+    "lessonId": "lesson-gen-092",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-093",
+    "stageId": "S01C",
+    "titleKo": "언약의 돌무더기",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 43
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 55
+      },
+      "osis": "GEN.31.43-GEN.31.55"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱과 라반이 돌무더기를 증거로 삼음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "서로 넘어가 해치지 않기로 맹세함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "라반이 가족과 작별함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱과 라반이 돌무더기를 증거로 삼음 → 서로 넘어가 해치지 않기로 맹세함 → 라반이 가족과 작별함",
+    "knowledgeObjectiveKo": "야곱과 라반의 합의를 상징한 것은?",
+    "canonicalOutcomeId": "canon-gen-093",
+    "canonicalNextId": "ep-gen-094",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "laban",
+      "rachel",
+      "leah"
+    ],
+    "placeIds": [
+      "gilead"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-093"
+    ],
+    "illustrationId": "art-gen-093",
+    "lessonId": "lesson-gen-093",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-094",
+    "stageId": "S01C",
+    "titleKo": "마하나임과 형 에서의 소식",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 8
+      },
+      "osis": "GEN.32.1-GEN.32.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "하나님의 사자들을 만났다고 본문이 기록함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 그곳을 마하나임이라 부름",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "에서가 사백 명과 온다는 말을 듣고 두려워함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "하나님의 사자들을 만났다고 본문이 기록함 → 야곱이 그곳을 마하나임이라 부름 → 에서가 사백 명과 온다는 말을 듣고 두려워함",
+    "knowledgeObjectiveKo": "에서와 함께 온다고 전해진 사람은 몇 명인가?",
+    "canonicalOutcomeId": "canon-gen-094",
+    "canonicalNextId": "ep-gen-095",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "esau"
+    ],
+    "placeIds": [
+      "mahanaim",
+      "seir"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-094"
+    ],
+    "illustrationId": "art-gen-094",
+    "lessonId": "lesson-gen-094",
+    "sensitivity": [
+      "physical_struggle"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-095",
+    "stageId": "S01C",
+    "titleKo": "두려움 속의 기도",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 12
+      },
+      "osis": "GEN.32.9-GEN.32.12"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 아브라함과 이삭의 하나님을 부름",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "자신의 부족함을 고백함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "에서에게서 구해 달라고 기도함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 아브라함과 이삭의 하나님을 부름 → 자신의 부족함을 고백함 → 에서에게서 구해 달라고 기도함",
+    "knowledgeObjectiveKo": "야곱이 기도 중 두려워하는 인물은?",
+    "canonicalOutcomeId": "canon-gen-095",
+    "canonicalNextId": "ep-gen-096",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "esau"
+    ],
+    "placeIds": [
+      "mahanaim"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-095"
+    ],
+    "illustrationId": "art-gen-095",
+    "lessonId": "lesson-gen-095",
+    "sensitivity": [
+      "physical_struggle"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-096",
+    "stageId": "S01C",
+    "titleKo": "화해를 위한 예물",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 21
+      },
+      "osis": "GEN.32.13-GEN.32.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 가축을 나누어 예물을 준비함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "여러 떼로 보내면서 화해를 도모함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "자신은 밤에 머무름",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 가축을 나누어 예물을 준비함 → 여러 떼로 보내면서 화해를 도모함 → 자신은 밤에 머무름",
+    "knowledgeObjectiveKo": "야곱이 먼저 보낸 것은?",
+    "canonicalOutcomeId": "canon-gen-096",
+    "canonicalNextId": "ep-gen-097",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "esau"
+    ],
+    "placeIds": [
+      "mahanaim",
+      "jabbok"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-096"
+    ],
+    "illustrationId": "art-gen-096",
+    "lessonId": "lesson-gen-096",
+    "sensitivity": [
+      "physical_struggle"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-097",
+    "stageId": "S01C",
+    "titleKo": "얍복강의 밤과 이스라엘",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 32
+      },
+      "osis": "GEN.32.22-GEN.32.32"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 가족을 얍복 나루 건너편으로 보냄",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "밤새 한 사람과 씨름했다고 본문이 기록함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "이스라엘이라는 이름을 받고 브니엘이라 이름 붙임",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 가족을 얍복 나루 건너편으로 보냄 → 밤새 한 사람과 씨름했다고 본문이 기록함 → 이스라엘이라는 이름을 받고 브니엘이라 이름 붙임",
+    "knowledgeObjectiveKo": "야곱이 새로 받은 이름은?",
+    "canonicalOutcomeId": "canon-gen-097",
+    "canonicalNextId": "ep-gen-098",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob"
+    ],
+    "placeIds": [
+      "jabbok",
+      "peniel"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-097"
+    ],
+    "illustrationId": "art-gen-097",
+    "lessonId": "lesson-gen-097",
+    "sensitivity": [
+      "physical_struggle"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-098",
+    "stageId": "S01C",
+    "titleKo": "형제의 재회",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 11
+      },
+      "osis": "GEN.33.1-GEN.33.11"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 에서와 그의 사람들을 봄",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "에서가 달려와 야곱을 안고 함께 욺",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 예물을 권함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 에서와 그의 사람들을 봄 → 에서가 달려와 야곱을 안고 함께 욺 → 야곱이 예물을 권함",
+    "knowledgeObjectiveKo": "야곱과 에서의 재회에서 일어난 행동은?",
+    "canonicalOutcomeId": "canon-gen-098",
+    "canonicalNextId": "ep-gen-099",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "esau",
+      "leah",
+      "rachel"
+    ],
+    "placeIds": [
+      "seir",
+      "jabbok"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-098"
+    ],
+    "illustrationId": "art-gen-098",
+    "lessonId": "lesson-gen-098",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-099",
+    "stageId": "S01C",
+    "titleKo": "에돔으로 가는 길과 숙곳",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 17
+      },
+      "osis": "GEN.33.12-GEN.33.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에서가 앞서 가자고 권함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱은 가축과 어린이를 이유로 천천히 가겠다고 함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "에서는 세일로 가고 야곱은 숙곳에 머묾",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "에서가 앞서 가자고 권함 → 야곱은 가축과 어린이를 이유로 천천히 가겠다고 함 → 에서는 세일로 가고 야곱은 숙곳에 머묾",
+    "knowledgeObjectiveKo": "야곱이 머무르며 초막을 지은 곳은?",
+    "canonicalOutcomeId": "canon-gen-099",
+    "canonicalNextId": "ep-gen-100",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "esau"
+    ],
+    "placeIds": [
+      "seir",
+      "succoth"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-099"
+    ],
+    "illustrationId": "art-gen-099",
+    "lessonId": "lesson-gen-099",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-100",
+    "stageId": "S01C",
+    "titleKo": "세겜에 자리 잡다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 20
+      },
+      "osis": "GEN.33.18-GEN.33.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 세겜 성 가까이에 이르렀다고 서술됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "그곳에서 땅을 사고 장막을 침",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "제단을 쌓고 이름을 붙임",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 세겜 성 가까이에 이르렀다고 서술됨 → 그곳에서 땅을 사고 장막을 침 → 제단을 쌓고 이름을 붙임",
+    "knowledgeObjectiveKo": "야곱이 땅을 사서 장막을 친 성은?",
+    "canonicalOutcomeId": "canon-gen-100",
+    "canonicalNextId": "ep-gen-101",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob"
+    ],
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-100"
+    ],
+    "illustrationId": "art-gen-100",
+    "lessonId": "lesson-gen-100",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-101",
+    "stageId": "S01C",
+    "titleKo": "디나에게 일어난 폭력",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 7
+      },
+      "osis": "GEN.34.1-GEN.34.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "디나가 그 땅의 딸들을 보러 나감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "세겜이 디나에게 성적 폭력을 가했다고 서술됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱의 아들들이 분노함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "디나가 그 땅의 딸들을 보러 나감 → 세겜이 디나에게 성적 폭력을 가했다고 서술됨 → 야곱의 아들들이 분노함",
+    "knowledgeObjectiveKo": "피해 경험을 다루는 본문 인물의 이름은?",
+    "canonicalOutcomeId": "canon-gen-101",
+    "canonicalNextId": "ep-gen-102",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "dinah",
+      "shechem_person",
+      "jacob",
+      "hamor"
+    ],
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-101"
+    ],
+    "illustrationId": "art-gen-101",
+    "lessonId": "lesson-gen-101",
+    "sensitivity": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-102",
+    "stageId": "S01C",
+    "titleKo": "혼인 제안과 조건",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 17
+      },
+      "osis": "GEN.34.8-GEN.34.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "하몰이 혼인과 공존을 제안함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "형제들이 속임으로 할례 조건을 내세움",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "협상이 이어짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "하몰이 혼인과 공존을 제안함 → 형제들이 속임으로 할례 조건을 내세움 → 협상이 이어짐",
+    "knowledgeObjectiveKo": "형제들이 내세운 표면적인 조건은?",
+    "canonicalOutcomeId": "canon-gen-102",
+    "canonicalNextId": "ep-gen-103",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "hamor",
+      "shechem_person",
+      "simeon",
+      "levi",
+      "jacob"
+    ],
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-102"
+    ],
+    "illustrationId": "art-gen-102",
+    "lessonId": "lesson-gen-102",
+    "sensitivity": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-103",
+    "stageId": "S01C",
+    "titleKo": "세겜의 성문 합의",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 24
+      },
+      "osis": "GEN.34.18-GEN.34.24"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "하몰과 세겜이 성문에서 주민들에게 이야기함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "주민 남자들이 할례에 동의함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "평화 제안과 속임이 엇갈림",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "하몰과 세겜이 성문에서 주민들에게 이야기함 → 주민 남자들이 할례에 동의함 → 평화 제안과 속임이 엇갈림",
+    "knowledgeObjectiveKo": "조건을 받아들이도록 설득한 곳은?",
+    "canonicalOutcomeId": "canon-gen-103",
+    "canonicalNextId": "ep-gen-104",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "hamor",
+      "shechem_person"
+    ],
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-103"
+    ],
+    "illustrationId": "art-gen-103",
+    "lessonId": "lesson-gen-103",
+    "sensitivity": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-104",
+    "stageId": "S01C",
+    "titleKo": "시므온과 레위의 보복",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 25
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 31
+      },
+      "osis": "GEN.34.25-GEN.34.31"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "시므온과 레위가 도시에 공격을 가함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "남자들을 죽이고 디나를 데려옴",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 결과를 염려하고 형제들이 반박함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "시므온과 레위가 도시에 공격을 가함 → 남자들을 죽이고 디나를 데려옴 → 야곱이 결과를 염려하고 형제들이 반박함",
+    "knowledgeObjectiveKo": "야곱의 두 아들 중 공격한 이들은?",
+    "canonicalOutcomeId": "canon-gen-104",
+    "canonicalNextId": "ep-gen-105",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "simeon",
+      "levi",
+      "dinah",
+      "jacob"
+    ],
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-104"
+    ],
+    "illustrationId": "art-gen-104",
+    "lessonId": "lesson-gen-104",
+    "sensitivity": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-105",
+    "stageId": "S01C",
+    "titleKo": "벧엘로 돌아가다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 8
+      },
+      "osis": "GEN.35.1-GEN.35.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "하나님이 야곱에게 벧엘로 가라고 하심",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "가족이 이방 신상을 버리고 정결하게 함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "드보라가 죽고 장사되었다고 기록됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "하나님이 야곱에게 벧엘로 가라고 하심 → 가족이 이방 신상을 버리고 정결하게 함 → 드보라가 죽고 장사되었다고 기록됨",
+    "knowledgeObjectiveKo": "야곱에게 다시 가라는 말씀이 주어진 장소는?",
+    "canonicalOutcomeId": "canon-gen-105",
+    "canonicalNextId": "ep-gen-106",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "deborah_nurse"
+    ],
+    "placeIds": [
+      "bethel",
+      "shechem"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-105"
+    ],
+    "illustrationId": "art-gen-105",
+    "lessonId": "lesson-gen-105",
+    "sensitivity": [
+      "death_and_sexual_conduct"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-106",
+    "stageId": "S01C",
+    "titleKo": "이스라엘이라는 이름의 재확인",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 15
+      },
+      "osis": "GEN.35.9-GEN.35.15"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "하나님이 다시 야곱에게 나타나셨다고 서술됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "이스라엘의 이름과 약속을 확인함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 돌기둥을 세우고 벧엘이라 부름",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "하나님이 다시 야곱에게 나타나셨다고 서술됨 → 이스라엘의 이름과 약속을 확인함 → 야곱이 돌기둥을 세우고 벧엘이라 부름",
+    "knowledgeObjectiveKo": "확인된 야곱의 새 이름은?",
+    "canonicalOutcomeId": "canon-gen-106",
+    "canonicalNextId": "ep-gen-107",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob"
+    ],
+    "placeIds": [
+      "bethel"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-106"
+    ],
+    "illustrationId": "art-gen-106",
+    "lessonId": "lesson-gen-106",
+    "sensitivity": [
+      "death_and_sexual_conduct"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-107",
+    "stageId": "S01C",
+    "titleKo": "베냐민의 탄생과 라헬의 죽음",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 20
+      },
+      "osis": "GEN.35.16-GEN.35.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "벧엘에서 길을 떠나 에브랏으로 향함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "라헬이 베냐민을 낳고 숨짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 길가에 기둥을 세움",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "벧엘에서 길을 떠나 에브랏으로 향함 → 라헬이 베냐민을 낳고 숨짐 → 야곱이 길가에 기둥을 세움",
+    "knowledgeObjectiveKo": "라헬이 죽기 전에 낳은 아들은?",
+    "canonicalOutcomeId": "canon-gen-107",
+    "canonicalNextId": "ep-gen-108",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "rachel",
+      "jacob",
+      "benjamin"
+    ],
+    "placeIds": [
+      "ephrath",
+      "bethel"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-107"
+    ],
+    "illustrationId": "art-gen-107",
+    "lessonId": "lesson-gen-107",
+    "sensitivity": [
+      "pregnancy_death"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-108",
+    "stageId": "S01C",
+    "titleKo": "열두 아들의 명단",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 26
+      },
+      "osis": "GEN.35.21-GEN.35.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이스라엘이 에델 망대 너머에 장막을 침",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "르우벤과 빌하에 관한 짧은 서술이 나옴",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "레아·라헬·빌하·실바의 아들 명단을 정리함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "이스라엘이 에델 망대 너머에 장막을 침 → 르우벤과 빌하에 관한 짧은 서술이 나옴 → 레아·라헬·빌하·실바의 아들 명단을 정리함",
+    "knowledgeObjectiveKo": "야곱의 아들 전체 수는?",
+    "canonicalOutcomeId": "canon-gen-108",
+    "canonicalNextId": "ep-gen-109",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "reuben",
+      "bilhah",
+      "leah",
+      "rachel",
+      "zilpah"
+    ],
+    "placeIds": [
+      "migdal_eder",
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-108"
+    ],
+    "illustrationId": "art-gen-108",
+    "lessonId": "lesson-gen-108",
+    "sensitivity": [
+      "sexual_conduct_non_graphic"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-109",
+    "stageId": "S01C",
+    "titleKo": "이삭의 죽음",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 29
+      },
+      "osis": "GEN.35.27-GEN.35.29"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 마므레의 이삭에게 돌아옴",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "이삭이 백팔십 세로 죽었다고 서술됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "에서와 야곱이 함께 장사함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 마므레의 이삭에게 돌아옴 → 이삭이 백팔십 세로 죽었다고 서술됨 → 에서와 야곱이 함께 장사함",
+    "knowledgeObjectiveKo": "이삭을 함께 장사한 두 아들은?",
+    "canonicalOutcomeId": "canon-gen-109",
+    "canonicalNextId": "ep-gen-110",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "esau",
+      "jacob"
+    ],
+    "placeIds": [
+      "hebron",
+      "mamre"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-109"
+    ],
+    "illustrationId": "art-gen-109",
+    "lessonId": "lesson-gen-109",
+    "sensitivity": [
+      "death_and_burial_non_graphic"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-110",
+    "stageId": "S01C",
+    "titleKo": "에서의 가정과 세일 이주",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 8
+      },
+      "osis": "GEN.36.1-GEN.36.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에서의 아내와 자녀 이름이 소개됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "형제의 재산이 많아 함께 살기 어려워짐",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "에서가 세일 산으로 옮겨 감",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "에서의 아내와 자녀 이름이 소개됨 → 형제의 재산이 많아 함께 살기 어려워짐 → 에서가 세일 산으로 옮겨 감",
+    "knowledgeObjectiveKo": "에서가 옮겨 간 산지는?",
+    "canonicalOutcomeId": "canon-gen-110",
+    "canonicalNextId": "ep-gen-111",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "adah",
+      "basemath",
+      "oholibamah"
+    ],
+    "placeIds": [
+      "seir",
+      "canaan"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-110"
+    ],
+    "illustrationId": "art-gen-110",
+    "lessonId": "lesson-gen-110",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-111",
+    "stageId": "S01C",
+    "titleKo": "에서의 자손",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 14
+      },
+      "osis": "GEN.36.9-GEN.36.14"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "세일 산지의 에서 자손이 열거됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "엘리바스·르우엘 등의 자손이 기록됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "후대 집단 이름과 연결되는 계보형 자료",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "세일 산지의 에서 자손이 열거됨 → 엘리바스·르우엘 등의 자손이 기록됨 → 후대 집단 이름과 연결되는 계보형 자료",
+    "knowledgeObjectiveKo": "에서의 아들로 기록되는 두 이름은?",
+    "canonicalOutcomeId": "canon-gen-111",
+    "canonicalNextId": "ep-gen-112",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "eliphaz",
+      "reuel"
+    ],
+    "placeIds": [
+      "seir"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-111"
+    ],
+    "illustrationId": "art-gen-111",
+    "lessonId": "lesson-gen-111",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-112",
+    "stageId": "S01C",
+    "titleKo": "에돔의 족장들",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 19
+      },
+      "osis": "GEN.36.15-GEN.36.19"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "엘리바스와 르우엘 자손의 족장이 열거됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "오홀리바마 계열의 족장들이 소개됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "명단은 족보 탐색 화면으로 제시함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "엘리바스와 르우엘 자손의 족장이 열거됨 → 오홀리바마 계열의 족장들이 소개됨 → 명단은 족보 탐색 화면으로 제시함",
+    "knowledgeObjectiveKo": "이 장의 중심 족장 목록은 어느 민족과 연결되나?",
+    "canonicalOutcomeId": "canon-gen-112",
+    "canonicalNextId": "ep-gen-113",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "eliphaz",
+      "reuel",
+      "oholibamah"
+    ],
+    "placeIds": [
+      "seir"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-112"
+    ],
+    "illustrationId": "art-gen-112",
+    "lessonId": "lesson-gen-112",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-113",
+    "stageId": "S01C",
+    "titleKo": "세일 원주민 호리 족속",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 30
+      },
+      "osis": "GEN.36.20-GEN.36.30"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "세일의 호리 사람들과 족장들의 명단이 소개됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "인물 사이 친족 관계를 분리해 읽음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "후대 왕국 경계선처럼 그리지 않음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "세일의 호리 사람들과 족장들의 명단이 소개됨 → 인물 사이 친족 관계를 분리해 읽음 → 후대 왕국 경계선처럼 그리지 않음",
+    "knowledgeObjectiveKo": "명단에서 세일 산지의 기존 주민으로 언급되는 집단은?",
+    "canonicalOutcomeId": "canon-gen-113",
+    "canonicalNextId": "ep-gen-114",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "seir_person"
+    ],
+    "placeIds": [
+      "seir"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-113"
+    ],
+    "illustrationId": "art-gen-113",
+    "lessonId": "lesson-gen-113",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-114",
+    "stageId": "S01C",
+    "titleKo": "이스라엘 왕 이전 에돔 왕 목록",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 31
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 39
+      },
+      "osis": "GEN.36.31-GEN.36.39"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이스라엘 왕이 있기 전에 다스린 왕들의 목록이 나옴",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "벨라부터 하닷까지 이름과 지역을 열거함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "현대 기준 절대 연대와 왕국 영토는 추정하지 않음",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "이스라엘 왕이 있기 전에 다스린 왕들의 목록이 나옴 → 벨라부터 하닷까지 이름과 지역을 열거함 → 현대 기준 절대 연대와 왕국 영토는 추정하지 않음",
+    "knowledgeObjectiveKo": "목록은 무엇이 세워지기 전 에돔 왕들이라 표현하나?",
+    "canonicalOutcomeId": "canon-gen-114",
+    "canonicalNextId": "ep-gen-115",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "bela_edom",
+      "hadad_edom"
+    ],
+    "placeIds": [
+      "edom",
+      "seir"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-114"
+    ],
+    "illustrationId": "art-gen-114",
+    "lessonId": "lesson-gen-114",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-115",
+    "stageId": "S01C",
+    "titleKo": "에돔의 거주지와 족장",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 40
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 43
+      },
+      "osis": "GEN.36.40-GEN.36.43"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에서에서 이어지는 족장들의 명칭을 열거함",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 2,
+        "textKo": "정착지를 따라 족보가 정리됨",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉 서사로 넘어가기 전 계보의 마침표",
+        "basis": "biblical_narrative_paraphrase_editorial_draft"
+      }
+    ],
+    "narrativeSummaryKo": "에서에서 이어지는 족장들의 명칭을 열거함 → 정착지를 따라 족보가 정리됨 → 요셉 서사로 넘어가기 전 계보의 마침표",
+    "knowledgeObjectiveKo": "이 장의 마지막에 정리되는 민족은?",
+    "canonicalOutcomeId": "canon-gen-115",
+    "canonicalNextId": "handoff-gen-037",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau"
+    ],
+    "placeIds": [
+      "edom",
+      "seir"
+    ],
+    "mapMode": "regional_uncertainty_or_symbolic",
+    "mapConfidence": "unknown_not_a_historical_route",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01C-CLAIM-115"
+    ],
+    "illustrationId": "art-gen-115",
+    "lessonId": "lesson-gen-115",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  }
+]

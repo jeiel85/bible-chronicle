@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "key": "no_early_genesis_bce",
+      "appliesTo": "GEN.1.1-GEN.11.32",
+      "policy": "do_not_display_absolute_year_or_reconstruct_fixed_dynasty_boundaries"
+    },
+    {
+      "key": "gen10_gen11",
+      "appliesTo": "GEN.10.1-GEN.11.9",
+      "policy": "literary_order_not_strict_historical_sequence"
+    },
+    {
+      "key": "eden",
+      "appliesTo": "GEN.2.4-GEN.3.24",
+      "policy": "symbolic_no_coordinates"
+    },
+    {
+      "key": "ararats",
+      "appliesTo": "GEN.8.4",
+      "policy": "mountains_plural_no_specific_peak_pin"
+    },
+    {
+      "key": "babel",
+      "appliesTo": "GEN.11.1-GEN.11.9",
+      "policy": "Shinar_context_not_ETEMENANKI_ID"
+    },
+    {
+      "key": "ur_haran",
+      "appliesTo": "GEN.11.27-GEN.11.32",
+      "policy": "Ur_location_discussed_not_strict_route"
+    }
+  ]
+}

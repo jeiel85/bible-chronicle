@@ -1,0 +1,57 @@
+{
+  "currentIntegratedVersion": "1.6.0",
+  "scope": "structural_editorial_design_only_not_finished_playable_game",
+  "canon": {
+    "books": 66,
+    "chapters": 1189
+  },
+  "genesis": {
+    "phases": [
+      {
+        "stage": "S01A",
+        "chapters": [
+          1,
+          11
+        ],
+        "episodes": 22,
+        "verses": 299
+      },
+      {
+        "stage": "S01B",
+        "chapters": [
+          12,
+          25
+        ],
+        "episodes": 41,
+        "verses": 394
+      },
+      {
+        "stage": "S01C",
+        "chapters": [
+          26,
+          36
+        ],
+        "episodes": 52,
+        "verses": 391
+      },
+      {
+        "stage": "S01D",
+        "chapters": [
+          37,
+          50
+        ],
+        "episodes": 64,
+        "verses": 449
+      }
+    ],
+    "currentDesignedChapters": 50,
+    "currentDesignedEpisodes": 179,
+    "currentMappedVerses": 1533,
+    "chaptersAwaitingEpisodeAuthoring": []
+  },
+  "retainedIsraelEpisodeOutlines": 219,
+  "externalHistoricalAttestationsApproved": 0,
+  "rightsApprovals": 0,
+  "generatedImageAssets": 0,
+  "nextPhase": "S02_Exodus_to_Deuteronomy"
+}

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "A001",
+    "titleKo": "북이스라엘 사마리아 함락",
+    "periodId": "P14",
+    "dateDisplay": "722/721 BCE",
+    "sourceIds": [
+      "SRC-MET-ASSYRIA"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "reviewScopeKo": "앗수르의 수도 점령·강제 이주; 왕하의 신학 해석은 별도로 표시",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A002",
+    "titleKo": "라기스 공성전",
+    "periodId": "P15",
+    "dateDisplay": "701 BCE",
+    "sourceIds": [
+      "SRC-BM-LACHISH",
+      "SRC-BM-LACHISH-RELIEF"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "reviewScopeKo": "부조와 성경의 동시 자료를 비교하되 전투 세부는 각 자료 귀속",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A003",
+    "titleKo": "바벨론의 첫 주요 예루살렘 원정",
+    "periodId": "P18",
+    "dateDisplay": "597 BCE",
+    "sourceIds": [
+      "SRC-BM-BABYLON"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      }
+    ],
+    "reviewScopeKo": "여호야긴 시대 포로 이동과 연결. 586년 파괴와 구분",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A004",
+    "titleKo": "예루살렘의 바벨론 파괴",
+    "periodId": "P18",
+    "dateDisplay": "587/586 BCE",
+    "sourceIds": [
+      "SRC-HUJ-586"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "reviewScopeKo": "587/586 연대 논점 공개; 건물 단일 발굴 결과를 성전 자체 직접 발견으로 과장 금지",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A005",
+    "titleKo": "예후의 앗수르 조공",
+    "periodId": "P12",
+    "dateDisplay": "841 BCE",
+    "sourceIds": [
+      "SRC-BM-OBELISK"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      }
+    ],
+    "reviewScopeKo": "앗수르 비문은 조공을 보여주지만 왕하의 모든 장면 독립 입증 아님",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A006",
+    "titleKo": "모압과 이스라엘의 대립",
+    "periodId": "P12",
+    "dateDisplay": "기원전 9세기",
+    "sourceIds": [
+      "SRC-LOUVRE-MESHA"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "reviewScopeKo": "메사 비문과 왕하의 서로 다른 주장 비교",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A007",
+    "titleKo": "다윗 왕조의 명칭",
+    "periodId": "P08",
+    "dateDisplay": "기원전 9세기 비문",
+    "sourceIds": [
+      "SRC-JM-TELDAN"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 1,
+        "chapterEnd": 24
+      }
+    ],
+    "reviewScopeKo": "비문이 다윗 자신의 삶의 개별 사건을 모두 증명하지는 않음",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A008",
+    "titleKo": "통일왕국의 범위",
+    "periodId": "P08",
+    "dateDisplay": "기원전 10세기 전후",
+    "sourceIds": [
+      "SRC-KEIMER-2021"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 5,
+        "chapterEnd": 10
+      }
+    ],
+    "reviewScopeKo": "고정 실선 국경 금지·복수 학설 병기",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  },
+  {
+    "id": "A009",
+    "titleKo": "히스기야의 수로",
+    "periodId": "P15",
+    "dateDisplay": "기원전 8세기(정밀 논쟁)",
+    "sourceIds": [
+      "SRC-MICH-SILOAM",
+      "SRC-SILOAM-DEBATE"
+    ],
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 32,
+        "chapterEnd": 32
+      }
+    ],
+    "reviewScopeKo": "수로와 히스기야 시기의 일치 여부 논쟁 기록",
+    "reviewLevel": "external_source_scope_checked_not_all_details_verified"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "YALE-INTRO-2026",
+    "publisher": "Yale Bible Study",
+    "title": "Genesis — Introduction to the Course",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/genesis-introduction-study-guide/",
+    "sourceSupportsKo": "원역사·족장·요셉의 문학적 구분",
+    "sourceDoesNotSupportKo": "연대나 사건의 실재를 증명하지 않음",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "YALE-CREATION-2026",
+    "publisher": "Yale Bible Study",
+    "title": "Creation",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/creation-study-guide/",
+    "sourceSupportsKo": "1~2장 문법과 고대 근동 병행 연구",
+    "sourceDoesNotSupportKo": "과학적 창조 일자를 검증하지 않음",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "YALE-FLOOD-2026",
+    "publisher": "Yale Bible Study",
+    "title": "The Flood",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/the-flood-study-guide-2/",
+    "sourceSupportsKo": "6~9장의 자료비평과 문학 읽기",
+    "sourceDoesNotSupportKo": "실제 홍수의 규모를 입증하지 않음",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "YALE-ABRAM-2026",
+    "publisher": "Yale Bible Study",
+    "title": "The Call of Abraham",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/the-call-of-abraham-study-guide/",
+    "sourceSupportsKo": "12·15~17장 약속의 땅과 후손 주제",
+    "sourceDoesNotSupportKo": "아브라함의 실존을 입증하지 않음",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "YALE-HAGAR-2026",
+    "publisher": "Yale Bible Study",
+    "title": "Abraham and Isaac",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/abraham-and-isaac-study-guide/",
+    "sourceSupportsKo": "16·22장 윤리적·문학적 맥락",
+    "sourceDoesNotSupportKo": "아동 희생 정당화에 사용 금지",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "YALE-JACOB-2026",
+    "publisher": "Yale Bible Study",
+    "title": "Jacob",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/jacob-study-guide/",
+    "sourceSupportsKo": "25~35장의 인물 변화와 상징",
+    "sourceDoesNotSupportKo": "야곱의 신원·연도 확인이 아님",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "YALE-JOSEPH-2026",
+    "publisher": "Yale Bible Study",
+    "title": "Joseph",
+    "url": "https://yalebiblestudy.org/courses/genesis/lessons/joseph-study-guide/",
+    "sourceSupportsKo": "37~50장 소설적 구조와 섭리의 주제",
+    "sourceDoesNotSupportKo": "요셉 사건의 실증 기록 확인이 아님",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "BM-K2252-2026",
+    "publisher": "British Museum",
+    "title": "Gilgamesh Tablet XI K.2252",
+    "url": "https://www.britishmuseum.org/collection/object/W_K-2252",
+    "sourceSupportsKo": "길가메시 11번 판의 홍수 전승 유물 존재",
+    "sourceDoesNotSupportKo": "창세기 홍수의 역사성 입증 아님",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "BM-IMAGE-LICENSE-2026",
+    "publisher": "British Museum",
+    "title": "Image 396940001 usage rules",
+    "url": "https://www.britishmuseum.org/collection/image/396940001",
+    "sourceSupportsKo": "비상업적 CC BY-NC-SA 4.0 표시",
+    "sourceDoesNotSupportKo": "상업 이용·다른 라이선스 사용에는 별도 검토",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "KBS-COPYRIGHT-2026",
+    "publisher": "Korean Bible Society",
+    "title": "Bible content copyright notice",
+    "url": "https://bible.bskorea.or.kr/copyright_notice",
+    "sourceSupportsKo": "한국어 판본별 표시와 사용권",
+    "sourceDoesNotSupportKo": "앱 재배포 허가는 별도 확인 필요",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "WEB-PUBLIC-DOMAIN-2026",
+    "publisher": "eBible.org",
+    "title": "World English Bible Public Domain notice",
+    "url": "https://ebible.org/engwebp/copyright.htm",
+    "sourceSupportsKo": "공개영역인 WEB 번역의 이용 가능 범위",
+    "sourceDoesNotSupportKo": "번역을 바꾼 뒤에도 WEB 명칭을 유지하면 안 됨",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  },
+  {
+    "id": "WEB-STRUCTURE-2026",
+    "publisher": "TehShrike/world-english-bible",
+    "title": "Genesis JSON verse data",
+    "url": "https://github.com/TehShrike/world-english-bible/blob/master/json/genesis.json",
+    "sourceSupportsKo": "장절 키 1,533개 전수 검수 및 SHA 식별",
+    "sourceDoesNotSupportKo": "비공식 변환본; 공식 본문 교정판 여부 별도 대조",
+    "checkedOn": "2026-10-13",
+    "status": "public_page_inspected_scope_limited"
+  }
+]

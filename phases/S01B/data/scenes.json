@@ -1,0 +1,5865 @@
+[
+  {
+    "episodeId": "ep-gen-023",
+    "entrySceneId": "ep-gen-023/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-023/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "부르심과 출발",
+        "linesKo": [
+          "아브람에게 떠나라는 말씀",
+          "민족·이름·복의 약속",
+          "가족·소유와 함께 하란을 떠남"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-023/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-023/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-023/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-023/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-023"
+            }
+          },
+          {
+            "id": "ep-gen-023/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-023/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-023/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-023/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-023/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-023/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-023/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.12.1-GEN.12.5",
+          "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-023/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-023/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: haran, canaan",
+          "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가."
+        ],
+        "autoNext": "ep-gen-023/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-023/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람이 떠난 출발지는?"
+        ],
+        "autoNext": "ep-gen-023/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-023/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "가족·소유와 함께 하란을 떠남"
+        ],
+        "autoNext": "ep-gen-024",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-024",
+    "entrySceneId": "ep-gen-024/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-024/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "세겜과 벧엘의 제단",
+        "linesKo": [
+          "세겜 모레 상수리나무 근처 이동",
+          "땅에 대한 약속과 제단",
+          "벧엘·아이 사이 제단과 남방 이동"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-024/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-024/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-024/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-024/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-024"
+            }
+          },
+          {
+            "id": "ep-gen-024/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-024/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-024/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-024/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-024/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-024/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-024/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.12.6-GEN.12.9",
+          "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-024/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-024/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: shechem, bethel, negeb",
+          "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가."
+        ],
+        "autoNext": "ep-gen-024/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-024/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람이 제단을 쌓은 곳으로 본문에 등장하는 곳은?"
+        ],
+        "autoNext": "ep-gen-024/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-024/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "벧엘·아이 사이 제단과 남방 이동"
+        ],
+        "autoNext": "ep-gen-025",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-025",
+    "entrySceneId": "ep-gen-025/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-025/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "기근과 애굽에서의 사래",
+        "linesKo": [
+          "기근으로 애굽 이동",
+          "사래를 누이라 소개한 사건",
+          "바로가 돌려보내고 떠남"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-025/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-025/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-025/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-025/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-025"
+            }
+          },
+          {
+            "id": "ep-gen-025/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-025/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-025/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-025/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-025/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-025/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-025/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.12.10-GEN.12.20",
+          "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-025/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-025/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: egypt",
+          "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가."
+        ],
+        "autoNext": "ep-gen-025/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-025/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람이 애굽으로 간 계기는?"
+        ],
+        "autoNext": "ep-gen-025/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-025/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "바로가 돌려보내고 떠남"
+        ],
+        "autoNext": "ep-gen-026",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-026",
+    "entrySceneId": "ep-gen-026/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-026/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "목자들 사이의 다툼",
+        "linesKo": [
+          "애굽에서 네겝으로 돌아옴",
+          "가축과 재산 증가",
+          "두 집안의 목자들 사이 충돌"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-026/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-026/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-026/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-026/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-026"
+            }
+          },
+          {
+            "id": "ep-gen-026/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-026/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-026/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-026/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-026/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-026/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-026/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.13.1-GEN.13.7",
+          "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-026/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-026/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: negeb, bethel",
+          "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가."
+        ],
+        "autoNext": "ep-gen-026/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-026/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람과 롯의 일행이 부딪친 까닭은?"
+        ],
+        "autoNext": "ep-gen-026/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-026/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "두 집안의 목자들 사이 충돌"
+        ],
+        "autoNext": "ep-gen-027",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-027",
+    "entrySceneId": "ep-gen-027/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-027/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "롯이 요단 들을 택하다",
+        "linesKo": [
+          "아브람이 평화로운 분리를 제안",
+          "롯이 요단 들을 고름",
+          "롯은 소돔 가까이 거주"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-027/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-027/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-027/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-027/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-027"
+            }
+          },
+          {
+            "id": "ep-gen-027/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-027/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-027/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-027/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-027/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-027/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-027/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.13.8-GEN.13.13",
+          "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-027/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-027/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: jordan_plain, sodom",
+          "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가."
+        ],
+        "autoNext": "ep-gen-027/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-027/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "롯이 택한 지역은?"
+        ],
+        "autoNext": "ep-gen-027/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-027/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "롯은 소돔 가까이 거주"
+        ],
+        "autoNext": "ep-gen-028",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-028",
+    "entrySceneId": "ep-gen-028/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-028/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "약속의 재확인과 헤브론",
+        "linesKo": [
+          "자손과 땅에 대한 약속",
+          "땅의 사방을 바라봄",
+          "헤브론 마므레에서 제단"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-028/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-028/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-028/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-028/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-028"
+            }
+          },
+          {
+            "id": "ep-gen-028/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-028/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-028/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-028/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-028/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-028/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-028/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.13.14-GEN.13.18",
+          "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-028/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-028/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: hebron",
+          "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가."
+        ],
+        "autoNext": "ep-gen-028/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-028/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람이 마지막으로 장막을 옮긴 곳은?"
+        ],
+        "autoNext": "ep-gen-028/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-028/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "헤브론 마므레에서 제단"
+        ],
+        "autoNext": "ep-gen-029",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-029",
+    "entrySceneId": "ep-gen-029/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-029/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "네 왕과 다섯 왕의 전쟁",
+        "linesKo": [
+          "동맹 왕국의 군사 행동",
+          "싯딤 골짜기에서 충돌",
+          "소돔에 살던 롯이 사로잡힘"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-029/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-029/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-029/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-029/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-029"
+            }
+          },
+          {
+            "id": "ep-gen-029/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-029/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-029/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-029/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-029/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-029/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-029/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.14.1-GEN.14.12",
+          "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-029/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-029/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: siddim, sodom",
+          "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다."
+        ],
+        "autoNext": "ep-gen-029/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-029/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "포로가 된 아브람의 친족은?"
+        ],
+        "autoNext": "ep-gen-029/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-029/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "소돔에 살던 롯이 사로잡힘"
+        ],
+        "autoNext": "ep-gen-030",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-030",
+    "entrySceneId": "ep-gen-030/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-030/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "아브람의 롯 구출",
+        "linesKo": [
+          "도망자가 소식을 전함",
+          "아브람과 동맹이 추격",
+          "롯과 재물을 되찾음"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-030/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-030/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-030/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-030/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-030"
+            }
+          },
+          {
+            "id": "ep-gen-030/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-030/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-030/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-030/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-030/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-030/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-030/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.14.13-GEN.14.16",
+          "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-030/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-030/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: dan_region, damascus_region",
+          "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다."
+        ],
+        "autoNext": "ep-gen-030/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-030/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람이 추격에 나선 이유는?"
+        ],
+        "autoNext": "ep-gen-030/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-030/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "롯과 재물을 되찾음"
+        ],
+        "autoNext": "ep-gen-031",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-031",
+    "entrySceneId": "ep-gen-031/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-031/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "멜기세덱과 전리품",
+        "linesKo": [
+          "살렘 왕 멜기세덱 등장",
+          "축복과 십분의 일",
+          "소돔 왕의 제안에 대한 아브람의 답"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-031/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-031/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-031/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-031/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-031"
+            }
+          },
+          {
+            "id": "ep-gen-031/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-031/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-031/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-031/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-031/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-031/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-031/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.14.17-GEN.14.24",
+          "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-031/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-031/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: salem_uncertain",
+          "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다."
+        ],
+        "autoNext": "ep-gen-031/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-031/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람을 축복한 살렘 왕은?"
+        ],
+        "autoNext": "ep-gen-031/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-031/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "소돔 왕의 제안에 대한 아브람의 답"
+        ],
+        "autoNext": "ep-gen-032",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-032",
+    "entrySceneId": "ep-gen-032/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-032/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "별을 바라보는 약속",
+        "linesKo": [
+          "아브람이 자손 문제를 묻다",
+          "하늘의 별과 자손의 비유",
+          "아브람의 믿음 서술"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-032/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-032/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-032/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-032/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-032"
+            }
+          },
+          {
+            "id": "ep-gen-032/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-032/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-032/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-032/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-032/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-032/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-032/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.15.1-GEN.15.6",
+          "별·횃불 장면은 시각적 상징 연출이며 외부 역사 입증과 무관합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-032/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-032/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "별·횃불 장면은 시각적 상징 연출이며 외부 역사 입증과 무관합니다."
+        ],
+        "autoNext": "ep-gen-032/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-032/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "자손의 비유에 등장하는 것은?"
+        ],
+        "autoNext": "ep-gen-032/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-032/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "아브람의 믿음 서술"
+        ],
+        "autoNext": "ep-gen-033",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-033",
+    "entrySceneId": "ep-gen-033/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-033/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "언약과 미래의 예고",
+        "linesKo": [
+          "땅을 주겠다는 약속과 희생 제물",
+          "후손의 타국 체류·압제와 귀환 예고",
+          "언약의 선언"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-033/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-033/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-033/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-033/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-033"
+            }
+          },
+          {
+            "id": "ep-gen-033/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-033/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-033/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-033/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-033/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-033/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-033/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.15.7-GEN.15.21",
+          "별·횃불 장면은 시각적 상징 연출이며 외부 역사 입증과 무관합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-033/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-033/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "별·횃불 장면은 시각적 상징 연출이며 외부 역사 입증과 무관합니다."
+        ],
+        "autoNext": "ep-gen-033/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-033/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람에게 예고된 후손의 경험은?"
+        ],
+        "autoNext": "ep-gen-033/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-033/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "언약의 선언"
+        ],
+        "autoNext": "ep-gen-034",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-034",
+    "entrySceneId": "ep-gen-034/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-034/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "사래와 하갈의 갈등",
+        "linesKo": [
+          "사래가 하갈을 아브람에게 줌",
+          "하갈이 임신한 후 관계가 악화",
+          "하갈이 떠남"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-034/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-034/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-034/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-034/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-034"
+            }
+          },
+          {
+            "id": "ep-gen-034/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-034/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-034/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-034/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-034/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-034/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-034/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.16.1-GEN.16.6",
+          "하갈의 이동 경로와 샘 위치를 점 좌표로 표시하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-034/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-034/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "하갈의 이동 경로와 샘 위치를 점 좌표로 표시하지 않습니다."
+        ],
+        "autoNext": "ep-gen-034/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-034/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "하갈이 떠나게 된 배경은?"
+        ],
+        "autoNext": "ep-gen-034/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-034/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "하갈이 떠남"
+        ],
+        "autoNext": "ep-gen-035",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-035",
+    "entrySceneId": "ep-gen-035/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-035/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "하갈과 이스마엘",
+        "linesKo": [
+          "광야 길에서 하갈을 만나는 여호와의 사자",
+          "이스마엘 이름을 알려줌",
+          "하갈이 돌아와 이스마엘을 낳음"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-035/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-035/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-035/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-035/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-035"
+            }
+          },
+          {
+            "id": "ep-gen-035/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-035/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-035/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-035/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-035/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-035/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-035/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.16.7-GEN.16.16",
+          "하갈의 이동 경로와 샘 위치를 점 좌표로 표시하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-035/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-035/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: shur_region, beer_lahai_roi",
+          "하갈의 이동 경로와 샘 위치를 점 좌표로 표시하지 않습니다."
+        ],
+        "autoNext": "ep-gen-035/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-035/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "하갈이 낳은 아들의 이름은?"
+        ],
+        "autoNext": "ep-gen-035/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-035/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "하갈이 돌아와 이스마엘을 낳음"
+        ],
+        "autoNext": "ep-gen-036",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-036",
+    "entrySceneId": "ep-gen-036/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-036/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "아브라함과 언약의 표",
+        "linesKo": [
+          "이름 아브람에서 아브라함으로",
+          "많은 민족의 조상이라는 약속",
+          "할례를 언약의 표로 명함"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-036/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-036/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-036/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-036/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-036"
+            }
+          },
+          {
+            "id": "ep-gen-036/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-036/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-036/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-036/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-036/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-036/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-036/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.17.1-GEN.17.14",
+          "인물의 연령은 본문 상대연대만 표시하고 절대 BC 연대를 만들지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-036/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-036/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "인물의 연령은 본문 상대연대만 표시하고 절대 BC 연대를 만들지 않습니다."
+        ],
+        "autoNext": "ep-gen-036/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-036/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브람의 새 이름은?"
+        ],
+        "autoNext": "ep-gen-036/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-036/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "할례를 언약의 표로 명함"
+        ],
+        "autoNext": "ep-gen-037",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-037",
+    "entrySceneId": "ep-gen-037/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-037/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "사라의 이름과 이삭의 약속",
+        "linesKo": [
+          "사래에서 사라로 이름 변경",
+          "사라가 낳을 아들 이삭 약속",
+          "이스마엘에 대한 약속과 할례 시행"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-037/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-037/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-037/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-037/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-037"
+            }
+          },
+          {
+            "id": "ep-gen-037/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-037/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-037/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-037/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-037/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-037/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-037/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.17.15-GEN.17.27",
+          "인물의 연령은 본문 상대연대만 표시하고 절대 BC 연대를 만들지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-037/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-037/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "인물의 연령은 본문 상대연대만 표시하고 절대 BC 연대를 만들지 않습니다."
+        ],
+        "autoNext": "ep-gen-037/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-037/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "사라에게 태어날 아들로 예고된 이름은?"
+        ],
+        "autoNext": "ep-gen-037/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-037/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "이스마엘에 대한 약속과 할례 시행"
+        ],
+        "autoNext": "ep-gen-038",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-038",
+    "entrySceneId": "ep-gen-038/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-038/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "마므레의 방문객",
+        "linesKo": [
+          "아브라함이 방문객을 맞음",
+          "음식을 준비하고 대접함",
+          "사라가 아들 약속을 듣고 웃음"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-038/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-038/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-038/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-038/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-038"
+            }
+          },
+          {
+            "id": "ep-gen-038/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-038/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-038/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-038/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-038/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-038/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-038/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.18.1-GEN.18.15",
+          "방문객 정체에 대한 별도 신학 해석을 사실처럼 하나로 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-038/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-038/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: hebron",
+          "방문객 정체에 대한 별도 신학 해석을 사실처럼 하나로 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-038/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-038/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "사라가 약속을 듣고 보인 반응은?"
+        ],
+        "autoNext": "ep-gen-038/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-038/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "사라가 아들 약속을 듣고 웃음"
+        ],
+        "autoNext": "ep-gen-039",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-039",
+    "entrySceneId": "ep-gen-039/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-039/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "소돔을 위한 중보",
+        "linesKo": [
+          "소돔의 죄악에 대한 대화",
+          "아브라함이 의인 수를 두고 간구",
+          "말씀을 마치고 각자 떠남"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-039/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-039/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-039/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-039/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-039"
+            }
+          },
+          {
+            "id": "ep-gen-039/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-039/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-039/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-039/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-039/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-039/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-039/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.18.16-GEN.18.33",
+          "방문객 정체에 대한 별도 신학 해석을 사실처럼 하나로 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-039/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-039/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: sodom",
+          "방문객 정체에 대한 별도 신학 해석을 사실처럼 하나로 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-039/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-039/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브라함이 간구한 대상은?"
+        ],
+        "autoNext": "ep-gen-039/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-039/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "말씀을 마치고 각자 떠남"
+        ],
+        "autoNext": "ep-gen-040",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-040",
+    "entrySceneId": "ep-gen-040/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-040/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "롯의 집에 온 방문객",
+        "linesKo": [
+          "롯이 손님을 맞음",
+          "폭력적 군중이 집을 에워쌈",
+          "방문객이 롯을 보호함"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-040/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-040/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-040/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-040/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-040"
+            }
+          },
+          {
+            "id": "ep-gen-040/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-040/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-040/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-040/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-040/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-040/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-040/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.19.1-GEN.19.11",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-040/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-040/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: sodom",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다."
+        ],
+        "autoNext": "ep-gen-040/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-040/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "이 장면의 주요 장소는?"
+        ],
+        "autoNext": "ep-gen-040/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-040/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "방문객이 롯을 보호함"
+        ],
+        "autoNext": "ep-gen-041",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-041",
+    "entrySceneId": "ep-gen-041/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-041/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "롯 가족의 탈출",
+        "linesKo": [
+          "방문객의 탈출 경고",
+          "롯 가족이 도시를 떠남",
+          "소알로 피신 요청"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-041/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-041/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-041/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-041/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-041"
+            }
+          },
+          {
+            "id": "ep-gen-041/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-041/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-041/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-041/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-041/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-041/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-041/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.19.12-GEN.19.22",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-041/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-041/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: sodom, zoar",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다."
+        ],
+        "autoNext": "ep-gen-041/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-041/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "롯이 피신하도록 허용받은 도시는?"
+        ],
+        "autoNext": "ep-gen-041/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-041/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "소알로 피신 요청"
+        ],
+        "autoNext": "ep-gen-042",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-042",
+    "entrySceneId": "ep-gen-042/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-042/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "소돔과 고모라의 멸망",
+        "linesKo": [
+          "소돔과 고모라의 멸망",
+          "롯의 아내에 관한 서술",
+          "아브라함이 멀리서 연기를 봄"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-042/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-042/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-042/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-042/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-042"
+            }
+          },
+          {
+            "id": "ep-gen-042/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-042/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-042/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-042/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-042/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-042/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-042/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.19.23-GEN.19.29",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-042/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-042/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: sodom, gomorrah",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다."
+        ],
+        "autoNext": "ep-gen-042/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-042/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "멀리서 연기를 본 인물은?"
+        ],
+        "autoNext": "ep-gen-042/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-042/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "아브라함이 멀리서 연기를 봄"
+        ],
+        "autoNext": "ep-gen-043",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-043",
+    "entrySceneId": "ep-gen-043/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-043/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "롯과 두 딸의 후일담",
+        "linesKo": [
+          "롯과 두 딸이 산지 동굴에 거주",
+          "두 딸의 행동과 출산",
+          "모압과 암몬 조상에 관한 서술"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-043/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-043/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-043/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-043/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-043"
+            }
+          },
+          {
+            "id": "ep-gen-043/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-043/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-043/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-043/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-043/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-043/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-043/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.19.30-GEN.19.38",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-043/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-043/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: moab_ammon_region",
+          "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다."
+        ],
+        "autoNext": "ep-gen-043/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-043/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "후일담에서 연결되는 두 민족은?"
+        ],
+        "autoNext": "ep-gen-043/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-043/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "모압과 암몬 조상에 관한 서술"
+        ],
+        "autoNext": "ep-gen-044",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-044",
+    "entrySceneId": "ep-gen-044/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-044/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "그랄의 아비멜렉",
+        "linesKo": [
+          "아브라함이 그랄로 이동",
+          "사라를 누이라 말함",
+          "아비멜렉이 꿈에서 경고 받음"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-044/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-044/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-044/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-044/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-044"
+            }
+          },
+          {
+            "id": "ep-gen-044/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-044/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-044/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-044/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-044/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-044/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-044/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.20.1-GEN.20.7",
+          "그랄의 정확한 소재지는 불확실하며 왕의 외부 실재 증명이 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-044/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-044/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: gerar",
+          "그랄의 정확한 소재지는 불확실하며 왕의 외부 실재 증명이 없습니다."
+        ],
+        "autoNext": "ep-gen-044/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-044/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브라함이 머문 왕의 도시 이름은?"
+        ],
+        "autoNext": "ep-gen-044/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-044/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "아비멜렉이 꿈에서 경고 받음"
+        ],
+        "autoNext": "ep-gen-045",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-045",
+    "entrySceneId": "ep-gen-045/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-045/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "사라를 돌려보내다",
+        "linesKo": [
+          "아비멜렉이 아브라함을 책망",
+          "사라를 돌려보내고 선물 제공",
+          "아브라함의 기도와 집안 회복"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-045/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-045/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-045/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-045/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-045"
+            }
+          },
+          {
+            "id": "ep-gen-045/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-045/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-045/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-045/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-045/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-045/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-045/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.20.8-GEN.20.18",
+          "그랄의 정확한 소재지는 불확실하며 왕의 외부 실재 증명이 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-045/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-045/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: gerar",
+          "그랄의 정확한 소재지는 불확실하며 왕의 외부 실재 증명이 없습니다."
+        ],
+        "autoNext": "ep-gen-045/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-045/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아비멜렉이 사라에게 한 일은?"
+        ],
+        "autoNext": "ep-gen-045/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-045/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "아브라함의 기도와 집안 회복"
+        ],
+        "autoNext": "ep-gen-046",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-046",
+    "entrySceneId": "ep-gen-046/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-046/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "이삭의 탄생",
+        "linesKo": [
+          "사라가 이삭을 낳음",
+          "아브라함이 이름을 지음",
+          "약속과 기쁨의 연결"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-046/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-046/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-046/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-046/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-046"
+            }
+          },
+          {
+            "id": "ep-gen-046/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-046/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-046/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-046/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-046/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-046/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-046/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.21.1-GEN.21.7",
+          "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-046/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-046/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다."
+        ],
+        "autoNext": "ep-gen-046/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-046/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "이삭을 낳은 사람은?"
+        ],
+        "autoNext": "ep-gen-046/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-046/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "약속과 기쁨의 연결"
+        ],
+        "autoNext": "ep-gen-047",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-047",
+    "entrySceneId": "ep-gen-047/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-047/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "하갈과 이스마엘의 광야",
+        "linesKo": [
+          "가족 갈등으로 하갈과 아들이 떠남",
+          "광야에서 물이 떨어지는 위기",
+          "하나님이 하갈과 아이를 돌보심"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-047/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-047/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-047/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-047/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-047"
+            }
+          },
+          {
+            "id": "ep-gen-047/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-047/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-047/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-047/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-047/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-047/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-047/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.21.8-GEN.21.21",
+          "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-047/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-047/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: beersheba_wilderness, paran",
+          "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다."
+        ],
+        "autoNext": "ep-gen-047/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-047/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "광야에서 하갈이 겪은 위기는?"
+        ],
+        "autoNext": "ep-gen-047/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-047/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "하나님이 하갈과 아이를 돌보심"
+        ],
+        "autoNext": "ep-gen-048",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-048",
+    "entrySceneId": "ep-gen-048/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-048/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "브엘세바의 우물과 맹세",
+        "linesKo": [
+          "아비멜렉과 관계를 확인",
+          "우물 권리를 두고 분쟁 정리",
+          "맹세와 브엘세바의 이름"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-048/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-048/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-048/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-048/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-048"
+            }
+          },
+          {
+            "id": "ep-gen-048/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-048/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-048/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-048/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-048/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-048/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-048/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.21.22-GEN.21.34",
+          "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-048/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-048/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: beersheba",
+          "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다."
+        ],
+        "autoNext": "ep-gen-048/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-048/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "이 이야기에서 분쟁을 일으킨 자원은?"
+        ],
+        "autoNext": "ep-gen-048/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-048/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "맹세와 브엘세바의 이름"
+        ],
+        "autoNext": "ep-gen-049",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-049",
+    "entrySceneId": "ep-gen-049/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-049/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "이삭을 바치라는 시험",
+        "linesKo": [
+          "아브라함이 시험을 받음",
+          "모리아 땅으로 이동",
+          "행위를 멈추게 하고 숫양을 준비하심"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-049/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-049/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-049/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-049/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-049"
+            }
+          },
+          {
+            "id": "ep-gen-049/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-049/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-049/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-049/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-049/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-049/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-049/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.22.1-GEN.22.14",
+          "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-049/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-049/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: moriah_unknown",
+          "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다."
+        ],
+        "autoNext": "ep-gen-049/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-049/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "본문에서 이삭 대신 제물로 드린 것은?"
+        ],
+        "autoNext": "ep-gen-049/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-049/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "행위를 멈추게 하고 숫양을 준비하심"
+        ],
+        "autoNext": "ep-gen-050",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-050",
+    "entrySceneId": "ep-gen-050/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-050/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "약속의 재확인",
+        "linesKo": [
+          "여호와의 사자가 다시 부름",
+          "후손과 복의 약속 재진술",
+          "아브라함이 브엘세바로 돌아감"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-050/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-050/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-050/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-050/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-050"
+            }
+          },
+          {
+            "id": "ep-gen-050/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-050/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-050/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-050/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-050/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-050/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-050/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.22.15-GEN.22.19",
+          "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-050/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-050/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: beersheba",
+          "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다."
+        ],
+        "autoNext": "ep-gen-050/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-050/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브라함이 돌아온 지역은?"
+        ],
+        "autoNext": "ep-gen-050/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-050/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "아브라함이 브엘세바로 돌아감"
+        ],
+        "autoNext": "ep-gen-051",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-051",
+    "entrySceneId": "ep-gen-051/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-051/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "나홀 가문의 소식",
+        "linesKo": [
+          "나홀의 가족 소식을 들음",
+          "브두엘과 리브가 계보 등장",
+          "다음 혼인 이야기의 복선"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-051/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-051/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-051/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-051/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-051"
+            }
+          },
+          {
+            "id": "ep-gen-051/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-051/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-051/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-051/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-051/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-051/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-051/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.22.20-GEN.22.24",
+          "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-051/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-051/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: aramaic_region",
+          "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다."
+        ],
+        "autoNext": "ep-gen-051/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-051/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "이 계보에서 다음 장에 중요해질 인물은?"
+        ],
+        "autoNext": "ep-gen-051/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-051/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "다음 혼인 이야기의 복선"
+        ],
+        "autoNext": "ep-gen-052",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-052",
+    "entrySceneId": "ep-gen-052/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-052/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "사라의 죽음과 매장지 청원",
+        "linesKo": [
+          "사라의 죽음(127세) 서술",
+          "아브라함이 슬퍼함",
+          "매장지를 요청함"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-052/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-052/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-052/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-052/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-052"
+            }
+          },
+          {
+            "id": "ep-gen-052/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-052/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-052/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-052/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-052/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-052/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-052/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.23.1-GEN.23.9",
+          "막벨라 전통 장소와 본문 속 거래 사건은 별도로 분류합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-052/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-052/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: hebron",
+          "막벨라 전통 장소와 본문 속 거래 사건은 별도로 분류합니다."
+        ],
+        "autoNext": "ep-gen-052/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-052/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "사라가 죽은 뒤 아브라함이 요청한 것은?"
+        ],
+        "autoNext": "ep-gen-052/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-052/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "매장지를 요청함"
+        ],
+        "autoNext": "ep-gen-053",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-053",
+    "entrySceneId": "ep-gen-053/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-053/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "막벨라 굴을 사다",
+        "linesKo": [
+          "에브론과 공개 협상",
+          "밭과 굴 값을 지급",
+          "매장 소유지를 확보하고 사라 장사"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-053/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-053/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-053/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-053/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-053"
+            }
+          },
+          {
+            "id": "ep-gen-053/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-053/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-053/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-053/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-053/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-053/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-053/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.23.10-GEN.23.20",
+          "막벨라 전통 장소와 본문 속 거래 사건은 별도로 분류합니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-053/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-053/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: machpelah, hebron",
+          "막벨라 전통 장소와 본문 속 거래 사건은 별도로 분류합니다."
+        ],
+        "autoNext": "ep-gen-053/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-053/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브라함이 매장지로 산 곳은?"
+        ],
+        "autoNext": "ep-gen-053/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-053/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "매장 소유지를 확보하고 사라 장사"
+        ],
+        "autoNext": "ep-gen-054",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-054",
+    "entrySceneId": "ep-gen-054/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-054/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "이삭의 결혼을 위한 파송",
+        "linesKo": [
+          "아브라함이 집안 관리인에게 맹세를 요구",
+          "가나안 사람이 아닌 친족 쪽에서 배우자를 구하도록 지시",
+          "관리인이 약속"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-054/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-054/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-054/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-054/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-054"
+            }
+          },
+          {
+            "id": "ep-gen-054/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-054/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-054/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-054/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-054/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-054/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-054/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.24.1-GEN.24.9",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-054/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-054/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan, aram_naharaim",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-054/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-054/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "혼인 상대를 찾도록 파송한 인물은?"
+        ],
+        "autoNext": "ep-gen-054/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-054/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "관리인이 약속"
+        ],
+        "autoNext": "ep-gen-055",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-055",
+    "entrySceneId": "ep-gen-055/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-055/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "우물에서 만난 리브가",
+        "linesKo": [
+          "관리인이 나홀의 성으로 향함",
+          "우물가에서 리브가의 친절을 봄",
+          "관리인이 감사"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-055/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-055/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-055/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-055/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-055"
+            }
+          },
+          {
+            "id": "ep-gen-055/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-055/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-055/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-055/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-055/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-055/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-055/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.24.10-GEN.24.27",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-055/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-055/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: nahor_city",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-055/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-055/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "리브가가 관리인의 낙타를 위해 한 행동은?"
+        ],
+        "autoNext": "ep-gen-055/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-055/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "관리인이 감사"
+        ],
+        "autoNext": "ep-gen-056",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-056",
+    "entrySceneId": "ep-gen-056/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-056/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "집안에 전해진 사명",
+        "linesKo": [
+          "리브가가 가족에게 알림",
+          "관리인이 목적과 과정 설명",
+          "가족의 답을 구함"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-056/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-056/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-056/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-056/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-056"
+            }
+          },
+          {
+            "id": "ep-gen-056/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-056/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-056/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-056/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-056/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-056/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-056/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.24.28-GEN.24.49",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-056/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-056/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: nahor_city",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-056/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-056/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "리브가에게서 소식을 듣고 달려온 가족 인물은?"
+        ],
+        "autoNext": "ep-gen-056/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-056/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "가족의 답을 구함"
+        ],
+        "autoNext": "ep-gen-057",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-057",
+    "entrySceneId": "ep-gen-057/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-057/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "리브가의 동의와 떠남",
+        "linesKo": [
+          "가족이 혼인을 허락함",
+          "리브가 본인에게 의사를 물음",
+          "리브가가 떠나기로 답하고 출발"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-057/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-057/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-057/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-057/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-057"
+            }
+          },
+          {
+            "id": "ep-gen-057/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-057/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-057/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-057/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-057/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-057/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-057/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.24.50-GEN.24.61",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-057/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-057/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: nahor_city, canaan",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-057/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-057/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "떠날지 묻는 질문에 리브가가 한 선택은?"
+        ],
+        "autoNext": "ep-gen-057/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-057/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "리브가가 떠나기로 답하고 출발"
+        ],
+        "autoNext": "ep-gen-058",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-058",
+    "entrySceneId": "ep-gen-058/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-058/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "이삭과 리브가의 만남",
+        "linesKo": [
+          "이삭이 들판에 나옴",
+          "리브가와 관리인이 도착",
+          "이삭이 리브가를 아내로 맞음"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-058/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-058/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-058/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-058/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-058"
+            }
+          },
+          {
+            "id": "ep-gen-058/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-058/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-058/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-058/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-058/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-058/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-058/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.24.62-GEN.24.67",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-058/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-058/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: beer_lahai_roi, negeb",
+          "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다."
+        ],
+        "autoNext": "ep-gen-058/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-058/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "리브가와 결혼한 사람은?"
+        ],
+        "autoNext": "ep-gen-058/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-058/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "이삭이 리브가를 아내로 맞음"
+        ],
+        "autoNext": "ep-gen-059",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-059",
+    "entrySceneId": "ep-gen-059/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-059/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "그두라와 후손의 계보",
+        "linesKo": [
+          "그두라의 자녀 이름 기록",
+          "여러 계열의 후손 연결",
+          "이삭과 다른 아들들에게 재산을 분배"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-059/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-059/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-059/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-059/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-059"
+            }
+          },
+          {
+            "id": "ep-gen-059/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-059/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-059/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-059/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-059/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-059/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-059/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.25.1-GEN.25.6",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-059/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-059/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: eastern_regions",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다."
+        ],
+        "autoNext": "ep-gen-059/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-059/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "그두라에게서 나온 후손 중 이름이 기록된 인물은?"
+        ],
+        "autoNext": "ep-gen-059/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-059/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "이삭과 다른 아들들에게 재산을 분배"
+        ],
+        "autoNext": "ep-gen-060",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-060",
+    "entrySceneId": "ep-gen-060/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-060/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "아브라함의 죽음과 장례",
+        "linesKo": [
+          "아브라함의 생애 175년 기록",
+          "이삭과 이스마엘이 장사",
+          "이삭을 향한 축복과 이후 거처"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-060/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-060/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-060/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-060/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-060"
+            }
+          },
+          {
+            "id": "ep-gen-060/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-060/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-060/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-060/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-060/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-060/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-060/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.25.7-GEN.25.11",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-060/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-060/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: machpelah, beer_lahai_roi",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다."
+        ],
+        "autoNext": "ep-gen-060/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-060/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "아브라함을 함께 장사한 두 아들은?"
+        ],
+        "autoNext": "ep-gen-060/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-060/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "이삭을 향한 축복과 이후 거처"
+        ],
+        "autoNext": "ep-gen-061",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-061",
+    "entrySceneId": "ep-gen-061/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-061/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "이스마엘의 열두 족장",
+        "linesKo": [
+          "이스마엘 자손의 이름 기록",
+          "열두 족장과 거처 서술",
+          "이스마엘 삶의 마무리"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-061/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-061/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-061/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-061/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-061"
+            }
+          },
+          {
+            "id": "ep-gen-061/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-061/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-061/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-061/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-061/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-061/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-061/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.25.12-GEN.25.18",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-061/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-061/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: eastern_regions",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다."
+        ],
+        "autoNext": "ep-gen-061/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-061/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "본문이 기록하는 이스마엘 후손의 족장은 몇 명인가?"
+        ],
+        "autoNext": "ep-gen-061/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-061/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "이스마엘 삶의 마무리"
+        ],
+        "autoNext": "ep-gen-062",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-062",
+    "entrySceneId": "ep-gen-062/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-062/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "에서와 야곱의 탄생",
+        "linesKo": [
+          "리브가의 임신과 질문",
+          "쌍둥이에 관한 말씀",
+          "에서와 야곱 출생"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-062/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-062/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-062/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-062/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-062"
+            }
+          },
+          {
+            "id": "ep-gen-062/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-062/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-062/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-062/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-062/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-062/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-062/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.25.19-GEN.25.26",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-062/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-062/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다."
+        ],
+        "autoNext": "ep-gen-062/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-062/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "이스마엘 후대 다음에 본문이 전개하는 형제는?"
+        ],
+        "autoNext": "ep-gen-062/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-062/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "에서와 야곱 출생"
+        ],
+        "autoNext": "ep-gen-063",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  },
+  {
+    "episodeId": "ep-gen-063",
+    "entrySceneId": "ep-gen-063/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-063/opening",
+        "sceneType": "canonical_intro",
+        "headingKo": "장자의 명분 거래",
+        "linesKo": [
+          "형제의 성격과 부모의 편애",
+          "지친 에서가 음식을 요청",
+          "에서가 장자의 명분을 팔음"
+        ],
+        "autoNext": null,
+        "choices": [
+          {
+            "id": "ep-gen-063/choice-lens",
+            "kind": "narrative_perspective",
+            "labelKo": "관점 카드 보기",
+            "next": "ep-gen-063/lens",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-063/choice-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·사료 구분",
+            "next": "ep-gen-063/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "S01B-CLAIM-063"
+            }
+          },
+          {
+            "id": "ep-gen-063/choice-atlas",
+            "kind": "learning_focus",
+            "labelKo": "지리·이동 살펴보기",
+            "next": "ep-gen-063/atlas",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          },
+          {
+            "id": "ep-gen-063/choice-reflection",
+            "kind": "reflection",
+            "labelKo": "질문·복습",
+            "next": "ep-gen-063/reflection",
+            "effect": {
+              "type": "open_panel",
+              "value": "lesson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-063/lens",
+        "sceneType": "perspective_lens",
+        "headingKo": "관점과 본문",
+        "linesKo": [
+          "인물 시점은 성경의 행동과 말만 요약; 미기록 대사·심리 창작 불허",
+          "가상 목격자는 창작 표시 후 주변 공간 관찰만 가능"
+        ],
+        "autoNext": "ep-gen-063/locked-outcome",
+        "choices": [],
+        "perspectiveOptions": [
+          {
+            "id": "observer",
+            "labelKo": "성경 독자/관찰자",
+            "policy": "본문에 명시된 인물·사건의 외부 서술만 보여줌",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "character_lens_without_unrecorded_dialogue",
+            "labelKo": "성경 인물 중심 보기",
+            "policy": "본문에 기록된 인물의 행동과 발언만 선택적으로 강조; 미기록 심리·대화 금지",
+            "effect": {
+              "type": "set_perspective",
+              "value": "character_lens_without_unrecorded_dialogue"
+            }
+          },
+          {
+            "id": "fictional_witness_explicitly_labeled",
+            "labelKo": "가상 목격자 시점",
+            "policy": "가상의 주변 관찰자임을 상시 고지; 가상 대사는 역사 자료와 시각적으로 분리",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness_explicitly_labeled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-063/evidence",
+        "sceneType": "evidence_drawer",
+        "headingKo": "근거 보기",
+        "linesKo": [
+          "GEN.25.27-GEN.25.34",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+          "성경에 기록된 일과 외부 사료로 확립된 일을 구분합니다."
+        ],
+        "autoNext": "ep-gen-063/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-063/atlas",
+        "sceneType": "atlas_view",
+        "headingKo": "지리와 관계 지도",
+        "linesKo": [
+          "선택된 위치: canaan",
+          "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다."
+        ],
+        "autoNext": "ep-gen-063/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-063/reflection",
+        "sceneType": "learning_check",
+        "headingKo": "학습 질문",
+        "linesKo": [
+          "에서가 야곱에게 판 것은?"
+        ],
+        "autoNext": "ep-gen-063/locked-outcome",
+        "choices": []
+      },
+      {
+        "id": "ep-gen-063/locked-outcome",
+        "sceneType": "locked_canonical_outcome",
+        "headingKo": "본문 결말 확인",
+        "linesKo": [
+          "에서가 장자의 명분을 팔음"
+        ],
+        "autoNext": "handoff-gen-026",
+        "choices": []
+      }
+    ],
+    "globalChoiceRule": "choice_affects_ui_only_never_canonical_story"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "aliasId": "handoff-gen-037",
+    "resolvesTo": "ep-gen-116",
+    "fromStage": "S01C",
+    "toStage": "S01D",
+    "notes": "S01C final ID ep-gen-115 remains unchanged. Resolve alias at router."
+  },
+  {
+    "aliasId": "handoff-exo-001",
+    "resolvesTo": null,
+    "fromStage": "S01D",
+    "toStage": "S02",
+    "notes": "출애굽기 상세 설계 전에는 콘텐츠 잠금; 창세기 끝을 임의의 후속 사건으로 바꾸지 않음"
+  }
+]

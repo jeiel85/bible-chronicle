@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "art-gen-116",
+    "episodeId": "ep-gen-116",
+    "visualBriefKo": "색실 옷과 갈라진 목자들의 거리감",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "색실 옷과 갈라진 목자들의 거리감",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-117",
+    "episodeId": "ep-gen-117",
+    "visualBriefKo": "광대한 하늘의 해 달 별을 읽는 관찰 지도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "광대한 하늘의 해 달 별을 읽는 관찰 지도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-118",
+    "episodeId": "ep-gen-118",
+    "visualBriefKo": "세겜에서 도단으로 이어지는 점선 서사 경로",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "세겜에서 도단으로 이어지는 점선 서사 경로",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-119",
+    "episodeId": "ep-gen-119",
+    "visualBriefKo": "비어 있는 물웅덩이와 멀리 지나가는 상인 무리",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "child_trafficking"
+    ],
+    "altTextKo": "비어 있는 물웅덩이와 멀리 지나가는 상인 무리",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-120",
+    "episodeId": "ep-gen-120",
+    "visualBriefKo": "피 묻은 옷은 화면에 직접 확대하지 않는 슬픔의 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "grief",
+      "child_trafficking"
+    ],
+    "altTextKo": "피 묻은 옷은 화면에 직접 확대하지 않는 슬픔의 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-121",
+    "episodeId": "ep-gen-121",
+    "visualBriefKo": "한 집의 빈 자리와 다말의 기다림을 상징하는 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death",
+      "sexual_ethics"
+    ],
+    "altTextKo": "한 집의 빈 자리와 다말의 기다림을 상징하는 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-122",
+    "episodeId": "ep-gen-122",
+    "visualBriefKo": "인물 접촉 묘사 없이 증표 세 물건의 정물화",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "sexual_ethics",
+      "adult_theme"
+    ],
+    "altTextKo": "인물 접촉 묘사 없이 증표 세 물건의 정물화",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-123",
+    "episodeId": "ep-gen-123",
+    "visualBriefKo": "빈 길목과 손에 든 염소를 상징적으로 표현",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "adult_theme"
+    ],
+    "altTextKo": "빈 길목과 손에 든 염소를 상징적으로 표현",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-124",
+    "episodeId": "ep-gen-124",
+    "visualBriefKo": "심판 자리의 도장 지팡이와 생명 보호의 상징",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "threatened_execution",
+      "sexual_ethics"
+    ],
+    "altTextKo": "심판 자리의 도장 지팡이와 생명 보호의 상징",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-125",
+    "episodeId": "ep-gen-125",
+    "visualBriefKo": "붉은 실과 족보 두 갈래를 병치",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "birth"
+    ],
+    "altTextKo": "붉은 실과 족보 두 갈래를 병치",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-126",
+    "episodeId": "ep-gen-126",
+    "visualBriefKo": "애굽 가옥 창고의 기록판과 관리 업무",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "애굽 가옥 창고의 기록판과 관리 업무",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-127",
+    "episodeId": "ep-gen-127",
+    "visualBriefKo": "사건을 직접 묘사하지 않고 열린 출입문과 남겨진 옷",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "sexual_coercion"
+    ],
+    "altTextKo": "사건을 직접 묘사하지 않고 열린 출입문과 남겨진 옷",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-128",
+    "episodeId": "ep-gen-128",
+    "visualBriefKo": "증거라고 내미는 옷과 불균형한 권력 관계",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "false_accusation",
+      "sexual_coercion"
+    ],
+    "altTextKo": "증거라고 내미는 옷과 불균형한 권력 관계",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-129",
+    "episodeId": "ep-gen-129",
+    "visualBriefKo": "아래로 내려가는 감옥 복도와 위쪽 작은 빛",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "imprisonment"
+    ],
+    "altTextKo": "아래로 내려가는 감옥 복도와 위쪽 작은 빛",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-130",
+    "episodeId": "ep-gen-130",
+    "visualBriefKo": "서로 다른 빵·포도 상징물과 감옥 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "서로 다른 빵·포도 상징물과 감옥 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-131",
+    "episodeId": "ep-gen-131",
+    "visualBriefKo": "포도송이 세 가지를 상징하는 꿈 일러스트",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "포도송이 세 가지를 상징하는 꿈 일러스트",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-132",
+    "episodeId": "ep-gen-132",
+    "visualBriefKo": "세 바구니에 놓인 빵을 과장 없이 표현",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death_sentence"
+    ],
+    "altTextKo": "세 바구니에 놓인 빵을 과장 없이 표현",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-133",
+    "episodeId": "ep-gen-133",
+    "visualBriefKo": "열린 궁전 문과 닫힌 감옥 문 대비",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "execution"
+    ],
+    "altTextKo": "열린 궁전 문과 닫힌 감옥 문 대비",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-134",
+    "episodeId": "ep-gen-134",
+    "visualBriefKo": "나일강 옆 일곱 마리 암소와 곡식 이삭 두 그림",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "나일강 옆 일곱 마리 암소와 곡식 이삭 두 그림",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-135",
+    "episodeId": "ep-gen-135",
+    "visualBriefKo": "궁전 문턱 앞에서 점토 문서를 든 관원",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "궁전 문턱 앞에서 점토 문서를 든 관원",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-136",
+    "episodeId": "ep-gen-136",
+    "visualBriefKo": "곡식 막대 그래프 위 풍년에서 흉년으로 전환",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "곡식 막대 그래프 위 풍년에서 흉년으로 전환",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-137",
+    "episodeId": "ep-gen-137",
+    "visualBriefKo": "창고·수확물·기록판을 보여주는 관리형 UI",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "창고·수확물·기록판을 보여주는 관리형 UI",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-138",
+    "episodeId": "ep-gen-138",
+    "visualBriefKo": "인장 반지와 린넨 의복을 역사 단정 없이 재구성",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "인장 반지와 린넨 의복을 역사 단정 없이 재구성",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-139",
+    "episodeId": "ep-gen-139",
+    "visualBriefKo": "저장 창고와 두 아이의 계보 카드",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "저장 창고와 두 아이의 계보 카드",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-140",
+    "episodeId": "ep-gen-140",
+    "visualBriefKo": "창고가 열린 도시를 가리키는 교역 개념 지도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "famine"
+    ],
+    "altTextKo": "창고가 열린 도시를 가리키는 교역 개념 지도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-141",
+    "episodeId": "ep-gen-141",
+    "visualBriefKo": "가나안에서 애굽까지 확정 좌표 없는 이동 화살표",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "famine"
+    ],
+    "altTextKo": "가나안에서 애굽까지 확정 좌표 없는 이동 화살표",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-142",
+    "episodeId": "ep-gen-142",
+    "visualBriefKo": "서로의 시야가 어긋난 궁전 접견실",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "imprisonment"
+    ],
+    "altTextKo": "서로의 시야가 어긋난 궁전 접견실",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-143",
+    "episodeId": "ep-gen-143",
+    "visualBriefKo": "형제 중 한 사람만 떨어진 채 열린 창고 문",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "guilt",
+      "imprisonment"
+    ],
+    "altTextKo": "형제 중 한 사람만 떨어진 채 열린 창고 문",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-144",
+    "episodeId": "ep-gen-144",
+    "visualBriefKo": "곡식 자루의 동전과 물음표 UI",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "곡식 자루의 동전과 물음표 UI",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-145",
+    "episodeId": "ep-gen-145",
+    "visualBriefKo": "빈 자리 둘을 강조한 가족 회합 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "grief"
+    ],
+    "altTextKo": "빈 자리 둘을 강조한 가족 회합 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-146",
+    "episodeId": "ep-gen-146",
+    "visualBriefKo": "유다가 야곱 앞에서 책임을 말하는 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "famine"
+    ],
+    "altTextKo": "유다가 야곱 앞에서 책임을 말하는 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-147",
+    "episodeId": "ep-gen-147",
+    "visualBriefKo": "향료와 꿀 등 예물을 담은 보따리 정물화",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "famine"
+    ],
+    "altTextKo": "향료와 꿀 등 예물을 담은 보따리 정물화",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-148",
+    "episodeId": "ep-gen-148",
+    "visualBriefKo": "식탁 준비와 긴장된 입구를 보여주는 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "식탁 준비와 긴장된 입구를 보여주는 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-149",
+    "episodeId": "ep-gen-149",
+    "visualBriefKo": "서열대로 차린 식탁과 서로 다른 음식 그릇",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "grief"
+    ],
+    "altTextKo": "서열대로 차린 식탁과 서로 다른 음식 그릇",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-150",
+    "episodeId": "ep-gen-150",
+    "visualBriefKo": "여행 자루와 은잔 하나를 중심으로 한 정물화",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "여행 자루와 은잔 하나를 중심으로 한 정물화",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-151",
+    "episodeId": "ep-gen-151",
+    "visualBriefKo": "자루가 열리고 낙담한 형제들의 실루엣",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "false_accusation"
+    ],
+    "altTextKo": "자루가 열리고 낙담한 형제들의 실루엣",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-152",
+    "episodeId": "ep-gen-152",
+    "visualBriefKo": "관직의 권력과 낮아진 형제들 대비",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "coercive_power"
+    ],
+    "altTextKo": "관직의 권력과 낮아진 형제들 대비",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-153",
+    "episodeId": "ep-gen-153",
+    "visualBriefKo": "유다가 가족을 대신하여 선 궁정 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "family_grief"
+    ],
+    "altTextKo": "유다가 가족을 대신하여 선 궁정 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-154",
+    "episodeId": "ep-gen-154",
+    "visualBriefKo": "닫힌 궁정에서 재회하는 형제들의 실루엣",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "reconciliation"
+    ],
+    "altTextKo": "닫힌 궁정에서 재회하는 형제들의 실루엣",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-155",
+    "episodeId": "ep-gen-155",
+    "visualBriefKo": "고센은 광역 표시만 하고 아버지를 기다리는 자리",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "reconciliation"
+    ],
+    "altTextKo": "고센은 광역 표시만 하고 아버지를 기다리는 자리",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-156",
+    "episodeId": "ep-gen-156",
+    "visualBriefKo": "이주를 위한 수레와 식량 보급 그림",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "이주를 위한 수레와 식량 보급 그림",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-157",
+    "episodeId": "ep-gen-157",
+    "visualBriefKo": "노년의 야곱에게 도착한 수레 실루엣",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "grief",
+      "reconciliation"
+    ],
+    "altTextKo": "노년의 야곱에게 도착한 수레 실루엣",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-158",
+    "episodeId": "ep-gen-158",
+    "visualBriefKo": "브엘세바의 제단과 애굽 방향 점선 경로",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "브엘세바의 제단과 애굽 방향 점선 경로",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-159",
+    "episodeId": "ep-gen-159",
+    "visualBriefKo": "가족 명단이 갈라지는 계보 트리 UI",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "genealogy"
+    ],
+    "altTextKo": "가족 명단이 갈라지는 계보 트리 UI",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-160",
+    "episodeId": "ep-gen-160",
+    "visualBriefKo": "고센이라는 텍스트 레이블과 부자 재회의 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "reconciliation"
+    ],
+    "altTextKo": "고센이라는 텍스트 레이블과 부자 재회의 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-161",
+    "episodeId": "ep-gen-161",
+    "visualBriefKo": "양 떼와 목초지를 상징하는 이주 생활도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "양 떼와 목초지를 상징하는 이주 생활도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-162",
+    "episodeId": "ep-gen-162",
+    "visualBriefKo": "목자들이 궁전에서 생업을 소개하는 대화 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "목자들이 궁전에서 생업을 소개하는 대화 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-163",
+    "episodeId": "ep-gen-163",
+    "visualBriefKo": "노인 야곱과 왕의 대화 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "노인 야곱과 왕의 대화 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-164",
+    "episodeId": "ep-gen-164",
+    "visualBriefKo": "기근·시장·토지 소유권 변화를 비교하는 교육용 도표",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "famine",
+      "economic_inequality"
+    ],
+    "altTextKo": "기근·시장·토지 소유권 변화를 비교하는 교육용 도표",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-165",
+    "episodeId": "ep-gen-165",
+    "visualBriefKo": "저장 창고 세금 흐름의 인터랙티브 개념도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "economic_inequality"
+    ],
+    "altTextKo": "저장 창고 세금 흐름의 인터랙티브 개념도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-166",
+    "episodeId": "ep-gen-166",
+    "visualBriefKo": "고센과 가나안 사이 회고 지도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death",
+      "grief"
+    ],
+    "altTextKo": "고센과 가나안 사이 회고 지도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-167",
+    "episodeId": "ep-gen-167",
+    "visualBriefKo": "세 세대가 마주 앉은 계보의 방",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "illness"
+    ],
+    "altTextKo": "세 세대가 마주 앉은 계보의 방",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-168",
+    "episodeId": "ep-gen-168",
+    "visualBriefKo": "교차된 두 손과 형제 명패를 강조",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "교차된 두 손과 형제 명패를 강조",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-169",
+    "episodeId": "ep-gen-169",
+    "visualBriefKo": "형제 순서가 교차되는 계보 오버레이",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "형제 순서가 교차되는 계보 오버레이",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-170",
+    "episodeId": "ep-gen-170",
+    "visualBriefKo": "가나안을 향하는 상징적 지도의 빛",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death"
+    ],
+    "altTextKo": "가나안을 향하는 상징적 지도의 빛",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-171",
+    "episodeId": "ep-gen-171",
+    "visualBriefKo": "원형으로 둘러앉은 아들들과 첫 번째 명패",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "원형으로 둘러앉은 아들들과 첫 번째 명패",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-172",
+    "episodeId": "ep-gen-172",
+    "visualBriefKo": "열두 지파 상징 패턴 중 유다의 사자 시어",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "violence",
+      "poetry"
+    ],
+    "altTextKo": "열두 지파 상징 패턴 중 유다의 사자 시어",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-173",
+    "episodeId": "ep-gen-173",
+    "visualBriefKo": "지파별 시어가 펼쳐지는 문학 카드 UI",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "poetry"
+    ],
+    "altTextKo": "지파별 시어가 펼쳐지는 문학 카드 UI",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-174",
+    "episodeId": "ep-gen-174",
+    "visualBriefKo": "요셉 포도나무와 베냐민 비유를 상징 패턴으로",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "poetry"
+    ],
+    "altTextKo": "요셉 포도나무와 베냐민 비유를 상징 패턴으로",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-175",
+    "episodeId": "ep-gen-175",
+    "visualBriefKo": "동굴 입구와 한 세대의 종료를 상징하는 그림",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death",
+      "grief"
+    ],
+    "altTextKo": "동굴 입구와 한 세대의 종료를 상징하는 그림",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-176",
+    "episodeId": "ep-gen-176",
+    "visualBriefKo": "국경을 고정하지 않는 장례 행렬 개념 지도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death",
+      "grief"
+    ],
+    "altTextKo": "국경을 고정하지 않는 장례 행렬 개념 지도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-177",
+    "episodeId": "ep-gen-177",
+    "visualBriefKo": "위협하는 칼이 아니라 화해의 손과 열린 문",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "reconciliation",
+      "guilt"
+    ],
+    "altTextKo": "위협하는 칼이 아니라 화해의 손과 열린 문",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-178",
+    "episodeId": "ep-gen-178",
+    "visualBriefKo": "세대별 족보 트리가 확장되는 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "genealogy"
+    ],
+    "altTextKo": "세대별 족보 트리가 확장되는 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-179",
+    "episodeId": "ep-gen-179",
+    "visualBriefKo": "관 위로 이어지는 출애굽 이야기의 빛과 길",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly ancient Near Eastern inspired illustration, muted mineral colors, historically cautious; do not imitate proprietary strategy game art or UI",
+    "avoid": [
+      "기존 상용 게임의 캐릭터/아트/UI 복제",
+      "성경에 없는 인물의 직접 인용 대사·감정 사실화",
+      "요셉 시대의 정확한 왕조/복장/궁정 특정 주장",
+      "실존 유물 복제 시 무허가 이미지 사용",
+      "잔혹 장면·성폭력 묘사·선정적 재현"
+    ],
+    "sensitive": [
+      "death",
+      "grief"
+    ],
+    "altTextKo": "관 위로 이어지는 출애굽 이야기의 빛과 길",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "egyptology_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "인물/상징물은 가운데 배치하고 UI 텍스트 안전영역 확보",
+      "landscape": "넓은 서사 일러스트 + 지도 및 근거 패널 이중 열",
+      "desktop": "16:9 무자막 원본 이미지 + 별도 접근성 텍스트 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  }
+]

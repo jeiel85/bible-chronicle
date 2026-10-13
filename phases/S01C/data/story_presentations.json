@@ -1,0 +1,678 @@
+[
+  {
+    "episodeId": "ep-gen-064",
+    "displayTitleKo": "이삭에게 이어진 약속",
+    "openingLineKo": "기근에 이삭이 그랄로 감",
+    "finalRevealKo": "아브라함에게 주어진 약속이 이삭에게 재확인됨",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-064"
+  },
+  {
+    "episodeId": "ep-gen-065",
+    "displayTitleKo": "리브가를 누이라 말하다",
+    "openingLineKo": "이삭이 리브가를 누이라고 소개함",
+    "finalRevealKo": "왕이 부부를 해치지 말라고 명함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-065"
+  },
+  {
+    "episodeId": "ep-gen-066",
+    "displayTitleKo": "풍요와 시기",
+    "openingLineKo": "이삭이 농사에서 풍성한 소출을 얻음",
+    "finalRevealKo": "이삭이 그랄 골짜기로 옮겨 감",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-066"
+  },
+  {
+    "episodeId": "ep-gen-067",
+    "displayTitleKo": "에섹·싯나·르호봇",
+    "openingLineKo": "아버지 때의 우물을 다시 팜",
+    "finalRevealKo": "르호봇의 우물에서는 다투지 않음",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-067"
+  },
+  {
+    "episodeId": "ep-gen-068",
+    "displayTitleKo": "브엘세바의 제단",
+    "openingLineKo": "이삭이 브엘세바로 감",
+    "finalRevealKo": "제단을 쌓고 장막을 침",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-068"
+  },
+  {
+    "episodeId": "ep-gen-069",
+    "displayTitleKo": "아비멜렉과 언약",
+    "openingLineKo": "아비멜렉 일행이 이삭을 찾아옴",
+    "finalRevealKo": "우물의 물을 얻어 이름을 붙임",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-069"
+  },
+  {
+    "episodeId": "ep-gen-070",
+    "displayTitleKo": "에서의 혼인",
+    "openingLineKo": "에서가 헷 족속 여인 둘과 혼인함",
+    "finalRevealKo": "이 일로 이삭과 리브가의 마음이 근심하게 됨",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-070"
+  },
+  {
+    "episodeId": "ep-gen-071",
+    "displayTitleKo": "맏아들을 부른 이삭",
+    "openingLineKo": "늙은 이삭의 시력이 약해짐",
+    "finalRevealKo": "축복을 준비함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-071"
+  },
+  {
+    "episodeId": "ep-gen-072",
+    "displayTitleKo": "리브가와 야곱의 계획",
+    "openingLineKo": "리브가가 말을 엿듣고 야곱에게 알림",
+    "finalRevealKo": "야곱이 아버지에게 다가감",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-072"
+  },
+  {
+    "episodeId": "ep-gen-073",
+    "displayTitleKo": "야곱이 받은 축복",
+    "openingLineKo": "야곱이 자신을 에서라고 말함",
+    "finalRevealKo": "마침내 야곱에게 축복함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-073"
+  },
+  {
+    "episodeId": "ep-gen-074",
+    "displayTitleKo": "에서의 눈물",
+    "openingLineKo": "에서가 사냥에서 돌아옴",
+    "finalRevealKo": "이삭이 에서에게도 장래에 관한 말을 전함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-074"
+  },
+  {
+    "episodeId": "ep-gen-075",
+    "displayTitleKo": "형제 사이의 위기",
+    "openingLineKo": "에서가 야곱에게 분노함",
+    "finalRevealKo": "혼인 문제를 들어 이삭에게 의견을 말함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-075"
+  },
+  {
+    "episodeId": "ep-gen-076",
+    "displayTitleKo": "고향을 떠나는 야곱",
+    "openingLineKo": "이삭이 야곱을 축복하여 외가로 보냄",
+    "finalRevealKo": "에서가 이스마엘 가문의 여인과도 혼인함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-076"
+  },
+  {
+    "episodeId": "ep-gen-077",
+    "displayTitleKo": "벧엘의 꿈",
+    "openingLineKo": "야곱이 브엘세바에서 하란으로 길을 감",
+    "finalRevealKo": "하나님이 약속하시고 야곱이 경외함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-077"
+  },
+  {
+    "episodeId": "ep-gen-078",
+    "displayTitleKo": "벧엘의 기둥과 서원",
+    "openingLineKo": "야곱이 아침에 돌을 세우고 기름을 부음",
+    "finalRevealKo": "하나님 앞에서 서원을 함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-078"
+  },
+  {
+    "episodeId": "ep-gen-079",
+    "displayTitleKo": "우물가의 라헬",
+    "openingLineKo": "야곱이 동방 사람들의 땅에 도착함",
+    "finalRevealKo": "라반의 집에서 환영받음",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-079"
+  },
+  {
+    "episodeId": "ep-gen-080",
+    "displayTitleKo": "칠 년의 수고",
+    "openingLineKo": "라반이 임금에 대해 물음",
+    "finalRevealKo": "긴 시간이 사랑으로 짧게 여겨졌다고 서술됨",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-080"
+  },
+  {
+    "episodeId": "ep-gen-081",
+    "displayTitleKo": "혼인의 속임과 두 아내",
+    "openingLineKo": "라반이 잔치를 열고 레아를 들여보냄",
+    "finalRevealKo": "라헬과도 혼인하고 추가 일곱 해를 섬김",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-081"
+  },
+  {
+    "episodeId": "ep-gen-082",
+    "displayTitleKo": "레아의 네 아들",
+    "openingLineKo": "레아가 사랑받지 못하는 상황이 서술됨",
+    "finalRevealKo": "이름에 얽힌 고백이 기록됨",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-082"
+  },
+  {
+    "episodeId": "ep-gen-083",
+    "displayTitleKo": "라헬과 빌하",
+    "openingLineKo": "라헬이 자녀 문제로 괴로워함",
+    "finalRevealKo": "가족 관계의 긴장이 이어짐",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-083"
+  },
+  {
+    "episodeId": "ep-gen-084",
+    "displayTitleKo": "레아와 실바",
+    "openingLineKo": "레아가 자신의 종 실바를 야곱에게 줌",
+    "finalRevealKo": "가족 계보가 확장됨",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-084"
+  },
+  {
+    "episodeId": "ep-gen-085",
+    "displayTitleKo": "합환채와 가족의 확장",
+    "openingLineKo": "르우벤이 들에서 합환채를 구함",
+    "finalRevealKo": "잇사갈·스불론과 딸 디나가 태어남",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-085"
+  },
+  {
+    "episodeId": "ep-gen-086",
+    "displayTitleKo": "요셉의 탄생",
+    "openingLineKo": "하나님이 라헬을 기억하셨다고 본문이 전함",
+    "finalRevealKo": "또 다른 아들을 바라는 이름 풀이가 이어짐",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-086"
+  },
+  {
+    "episodeId": "ep-gen-087",
+    "displayTitleKo": "고향으로 돌아갈 때",
+    "openingLineKo": "요셉이 태어난 뒤 야곱이 떠나기를 요청함",
+    "finalRevealKo": "양 떼와 염소 떼를 나누어 관리함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-087"
+  },
+  {
+    "episodeId": "ep-gen-088",
+    "displayTitleKo": "가축 번식 이야기",
+    "openingLineKo": "야곱이 나뭇가지 껍질을 벗겨 물구유에 둠",
+    "finalRevealKo": "오늘날 생물학적 번식 원리로 단정하지 않음",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-088"
+  },
+  {
+    "episodeId": "ep-gen-089",
+    "displayTitleKo": "떠날 결심",
+    "openingLineKo": "라반 아들들의 말과 라반의 태도가 달라짐",
+    "finalRevealKo": "라헬과 레아가 함께 떠나는 데 동의함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-089"
+  },
+  {
+    "episodeId": "ep-gen-090",
+    "displayTitleKo": "라반의 집을 떠나다",
+    "openingLineKo": "야곱이 가족과 가축을 이끌고 출발함",
+    "finalRevealKo": "야곱이 라반에게 알리지 않고 길을 떠남",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-090"
+  },
+  {
+    "episodeId": "ep-gen-091",
+    "displayTitleKo": "추격과 수색",
+    "openingLineKo": "라반이 뒤늦게 소식을 듣고 추격함",
+    "finalRevealKo": "드라빔을 찾지 못하고 수색이 끝남",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-091"
+  },
+  {
+    "episodeId": "ep-gen-092",
+    "displayTitleKo": "야곱의 항변",
+    "openingLineKo": "야곱이 수색과 오랜 노동에 항변함",
+    "finalRevealKo": "공정한 보상과 보호를 이야기함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-092"
+  },
+  {
+    "episodeId": "ep-gen-093",
+    "displayTitleKo": "언약의 돌무더기",
+    "openingLineKo": "야곱과 라반이 돌무더기를 증거로 삼음",
+    "finalRevealKo": "라반이 가족과 작별함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-093"
+  },
+  {
+    "episodeId": "ep-gen-094",
+    "displayTitleKo": "마하나임과 형 에서의 소식",
+    "openingLineKo": "하나님의 사자들을 만났다고 본문이 기록함",
+    "finalRevealKo": "에서가 사백 명과 온다는 말을 듣고 두려워함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-094"
+  },
+  {
+    "episodeId": "ep-gen-095",
+    "displayTitleKo": "두려움 속의 기도",
+    "openingLineKo": "야곱이 아브라함과 이삭의 하나님을 부름",
+    "finalRevealKo": "에서에게서 구해 달라고 기도함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-095"
+  },
+  {
+    "episodeId": "ep-gen-096",
+    "displayTitleKo": "화해를 위한 예물",
+    "openingLineKo": "야곱이 가축을 나누어 예물을 준비함",
+    "finalRevealKo": "자신은 밤에 머무름",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-096"
+  },
+  {
+    "episodeId": "ep-gen-097",
+    "displayTitleKo": "얍복강의 밤과 이스라엘",
+    "openingLineKo": "야곱이 가족을 얍복 나루 건너편으로 보냄",
+    "finalRevealKo": "이스라엘이라는 이름을 받고 브니엘이라 이름 붙임",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-097"
+  },
+  {
+    "episodeId": "ep-gen-098",
+    "displayTitleKo": "형제의 재회",
+    "openingLineKo": "야곱이 에서와 그의 사람들을 봄",
+    "finalRevealKo": "야곱이 예물을 권함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-098"
+  },
+  {
+    "episodeId": "ep-gen-099",
+    "displayTitleKo": "에돔으로 가는 길과 숙곳",
+    "openingLineKo": "에서가 앞서 가자고 권함",
+    "finalRevealKo": "에서는 세일로 가고 야곱은 숙곳에 머묾",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-099"
+  },
+  {
+    "episodeId": "ep-gen-100",
+    "displayTitleKo": "세겜에 자리 잡다",
+    "openingLineKo": "야곱이 세겜 성 가까이에 이르렀다고 서술됨",
+    "finalRevealKo": "제단을 쌓고 이름을 붙임",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-100"
+  },
+  {
+    "episodeId": "ep-gen-101",
+    "displayTitleKo": "디나에게 일어난 폭력",
+    "openingLineKo": "디나가 그 땅의 딸들을 보러 나감",
+    "finalRevealKo": "야곱의 아들들이 분노함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-101"
+  },
+  {
+    "episodeId": "ep-gen-102",
+    "displayTitleKo": "혼인 제안과 조건",
+    "openingLineKo": "하몰이 혼인과 공존을 제안함",
+    "finalRevealKo": "협상이 이어짐",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-102"
+  },
+  {
+    "episodeId": "ep-gen-103",
+    "displayTitleKo": "세겜의 성문 합의",
+    "openingLineKo": "하몰과 세겜이 성문에서 주민들에게 이야기함",
+    "finalRevealKo": "평화 제안과 속임이 엇갈림",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-103"
+  },
+  {
+    "episodeId": "ep-gen-104",
+    "displayTitleKo": "시므온과 레위의 보복",
+    "openingLineKo": "시므온과 레위가 도시에 공격을 가함",
+    "finalRevealKo": "야곱이 결과를 염려하고 형제들이 반박함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-104"
+  },
+  {
+    "episodeId": "ep-gen-105",
+    "displayTitleKo": "벧엘로 돌아가다",
+    "openingLineKo": "하나님이 야곱에게 벧엘로 가라고 하심",
+    "finalRevealKo": "드보라가 죽고 장사되었다고 기록됨",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-105"
+  },
+  {
+    "episodeId": "ep-gen-106",
+    "displayTitleKo": "이스라엘이라는 이름의 재확인",
+    "openingLineKo": "하나님이 다시 야곱에게 나타나셨다고 서술됨",
+    "finalRevealKo": "야곱이 돌기둥을 세우고 벧엘이라 부름",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-106"
+  },
+  {
+    "episodeId": "ep-gen-107",
+    "displayTitleKo": "베냐민의 탄생과 라헬의 죽음",
+    "openingLineKo": "벧엘에서 길을 떠나 에브랏으로 향함",
+    "finalRevealKo": "야곱이 길가에 기둥을 세움",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-107"
+  },
+  {
+    "episodeId": "ep-gen-108",
+    "displayTitleKo": "열두 아들의 명단",
+    "openingLineKo": "이스라엘이 에델 망대 너머에 장막을 침",
+    "finalRevealKo": "레아·라헬·빌하·실바의 아들 명단을 정리함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-108"
+  },
+  {
+    "episodeId": "ep-gen-109",
+    "displayTitleKo": "이삭의 죽음",
+    "openingLineKo": "야곱이 마므레의 이삭에게 돌아옴",
+    "finalRevealKo": "에서와 야곱이 함께 장사함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-109"
+  },
+  {
+    "episodeId": "ep-gen-110",
+    "displayTitleKo": "에서의 가정과 세일 이주",
+    "openingLineKo": "에서의 아내와 자녀 이름이 소개됨",
+    "finalRevealKo": "에서가 세일 산으로 옮겨 감",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-110"
+  },
+  {
+    "episodeId": "ep-gen-111",
+    "displayTitleKo": "에서의 자손",
+    "openingLineKo": "세일 산지의 에서 자손이 열거됨",
+    "finalRevealKo": "후대 집단 이름과 연결되는 계보형 자료",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-111"
+  },
+  {
+    "episodeId": "ep-gen-112",
+    "displayTitleKo": "에돔의 족장들",
+    "openingLineKo": "엘리바스와 르우엘 자손의 족장이 열거됨",
+    "finalRevealKo": "명단은 족보 탐색 화면으로 제시함",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-112"
+  },
+  {
+    "episodeId": "ep-gen-113",
+    "displayTitleKo": "세일 원주민 호리 족속",
+    "openingLineKo": "세일의 호리 사람들과 족장들의 명단이 소개됨",
+    "finalRevealKo": "후대 왕국 경계선처럼 그리지 않음",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-113"
+  },
+  {
+    "episodeId": "ep-gen-114",
+    "displayTitleKo": "이스라엘 왕 이전 에돔 왕 목록",
+    "openingLineKo": "이스라엘 왕이 있기 전에 다스린 왕들의 목록이 나옴",
+    "finalRevealKo": "현대 기준 절대 연대와 왕국 영토는 추정하지 않음",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-114"
+  },
+  {
+    "episodeId": "ep-gen-115",
+    "displayTitleKo": "에돔의 거주지와 족장",
+    "openingLineKo": "에서에서 이어지는 족장들의 명칭을 열거함",
+    "finalRevealKo": "요셉 서사로 넘어가기 전 계보의 마침표",
+    "microInteractions": [
+      "인물 중심 렌즈",
+      "본문 근거 확인",
+      "지명/씨족 비교",
+      "이해 점검"
+    ],
+    "immutableMilestone": "canon-gen-115"
+  }
+]

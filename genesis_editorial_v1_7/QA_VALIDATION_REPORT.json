@@ -1,0 +1,61 @@
+{
+  "checkedDate": "2026-10-13",
+  "checks": [
+    {
+      "script": "scripts/validate_package.py",
+      "pass": true,
+      "stdoutLast": "Bible Chronicle — structural validation (does not fact-check historical truth)\nBooks: 66; Chapters: 1189; Authored chapters: 0\nExample claims: 4; Demonstration events: 2; Unverified example places: 2\nPASS: structural checks.\n",
+      "error": ""
+    },
+    {
+      "script": "master/scripts/validate_master.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"status\": \"PASS\",\n  \"books\": 66,\n  \"chapters\": 1189,\n  \"macroLiteraryUnits\": 250,\n  \"parallelGroups\": 23,\n  \"storyArcs\": 15,\n  \"phases\": 15,\n  \"legacyIsraelEpisodes\": 219,\n  \"sourceRegister\": 10,\n  \"schemaCheck\": \"jsonschema installed: schema + sample validated\",\n  \"errors\": []\n}\n",
+      "error": ""
+    },
+    {
+      "script": "scripts/validate_israel_campaign.py",
+      "pass": true,
+      "stdoutLast": "Bible Chronicle Israel campaign: index-level structural checks only\nPeriods: 22, episode outlines: 219, rulers: 42, prophets: 26, chapter links: 686, source anchors: 9\nPASS. No assertions about historical truth, scriptural interpretation, or authoring completion.\n",
+      "error": ""
+    },
+    {
+      "script": "phases/S01A/scripts/validate_s01a.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"status\": \"PASS\",\n  \"episodes\": 22,\n  \"versesIndexed\": 299,\n  \"chapters\": 11,\n  \"scenes\": 110,\n  \"choices\": 132,\n  \"claimRecords\": 16,\n  \"artBriefs\": 22,\n  \"lessonDrafts\": 22,\n  \"schema\": \"jsonschema fully checked\",\n  \"errors\": []\n}\n",
+      "error": ""
+    },
+    {
+      "script": "phases/S01B/scripts/validate_s01b.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"status\": \"PASS\",\n  \"episodes\": 41,\n  \"verses\": 394,\n  \"chapters\": 14,\n  \"scenes\": 246,\n  \"choices\": 164,\n  \"assets\": 41,\n  \"lessons\": 41,\n  \"claims\": 41,\n  \"historicalPublishApprovals\": 0,\n  \"schema\": \"jsonschema pass\",\n  \"errors\": []\n}\n",
+      "error": ""
+    },
+    {
+      "script": "phases/S01C/scripts/validate_s01c.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"result\": \"PASS\",\n  \"chapters\": 11,\n  \"episodes\": 52,\n  \"verses\": 391,\n  \"sceneNodes\": 312,\n  \"choices\": 208,\n  \"lessonDrafts\": 52,\n  \"artBriefs\": 52,\n  \"externalHistoricalEpisodeApprovals\": 0,\n  \"published\": false,\n  \"schema\": \"PASS\",\n  \"errors\": []\n}\n",
+      "error": ""
+    },
+    {
+      "script": "phases/S01D/scripts/validate_s01d.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"status\": \"PASS\",\n  \"episodes\": 64,\n  \"verses\": 449,\n  \"scenes\": 384,\n  \"choices\": 256,\n  \"schema\": \"PASS\",\n  \"errors\": []\n}\n",
+      "error": ""
+    },
+    {
+      "script": "genesis_integrated/validate_genesis.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"status\": \"PASS\",\n  \"episodes\": 179,\n  \"chapters\": 50,\n  \"verseMappings\": 1533,\n  \"continuousChainStart\": \"ep-gen-001\",\n  \"continuousChainEnd\": \"ep-gen-179\",\n  \"nextHandoff\": \"handoff-exo-001\",\n  \"historyVerified\": false,\n  \"published\": false,\n  \"errors\": []\n}\n",
+      "error": ""
+    },
+    {
+      "script": "genesis_editorial_v1_7/scripts/validate_editorial.py",
+      "pass": true,
+      "stdoutLast": "{\n  \"status\": \"PASS\",\n  \"chapters\": 50,\n  \"episodes\": 179,\n  \"versesIndexed\": 1533,\n  \"individuallyAuthoredVerseNotes\": 74,\n  \"remainingIndividualVerseNotes\": 1459,\n  \"historyClaimRecords\": 34,\n  \"errors\": []\n}\n",
+      "error": ""
+    }
+  ],
+  "historicalAndHumanVerificationNotPerformed": true,
+  "approvedForPublication": false
+}

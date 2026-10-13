@@ -1,0 +1,97 @@
+{
+  "history_and_covenant": {
+    "screenSequence": [
+      "atlas",
+      "era_context",
+      "episode_art",
+      "passage_comparison",
+      "learning_choice",
+      "review"
+    ],
+    "historicalLocation": "only_when_grounded",
+    "choice": "inspect_perspective_or_focus",
+    "genreCaveat": "기록된 결과 불변"
+  },
+  "law_and_ritual": {
+    "screenSequence": [
+      "covenant_timeline",
+      "ritual_diagram",
+      "law_context",
+      "reference_passages",
+      "practice_reflection"
+    ],
+    "historicalLocation": "none_required",
+    "choice": "choose_rule_to_study",
+    "genreCaveat": "법 조항을 실제 전투/게임 이벤트로 변환하지 않는다"
+  },
+  "wisdom_dialogue": {
+    "screenSequence": [
+      "speaker_or_argument_map",
+      "dialogue",
+      "literary_analysis",
+      "reflection"
+    ],
+    "historicalLocation": "none_required",
+    "choice": "compare_positions",
+    "genreCaveat": "저자의 문학적 화자를 역사 인물의 실언으로 자동 단정하지 않음"
+  },
+  "poetry_reflection": {
+    "screenSequence": [
+      "poem_structure",
+      "parallelism",
+      "audio_optional",
+      "reflection"
+    ],
+    "historicalLocation": "never_forced",
+    "choice": "read_theme_or_voice",
+    "genreCaveat": "시의 은유를 사실적 역사 장면으로 왜곡하지 않음"
+  },
+  "prophetic_oracle": {
+    "screenSequence": [
+      "audience_period_if_known",
+      "oracle_structure",
+      "metaphor_art",
+      "context",
+      "reflection"
+    ],
+    "historicalLocation": "confidence_dependent",
+    "choice": "view_rebuke_or_hope",
+    "genreCaveat": "예언·성취 관계에 해석 차이가 있으면 견해 병기"
+  },
+  "symbolic_vision": {
+    "screenSequence": [
+      "vision_disclosure",
+      "symbol_map",
+      "book_context",
+      "interpretive_views",
+      "reflection"
+    ],
+    "historicalLocation": "symbolic_overlay_not_real_polygon",
+    "choice": "explore_symbol",
+    "genreCaveat": "상징 해석을 단일 역사 팩트로 표시 금지"
+  },
+  "gospel_comparison": {
+    "screenSequence": [
+      "jesus_ministry_map",
+      "gospel_accounts",
+      "original_context",
+      "illustration",
+      "reflection"
+    ],
+    "historicalLocation": "confidence_dependent",
+    "choice": "read_one_gospel_or_compare",
+    "genreCaveat": "복음서 차이를 무리하게 단일 대사·날짜로 합치지 않음"
+  },
+  "letter_argument": {
+    "screenSequence": [
+      "sender_recipients_qualified",
+      "argument_outline",
+      "letter_passage",
+      "issue_explainer",
+      "practice_reflection"
+    ],
+    "historicalLocation": "only_context_not_drama",
+    "choice": "explore_argument_or_recipient",
+    "genreCaveat": "편지의 신학 논증을 역사 이동 사건으로 만들지 않음"
+  }
+}

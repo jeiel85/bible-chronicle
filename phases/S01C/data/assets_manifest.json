@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "art-gen-064",
+    "episodeId": "ep-gen-064",
+    "visualBriefKo": "가뭄이 깃든 가나안 남부 길목과 멈춰 선 장막",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "가뭄이 깃든 가나안 남부 길목과 멈춰 선 장막",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-065",
+    "episodeId": "ep-gen-065",
+    "visualBriefKo": "그랄의 창가와 이삭·리브가를 멀리서 보는 왕",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "그랄의 창가와 이삭·리브가를 멀리서 보는 왕",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-066",
+    "episodeId": "ep-gen-066",
+    "visualBriefKo": "가뭄의 들판과 폐쇄된 우물들",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "가뭄의 들판과 폐쇄된 우물들",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-067",
+    "episodeId": "ep-gen-067",
+    "visualBriefKo": "우물을 둘러싼 목자들에서 평온한 새 우물로 이어지는 연작",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "우물을 둘러싼 목자들에서 평온한 새 우물로 이어지는 연작",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-068",
+    "episodeId": "ep-gen-068",
+    "visualBriefKo": "브엘세바 밤하늘 아래 작은 제단과 장막",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "브엘세바 밤하늘 아래 작은 제단과 장막",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-069",
+    "episodeId": "ep-gen-069",
+    "visualBriefKo": "장막 아래 식탁에서 맺는 상호 불가침 약속",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "장막 아래 식탁에서 맺는 상호 불가침 약속",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-070",
+    "episodeId": "ep-gen-070",
+    "visualBriefKo": "가족 장막 앞 서로 멀어지는 세 인물",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "가족 장막 앞 서로 멀어지는 세 인물",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-071",
+    "episodeId": "ep-gen-071",
+    "visualBriefKo": "어두운 장막 안에 앉은 이삭과 사냥 활을 든 에서",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_deception"
+    ],
+    "altTextKo": "어두운 장막 안에 앉은 이삭과 사냥 활을 든 에서",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-072",
+    "episodeId": "ep-gen-072",
+    "visualBriefKo": "그림자 진 장막에서 옷과 음식이 준비되는 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_deception"
+    ],
+    "altTextKo": "그림자 진 장막에서 옷과 음식이 준비되는 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-073",
+    "episodeId": "ep-gen-073",
+    "visualBriefKo": "손과 목소리 사이에서 망설이는 이삭의 실루엣",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_deception"
+    ],
+    "altTextKo": "손과 목소리 사이에서 망설이는 이삭의 실루엣",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-074",
+    "episodeId": "ep-gen-074",
+    "visualBriefKo": "사냥 도구를 내려놓고 절망하는 에서의 뒷모습",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_deception"
+    ],
+    "altTextKo": "사냥 도구를 내려놓고 절망하는 에서의 뒷모습",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-075",
+    "episodeId": "ep-gen-075",
+    "visualBriefKo": "노을의 장막 사이에 떠날 준비를 하는 야곱",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_deception"
+    ],
+    "altTextKo": "노을의 장막 사이에 떠날 준비를 하는 야곱",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-076",
+    "episodeId": "ep-gen-076",
+    "visualBriefKo": "남부 길목에서 북쪽으로 떠나는 외로운 여행자",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "남부 길목에서 북쪽으로 떠나는 외로운 여행자",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-077",
+    "episodeId": "ep-gen-077",
+    "visualBriefKo": "돌베개와 별이 빛나는 밤의 상징적 꿈 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "돌베개와 별이 빛나는 밤의 상징적 꿈 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-078",
+    "episodeId": "ep-gen-078",
+    "visualBriefKo": "새벽빛 속에 기름을 부은 기념 돌",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "새벽빛 속에 기름을 부은 기념 돌",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-079",
+    "episodeId": "ep-gen-079",
+    "visualBriefKo": "우물가 무리와 양 떼, 여행자의 첫 만남",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "coerced_marriage_and_servitude"
+    ],
+    "altTextKo": "우물가 무리와 양 떼, 여행자의 첫 만남",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-080",
+    "episodeId": "ep-gen-080",
+    "visualBriefKo": "계절이 바뀌는 들판과 일하는 야곱",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "coerced_marriage_and_servitude"
+    ],
+    "altTextKo": "계절이 바뀌는 들판과 일하는 야곱",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-081",
+    "episodeId": "ep-gen-081",
+    "visualBriefKo": "고대 혼인 잔치의 주변 분위기와 이후의 대면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "coerced_marriage_and_servitude"
+    ],
+    "altTextKo": "고대 혼인 잔치의 주변 분위기와 이후의 대면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-082",
+    "episodeId": "ep-gen-082",
+    "visualBriefKo": "장막 내부에 놓인 네 개의 이름 표식과 가족 기록",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "coerced_marriage_and_servitude"
+    ],
+    "altTextKo": "장막 내부에 놓인 네 개의 이름 표식과 가족 기록",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-083",
+    "episodeId": "ep-gen-083",
+    "visualBriefKo": "여러 장막과 가족 관계를 설명하는 중립적 그림",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_power_imbalance"
+    ],
+    "altTextKo": "여러 장막과 가족 관계를 설명하는 중립적 그림",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-084",
+    "episodeId": "ep-gen-084",
+    "visualBriefKo": "가족 연대표에 갓과 아셀이 추가되는 삽화",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_power_imbalance"
+    ],
+    "altTextKo": "가족 연대표에 갓과 아셀이 추가되는 삽화",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-085",
+    "episodeId": "ep-gen-085",
+    "visualBriefKo": "밭의 식물과 가족 계보 카드가 겹치는 중립 구성",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_power_imbalance"
+    ],
+    "altTextKo": "밭의 식물과 가족 계보 카드가 겹치는 중립 구성",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-086",
+    "episodeId": "ep-gen-086",
+    "visualBriefKo": "장막 입구의 작은 요람과 안도하는 가족",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_power_imbalance"
+    ],
+    "altTextKo": "장막 입구의 작은 요람과 안도하는 가족",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-087",
+    "episodeId": "ep-gen-087",
+    "visualBriefKo": "양 떼를 구분하는 목장과 떠날 준비를 하는 장막",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_power_imbalance"
+    ],
+    "altTextKo": "양 떼를 구분하는 목장과 떠날 준비를 하는 장막",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-088",
+    "episodeId": "ep-gen-088",
+    "visualBriefKo": "나뭇가지와 물구유를 세밀하게 그린 교육 삽화",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_power_imbalance"
+    ],
+    "altTextKo": "나뭇가지와 물구유를 세밀하게 그린 교육 삽화",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-089",
+    "episodeId": "ep-gen-089",
+    "visualBriefKo": "가족이 귀향 지도를 펼쳐 보고 나누는 대화의 분위기",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "가족이 귀향 지도를 펼쳐 보고 나누는 대화의 분위기",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-090",
+    "episodeId": "ep-gen-090",
+    "visualBriefKo": "광활한 초원을 지나가는 가족과 짐 실은 낙타",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "광활한 초원을 지나가는 가족과 짐 실은 낙타",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-091",
+    "episodeId": "ep-gen-091",
+    "visualBriefKo": "산지의 장막 밖에 멈춰 선 추격 무리",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "산지의 장막 밖에 멈춰 선 추격 무리",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-092",
+    "episodeId": "ep-gen-092",
+    "visualBriefKo": "굽은 산지에서 두 인물이 마주 선 중립적 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "굽은 산지에서 두 인물이 마주 선 중립적 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-093",
+    "episodeId": "ep-gen-093",
+    "visualBriefKo": "산등성이에 쌓은 돌무더기와 멀어지는 일행",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "family_conflict"
+    ],
+    "altTextKo": "산등성이에 쌓은 돌무더기와 멀어지는 일행",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-094",
+    "episodeId": "ep-gen-094",
+    "visualBriefKo": "두 무리로 나뉜 장막과 멀리 보이는 전령",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "physical_struggle"
+    ],
+    "altTextKo": "두 무리로 나뉜 장막과 멀리 보이는 전령",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-095",
+    "episodeId": "ep-gen-095",
+    "visualBriefKo": "밤의 텅 빈 장막 앞 기도하는 야곱의 실루엣",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "physical_struggle"
+    ],
+    "altTextKo": "밤의 텅 빈 장막 앞 기도하는 야곱의 실루엣",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-096",
+    "episodeId": "ep-gen-096",
+    "visualBriefKo": "밤길을 따라 앞서가는 가축 떼",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "physical_struggle"
+    ],
+    "altTextKo": "밤길을 따라 앞서가는 가축 떼",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-097",
+    "episodeId": "ep-gen-097",
+    "visualBriefKo": "얼굴을 특정하지 않은 두 실루엣과 떠오르는 새벽",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "physical_struggle"
+    ],
+    "altTextKo": "얼굴을 특정하지 않은 두 실루엣과 떠오르는 새벽",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-098",
+    "episodeId": "ep-gen-098",
+    "visualBriefKo": "거리를 좁히며 서로 달려가는 형제",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "거리를 좁히며 서로 달려가는 형제",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-099",
+    "episodeId": "ep-gen-099",
+    "visualBriefKo": "야영지 초막과 양 떼를 보여주는 지도 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "야영지 초막과 양 떼를 보여주는 지도 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-100",
+    "episodeId": "ep-gen-100",
+    "visualBriefKo": "두 산 사이 넓은 골짜기와 작은 제단",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "두 산 사이 넓은 골짜기와 작은 제단",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-101",
+    "episodeId": "ep-gen-101",
+    "visualBriefKo": "비가시적인 어두운 성문과 홀로 놓인 천 조각, 폭력 직접 묘사 금지",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "altTextKo": "비가시적인 어두운 성문과 홀로 놓인 천 조각, 폭력 직접 묘사 금지",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-102",
+    "episodeId": "ep-gen-102",
+    "visualBriefKo": "세겜의 장로들이 서로 마주 앉은 협상 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "altTextKo": "세겜의 장로들이 서로 마주 앉은 협상 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-103",
+    "episodeId": "ep-gen-103",
+    "visualBriefKo": "주민들이 모인 고대 성문을 멀리서 보는 장면",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "altTextKo": "주민들이 모인 고대 성문을 멀리서 보는 장면",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-104",
+    "episodeId": "ep-gen-104",
+    "visualBriefKo": "사건 후 텅 빈 성문과 멀리 서 있는 가족, 시신·상처 표현 금지",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "sexual_violence_non_graphic",
+      "retaliation_killing_non_graphic"
+    ],
+    "altTextKo": "사건 후 텅 빈 성문과 멀리 서 있는 가족, 시신·상처 표현 금지",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-105",
+    "episodeId": "ep-gen-105",
+    "visualBriefKo": "벧엘 언덕에 세운 제단과 버린 물건의 비상징적 그림",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "death_and_sexual_conduct"
+    ],
+    "altTextKo": "벧엘 언덕에 세운 제단과 버린 물건의 비상징적 그림",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-106",
+    "episodeId": "ep-gen-106",
+    "visualBriefKo": "푸른 새벽 벧엘의 세워진 돌과 야곱",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "death_and_sexual_conduct"
+    ],
+    "altTextKo": "푸른 새벽 벧엘의 세워진 돌과 야곱",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-107",
+    "episodeId": "ep-gen-107",
+    "visualBriefKo": "길가에서 이어지는 가족의 애도와 멀리 선 기념 돌",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "pregnancy_death"
+    ],
+    "altTextKo": "길가에서 이어지는 가족의 애도와 멀리 선 기념 돌",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-108",
+    "episodeId": "ep-gen-108",
+    "visualBriefKo": "열두 지파의 이름이 차례로 놓이는 계보 지도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "sexual_conduct_non_graphic"
+    ],
+    "altTextKo": "열두 지파의 이름이 차례로 놓이는 계보 지도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-109",
+    "episodeId": "ep-gen-109",
+    "visualBriefKo": "두 형제가 나란히 서 있는 가족의 장례 행렬",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [
+      "death_and_burial_non_graphic"
+    ],
+    "altTextKo": "두 형제가 나란히 서 있는 가족의 장례 행렬",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-110",
+    "episodeId": "ep-gen-110",
+    "visualBriefKo": "가나안과 세일 산지 사이를 표시한 점선 이동 지도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "가나안과 세일 산지 사이를 표시한 점선 이동 지도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-111",
+    "episodeId": "ep-gen-111",
+    "visualBriefKo": "양피지풍 계보 나무, 문자는 UI에서 별도 렌더링",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "양피지풍 계보 나무, 문자는 UI에서 별도 렌더링",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-112",
+    "episodeId": "ep-gen-112",
+    "visualBriefKo": "산지 배경 위 인물 계보와 가문별 색인 카드",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "산지 배경 위 인물 계보와 가문별 색인 카드",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-113",
+    "episodeId": "ep-gen-113",
+    "visualBriefKo": "산지의 여러 씨족을 표시한 추상적 계보도",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "산지의 여러 씨족을 표시한 추상적 계보도",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-114",
+    "episodeId": "ep-gen-114",
+    "visualBriefKo": "왕 이름을 새긴 상징적 기록판과 지도 윤곽",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "왕 이름을 새긴 상징적 기록판과 지도 윤곽",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  },
+  {
+    "id": "art-gen-115",
+    "episodeId": "ep-gen-115",
+    "visualBriefKo": "세일 산지의 교역길 위에 놓인 계보 도록",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "baseStyle": "original painterly event illustration for historical education, subdued mineral colors and parchment texture, no overlay text",
+    "avoid": [
+      "문명 게임 원작의 고유 UI/아트 복제",
+      "하나님의 구체적인 인간 얼굴 표현",
+      "역사적 입증이 없는 문화를 정확한 고증으로 주장",
+      "미기록 대사·속마음 시각화",
+      "노골적 성폭력·시신·피·폭력 재현"
+    ],
+    "sensitive": [],
+    "altTextKo": "세일 산지의 교역길 위에 놓인 계보 도록",
+    "imageFile": null,
+    "originalAssetProduced": false,
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "scripture",
+      "historical_visual",
+      "age_accessibility",
+      "copyright"
+    ],
+    "focalGuidance": {
+      "portrait": "주요 행동/상징물을 화면 중앙 안전영역에 배치",
+      "landscape": "문명식 연대기 카드처럼 좌측 서사 공간과 우측 상황 자료 공간을 구분",
+      "desktop": "16:9 배경과 읽기 쉬운 텍스트 오버레이는 별도 UI 레이어"
+    },
+    "doNotPlaceTextInRaster": true
+  }
+]

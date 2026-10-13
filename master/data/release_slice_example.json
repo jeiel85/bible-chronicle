@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.2.0",
+  "releaseId": "S01-GEN-DRAFT-001",
+  "bookIds": [
+    "GEN"
+  ],
+  "content": {
+    "reviewStatus": "draft_only",
+    "published": false,
+    "historicalClaimsVerified": false,
+    "licensedTextEmbedded": false
+  },
+  "episodes": [
+    {
+      "id": "ep-gen-001-draft",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      },
+      "outcomeId": "canon-creation-account-unchanged",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "intro",
+          "choices": [
+            {
+              "id": "inspect-structure",
+              "kind": "inspection",
+              "next": "passage"
+            },
+            {
+              "id": "inspect-themes",
+              "kind": "learning_focus",
+              "next": "passage"
+            }
+          ]
+        },
+        {
+          "id": "passage",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "none",
+        "confidence": "not_geolocatable"
+      },
+      "notForPublicRelease": true
+    }
+  ]
+}

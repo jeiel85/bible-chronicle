@@ -1,0 +1,130 @@
+[
+  {
+    "id": "PER-ADAM",
+    "labelKo": "아담",
+    "type": "biblical_person",
+    "firstRef": "GEN.2.7",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-EVE",
+    "labelKo": "하와",
+    "type": "biblical_person",
+    "firstRef": "GEN.3.20",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-CAIN",
+    "labelKo": "가인",
+    "type": "biblical_person",
+    "firstRef": "GEN.4.1",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-ABEL",
+    "labelKo": "아벨",
+    "type": "biblical_person",
+    "firstRef": "GEN.4.2",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-SETH",
+    "labelKo": "셋",
+    "type": "biblical_person",
+    "firstRef": "GEN.4.25",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-NOAH",
+    "labelKo": "노아",
+    "type": "biblical_person",
+    "firstRef": "GEN.5.29",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-SHEM",
+    "labelKo": "셈",
+    "type": "biblical_person",
+    "firstRef": "GEN.5.32",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-HAM",
+    "labelKo": "함",
+    "type": "biblical_person",
+    "firstRef": "GEN.5.32",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-JAPHETH",
+    "labelKo": "야벳",
+    "type": "biblical_person",
+    "firstRef": "GEN.5.32",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "PER-ABRAM",
+    "labelKo": "아브람",
+    "type": "biblical_person",
+    "firstRef": "GEN.11.26",
+    "mapPoint": null,
+    "verifiedExternalIdentity": false
+  },
+  {
+    "id": "GEO-EDEN",
+    "labelKo": "에덴",
+    "type": "biblical_location",
+    "firstRef": "GEN.2.8",
+    "mapPoint": null,
+    "geoStatus": "unknown"
+  },
+  {
+    "id": "GEO-NOD",
+    "labelKo": "놋 땅",
+    "type": "biblical_location",
+    "firstRef": "GEN.4.16",
+    "mapPoint": null,
+    "geoStatus": "unknown"
+  },
+  {
+    "id": "GEO-ARARAT-MOUNTAINS",
+    "labelKo": "아라랏 산들",
+    "type": "biblical_region",
+    "firstRef": "GEN.8.4",
+    "mapPoint": null,
+    "geoStatus": "approximate_region_not_exact_peak"
+  },
+  {
+    "id": "GEO-SHINAR",
+    "labelKo": "시날 평지",
+    "type": "biblical_region",
+    "firstRef": "GEN.11.2",
+    "mapPoint": null,
+    "geoStatus": "regional_identification_only"
+  },
+  {
+    "id": "GEO-UR-C",
+    "labelKo": "갈대아 우르",
+    "type": "biblical_location",
+    "firstRef": "GEN.11.28",
+    "mapPoint": null,
+    "geoStatus": "scholarly_identification_needs_review"
+  },
+  {
+    "id": "GEO-HARAN",
+    "labelKo": "하란",
+    "type": "biblical_location",
+    "firstRef": "GEN.11.31",
+    "mapPoint": null,
+    "geoStatus": "modern_site_suggested_not_mapped_in_release"
+  }
+]

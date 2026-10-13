@@ -1,0 +1,131 @@
+[
+  {
+    "chapterId": "GEN.026",
+    "verses": 35,
+    "episodeIds": [
+      "ep-gen-064",
+      "ep-gen-065",
+      "ep-gen-066",
+      "ep-gen-067",
+      "ep-gen-068",
+      "ep-gen-069",
+      "ep-gen-070"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.027",
+    "verses": 46,
+    "episodeIds": [
+      "ep-gen-071",
+      "ep-gen-072",
+      "ep-gen-073",
+      "ep-gen-074",
+      "ep-gen-075"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.028",
+    "verses": 22,
+    "episodeIds": [
+      "ep-gen-076",
+      "ep-gen-077",
+      "ep-gen-078"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.029",
+    "verses": 35,
+    "episodeIds": [
+      "ep-gen-079",
+      "ep-gen-080",
+      "ep-gen-081",
+      "ep-gen-082"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.030",
+    "verses": 43,
+    "episodeIds": [
+      "ep-gen-083",
+      "ep-gen-084",
+      "ep-gen-085",
+      "ep-gen-086",
+      "ep-gen-087",
+      "ep-gen-088"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.031",
+    "verses": 55,
+    "episodeIds": [
+      "ep-gen-089",
+      "ep-gen-090",
+      "ep-gen-091",
+      "ep-gen-092",
+      "ep-gen-093"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.032",
+    "verses": 32,
+    "episodeIds": [
+      "ep-gen-094",
+      "ep-gen-095",
+      "ep-gen-096",
+      "ep-gen-097"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.033",
+    "verses": 20,
+    "episodeIds": [
+      "ep-gen-098",
+      "ep-gen-099",
+      "ep-gen-100"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.034",
+    "verses": 31,
+    "episodeIds": [
+      "ep-gen-101",
+      "ep-gen-102",
+      "ep-gen-103",
+      "ep-gen-104"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.035",
+    "verses": 29,
+    "episodeIds": [
+      "ep-gen-105",
+      "ep-gen-106",
+      "ep-gen-107",
+      "ep-gen-108",
+      "ep-gen-109"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  },
+  {
+    "chapterId": "GEN.036",
+    "verses": 43,
+    "episodeIds": [
+      "ep-gen-110",
+      "ep-gen-111",
+      "ep-gen-112",
+      "ep-gen-113",
+      "ep-gen-114",
+      "ep-gen-115"
+    ],
+    "reviewStatus": "design_draft_not_approved"
+  }
+]

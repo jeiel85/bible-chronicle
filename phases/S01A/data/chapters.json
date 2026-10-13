@@ -1,0 +1,103 @@
+[
+  {
+    "chapterId": "GEN.001",
+    "verses": 31,
+    "episodeIds": [
+      "ep-gen-001",
+      "ep-gen-002",
+      "ep-gen-003"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.002",
+    "verses": 25,
+    "episodeIds": [
+      "ep-gen-003",
+      "ep-gen-004",
+      "ep-gen-005"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.003",
+    "verses": 24,
+    "episodeIds": [
+      "ep-gen-006",
+      "ep-gen-007"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.004",
+    "verses": 26,
+    "episodeIds": [
+      "ep-gen-008",
+      "ep-gen-009",
+      "ep-gen-010"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.005",
+    "verses": 32,
+    "episodeIds": [
+      "ep-gen-011"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.006",
+    "verses": 22,
+    "episodeIds": [
+      "ep-gen-012",
+      "ep-gen-013"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.007",
+    "verses": 24,
+    "episodeIds": [
+      "ep-gen-014"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.008",
+    "verses": 22,
+    "episodeIds": [
+      "ep-gen-015",
+      "ep-gen-016"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.009",
+    "verses": 29,
+    "episodeIds": [
+      "ep-gen-016",
+      "ep-gen-017"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.010",
+    "verses": 32,
+    "episodeIds": [
+      "ep-gen-018",
+      "ep-gen-019"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  },
+  {
+    "chapterId": "GEN.011",
+    "verses": 32,
+    "episodeIds": [
+      "ep-gen-020",
+      "ep-gen-021",
+      "ep-gen-022"
+    ],
+    "status": "episode_design_draft_not_verse_commentary_reviewed"
+  }
+]

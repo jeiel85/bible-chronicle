@@ -1,0 +1,816 @@
+[
+  {
+    "id": "GEN.1.1-FOCUS",
+    "chapter": 1,
+    "verse": 1,
+    "explanationKo": "태초에 하나님이 창조하셨다는 문장은 세계의 기원을 신학적 관점에서 선언한다. 히브리어 구문의 시작을 독립문으로 볼지 시간절로 볼지는 논쟁이 있다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.1.2-FOCUS",
+    "chapter": 1,
+    "verse": 2,
+    "explanationKo": "혼돈과 물, 하나님의 영·바람을 가리키는 히브리어 표현의 번역상 차이를 설명한다. 현대 물리학 용어로 치환하지 않는다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.1.26-FOCUS",
+    "chapter": 1,
+    "verse": 26,
+    "explanationKo": "하나님의 형상은 인간의 지위와 창조 세계에 대한 책임을 함께 묻는 본문이다. 복수형 발화의 해석은 여러 견해가 있다.",
+    "sourceIds": [
+      "YALE-LECTURE"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.1.27-FOCUS",
+    "chapter": 1,
+    "verse": 27,
+    "explanationKo": "남자와 여자가 모두 하나님의 형상으로 제시되는 점은 성별에 따른 인간 존엄의 차등을 부정하는 교육적 출발점이다.",
+    "sourceIds": [
+      "YALE-LECTURE"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.1.31-FOCUS",
+    "chapter": 1,
+    "verse": 31,
+    "explanationKo": "창조 결과를 '심히 좋다'고 평가하는 문학적 절정에 주목한다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.2.3-FOCUS",
+    "chapter": 2,
+    "verse": 3,
+    "explanationKo": "일곱째 날의 복은 일의 완료와 거룩한 쉼을 연결한다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.2.7-FOCUS",
+    "chapter": 2,
+    "verse": 7,
+    "explanationKo": "흙에서 지어진 사람이라는 이미지와 생기 부여는 1장의 보편적 창조 선언과 다른 문학적 초점을 제시한다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.2.15-FOCUS",
+    "chapter": 2,
+    "verse": 15,
+    "explanationKo": "동산을 경작하고 지키라는 요청은 인간의 노동과 보호의 책임을 함께 제시한다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.2.17-FOCUS",
+    "chapter": 2,
+    "verse": 17,
+    "explanationKo": "금지 명령의 대상과 범위를 정밀히 확인하고, 이후 3장에서 표현이 어떻게 달라지는지 대조한다.",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.2.24-FOCUS",
+    "chapter": 2,
+    "verse": 24,
+    "explanationKo": "한 몸의 언어는 관계의 긴밀함을 드러낸다. 현대 가족법의 세부 조항으로 직접 전환하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.3.1-FOCUS",
+    "chapter": 3,
+    "verse": 1,
+    "explanationKo": "뱀의 질문은 앞선 명령을 재구성한다. 등장인물의 발화와 하나님의 명령 자체를 혼동하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.3.6-FOCUS",
+    "chapter": 3,
+    "verse": 6,
+    "explanationKo": "열매를 먹는 장면에 본문에 없는 과일 종류나 사탄의 외형을 추가하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.3.15-FOCUS",
+    "chapter": 3,
+    "verse": 15,
+    "explanationKo": "뱀과 여자의 후손에 관한 발언은 기독교 전통에서 메시아적으로 재독해돼 왔으나, 본문 자체와 후대 수용사를 구별한다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.3.21-FOCUS",
+    "chapter": 3,
+    "verse": 21,
+    "explanationKo": "추방 전에 입히신 옷은 수치와 보호를 함께 생각하게 한다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.4.7-FOCUS",
+    "chapter": 4,
+    "verse": 7,
+    "explanationKo": "가인에게는 분노에 대한 경고가 먼저 주어진다. 게임에서는 '살인을 막았다'는 가상 정사로 변경하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.4.9-FOCUS",
+    "chapter": 4,
+    "verse": 9,
+    "explanationKo": "동생을 지키는 책임에 대한 질문이 핵심이다. 피해자에게 침묵을 요구하는 교훈으로 사용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.5.24-FOCUS",
+    "chapter": 5,
+    "verse": 24,
+    "explanationKo": "에녹에 관한 짧은 서술이 반복되는 '죽었더라'의 계보 공식과 대비됨을 설명한다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.6.2-FOCUS",
+    "chapter": 6,
+    "verse": 2,
+    "explanationKo": "하나님의 아들들 정체에 대한 해석은 다양하다. 특정 견해를 검증된 고고학 사실처럼 제시하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.6.9-FOCUS",
+    "chapter": 6,
+    "verse": 9,
+    "explanationKo": "노아에 대한 도덕적 평가는 홍수 이전의 폭력 묘사와 대조된다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.6.14-FOCUS",
+    "chapter": 6,
+    "verse": 14,
+    "explanationKo": "방주의 재료·치수는 본문 자료이고 발굴된 실제 방주로 확인된 물체의 설계도로 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.7.2-FOCUS",
+    "chapter": 7,
+    "verse": 2,
+    "explanationKo": "정결·부정 동물의 수량은 다른 방주 구절과 대비 검토하는 중요한 편집·해석 쟁점이다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.7.24-FOCUS",
+    "chapter": 7,
+    "verse": 24,
+    "explanationKo": "150일 언급을 다른 40일 기록과 단순 모순 제거 없이 함께 제시한다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.8.4-FOCUS",
+    "chapter": 8,
+    "verse": 4,
+    "explanationKo": "아라랏 산지와 현대의 단일 봉우리 지목은 구별한다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.8.20-FOCUS",
+    "chapter": 8,
+    "verse": 20,
+    "explanationKo": "방주에서 나온 뒤 제단을 쌓는 장면이 회복 서사의 전환점이 된다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.9.6-FOCUS",
+    "chapter": 9,
+    "verse": 6,
+    "explanationKo": "하나님의 형상과 사람의 생명을 연결하되, 폭력을 정당화하는 교육으로 사용하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.9.13-FOCUS",
+    "chapter": 9,
+    "verse": 13,
+    "explanationKo": "무지개가 언약의 표징으로 제시된다. 자연 현상의 발생 자체를 해당 시점부터 시작된 것으로 과학적으로 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.9.25-FOCUS",
+    "chapter": 9,
+    "verse": 25,
+    "explanationKo": "가나안에 대한 저주는 역사상 인종차별·노예제 정당화에 오용됐으므로 명시적 오용 경고를 붙인다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.10.8-FOCUS",
+    "chapter": 10,
+    "verse": 8,
+    "explanationKo": "니므롯을 후대 특정 통치자와 동일시하는 추측을 검증 사실로 수록하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.11.4-FOCUS",
+    "chapter": 11,
+    "verse": 4,
+    "explanationKo": "도시와 탑의 건설 동기를 서술자의 평가와 연결해 읽는다. 바벨탑을 현존 에테멘안키 유적과 동일시하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.11.27-FOCUS",
+    "chapter": 11,
+    "verse": 27,
+    "explanationKo": "데라의 계보는 원역사에서 아브라함 서사로 넘어가는 문학적 연결부다.",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.12.1-FOCUS",
+    "chapter": 12,
+    "verse": 1,
+    "explanationKo": "떠나라는 부르심과 땅·민족·복 약속이 앞으로의 전개를 여는 핵심이다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.12.10-FOCUS",
+    "chapter": 12,
+    "verse": 10,
+    "explanationKo": "기근은 이주를 불러오는 실제 서사적 계기이나 발생 시기를 특정 파라오의 재위 연대에 고정하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.13.9-FOCUS",
+    "chapter": 13,
+    "verse": 9,
+    "explanationKo": "아브람은 다툼을 피하기 위해 분리 선택을 제안한다. 롯이 고른 지역과 도덕성을 단순 동일시하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.14.18-FOCUS",
+    "chapter": 14,
+    "verse": 18,
+    "explanationKo": "멜기세덱의 등장과 제사장적 묘사는 후대 성경의 재독해가 있으며 역사적 실존 확인과 구별한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.15.6-FOCUS",
+    "chapter": 15,
+    "verse": 6,
+    "explanationKo": "아브람의 믿음에 대한 표현은 바울 서신과의 연결을 가르칠 수 있지만 창세기 15장 문맥을 우선한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.16.13-FOCUS",
+    "chapter": 16,
+    "verse": 13,
+    "explanationKo": "하갈의 발화를 통해 약자의 경험과 하나님의 돌보심을 중심으로 읽는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.17.5-FOCUS",
+    "chapter": 17,
+    "verse": 5,
+    "explanationKo": "아브람에서 아브라함으로 이름이 바뀌는 것은 약속과 정체성의 표지로 기능한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.18.25-FOCUS",
+    "chapter": 18,
+    "verse": 25,
+    "explanationKo": "소돔을 위한 아브라함의 중보는 정의와 공의의 질문을 전면에 둔다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.19.8-FOCUS",
+    "chapter": 19,
+    "verse": 8,
+    "explanationKo": "롯의 딸을 내놓겠다는 발언은 본문 속 행동이지 윤리적 모범이 아니다. 아동 콘텐츠에는 자세한 폭력 묘사를 차단한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.20.2-FOCUS",
+    "chapter": 20,
+    "verse": 2,
+    "explanationKo": "사라를 누이라고 소개하는 반복된 위기는 아브라함의 두려움과 여성의 위험을 함께 다뤄야 한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.21.17-FOCUS",
+    "chapter": 21,
+    "verse": 17,
+    "explanationKo": "광야에서 이스마엘의 소리를 들으셨다는 장면을 중심에 두고 하갈·이스마엘을 도구적으로 취급하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.22.12-FOCUS",
+    "chapter": 22,
+    "verse": 12,
+    "explanationKo": "희생이 중단되는 결말이 핵심이며 아동에게 인간 희생을 권하는 교육 문항을 만들지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.23.17-FOCUS",
+    "chapter": 23,
+    "verse": 17,
+    "explanationKo": "매입 대상 토지 목록은 서사의 법적·공간적 표현이다. 현존 유적으로 매매 사건 자체를 입증하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.24.58-FOCUS",
+    "chapter": 24,
+    "verse": 58,
+    "explanationKo": "리브가의 결정 여부를 묻는 장면에 주목한다. 본문 밖 강제·합의 과정을 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.25.34-FOCUS",
+    "chapter": 25,
+    "verse": 34,
+    "explanationKo": "장자권을 경시했다는 서술을 놀이용 '음식 거래'로 축소하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.26.22-FOCUS",
+    "chapter": 26,
+    "verse": 22,
+    "explanationKo": "우물 다툼에서 벗어남을 관계와 생존의 관점에서 교육한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.27.19-FOCUS",
+    "chapter": 27,
+    "verse": 19,
+    "explanationKo": "야곱의 거짓말은 약속의 성취와 구별하여 윤리적 문제로 제시한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.28.12-FOCUS",
+    "chapter": 28,
+    "verse": 12,
+    "explanationKo": "사닥다리의 환상은 꿈 안의 장면이며 역사적으로 실재한 구조물의 지도 위치가 아니다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.29.25-FOCUS",
+    "chapter": 29,
+    "verse": 25,
+    "explanationKo": "라반의 속임으로 인한 인물 간 권력 관계를 다룬다. 레아를 이야기의 장애물로만 묘사하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.30.37-FOCUS",
+    "chapter": 30,
+    "verse": 37,
+    "explanationKo": "가축의 번식 이야기는 본문 세계관을 반영하므로 현대 유전학 실험으로 포장하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.31.44-FOCUS",
+    "chapter": 31,
+    "verse": 44,
+    "explanationKo": "경계 언약은 다툼의 해결책으로 제시되지만 당사자의 모든 주장을 역사적 사실로 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.32.28-FOCUS",
+    "chapter": 32,
+    "verse": 28,
+    "explanationKo": "새 이름 '이스라엘'은 정체성 전환의 상징이다. 씨름 상대의 정체는 해석의 차이를 인정한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.33.4-FOCUS",
+    "chapter": 33,
+    "verse": 4,
+    "explanationKo": "에서와 야곱의 포옹은 재회의 절정이다. 화해의 결과를 플레이어가 뒤바꾸지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.34.2-FOCUS",
+    "chapter": 34,
+    "verse": 2,
+    "explanationKo": "디나가 당한 성폭력은 피해자의 책임이 아니며, 어린이 화면에서는 자세한 폭력 장면을 배제한다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.34.25-FOCUS",
+    "chapter": 34,
+    "verse": 25,
+    "explanationKo": "시므온과 레위의 살해를 성공 보상 전투처럼 묘사하지 않는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.35.18-FOCUS",
+    "chapter": 35,
+    "verse": 18,
+    "explanationKo": "라헬의 죽음과 베냐민의 탄생이 동시에 놓인 슬픔과 생명의 대비를 읽는다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.36.31-FOCUS",
+    "chapter": 36,
+    "verse": 31,
+    "explanationKo": "에돔 왕 명단은 당시 이스라엘과의 관계를 말하는 문학적 구절이며 연대가 확정된 왕 목록이 아니다.",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.37.3-FOCUS",
+    "chapter": 37,
+    "verse": 3,
+    "explanationKo": "요셉의 옷을 표현하는 번역 전승의 차이와 편애의 역할을 함께 살핀다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.37.28-FOCUS",
+    "chapter": 37,
+    "verse": 28,
+    "explanationKo": "요셉 판매의 주체·과정은 문장 연결을 정밀 대조해야 하며 단순화 시 장면 누락이 발생한다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.38.26-FOCUS",
+    "chapter": 38,
+    "verse": 26,
+    "explanationKo": "유다가 자신의 잘못을 인정하는 장면은 이후 창 44장의 책임 인수와 비교할 수 있다.",
+    "sourceIds": [
+      "OUP-BRODIE"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.39.9-FOCUS",
+    "chapter": 39,
+    "verse": 9,
+    "explanationKo": "요셉의 거절은 권력 비대칭 속 윤리적 결단이며 피해자 보호가 중요하다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.40.23-FOCUS",
+    "chapter": 40,
+    "verse": 23,
+    "explanationKo": "술 맡은 관원장이 요셉을 잊은 상황은 해결 지연의 장치다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.41.14-FOCUS",
+    "chapter": 41,
+    "verse": 14,
+    "explanationKo": "바로 앞에 선 요셉의 지위 변화가 극적으로 묘사되지만 실제 파라오 신원은 정해지지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.41.34-FOCUS",
+    "chapter": 41,
+    "verse": 34,
+    "explanationKo": "풍년 동안 저장하라는 제안을 인물의 행정 판단으로 읽고 유적의 기능을 요셉과 동일시하지 않는다.",
+    "sourceIds": [
+      "MET-MK"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.42.21-FOCUS",
+    "chapter": 42,
+    "verse": 21,
+    "explanationKo": "형제들이 과거의 죄를 회상한다. 피해자와 가해자의 기억 차이를 살핀다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.43.9-FOCUS",
+    "chapter": 43,
+    "verse": 9,
+    "explanationKo": "유다는 베냐민을 위해 책임을 지겠다고 약속한다. 창 37장과 대비해 읽는다.",
+    "sourceIds": [
+      "OUP-BRODIE"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.44.33-FOCUS",
+    "chapter": 44,
+    "verse": 33,
+    "explanationKo": "유다의 자기희생 제안은 형제 관계의 변화에 대한 서사적 단서다.",
+    "sourceIds": [
+      "OUP-BRODIE"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.45.5-FOCUS",
+    "chapter": 45,
+    "verse": 5,
+    "explanationKo": "요셉의 말은 사건에 대한 신학적 재해석이지 과거 가해 행위의 정당화가 아니다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.46.27-FOCUS",
+    "chapter": 46,
+    "verse": 27,
+    "explanationKo": "애굽으로 내려간 가족 수의 표기 차이는 다양한 본문 전승 비교가 필요하다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.47.20-FOCUS",
+    "chapter": 47,
+    "verse": 20,
+    "explanationKo": "토지가 파라오 소유로 집중되는 서술은 위기 대응의 이면을 토론하게 한다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.48.14-FOCUS",
+    "chapter": 48,
+    "verse": 14,
+    "explanationKo": "에브라임과 므낫세에게 엇갈린 손으로 축복하는 장면을 세대 역전 모티프와 연결한다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.49.10-FOCUS",
+    "chapter": 49,
+    "verse": 10,
+    "explanationKo": "유다에 대한 시적 표현의 의미·연대·후대 메시아적 해석을 구별한다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.50.20-FOCUS",
+    "chapter": 50,
+    "verse": 20,
+    "explanationKo": "악을 선으로 전환하신다는 요셉의 해석은 가해의 책임을 없애지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  },
+  {
+    "id": "GEN.50.25-FOCUS",
+    "chapter": 50,
+    "verse": 25,
+    "explanationKo": "요셉의 유언은 출애굽 이야기로 넘어가는 연결이며 실존 관이나 무덤 위치 확인은 아니다.",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "evidenceScope": "bibliographic_context_only;verse_analysis_is_editorial",
+    "status": "editorial_draft_not_expert_reviewed"
+  }
+]

@@ -1,0 +1,899 @@
+{
+  "noteKo": "통치 연대는 왕위 공동재위/역법 차이로 미입력. 왕 명단은 검토용이며 출판 상태 아님. 디브니는 분쟁기 경쟁자로 별도 등재.",
+  "rulers": [
+    {
+      "id": "united-01",
+      "kingdom": "united",
+      "biblicalRegnalSequence": 1,
+      "nameKo": "사울",
+      "scriptureRefs": [
+        {
+          "bookId": "1SA",
+          "chapterStart": 9,
+          "chapterEnd": 31
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "united-02",
+      "kingdom": "united",
+      "biblicalRegnalSequence": 2,
+      "nameKo": "다윗",
+      "scriptureRefs": [
+        {
+          "bookId": "1SA",
+          "chapterStart": 16,
+          "chapterEnd": 31
+        },
+        {
+          "bookId": "2SA",
+          "chapterStart": 1,
+          "chapterEnd": 24
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "united-03",
+      "kingdom": "united",
+      "biblicalRegnalSequence": 3,
+      "nameKo": "솔로몬",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 1,
+          "chapterEnd": 11
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 1,
+          "chapterEnd": 9
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-01",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 1,
+      "nameKo": "여로보암 1세",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 12,
+          "chapterEnd": 14
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-02",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 2,
+      "nameKo": "나답",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-03",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 3,
+      "nameKo": "바아사",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 15,
+          "chapterEnd": 16
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-04",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 4,
+      "nameKo": "엘라",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 16,
+          "chapterEnd": 16
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-05",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 5,
+      "nameKo": "시므리",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 16,
+          "chapterEnd": 16
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-06",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 6,
+      "nameKo": "오므리",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 16,
+          "chapterEnd": 16
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-07",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 7,
+      "nameKo": "아합",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 16,
+          "chapterEnd": 22
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-08",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 8,
+      "nameKo": "아하시야",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 22,
+          "chapterEnd": 22
+        },
+        {
+          "bookId": "2KI",
+          "chapterStart": 1,
+          "chapterEnd": 1
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-09",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 9,
+      "nameKo": "요람(여호람)",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 3,
+          "chapterEnd": 3
+        },
+        {
+          "bookId": "2KI",
+          "chapterStart": 9,
+          "chapterEnd": 9
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-10",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 10,
+      "nameKo": "예후",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 9,
+          "chapterEnd": 10
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-11",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 11,
+      "nameKo": "여호아하스",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 13,
+          "chapterEnd": 13
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-12",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 12,
+      "nameKo": "요아스(여호아스)",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 13,
+          "chapterEnd": 14
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-13",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 13,
+      "nameKo": "여로보암 2세",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 14,
+          "chapterEnd": 14
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-14",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 14,
+      "nameKo": "스가랴",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-15",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 15,
+      "nameKo": "살룸",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-16",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 16,
+      "nameKo": "므나헴",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-17",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 17,
+      "nameKo": "브가히야",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-18",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 18,
+      "nameKo": "베가",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "north-19",
+      "kingdom": "north",
+      "biblicalRegnalSequence": 19,
+      "nameKo": "호세아",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 17,
+          "chapterEnd": 17
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-01",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 1,
+      "nameKo": "르호보암",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 12,
+          "chapterEnd": 12
+        },
+        {
+          "bookId": "1KI",
+          "chapterStart": 14,
+          "chapterEnd": 14
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 10,
+          "chapterEnd": 12
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-02",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 2,
+      "nameKo": "아비얌(아비야)",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 13,
+          "chapterEnd": 13
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-03",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 3,
+      "nameKo": "아사",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 14,
+          "chapterEnd": 16
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-04",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 4,
+      "nameKo": "여호사밧",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 22,
+          "chapterEnd": 22
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 17,
+          "chapterEnd": 20
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-05",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 5,
+      "nameKo": "여호람(요람)",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 8,
+          "chapterEnd": 8
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 21,
+          "chapterEnd": 21
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-06",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 6,
+      "nameKo": "아하시야",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 8,
+          "chapterEnd": 9
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 22,
+          "chapterEnd": 22
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-07",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 7,
+      "nameKo": "아달랴",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 11,
+          "chapterEnd": 11
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 22,
+          "chapterEnd": 23
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "queen_regnant"
+    },
+    {
+      "id": "south-08",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 8,
+      "nameKo": "요아스",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 11,
+          "chapterEnd": 12
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 23,
+          "chapterEnd": 24
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-09",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 9,
+      "nameKo": "아마샤",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 14,
+          "chapterEnd": 14
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 25,
+          "chapterEnd": 25
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-10",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 10,
+      "nameKo": "웃시야(아사랴)",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 26,
+          "chapterEnd": 26
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-11",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 11,
+      "nameKo": "요담",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 15,
+          "chapterEnd": 15
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 27,
+          "chapterEnd": 27
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-12",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 12,
+      "nameKo": "아하스",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 16,
+          "chapterEnd": 16
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 28,
+          "chapterEnd": 28
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-13",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 13,
+      "nameKo": "히스기야",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 18,
+          "chapterEnd": 20
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 29,
+          "chapterEnd": 32
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-14",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 14,
+      "nameKo": "므낫세",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 21,
+          "chapterEnd": 21
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 33,
+          "chapterEnd": 33
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-15",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 15,
+      "nameKo": "아몬",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 21,
+          "chapterEnd": 21
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 33,
+          "chapterEnd": 33
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-16",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 16,
+      "nameKo": "요시야",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 22,
+          "chapterEnd": 23
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 34,
+          "chapterEnd": 35
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-17",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 17,
+      "nameKo": "여호아하스",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 23,
+          "chapterEnd": 23
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 36,
+          "chapterEnd": 36
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-18",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 18,
+      "nameKo": "여호야김",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 23,
+          "chapterEnd": 24
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 36,
+          "chapterEnd": 36
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-19",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 19,
+      "nameKo": "여호야긴",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 24,
+          "chapterEnd": 25
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 36,
+          "chapterEnd": 36
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    },
+    {
+      "id": "south-20",
+      "kingdom": "south",
+      "biblicalRegnalSequence": 20,
+      "nameKo": "시드기야",
+      "scriptureRefs": [
+        {
+          "bookId": "2KI",
+          "chapterStart": 24,
+          "chapterEnd": 25
+        },
+        {
+          "bookId": "2CH",
+          "chapterStart": 36,
+          "chapterEnd": 36
+        }
+      ],
+      "startBce": null,
+      "endBce": null,
+      "chronologyStatus": "requires_research_and_regnal_overlap_review",
+      "editorialStatus": "name_sequence_review_required",
+      "role": "king"
+    }
+  ],
+  "otherClaimants": [
+    {
+      "nameKo": "디브니",
+      "status": "rival_claimant_not_uncontested_monarch",
+      "scriptureRefs": [
+        {
+          "bookId": "1KI",
+          "chapterStart": 16,
+          "chapterEnd": 16
+        }
+      ]
+    }
+  ]
+}

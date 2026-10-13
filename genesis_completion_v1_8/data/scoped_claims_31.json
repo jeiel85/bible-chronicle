@@ -1,0 +1,405 @@
+[
+  {
+    "id": "V18-CLAIM-001",
+    "passage": "GEN.1.1-2.3",
+    "claimKo": "본문은 창조가 안식으로 마무리되는 반복 구조를 제시한다",
+    "class": "textual",
+    "sourceIds": [
+      "YALE-CREATION-2026"
+    ],
+    "evidenceScope": "supported_by_reading",
+    "criticalLimitKo": "문학 구조의 관찰이며 물리적 발생 시기의 증명이 아님",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-002",
+    "passage": "GEN.1.1",
+    "claimKo": "시작 구문에는 문법·번역상의 선택지가 있다",
+    "class": "scholarly_interpretation",
+    "sourceIds": [
+      "YALE-CREATION-2026"
+    ],
+    "evidenceScope": "supported_as_debate",
+    "criticalLimitKo": "한 번역만 유일하게 인정하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-003",
+    "passage": "GEN.2.4-25",
+    "claimKo": "1장과 2장 서술의 초점과 문학적 구성에 차이가 있다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-CREATION-2026"
+    ],
+    "evidenceScope": "supported_as_reading",
+    "criticalLimitKo": "형성 이론의 전체 합의를 주장하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-004",
+    "passage": "GEN.2.8-14",
+    "claimKo": "에덴의 위치를 검증된 GPS 좌표로 표시할 근거는 부족하다",
+    "class": "geographic",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "insufficient_for_exact_site",
+    "criticalLimitKo": "동산을 실제 지명 핀으로 확정하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-005",
+    "passage": "GEN.3.1-24",
+    "claimKo": "타락 이야기에는 인간의 선택·책임·추방이 함께 나타난다",
+    "class": "textual",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "supported_by_reading",
+    "criticalLimitKo": "신학적 해석과 역사적 검증 구분",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-006",
+    "passage": "GEN.4.1-16",
+    "claimKo": "가인과 아벨 이야기는 형제의 폭력과 책임을 다룬다",
+    "class": "textual",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "supported_by_reading",
+    "criticalLimitKo": "현대 유적 특정은 불가",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-007",
+    "passage": "GEN.5.1-32",
+    "claimKo": "계보의 숫자로 현대 고고학 연대를 단일하게 결정할 수 없다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "not_independently_established",
+    "criticalLimitKo": "본문 연령 기록과 현대 연대 추론 분리",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-008",
+    "passage": "GEN.6.5-9.17",
+    "claimKo": "메소포타미아 고대 홍수 문학을 보여 주는 점토판이 현존한다",
+    "class": "artifact",
+    "sourceIds": [
+      "BM-K2252-2026"
+    ],
+    "evidenceScope": "artifact_verified",
+    "criticalLimitKo": "성경 홍수의 실재·범위 증거 아님",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-009",
+    "passage": "GEN.7.1-24",
+    "claimKo": "세계 전체가 같은 시기에 잠겼다는 독립적 증거는 이 조사에서 확보되지 않았다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-FLOOD-2026"
+    ],
+    "evidenceScope": "not_established_in_this_review",
+    "criticalLimitKo": "고고학적 부정의 절대증명으로 확대하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-010",
+    "passage": "GEN.8.4",
+    "claimKo": "방주가 놓인 아라랏 산지의 현재 단일 좌표를 입증하지 않는다",
+    "class": "geographic",
+    "sourceIds": [
+      "YALE-FLOOD-2026"
+    ],
+    "evidenceScope": "location_unresolved",
+    "criticalLimitKo": "지명과 현재 산의 동일성 경계",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-011",
+    "passage": "GEN.9.18-29",
+    "claimKo": "노아와 가나안의 발언은 인종주의 정당화로 사용할 수 없다",
+    "class": "ethical",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "normative_guardrail",
+    "criticalLimitKo": "고대 이야기의 정당화 오용 방지",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-012",
+    "passage": "GEN.10.1-32",
+    "claimKo": "열방 표를 현대 유전자 계통도로 치환할 근거가 없다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "not_established_in_this_review",
+    "criticalLimitKo": "시대의 민족명은 학술 대조 필요",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-013",
+    "passage": "GEN.11.1-9",
+    "claimKo": "바벨탑을 현존하는 하나의 지구라트로 확정할 수 없다",
+    "class": "geographic",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "site_unresolved",
+    "criticalLimitKo": "유적 비교는 비교로만 표시",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-014",
+    "passage": "GEN.12.1-17.27",
+    "claimKo": "땅과 후손의 약속은 족장 서사의 반복 주제이다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-ABRAM-2026"
+    ],
+    "evidenceScope": "supported_as_scholarly_reading",
+    "criticalLimitKo": "아브라함의 정확한 연대와는 별개",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-015",
+    "passage": "GEN.12.10-20",
+    "claimKo": "바로의 역사적 실명과 통치시기는 본문과 자료만으로 확정하지 않는다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "파라오를 임의 이름으로 렌더링하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-016",
+    "passage": "GEN.14.1-24",
+    "claimKo": "왕들의 전쟁에 대한 독립적인 완전 연대 확증은 없다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-ABRAM-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "게임 세계 지도 연대 미고정",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-017",
+    "passage": "GEN.16.1-16",
+    "claimKo": "하갈은 이야기 안에서 취약한 위치에 놓인다",
+    "class": "ethical_literary",
+    "sourceIds": [
+      "YALE-HAGAR-2026"
+    ],
+    "evidenceScope": "supported_as_interpretation",
+    "criticalLimitKo": "현대 집단의 성격으로 확대하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-018",
+    "passage": "GEN.18.1-19.38",
+    "claimKo": "특정 소돔 유적의 파괴층을 본문과 동일시하는 결정적 증거가 제시되지 않았다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "단정하는 관광 지도 아이콘 금지",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-019",
+    "passage": "GEN.22.1-19",
+    "claimKo": "이삭 시험 본문은 아동 희생 윤리의 논점을 요구한다",
+    "class": "ethical_literary",
+    "sourceIds": [
+      "YALE-HAGAR-2026"
+    ],
+    "evidenceScope": "supported_as_scholarly_question",
+    "criticalLimitKo": "실제 희생을 행동 선택지로 넣지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-020",
+    "passage": "GEN.22.1-19",
+    "claimKo": "모리아의 정확한 위치는 이 자료군으로 고고학 확정할 수 없다",
+    "class": "geographic",
+    "sourceIds": [
+      "YALE-HAGAR-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "후대 종교적 동일시만 별도 표시",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-021",
+    "passage": "GEN.25.19-35.29",
+    "claimKo": "야곱의 서사는 여러 사건에 걸친 인물 변화로 읽힌다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-JACOB-2026"
+    ],
+    "evidenceScope": "supported_as_reading",
+    "criticalLimitKo": "개인 실존·정확한 연대 증명 아님",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-022",
+    "passage": "GEN.32.22-32",
+    "claimKo": "야곱이 씨름한 곳의 현대 GPS 좌표를 단일 확정할 수 없다",
+    "class": "geographic",
+    "sourceIds": [
+      "YALE-JACOB-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "지도는 지역 표시로만",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-023",
+    "passage": "GEN.34.1-31",
+    "claimKo": "디나를 둘러싼 폭력과 보복은 윤리적으로 민감하다",
+    "class": "ethical",
+    "sourceIds": [
+      "YALE-JACOB-2026"
+    ],
+    "evidenceScope": "requires_teacher_moderation",
+    "criticalLimitKo": "복수 보상·성폭력 시각 재현 금지",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-024",
+    "passage": "GEN.36.1-43",
+    "claimKo": "에서/에돔의 왕별 실존과 재위 연도를 일괄 입증할 근거가 부족하다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-INTRO-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "연대 고정하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-025",
+    "passage": "GEN.37.1-50.26",
+    "claimKo": "요셉 이야기는 37~50장에서 이어지는 하나의 긴 서사로 읽힌다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-JOSEPH-2026"
+    ],
+    "evidenceScope": "supported_as_reading",
+    "criticalLimitKo": "구체적 고대 이집트 사료와 구분",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-026",
+    "passage": "GEN.38.1-30",
+    "claimKo": "유다·다말 단락은 요셉 서사 중간에 위치하며 인물 주제를 연결해 읽을 수 있다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-JOSEPH-2026"
+    ],
+    "evidenceScope": "supported_as_interpretation",
+    "criticalLimitKo": "편집 역사에 단일 합의가 있다는 뜻 아님",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-027",
+    "passage": "GEN.41.1-57",
+    "claimKo": "요셉의 7년 풍년·흉년 정책을 입증하는 직접 행정문서는 이 조사에 없다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-JOSEPH-2026"
+    ],
+    "evidenceScope": "unresolved",
+    "criticalLimitKo": "게임 시뮬레이션 수치를 역사적 사실로 제시하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-028",
+    "passage": "GEN.46.1-27",
+    "claimKo": "계보 인원수는 본문 전승 차이 검토가 필요하다",
+    "class": "textual",
+    "sourceIds": [
+      "YALE-JOSEPH-2026"
+    ],
+    "evidenceScope": "additional_text_witness_review_needed",
+    "criticalLimitKo": "70·75 등 숫자를 자동 수정하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-029",
+    "passage": "GEN.47.13-26",
+    "claimKo": "이집트 토지 정책 서술은 본문 속 사건이며 외부 독립 확증과 구별해야 한다",
+    "class": "historical",
+    "sourceIds": [
+      "YALE-JOSEPH-2026"
+    ],
+    "evidenceScope": "not_independently_verified",
+    "criticalLimitKo": "중왕국 실제 법제와 동일시하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-030",
+    "passage": "GEN.49.1-28",
+    "claimKo": "족장들의 말은 시적·예언적 형식으로 전개된다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-JACOB-2026"
+    ],
+    "evidenceScope": "interpretive",
+    "criticalLimitKo": "현대 민족 예언표로 단순화하지 않음",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  },
+  {
+    "id": "V18-CLAIM-031",
+    "passage": "GEN.50.1-26",
+    "claimKo": "요셉의 죽음은 애굽 정착의 결말과 후속 출애굽 주제를 연결한다",
+    "class": "literary",
+    "sourceIds": [
+      "YALE-JOSEPH-2026"
+    ],
+    "evidenceScope": "supported_as_reading",
+    "criticalLimitKo": "요셉 관 실물 확인 아님",
+    "reviewedBy": "AI editorial comparison of public material, not expert review",
+    "published": false
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "nameKo": "사무엘",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 1,
+        "chapterEnd": 25
+      }
+    ],
+    "suggestedPeriodId": "P07",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "나단",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 7,
+        "chapterEnd": 7
+      },
+      {
+        "bookId": "2SA",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "1KI",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "suggestedPeriodId": "P08",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "갓",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      }
+    ],
+    "suggestedPeriodId": "P08",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "아히야",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 11,
+        "chapterEnd": 11
+      },
+      {
+        "bookId": "1KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "suggestedPeriodId": "P09",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "스마야",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "suggestedPeriodId": "P10",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "하나니",
+    "scriptureRefs": [
+      {
+        "bookId": "2CH",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "suggestedPeriodId": "P10",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "미가야",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      }
+    ],
+    "suggestedPeriodId": "P11",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "엘리야",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 17,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2KI",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "suggestedPeriodId": "P11",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "엘리사",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 2,
+        "chapterEnd": 13
+      }
+    ],
+    "suggestedPeriodId": "P12",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "요나",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "JON",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "suggestedPeriodId": "P13",
+    "placementPolicy": "literary_setting_not_authorship_date",
+    "authored": false
+  },
+  {
+    "nameKo": "아모스",
+    "scriptureRefs": [
+      {
+        "bookId": "AMO",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "suggestedPeriodId": "P13",
+    "placementPolicy": "book_superscription_and_context",
+    "authored": false
+  },
+  {
+    "nameKo": "호세아",
+    "scriptureRefs": [
+      {
+        "bookId": "HOS",
+        "chapterStart": 1,
+        "chapterEnd": 14
+      }
+    ],
+    "suggestedPeriodId": "P13",
+    "placementPolicy": "book_superscription_and_context",
+    "authored": false
+  },
+  {
+    "nameKo": "이사야",
+    "scriptureRefs": [
+      {
+        "bookId": "ISA",
+        "chapterStart": 1,
+        "chapterEnd": 66
+      },
+      {
+        "bookId": "2KI",
+        "chapterStart": 19,
+        "chapterEnd": 20
+      }
+    ],
+    "suggestedPeriodId": "P15",
+    "placementPolicy": "multiple_literary_layers_debated",
+    "authored": false
+  },
+  {
+    "nameKo": "미가",
+    "scriptureRefs": [
+      {
+        "bookId": "MIC",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "suggestedPeriodId": "P15",
+    "placementPolicy": "book_superscription_and_context",
+    "authored": false
+  },
+  {
+    "nameKo": "훌다",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "suggestedPeriodId": "P17",
+    "placementPolicy": "biblical_narrative",
+    "authored": false
+  },
+  {
+    "nameKo": "스바냐",
+    "scriptureRefs": [
+      {
+        "bookId": "ZEP",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "suggestedPeriodId": "P17",
+    "placementPolicy": "book_superscription_and_context",
+    "authored": false
+  },
+  {
+    "nameKo": "나훔",
+    "scriptureRefs": [
+      {
+        "bookId": "NAM",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "suggestedPeriodId": "P17",
+    "placementPolicy": "niniveh_context",
+    "authored": false
+  },
+  {
+    "nameKo": "하박국",
+    "scriptureRefs": [
+      {
+        "bookId": "HAB",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "suggestedPeriodId": "P17",
+    "placementPolicy": "date_disputed",
+    "authored": false
+  },
+  {
+    "nameKo": "예레미야",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 1,
+        "chapterEnd": 52
+      }
+    ],
+    "suggestedPeriodId": "P18",
+    "placementPolicy": "book_oracle_chronology_non_linear",
+    "authored": false
+  },
+  {
+    "nameKo": "에스겔",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 1,
+        "chapterEnd": 48
+      }
+    ],
+    "suggestedPeriodId": "P19",
+    "placementPolicy": "exilic_literary_setting",
+    "authored": false
+  },
+  {
+    "nameKo": "다니엘",
+    "scriptureRefs": [
+      {
+        "bookId": "DAN",
+        "chapterStart": 1,
+        "chapterEnd": 12
+      }
+    ],
+    "suggestedPeriodId": "P19",
+    "placementPolicy": "narrative_setting_and_composition_distinct",
+    "authored": false
+  },
+  {
+    "nameKo": "요엘",
+    "scriptureRefs": [
+      {
+        "bookId": "JOL",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "suggestedPeriodId": null,
+    "placementPolicy": "chronology_unresolved",
+    "authored": false
+  },
+  {
+    "nameKo": "오바댜",
+    "scriptureRefs": [
+      {
+        "bookId": "OBA",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "suggestedPeriodId": null,
+    "placementPolicy": "chronology_unresolved",
+    "authored": false
+  },
+  {
+    "nameKo": "학개",
+    "scriptureRefs": [
+      {
+        "bookId": "HAG",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "suggestedPeriodId": "P20",
+    "placementPolicy": "post_exilic",
+    "authored": false
+  },
+  {
+    "nameKo": "스가랴",
+    "scriptureRefs": [
+      {
+        "bookId": "ZEC",
+        "chapterStart": 1,
+        "chapterEnd": 14
+      }
+    ],
+    "suggestedPeriodId": "P20",
+    "placementPolicy": "literary_layers",
+    "authored": false
+  },
+  {
+    "nameKo": "말라기",
+    "scriptureRefs": [
+      {
+        "bookId": "MAL",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "suggestedPeriodId": "P20",
+    "placementPolicy": "post_exilic",
+    "authored": false
+  }
+]

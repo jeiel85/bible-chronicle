@@ -1,0 +1,8 @@
+{
+  "type":"FeatureCollection",
+  "metadata": {"status":"illustrative_coordinates_unverified","warning":"좌표 및 시대 경계는 이 패키지에서 고고학·지리 자료와 대조되지 않았으므로 배포 금지","crs":"WGS84"},
+  "features":[
+    {"type":"Feature","id":"place-lachish","properties":{"nameKo":"라기스","locationStatus":"illustrative_unverified","sourceIds":[],"publishable":false},"geometry":{"type":"Point","coordinates":[34.85,31.56]}},
+    {"type":"Feature","id":"place-jerusalem","properties":{"nameKo":"예루살렘","locationStatus":"illustrative_unverified","sourceIds":[],"publishable":false},"geometry":{"type":"Point","coordinates":[35.23,31.78]}}
+  ]
+}

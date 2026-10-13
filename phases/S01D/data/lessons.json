@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "lesson-gen-116",
+    "episodeId": "ep-gen-116",
+    "passage": "GEN.37.1-GEN.37.4",
+    "learningGoalKo": "편애와 형제 갈등의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉에게 특별한 옷을 준 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "야곱",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "보디발",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 37:1-4에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "편애와 형제 갈등에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-117",
+    "episodeId": "ep-gen-117",
+    "passage": "GEN.37.5-GEN.37.11",
+    "learningGoalKo": "두 꿈과 형제들의 반응의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉의 두 번째 꿈에 나타나는 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "해와 달과 별",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "떨기나무",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "일곱 암소",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 37:5-11에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "두 꿈과 형제들의 반응에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-118",
+    "episodeId": "ep-gen-118",
+    "passage": "GEN.37.12-GEN.37.17",
+    "learningGoalKo": "형들을 찾아가는 길의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 형들을 찾아간 곳 중 뒤에 언급되는 지명은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "도단",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "소돔",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "여리고",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 37:12-17에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "형들을 찾아가는 길에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-119",
+    "episodeId": "ep-gen-119",
+    "passage": "GEN.37.18-GEN.37.28",
+    "learningGoalKo": "구덩이와 매매의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉을 먼저 구덩이에 넣자고 제안한 형은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "르우벤",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베냐민",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "시므온",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 37:18-28에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "구덩이와 매매에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-120",
+    "episodeId": "ep-gen-120",
+    "passage": "GEN.37.29-GEN.37.36",
+    "learningGoalKo": "옷으로 속이다의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱을 속일 때 제시된 물건은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉의 옷",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "지팡이",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "은잔",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 37:29-36에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "옷으로 속이다에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-121",
+    "episodeId": "ep-gen-121",
+    "passage": "GEN.38.1-GEN.38.11",
+    "learningGoalKo": "유다의 집과 다말의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "이 이야기의 며느리 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "다말",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "라헬",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "아스낫",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 38:1-11에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "유다의 집과 다말에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-122",
+    "episodeId": "ep-gen-122",
+    "passage": "GEN.38.12-GEN.38.19",
+    "learningGoalKo": "다말과 증표의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "다말이 유다에게 받은 증표에 포함된 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "도장과 끈과 지팡이",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "금송아지",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "법궤",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 38:12-19에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "다말과 증표에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-123",
+    "episodeId": "ep-gen-123",
+    "passage": "GEN.38.20-GEN.38.23",
+    "learningGoalKo": "찾지 못한 증표의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "유다가 다시 찾으려 한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "맡긴 증표",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉의 옷",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "밀 창고",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 38:20-23에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "찾지 못한 증표에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-124",
+    "episodeId": "ep-gen-124",
+    "passage": "GEN.38.24-GEN.38.26",
+    "learningGoalKo": "다말의 정당함 인정의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "유다가 자신의 책임을 인정하게 된 단서는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "도장과 끈과 지팡이",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "금반지",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바로의 명령",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 38:24-26에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "다말의 정당함 인정에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-125",
+    "episodeId": "ep-gen-125",
+    "passage": "GEN.38.27-GEN.38.30",
+    "learningGoalKo": "베레스와 세라의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "다말에게 태어난 쌍둥이는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베레스와 세라",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "에브라임과 므낫세",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "가인과 아벨",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 38:27-30에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "베레스와 세라에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-126",
+    "episodeId": "ep-gen-126",
+    "passage": "GEN.39.1-GEN.39.6",
+    "learningGoalKo": "애굽 집의 요셉의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉을 산 애굽의 관리 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "보디발",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "술 맡은 관원장",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "아비멜렉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 39:1-6에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "애굽 집의 요셉에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-127",
+    "episodeId": "ep-gen-127",
+    "passage": "GEN.39.7-GEN.39.12",
+    "learningGoalKo": "거절과 도망의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 유혹 앞에서 한 행동은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "거절하고 피함",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "동의함",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "형들을 부름",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 39:7-12에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "거절과 도망에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-128",
+    "episodeId": "ep-gen-128",
+    "passage": "GEN.39.13-GEN.39.18",
+    "learningGoalKo": "거짓 고발의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "거짓 고발에 이용된 물건은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉의 옷",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "꿈 해몽서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "곡식 자루",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 39:13-18에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "거짓 고발에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-129",
+    "episodeId": "ep-gen-129",
+    "passage": "GEN.39.19-GEN.39.23",
+    "learningGoalKo": "감옥에서도 계속된 이야기의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "감옥에서 요셉을 신임한 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "간수",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "라반",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 39:19-23에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "감옥에서도 계속된 이야기에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-130",
+    "episodeId": "ep-gen-130",
+    "passage": "GEN.40.1-GEN.40.8",
+    "learningGoalKo": "두 관원의 꿈의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "꿈을 꾼 두 왕실 관원은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "술 맡은 관원장과 떡 굽는 관원장",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "군대 장관과 서기관",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "레위인과 제사장",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 40:1-8에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "두 관원의 꿈에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-131",
+    "episodeId": "ep-gen-131",
+    "passage": "GEN.40.9-GEN.40.15",
+    "learningGoalKo": "술 맡은 관원장의 꿈의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "술 맡은 관원장 꿈의 식물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "포도나무",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "무화과나무",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "향나무",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 40:9-15에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "술 맡은 관원장의 꿈에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-132",
+    "episodeId": "ep-gen-132",
+    "passage": "GEN.40.16-GEN.40.19",
+    "learningGoalKo": "떡 굽는 관원장의 꿈의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "떡 굽는 관원장 꿈에 나타난 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "떡 바구니",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "금잔",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "큰 물고기",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 40:16-19에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "떡 굽는 관원장의 꿈에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-133",
+    "episodeId": "ep-gen-133",
+    "passage": "GEN.40.20-GEN.40.23",
+    "learningGoalKo": "엇갈린 결과와 잊힌 요셉의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "복직한 뒤 요셉을 잊은 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "술 맡은 관원장",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "유다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 40:20-23에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "엇갈린 결과와 잊힌 요셉에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-134",
+    "episodeId": "ep-gen-134",
+    "passage": "GEN.41.1-GEN.41.8",
+    "learningGoalKo": "바로의 두 꿈의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "바로의 꿈에 등장하는 동물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "암소",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "양",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "사자",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:1-8에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "바로의 두 꿈에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-135",
+    "episodeId": "ep-gen-135",
+    "passage": "GEN.41.9-GEN.41.16",
+    "learningGoalKo": "기억나는 요셉의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "바로에게 요셉을 소개한 이는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "술 맡은 관원장",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "라헬",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "르우벤",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:9-16에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "기억나는 요셉에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-136",
+    "episodeId": "ep-gen-136",
+    "passage": "GEN.41.17-GEN.41.32",
+    "learningGoalKo": "풍년과 흉년의 예고의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "꿈에서 예고된 순서는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "일곱 해 풍년 뒤 일곱 해 흉년",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "흉년 뒤 홍수",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "40년 광야",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:17-32에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "풍년과 흉년의 예고에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-137",
+    "episodeId": "ep-gen-137",
+    "passage": "GEN.41.33-GEN.41.40",
+    "learningGoalKo": "식량 관리 제안의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 풍년 때 저장하도록 제안한 몫은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "오분의 일",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "절반",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "십분의 일",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:33-40에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "식량 관리 제안에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-138",
+    "episodeId": "ep-gen-138",
+    "passage": "GEN.41.41-GEN.41.45",
+    "learningGoalKo": "왕의 권한을 받은 요셉의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "바로가 요셉에게 준 권한의 상징은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "인장 반지",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "법궤",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "홍해 지팡이",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:41-45에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "왕의 권한을 받은 요셉에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-139",
+    "episodeId": "ep-gen-139",
+    "passage": "GEN.41.46-GEN.41.52",
+    "learningGoalKo": "저장과 두 아들의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉의 두 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "므낫세와 에브라임",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베레스와 세라",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에서와 야곱",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:46-52에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "저장과 두 아들에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-140",
+    "episodeId": "ep-gen-140",
+    "passage": "GEN.41.53-GEN.41.57",
+    "learningGoalKo": "흉년 시작과 곡식 배급의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "흉년이 시작되자 사람들이 찾아간 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "아브라함",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "라반",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 41:53-57에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "흉년 시작과 곡식 배급에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-141",
+    "episodeId": "ep-gen-141",
+    "passage": "GEN.42.1-GEN.42.5",
+    "learningGoalKo": "형제들의 첫 애굽행의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "첫 여정에 동행하지 않은 동생은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시므온",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "유다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 42:1-5에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "형제들의 첫 애굽행에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-142",
+    "episodeId": "ep-gen-142",
+    "passage": "GEN.42.6-GEN.42.17",
+    "learningGoalKo": "알아보지 못하는 형제들의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "형들이 요셉을 알아보았는가?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "알아보지 못했다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "곧바로 알아보았다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "편지를 받았다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 42:6-17에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "알아보지 못하는 형제들에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-143",
+    "episodeId": "ep-gen-143",
+    "passage": "GEN.42.18-GEN.42.25",
+    "learningGoalKo": "시므온이 남다의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "애굽에 남겨진 형제는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "시므온",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베냐민",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에서",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 42:18-25에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "시므온이 남다에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-144",
+    "episodeId": "ep-gen-144",
+    "passage": "GEN.42.26-GEN.42.28",
+    "learningGoalKo": "되돌아온 돈의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "곡식 자루에서 발견한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "돌려놓은 돈",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉의 인장",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "포도주",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 42:26-28에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "되돌아온 돈에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-145",
+    "episodeId": "ep-gen-145",
+    "passage": "GEN.42.29-GEN.42.38",
+    "learningGoalKo": "야곱의 두려움의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 다시 떠나보내기 두려워한 이는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "보디발",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바로",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 42:29-38에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "야곱의 두려움에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-146",
+    "episodeId": "ep-gen-146",
+    "passage": "GEN.43.1-GEN.43.10",
+    "learningGoalKo": "유다의 책임 선언의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "베냐민의 안전을 보증한 형은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "유다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에브라임",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 43:1-10에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "유다의 책임 선언에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-147",
+    "episodeId": "ep-gen-147",
+    "passage": "GEN.43.11-GEN.43.15",
+    "learningGoalKo": "예물과 두 번째 여정의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "형들과 함께 두 번째로 애굽에 간 동생은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "레위",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 43:11-15에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "예물과 두 번째 여정에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-148",
+    "episodeId": "ep-gen-148",
+    "passage": "GEN.43.16-GEN.43.25",
+    "learningGoalKo": "요셉의 집으로의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "형제들이 초대받은 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉의 집",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "보디발의 감옥",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "애굽 신전",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 43:16-25에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉의 집으로에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-149",
+    "episodeId": "ep-gen-149",
+    "passage": "GEN.43.26-GEN.43.34",
+    "learningGoalKo": "형제들의 식탁의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "다른 형제들보다 더 많은 음식을 받은 이는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시므온",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "르우벤",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 43:26-34에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "형제들의 식탁에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-150",
+    "episodeId": "ep-gen-150",
+    "passage": "GEN.44.1-GEN.44.5",
+    "learningGoalKo": "은잔의 시험의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "은잔을 넣도록 지정된 자루 주인은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "유다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "라헬",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 44:1-5에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "은잔의 시험에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-151",
+    "episodeId": "ep-gen-151",
+    "passage": "GEN.44.6-GEN.44.13",
+    "learningGoalKo": "은잔 발견의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "은잔이 발견된 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민의 자루",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉의 방",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "야곱의 장막",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 44:6-13에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "은잔 발견에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-152",
+    "episodeId": "ep-gen-152",
+    "passage": "GEN.44.14-GEN.44.17",
+    "learningGoalKo": "판결 앞의 형제들의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 종으로 남기려 한 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "잔이 발견된 베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "전 형제",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "야곱",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 44:14-17에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "판결 앞의 형제들에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-153",
+    "episodeId": "ep-gen-153",
+    "passage": "GEN.44.18-GEN.44.34",
+    "learningGoalKo": "유다의 긴 변론의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "베냐민 대신 종으로 남겠다고 한 이는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "유다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "르우벤",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "시므온",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 44:18-34에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "유다의 긴 변론에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-154",
+    "episodeId": "ep-gen-154",
+    "passage": "GEN.45.1-GEN.45.8",
+    "learningGoalKo": "요셉의 정체 공개의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉은 누구에게 정체를 밝혔는가?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "형제들",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로만",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "애굽 군대",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 45:1-8에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉의 정체 공개에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-155",
+    "episodeId": "ep-gen-155",
+    "passage": "GEN.45.9-GEN.45.15",
+    "learningGoalKo": "아버지를 부르다의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 아버지를 데려오려는 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "애굽",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "하란",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "여리고",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 45:9-15에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "아버지를 부르다에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-156",
+    "episodeId": "ep-gen-156",
+    "passage": "GEN.45.16-GEN.45.20",
+    "learningGoalKo": "바로의 지원의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "가족 이동을 돕겠다고 말한 통치자는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "바로",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요시야",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "다윗",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 45:16-20에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "바로의 지원에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-157",
+    "episodeId": "ep-gen-157",
+    "passage": "GEN.45.21-GEN.45.28",
+    "learningGoalKo": "야곱에게 전한 소식의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 아들의 생존을 알게 된 계기는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "형제들의 소식과 수레",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로의 꿈",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "가인의 표",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 45:21-28에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "야곱에게 전한 소식에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-158",
+    "episodeId": "ep-gen-158",
+    "passage": "GEN.46.1-GEN.46.7",
+    "learningGoalKo": "브엘세바에서 애굽으로의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 애굽으로 가는 길에 제사한 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "브엘세바",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "여리고",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "시내산",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 46:1-7에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "브엘세바에서 애굽으로에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-159",
+    "episodeId": "ep-gen-159",
+    "passage": "GEN.46.8-GEN.46.27",
+    "learningGoalKo": "내려간 가족의 명단의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "이 단락의 핵심 자료 형식은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가족 명단과 계보",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "전쟁 기록",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "성전 도면",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 46:8-27에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "내려간 가족의 명단에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-160",
+    "episodeId": "ep-gen-160",
+    "passage": "GEN.46.28-GEN.46.30",
+    "learningGoalKo": "고센에서 재회의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱을 맞으러 고센에 나온 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "에서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "이삭",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 46:28-30에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "고센에서 재회에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-161",
+    "episodeId": "ep-gen-161",
+    "passage": "GEN.46.31-GEN.46.34",
+    "learningGoalKo": "목축업을 소개하다의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 형제들에게 설명하라고 한 생업은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "목축업",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "어업",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "도공업",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 46:31-34에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "목축업을 소개하다에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-162",
+    "episodeId": "ep-gen-162",
+    "passage": "GEN.47.1-GEN.47.6",
+    "learningGoalKo": "바로 앞의 형제들의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "바로가 형제들에게 물은 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "생업",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "전쟁 계획",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "악기 연주",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 47:1-6에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "바로 앞의 형제들에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-163",
+    "episodeId": "ep-gen-163",
+    "passage": "GEN.47.7-GEN.47.12",
+    "learningGoalKo": "야곱과 바로의 만남의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "바로를 만나 축복한 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "야곱",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베냐민",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "보디발",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 47:7-12에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "야곱과 바로의 만남에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-164",
+    "episodeId": "ep-gen-164",
+    "passage": "GEN.47.13-GEN.47.22",
+    "learningGoalKo": "기근 아래 애굽의 토지의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "토지 귀속에서 본문이 예외로 다루는 집단은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "제사장",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "외국 군대",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "어린이",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 47:13-22에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "기근 아래 애굽의 토지에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-165",
+    "episodeId": "ep-gen-165",
+    "passage": "GEN.47.23-GEN.47.26",
+    "learningGoalKo": "농지와 오분의 일의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "이 장의 수확 규정에서 왕에게 주는 몫은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "오분의 일",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "삼분의 일",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "전부",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 47:23-26에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "농지와 오분의 일에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-166",
+    "episodeId": "ep-gen-166",
+    "passage": "GEN.47.27-GEN.47.31",
+    "learningGoalKo": "야곱의 마지막 부탁의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 장례를 위해 요청한 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "조상의 매장지 가나안",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시내산 정상",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "애굽 왕릉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 47:27-31에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "야곱의 마지막 부탁에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-167",
+    "episodeId": "ep-gen-167",
+    "passage": "GEN.48.1-GEN.48.7",
+    "learningGoalKo": "요셉의 아들을 데려오다의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 야곱에게 데려온 두 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에브라임과 므낫세",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베레스와 세라",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "가인과 아벨",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 48:1-7에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉의 아들을 데려오다에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-168",
+    "episodeId": "ep-gen-168",
+    "passage": "GEN.48.8-GEN.48.16",
+    "learningGoalKo": "손을 교차해 축복의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 오른손을 얹은 손자는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에브라임",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "므낫세",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 48:8-16에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "손을 교차해 축복에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-169",
+    "episodeId": "ep-gen-169",
+    "passage": "GEN.48.17-GEN.48.20",
+    "learningGoalKo": "요셉의 반응과 야곱의 뜻의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 먼저 축복한 대상은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에브라임",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "므낫세",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "르우벤",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 48:17-20에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉의 반응과 야곱의 뜻에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-170",
+    "episodeId": "ep-gen-170",
+    "passage": "GEN.48.21-GEN.48.22",
+    "learningGoalKo": "땅을 향한 유언의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 미래에 돌아갈 땅으로 바라본 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가나안 조상의 땅",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "로마",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "모압 사막",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 48:21-22에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "땅을 향한 유언에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-171",
+    "episodeId": "ep-gen-171",
+    "passage": "GEN.49.1-GEN.49.4",
+    "learningGoalKo": "장자 르우벤의 자리의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 제일 먼저 언급하는 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "르우벤",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베냐민",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 49:1-4에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "장자 르우벤의 자리에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-172",
+    "episodeId": "ep-gen-172",
+    "passage": "GEN.49.5-GEN.49.12",
+    "learningGoalKo": "시므온·레위·유다의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "여기서 지도력의 이미지가 강조된 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "유다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시므온",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "단",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 49:5-12에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "시므온·레위·유다에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-173",
+    "episodeId": "ep-gen-173",
+    "passage": "GEN.49.13-GEN.49.21",
+    "learningGoalKo": "여러 아들의 축복 시어의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "이 부분의 특징적 문학 형식은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "시적 축복과 비유",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "법정 판결서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "왕의 조세 명령",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 49:13-21에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "여러 아들의 축복 시어에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-174",
+    "episodeId": "ep-gen-174",
+    "passage": "GEN.49.22-GEN.49.28",
+    "learningGoalKo": "요셉과 베냐민의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "마지막에 언급되는 아들의 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "유다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "르우벤",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 49:22-28에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉과 베냐민에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-175",
+    "episodeId": "ep-gen-175",
+    "passage": "GEN.49.29-GEN.49.33",
+    "learningGoalKo": "매장 지시와 야곱의 죽음의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "야곱이 부탁한 장례 장소는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "막벨라 굴",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로 궁전",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요단강",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 49:29-33에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "매장 지시와 야곱의 죽음에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-176",
+    "episodeId": "ep-gen-176",
+    "passage": "GEN.50.1-GEN.50.14",
+    "learningGoalKo": "가나안에서 야곱의 장례의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "장례 행렬이 향한 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가나안",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바벨론",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "시내산",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 50:1-14에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "가나안에서 야곱의 장례에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-177",
+    "episodeId": "ep-gen-177",
+    "passage": "GEN.50.15-GEN.50.21",
+    "learningGoalKo": "형제들의 두려움과 용서의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "형들을 두려움에서 안심시키려 한 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "보디발",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바로",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 50:15-21에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "형제들의 두려움과 용서에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-178",
+    "episodeId": "ep-gen-178",
+    "passage": "GEN.50.22-GEN.50.23",
+    "learningGoalKo": "요셉의 후손의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 애굽에서 본 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "후손들",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "앗수르 왕",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "다윗 왕",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 50:22-23에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉의 후손에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  },
+  {
+    "id": "lesson-gen-179",
+    "episodeId": "ep-gen-179",
+    "passage": "GEN.50.24-GEN.50.26",
+    "learningGoalKo": "요셉의 죽음과 출애굽의 예고의 본문 흐름과 역사적 해석의 경계 구별",
+    "questionKo": "요셉이 후일 이스라엘에게 부탁한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "자신의 유골을 가지고 나갈 것",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "애굽 왕이 될 것",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "가나안의 모든 집을 팔 것",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "창세기 50:24-26에 있는 관련 내용으로 확인하세요. 직접 인용문이 아닌 교재용 임시 요약입니다.",
+    "reflectionPromptKo": "요셉의 죽음과 출애굽의 예고에서 본문이 직접 말하는 것과 내가 추론한 것을 분리해 보세요.",
+    "teacherGuideKo": "먼저 해당 장절을 읽고 사건의 발생 여부와 그것에 대한 역사학적 확인이 서로 다름을 설명합니다. 민감 사건은 본문 충실도와 아동 보호를 함께 검토해야 합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "sensitive_age_gate_pending"
+  }
+]

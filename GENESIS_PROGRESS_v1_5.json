@@ -1,0 +1,46 @@
+{
+  "currentIntegratedVersion": "1.5.0",
+  "scope": "draft_design_not_finished_game",
+  "canon": {
+    "books": 66,
+    "chapters": 1189
+  },
+  "genesis": {
+    "stageA": {
+      "chapters": [
+        1,
+        11
+      ],
+      "episodes": 22,
+      "mappedVerses": 299
+    },
+    "stageB": {
+      "chapters": [
+        12,
+        25
+      ],
+      "episodes": 41,
+      "mappedVerses": 394
+    },
+    "stageC": {
+      "chapters": [
+        26,
+        36
+      ],
+      "episodes": 52,
+      "mappedVerses": 391
+    },
+    "currentDesignedChapters": 36,
+    "currentDesignedEpisodes": 115,
+    "currentMappedVerses": 1084,
+    "chaptersAwaitingEpisodeAuthoring": [
+      37,
+      50
+    ]
+  },
+  "retainedIsraelEpisodeOutlines": 219,
+  "independentHistoricalAttestationApproved": 0,
+  "rightsApprovals": 0,
+  "artAssetsGeneratedInThisStage": 0,
+  "nextPhase": "S01D_Genesis_37_50"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "adullam",
+    "labelKo": "아둘람 일대",
+    "evidenceClass": "biblical_location_candidate",
+    "cautionKo": "유다의 이동 경로를 확정하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "beersheba",
+    "labelKo": "브엘세바",
+    "evidenceClass": "site_candidate",
+    "cautionKo": "후대 유적 자료와 족장 사건을 연결한 입증은 아님",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "canaan",
+    "labelKo": "가나안",
+    "evidenceClass": "historical_region",
+    "cautionKo": "성경 시대의 가나안 언급; 지도 경계는 시기별 연구가 필요함",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "dothan",
+    "labelKo": "도단",
+    "evidenceClass": "site_candidate",
+    "cautionKo": "후보 지점은 논의될 수 있으나 요셉 사건 경로 확정 불가",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "egypt",
+    "labelKo": "애굽/이집트",
+    "evidenceClass": "historical_region",
+    "cautionKo": "역사적 이집트의 존재와 특정 요셉 이야기의 입증을 구별",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "goshen",
+    "labelKo": "고센",
+    "evidenceClass": "region_uncertain",
+    "cautionKo": "고센의 정확한 경계와 거주 시기는 미확정",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "machpelah",
+    "labelKo": "막벨라 굴",
+    "evidenceClass": "traditional_location_not_proven",
+    "cautionKo": "전통적 장소와 사건의 독립 고고학적 확인을 구별",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "nile",
+    "labelKo": "나일강",
+    "evidenceClass": "known_geographic_feature",
+    "cautionKo": "나일강 실재와 꿈 사건의 고고학적 검증은 별개",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "shechem",
+    "labelKo": "세겜",
+    "evidenceClass": "ancient_town_candidate",
+    "cautionKo": "성경에 등장하는 지명과 족장 이야기를 특정 발굴 층위와 동등시하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  },
+  {
+    "id": "timnah",
+    "labelKo": "딤나",
+    "evidenceClass": "ambiguous_toponym",
+    "cautionKo": "동명이 지명 등으로 특정 연대의 위치 확정 금지",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "no_precise_biblical_event_pin_without_review"
+  }
+]

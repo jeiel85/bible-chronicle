@@ -1,0 +1,19 @@
+{
+  "version": "1.5.0",
+  "baselineZipName": "Bible_Chronicle_Integrated_v1_4.zip",
+  "baselineZipSha256": "866b2bf365e0db4ae3aac992ad7f75618a42cf1aaa42a5f942492d18a7595824",
+  "baselineEntryCount": 125,
+  "changedMetadata": [
+    "LATEST_RELEASE.md",
+    "master/NEXT_REQUEST.md"
+  ],
+  "preservedUnchangedEntryCount": 123,
+  "addedModule": "phases/S01C",
+  "addedEpisodes": 52,
+  "addedVerseMappings": 391,
+  "masterCanonBooks": 66,
+  "masterCanonChapters": 1189,
+  "designDraftOnly": true,
+  "releaseGateBlocked": true,
+  "preservationErrors": []
+}

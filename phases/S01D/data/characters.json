@@ -1,0 +1,177 @@
+[
+  {
+    "id": "asenath",
+    "labelKo": "아스낫",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "baker",
+    "labelKo": "떡 굽는 관원장",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "benjamin",
+    "labelKo": "베냐민",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "brothers",
+    "labelKo": "요셉의 형제들",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "cupbearer",
+    "labelKo": "술 맡은 관원장",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "ephraim",
+    "labelKo": "에브라임",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "er",
+    "labelKo": "엘",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "hirah",
+    "labelKo": "히라",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "jacob",
+    "labelKo": "야곱/이스라엘",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "jailer",
+    "labelKo": "간수",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "joseph",
+    "labelKo": "요셉",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "judah",
+    "labelKo": "유다",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "manasseh",
+    "labelKo": "므낫세",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "merchants",
+    "labelKo": "지나가던 상인들",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "onan",
+    "labelKo": "오난",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "perez",
+    "labelKo": "베레스",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "pharaoh",
+    "labelKo": "바로(고유명 미제시)",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "potiphar",
+    "labelKo": "보디발",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "potiphars_wife",
+    "labelKo": "보디발의 아내",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "reuben",
+    "labelKo": "르우벤",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "shelah",
+    "labelKo": "셀라",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "simeon",
+    "labelKo": "시므온",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "steward",
+    "labelKo": "요셉의 청지기",
+    "isBiblicalNamedCharacter": false,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "tamar",
+    "labelKo": "다말",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  },
+  {
+    "id": "zerah",
+    "labelKo": "세라",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "biblical_character_or_group_not_independently_identified",
+    "editorial": "인물 행적/대사는 해당 구절의 기록 범위로 제한. 가상 심리와 미기록 대화 금지"
+  }
+]

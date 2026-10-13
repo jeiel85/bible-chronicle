@@ -1,0 +1,782 @@
+[
+  {
+    "id": "S01C-CLAIM-064",
+    "episodeId": "ep-gen-064",
+    "assertionKo": "기근에 이삭이 그랄로 감 → 애굽으로 내려가지 말라는 지시 → 아브라함에게 주어진 약속이 이삭에게 재확인됨",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.1-GEN.26.6",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-065",
+    "episodeId": "ep-gen-065",
+    "assertionKo": "이삭이 리브가를 누이라고 소개함 → 아비멜렉이 둘의 관계를 알아차림 → 왕이 부부를 해치지 말라고 명함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.7-GEN.26.11",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-066",
+    "episodeId": "ep-gen-066",
+    "assertionKo": "이삭이 농사에서 풍성한 소출을 얻음 → 우물들이 메워지고 다툼이 생김 → 이삭이 그랄 골짜기로 옮겨 감",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.12-GEN.26.17",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-067",
+    "episodeId": "ep-gen-067",
+    "assertionKo": "아버지 때의 우물을 다시 팜 → 에섹과 싯나의 다툼을 겪음 → 르호봇의 우물에서는 다투지 않음",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.18-GEN.26.22",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-068",
+    "episodeId": "ep-gen-068",
+    "assertionKo": "이삭이 브엘세바로 감 → 하나님의 약속을 다시 들음 → 제단을 쌓고 장막을 침",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.23-GEN.26.25",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-069",
+    "episodeId": "ep-gen-069",
+    "assertionKo": "아비멜렉 일행이 이삭을 찾아옴 → 서로 해치지 않기로 약속하고 잔치를 엶 → 우물의 물을 얻어 이름을 붙임",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.26-GEN.26.33",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-070",
+    "episodeId": "ep-gen-070",
+    "assertionKo": "에서가 헷 족속 여인 둘과 혼인함 → 이 일로 이삭과 리브가의 마음이 근심하게 됨",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.26.34-GEN.26.35",
+    "sourceIds": [
+      "SRC-USCCB-GEN-26",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-071",
+    "episodeId": "ep-gen-071",
+    "assertionKo": "늙은 이삭의 시력이 약해짐 → 에서에게 사냥해 음식을 가져오라고 말함 → 축복을 준비함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.27.1-GEN.27.4",
+    "sourceIds": [
+      "SRC-USCCB-GEN-27",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-072",
+    "episodeId": "ep-gen-072",
+    "assertionKo": "리브가가 말을 엿듣고 야곱에게 알림 → 음식을 준비하고 에서의 옷과 염소 가죽을 사용함 → 야곱이 아버지에게 다가감",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.27.5-GEN.27.17",
+    "sourceIds": [
+      "SRC-USCCB-GEN-27",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-073",
+    "episodeId": "ep-gen-073",
+    "assertionKo": "야곱이 자신을 에서라고 말함 → 이삭이 목소리와 손을 확인함 → 마침내 야곱에게 축복함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.27.18-GEN.27.29",
+    "sourceIds": [
+      "SRC-USCCB-GEN-27",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-074",
+    "episodeId": "ep-gen-074",
+    "assertionKo": "에서가 사냥에서 돌아옴 → 이미 축복이 이루어졌음을 알게 됨 → 이삭이 에서에게도 장래에 관한 말을 전함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.27.30-GEN.27.40",
+    "sourceIds": [
+      "SRC-USCCB-GEN-27",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-075",
+    "episodeId": "ep-gen-075",
+    "assertionKo": "에서가 야곱에게 분노함 → 리브가가 위험을 알고 피하도록 계획함 → 혼인 문제를 들어 이삭에게 의견을 말함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.27.41-GEN.27.46",
+    "sourceIds": [
+      "SRC-USCCB-GEN-27",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-076",
+    "episodeId": "ep-gen-076",
+    "assertionKo": "이삭이 야곱을 축복하여 외가로 보냄 → 가나안 여인과 혼인하지 말라고 함 → 에서가 이스마엘 가문의 여인과도 혼인함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.28.1-GEN.28.9",
+    "sourceIds": [
+      "SRC-USCCB-GEN-28",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-077",
+    "episodeId": "ep-gen-077",
+    "assertionKo": "야곱이 브엘세바에서 하란으로 길을 감 → 잠들어 하늘에 닿은 사다리를 꿈에서 봄 → 하나님이 약속하시고 야곱이 경외함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.28.10-GEN.28.17",
+    "sourceIds": [
+      "SRC-USCCB-GEN-28",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-078",
+    "episodeId": "ep-gen-078",
+    "assertionKo": "야곱이 아침에 돌을 세우고 기름을 부음 → 그곳을 벧엘이라고 부름 → 하나님 앞에서 서원을 함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.28.18-GEN.28.22",
+    "sourceIds": [
+      "SRC-USCCB-GEN-28",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-079",
+    "episodeId": "ep-gen-079",
+    "assertionKo": "야곱이 동방 사람들의 땅에 도착함 → 우물에서 라헬을 만나고 돌을 옮김 → 라반의 집에서 환영받음",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.29.1-GEN.29.14",
+    "sourceIds": [
+      "SRC-USCCB-GEN-29",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-080",
+    "episodeId": "ep-gen-080",
+    "assertionKo": "라반이 임금에 대해 물음 → 야곱이 라헬을 위해 칠 년을 일하기로 함 → 긴 시간이 사랑으로 짧게 여겨졌다고 서술됨",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.29.15-GEN.29.20",
+    "sourceIds": [
+      "SRC-USCCB-GEN-29",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-081",
+    "episodeId": "ep-gen-081",
+    "assertionKo": "라반이 잔치를 열고 레아를 들여보냄 → 야곱이 속임을 알게 됨 → 라헬과도 혼인하고 추가 일곱 해를 섬김",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.29.21-GEN.29.30",
+    "sourceIds": [
+      "SRC-USCCB-GEN-29",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-082",
+    "episodeId": "ep-gen-082",
+    "assertionKo": "레아가 사랑받지 못하는 상황이 서술됨 → 르우벤·시므온·레위·유다가 태어남 → 이름에 얽힌 고백이 기록됨",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.29.31-GEN.29.35",
+    "sourceIds": [
+      "SRC-USCCB-GEN-29",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-083",
+    "episodeId": "ep-gen-083",
+    "assertionKo": "라헬이 자녀 문제로 괴로워함 → 라헬의 종 빌하가 단과 납달리를 낳음 → 가족 관계의 긴장이 이어짐",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.30.1-GEN.30.8",
+    "sourceIds": [
+      "SRC-USCCB-GEN-30",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-084",
+    "episodeId": "ep-gen-084",
+    "assertionKo": "레아가 자신의 종 실바를 야곱에게 줌 → 실바가 갓과 아셀을 낳음 → 가족 계보가 확장됨",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.30.9-GEN.30.13",
+    "sourceIds": [
+      "SRC-USCCB-GEN-30",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-085",
+    "episodeId": "ep-gen-085",
+    "assertionKo": "르우벤이 들에서 합환채를 구함 → 레아와 라헬 사이에 합환채가 등장함 → 잇사갈·스불론과 딸 디나가 태어남",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.30.14-GEN.30.21",
+    "sourceIds": [
+      "SRC-USCCB-GEN-30",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-086",
+    "episodeId": "ep-gen-086",
+    "assertionKo": "하나님이 라헬을 기억하셨다고 본문이 전함 → 라헬이 아들 요셉을 낳음 → 또 다른 아들을 바라는 이름 풀이가 이어짐",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.30.22-GEN.30.24",
+    "sourceIds": [
+      "SRC-USCCB-GEN-30",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-087",
+    "episodeId": "ep-gen-087",
+    "assertionKo": "요셉이 태어난 뒤 야곱이 떠나기를 요청함 → 라반과 가축 보수에 관해 협의함 → 양 떼와 염소 떼를 나누어 관리함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.30.25-GEN.30.36",
+    "sourceIds": [
+      "SRC-USCCB-GEN-30",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-088",
+    "episodeId": "ep-gen-088",
+    "assertionKo": "야곱이 나뭇가지 껍질을 벗겨 물구유에 둠 → 가축 떼가 늘어나고 야곱의 재산이 풍부해짐 → 오늘날 생물학적 번식 원리로 단정하지 않음",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.30.37-GEN.30.43",
+    "sourceIds": [
+      "SRC-USCCB-GEN-30",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-089",
+    "episodeId": "ep-gen-089",
+    "assertionKo": "라반 아들들의 말과 라반의 태도가 달라짐 → 하나님이 야곱에게 돌아가라고 말씀하심 → 라헬과 레아가 함께 떠나는 데 동의함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.31.1-GEN.31.16",
+    "sourceIds": [
+      "SRC-USCCB-GEN-31",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-090",
+    "episodeId": "ep-gen-090",
+    "assertionKo": "야곱이 가족과 가축을 이끌고 출발함 → 라헬이 드라빔을 가져감 → 야곱이 라반에게 알리지 않고 길을 떠남",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.31.17-GEN.31.21",
+    "sourceIds": [
+      "SRC-USCCB-GEN-31",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-091",
+    "episodeId": "ep-gen-091",
+    "assertionKo": "라반이 뒤늦게 소식을 듣고 추격함 → 하나님이 꿈에서 라반에게 경고하심 → 드라빔을 찾지 못하고 수색이 끝남",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.31.22-GEN.31.35",
+    "sourceIds": [
+      "SRC-USCCB-GEN-31",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-092",
+    "episodeId": "ep-gen-092",
+    "assertionKo": "야곱이 수색과 오랜 노동에 항변함 → 사십이 아니라 스무 해를 섬긴 일을 언급함 → 공정한 보상과 보호를 이야기함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.31.36-GEN.31.42",
+    "sourceIds": [
+      "SRC-USCCB-GEN-31",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-093",
+    "episodeId": "ep-gen-093",
+    "assertionKo": "야곱과 라반이 돌무더기를 증거로 삼음 → 서로 넘어가 해치지 않기로 맹세함 → 라반이 가족과 작별함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.31.43-GEN.31.55",
+    "sourceIds": [
+      "SRC-USCCB-GEN-31",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-094",
+    "episodeId": "ep-gen-094",
+    "assertionKo": "하나님의 사자들을 만났다고 본문이 기록함 → 야곱이 그곳을 마하나임이라 부름 → 에서가 사백 명과 온다는 말을 듣고 두려워함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.32.1-GEN.32.8",
+    "sourceIds": [
+      "SRC-USCCB-GEN-32",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-095",
+    "episodeId": "ep-gen-095",
+    "assertionKo": "야곱이 아브라함과 이삭의 하나님을 부름 → 자신의 부족함을 고백함 → 에서에게서 구해 달라고 기도함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.32.9-GEN.32.12",
+    "sourceIds": [
+      "SRC-USCCB-GEN-32",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-096",
+    "episodeId": "ep-gen-096",
+    "assertionKo": "야곱이 가축을 나누어 예물을 준비함 → 여러 떼로 보내면서 화해를 도모함 → 자신은 밤에 머무름",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.32.13-GEN.32.21",
+    "sourceIds": [
+      "SRC-USCCB-GEN-32",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-097",
+    "episodeId": "ep-gen-097",
+    "assertionKo": "야곱이 가족을 얍복 나루 건너편으로 보냄 → 밤새 한 사람과 씨름했다고 본문이 기록함 → 이스라엘이라는 이름을 받고 브니엘이라 이름 붙임",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.32.22-GEN.32.32",
+    "sourceIds": [
+      "SRC-USCCB-GEN-32",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-098",
+    "episodeId": "ep-gen-098",
+    "assertionKo": "야곱이 에서와 그의 사람들을 봄 → 에서가 달려와 야곱을 안고 함께 욺 → 야곱이 예물을 권함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.33.1-GEN.33.11",
+    "sourceIds": [
+      "SRC-USCCB-GEN-33",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-099",
+    "episodeId": "ep-gen-099",
+    "assertionKo": "에서가 앞서 가자고 권함 → 야곱은 가축과 어린이를 이유로 천천히 가겠다고 함 → 에서는 세일로 가고 야곱은 숙곳에 머묾",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.33.12-GEN.33.17",
+    "sourceIds": [
+      "SRC-USCCB-GEN-33",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-100",
+    "episodeId": "ep-gen-100",
+    "assertionKo": "야곱이 세겜 성 가까이에 이르렀다고 서술됨 → 그곳에서 땅을 사고 장막을 침 → 제단을 쌓고 이름을 붙임",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.33.18-GEN.33.20",
+    "sourceIds": [
+      "SRC-USCCB-GEN-33",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-101",
+    "episodeId": "ep-gen-101",
+    "assertionKo": "디나가 그 땅의 딸들을 보러 나감 → 세겜이 디나에게 성적 폭력을 가했다고 서술됨 → 야곱의 아들들이 분노함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.34.1-GEN.34.7",
+    "sourceIds": [
+      "SRC-USCCB-GEN-34",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-102",
+    "episodeId": "ep-gen-102",
+    "assertionKo": "하몰이 혼인과 공존을 제안함 → 형제들이 속임으로 할례 조건을 내세움 → 협상이 이어짐",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.34.8-GEN.34.17",
+    "sourceIds": [
+      "SRC-USCCB-GEN-34",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-103",
+    "episodeId": "ep-gen-103",
+    "assertionKo": "하몰과 세겜이 성문에서 주민들에게 이야기함 → 주민 남자들이 할례에 동의함 → 평화 제안과 속임이 엇갈림",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.34.18-GEN.34.24",
+    "sourceIds": [
+      "SRC-USCCB-GEN-34",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-104",
+    "episodeId": "ep-gen-104",
+    "assertionKo": "시므온과 레위가 도시에 공격을 가함 → 남자들을 죽이고 디나를 데려옴 → 야곱이 결과를 염려하고 형제들이 반박함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.34.25-GEN.34.31",
+    "sourceIds": [
+      "SRC-USCCB-GEN-34",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-105",
+    "episodeId": "ep-gen-105",
+    "assertionKo": "하나님이 야곱에게 벧엘로 가라고 하심 → 가족이 이방 신상을 버리고 정결하게 함 → 드보라가 죽고 장사되었다고 기록됨",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.35.1-GEN.35.8",
+    "sourceIds": [
+      "SRC-USCCB-GEN-35",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-106",
+    "episodeId": "ep-gen-106",
+    "assertionKo": "하나님이 다시 야곱에게 나타나셨다고 서술됨 → 이스라엘의 이름과 약속을 확인함 → 야곱이 돌기둥을 세우고 벧엘이라 부름",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.35.9-GEN.35.15",
+    "sourceIds": [
+      "SRC-USCCB-GEN-35",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-107",
+    "episodeId": "ep-gen-107",
+    "assertionKo": "벧엘에서 길을 떠나 에브랏으로 향함 → 라헬이 베냐민을 낳고 숨짐 → 야곱이 길가에 기둥을 세움",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.35.16-GEN.35.20",
+    "sourceIds": [
+      "SRC-USCCB-GEN-35",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-108",
+    "episodeId": "ep-gen-108",
+    "assertionKo": "이스라엘이 에델 망대 너머에 장막을 침 → 르우벤과 빌하에 관한 짧은 서술이 나옴 → 레아·라헬·빌하·실바의 아들 명단을 정리함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.35.21-GEN.35.26",
+    "sourceIds": [
+      "SRC-USCCB-GEN-35",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-109",
+    "episodeId": "ep-gen-109",
+    "assertionKo": "야곱이 마므레의 이삭에게 돌아옴 → 이삭이 백팔십 세로 죽었다고 서술됨 → 에서와 야곱이 함께 장사함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.35.27-GEN.35.29",
+    "sourceIds": [
+      "SRC-USCCB-GEN-35",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-110",
+    "episodeId": "ep-gen-110",
+    "assertionKo": "에서의 아내와 자녀 이름이 소개됨 → 형제의 재산이 많아 함께 살기 어려워짐 → 에서가 세일 산으로 옮겨 감",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.36.1-GEN.36.8",
+    "sourceIds": [
+      "SRC-USCCB-GEN-36",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-111",
+    "episodeId": "ep-gen-111",
+    "assertionKo": "세일 산지의 에서 자손이 열거됨 → 엘리바스·르우엘 등의 자손이 기록됨 → 후대 집단 이름과 연결되는 계보형 자료",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.36.9-GEN.36.14",
+    "sourceIds": [
+      "SRC-USCCB-GEN-36",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-112",
+    "episodeId": "ep-gen-112",
+    "assertionKo": "엘리바스와 르우엘 자손의 족장이 열거됨 → 오홀리바마 계열의 족장들이 소개됨 → 명단은 족보 탐색 화면으로 제시함",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.36.15-GEN.36.19",
+    "sourceIds": [
+      "SRC-USCCB-GEN-36",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-113",
+    "episodeId": "ep-gen-113",
+    "assertionKo": "세일의 호리 사람들과 족장들의 명단이 소개됨 → 인물 사이 친족 관계를 분리해 읽음 → 후대 왕국 경계선처럼 그리지 않음",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.36.20-GEN.36.30",
+    "sourceIds": [
+      "SRC-USCCB-GEN-36",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-114",
+    "episodeId": "ep-gen-114",
+    "assertionKo": "이스라엘 왕이 있기 전에 다스린 왕들의 목록이 나옴 → 벨라부터 하닷까지 이름과 지역을 열거함 → 현대 기준 절대 연대와 왕국 영토는 추정하지 않음",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.36.31-GEN.36.39",
+    "sourceIds": [
+      "SRC-USCCB-GEN-36",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  },
+  {
+    "id": "S01C-CLAIM-115",
+    "episodeId": "ep-gen-115",
+    "assertionKo": "에서에서 이어지는 족장들의 명칭을 열거함 → 정착지를 따라 족보가 정리됨 → 요셉 서사로 넘어가기 전 계보의 마침표",
+    "type": "scripture_story_summary",
+    "scripturePassage": "GEN.36.40-GEN.36.43",
+    "sourceIds": [
+      "SRC-USCCB-GEN-36",
+      "SRC-BIBLEGATEWAY-GEN-26-36"
+    ],
+    "externalHistoricalEvidence": "not_established",
+    "scholarlyReview": "pending",
+    "biblicalTextReview": "pending",
+    "published": false
+  }
+]

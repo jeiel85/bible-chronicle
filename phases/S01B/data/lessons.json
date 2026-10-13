@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "lesson-gen-023",
+    "episodeId": "ep-gen-023",
+    "passage": "GEN.12.1-GEN.12.5",
+    "learningGoalKo": "약속과 이동의 연결",
+    "questionKo": "아브람이 떠난 출발지는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "하란",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "니느웨",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "예루살렘",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 12:1~5의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "부르심과 출발에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 약속과 이동의 연결을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-024",
+    "episodeId": "ep-gen-024",
+    "passage": "GEN.12.6-GEN.12.9",
+    "learningGoalKo": "서사의 공간 이동과 제단",
+    "questionKo": "아브람이 제단을 쌓은 곳으로 본문에 등장하는 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "세겜",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바벨론",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "여리고",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 12:6~9의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "세겜과 벧엘의 제단에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 서사의 공간 이동과 제단을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-025",
+    "episodeId": "ep-gen-025",
+    "passage": "GEN.12.10-GEN.12.20",
+    "learningGoalKo": "본문 속 두려움과 윤리 문제 읽기",
+    "questionKo": "아브람이 애굽으로 간 계기는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가나안의 기근",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "전쟁에서 승리해서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "이삭의 결혼 때문에",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 12:10~20의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "기근과 애굽에서의 사래에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 본문 속 두려움과 윤리 문제 읽기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-026",
+    "episodeId": "ep-gen-026",
+    "passage": "GEN.13.1-GEN.13.7",
+    "learningGoalKo": "갈등의 원인을 본문에서 찾기",
+    "questionKo": "아브람과 롯의 일행이 부딪친 까닭은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "함께 머물기 어려울 만큼 가축과 소유가 많아서",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "서로 다른 언어를 써서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "왕좌를 다투어서",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 13:1~7의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "목자들 사이의 다툼에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 갈등의 원인을 본문에서 찾기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-027",
+    "episodeId": "ep-gen-027",
+    "passage": "GEN.13.8-GEN.13.13",
+    "learningGoalKo": "선택의 서술을 결과 조작과 구별",
+    "questionKo": "롯이 택한 지역은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요단 들",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시내산",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "갈릴리",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 13:8~13의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "롯이 요단 들을 택하다에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 선택의 서술을 결과 조작과 구별을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-028",
+    "episodeId": "ep-gen-028",
+    "passage": "GEN.13.14-GEN.13.18",
+    "learningGoalKo": "땅 약속의 반복과 표현",
+    "questionKo": "아브람이 마지막으로 장막을 옮긴 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "헤브론 마므레",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "애굽 고센",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "다메섹 성내",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 13:14~18의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "약속의 재확인과 헤브론에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 땅 약속의 반복과 표현을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-029",
+    "episodeId": "ep-gen-029",
+    "passage": "GEN.14.1-GEN.14.12",
+    "learningGoalKo": "전투 이야기와 외부 사료 증명을 분리",
+    "questionKo": "포로가 된 아브람의 친족은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "롯",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "이삭",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "라반",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 14:1~12의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "네 왕과 다섯 왕의 전쟁에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 전투 이야기와 외부 사료 증명을 분리을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-030",
+    "episodeId": "ep-gen-030",
+    "passage": "GEN.14.13-GEN.14.16",
+    "learningGoalKo": "추격 방향은 본문 수준에서만 표시",
+    "questionKo": "아브람이 추격에 나선 이유는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "롯을 구하려고",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "갈대아 우르를 정복하려고",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "왕이 되려고",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 14:13~16의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "아브람의 롯 구출에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 추격 방향은 본문 수준에서만 표시을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-031",
+    "episodeId": "ep-gen-031",
+    "passage": "GEN.14.17-GEN.14.24",
+    "learningGoalKo": "멜기세덱과 소돔 왕의 차이",
+    "questionKo": "아브람을 축복한 살렘 왕은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "멜기세덱",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "아비멜렉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 14:17~24의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "멜기세덱과 전리품에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 멜기세덱과 소돔 왕의 차이을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-032",
+    "episodeId": "ep-gen-032",
+    "passage": "GEN.15.1-GEN.15.6",
+    "learningGoalKo": "믿음과 약속의 텍스트 관찰",
+    "questionKo": "자손의 비유에 등장하는 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "하늘의 별",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바다의 물고기만",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "사막의 낙타만",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 15:1~6의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "별을 바라보는 약속에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 믿음과 약속의 텍스트 관찰을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-033",
+    "episodeId": "ep-gen-033",
+    "passage": "GEN.15.7-GEN.15.21",
+    "learningGoalKo": "언약 장면과 예고를 구분",
+    "questionKo": "아브람에게 예고된 후손의 경험은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "타국 체류와 압제 후 귀환",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "즉시 로마 제국 건국",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "그날 바로 성전 완공",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 15:7~21의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "언약과 미래의 예고에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 언약 장면과 예고를 구분을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-034",
+    "episodeId": "ep-gen-034",
+    "passage": "GEN.16.1-GEN.16.6",
+    "learningGoalKo": "여성·종 신분의 권력 비대칭 이해",
+    "questionKo": "하갈이 떠나게 된 배경은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "임신 후 집안에서 발생한 갈등과 학대",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "애굽 군대의 침공",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "야곱의 명령",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 16:1~6의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "사래와 하갈의 갈등에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 여성·종 신분의 권력 비대칭 이해을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-035",
+    "episodeId": "ep-gen-035",
+    "passage": "GEN.16.7-GEN.16.16",
+    "learningGoalKo": "본문에 등장하는 하갈의 목소리",
+    "questionKo": "하갈이 낳은 아들의 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이스마엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "이삭",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에서",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 16:7~16의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "하갈과 이스마엘에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 본문에 등장하는 하갈의 목소리을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-036",
+    "episodeId": "ep-gen-036",
+    "passage": "GEN.17.1-GEN.17.14",
+    "learningGoalKo": "이름과 언약 표징의 역할",
+    "questionKo": "아브람의 새 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "아브라함",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "야곱",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "이스라엘",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 17:1~14의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "아브라함과 언약의 표에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 이름과 언약 표징의 역할을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-037",
+    "episodeId": "ep-gen-037",
+    "passage": "GEN.17.15-GEN.17.27",
+    "learningGoalKo": "이삭과 이스마엘 약속의 차이",
+    "questionKo": "사라에게 태어날 아들로 예고된 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이삭",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 17:15~27의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "사라의 이름과 이삭의 약속에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 이삭과 이스마엘 약속의 차이을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-038",
+    "episodeId": "ep-gen-038",
+    "passage": "GEN.18.1-GEN.18.15",
+    "learningGoalKo": "환대와 약속의 반복",
+    "questionKo": "사라가 약속을 듣고 보인 반응은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "웃었다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바로 길을 떠났다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "성벽을 세웠다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 18:1~15의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "마므레의 방문객에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 환대와 약속의 반복을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-039",
+    "episodeId": "ep-gen-039",
+    "passage": "GEN.18.16-GEN.18.33",
+    "learningGoalKo": "질문하는 신앙과 공동체 정의",
+    "questionKo": "아브라함이 간구한 대상은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "소돔의 사람들",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "애굽의 파라오",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에돔의 왕들",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 18:16~33의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "소돔을 위한 중보에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 질문하는 신앙과 공동체 정의을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-040",
+    "episodeId": "ep-gen-040",
+    "passage": "GEN.19.1-GEN.19.11",
+    "learningGoalKo": "폭력과 환대의 대비",
+    "questionKo": "이 장면의 주요 장소는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "롯의 집",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "노아의 방주",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "솔로몬의 성전",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 19:1~11의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "롯의 집에 온 방문객에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 폭력과 환대의 대비을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-041",
+    "episodeId": "ep-gen-041",
+    "passage": "GEN.19.12-GEN.19.22",
+    "learningGoalKo": "대피 서사와 인물 반응",
+    "questionKo": "롯이 피신하도록 허용받은 도시는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "소알",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "니느웨",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바벨론",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 19:12~22의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "롯 가족의 탈출에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 대피 서사와 인물 반응을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-042",
+    "episodeId": "ep-gen-042",
+    "passage": "GEN.19.23-GEN.19.29",
+    "learningGoalKo": "파괴 이야기와 위치 불확실성",
+    "questionKo": "멀리서 연기를 본 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "아브라함",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "모세",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바울",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 19:23~29의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "소돔과 고모라의 멸망에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 파괴 이야기와 위치 불확실성을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-043",
+    "episodeId": "ep-gen-043",
+    "passage": "GEN.19.30-GEN.19.38",
+    "learningGoalKo": "윤리적 문제를 미화하지 않고 읽기",
+    "questionKo": "후일담에서 연결되는 두 민족은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "모압과 암몬",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "앗수르와 바벨론",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "블레셋과 시돈",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 19:30~38의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "롯과 두 딸의 후일담에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 윤리적 문제를 미화하지 않고 읽기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-044",
+    "episodeId": "ep-gen-044",
+    "passage": "GEN.20.1-GEN.20.7",
+    "learningGoalKo": "반복되는 사건의 비교 읽기",
+    "questionKo": "아브라함이 머문 왕의 도시 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "그랄",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "사마리아",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "수산",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 20:1~7의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "그랄의 아비멜렉에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 반복되는 사건의 비교 읽기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-045",
+    "episodeId": "ep-gen-045",
+    "passage": "GEN.20.8-GEN.20.18",
+    "learningGoalKo": "책임·회복 서술 확인",
+    "questionKo": "아비멜렉이 사라에게 한 일은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "남편 아브라함에게 돌려보냈다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "애굽으로 추방했다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "가나안 왕으로 세웠다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 20:8~18의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "사라를 돌려보내다에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 책임·회복 서술 확인을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-046",
+    "episodeId": "ep-gen-046",
+    "passage": "GEN.21.1-GEN.21.7",
+    "learningGoalKo": "앞선 약속의 성취 추적",
+    "questionKo": "이삭을 낳은 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "사라",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "하갈",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "리브가",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 21:1~7의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "이삭의 탄생에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 앞선 약속의 성취 추적을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-047",
+    "episodeId": "ep-gen-047",
+    "passage": "GEN.21.8-GEN.21.21",
+    "learningGoalKo": "취약한 인물을 중심으로 읽기",
+    "questionKo": "광야에서 하갈이 겪은 위기는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "물이 떨어졌다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "강이 범람했다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "병거를 잃었다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 21:8~21의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "하갈과 이스마엘의 광야에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 취약한 인물을 중심으로 읽기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-048",
+    "episodeId": "ep-gen-048",
+    "passage": "GEN.21.22-GEN.21.34",
+    "learningGoalKo": "생활 자원·우물 외교 관찰",
+    "questionKo": "이 이야기에서 분쟁을 일으킨 자원은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "우물",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "금 광산",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "항구",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 21:22~34의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "브엘세바의 우물과 맹세에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 생활 자원·우물 외교 관찰을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-049",
+    "episodeId": "ep-gen-049",
+    "passage": "GEN.22.1-GEN.22.14",
+    "learningGoalKo": "시험의 결말과 생명 보호를 명료히",
+    "questionKo": "본문에서 이삭 대신 제물로 드린 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "숫양",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "비둘기",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "송아지",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 22:1~14의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "이삭을 바치라는 시험에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 시험의 결말과 생명 보호를 명료히을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "teacher_gate_recommended"
+  },
+  {
+    "id": "lesson-gen-050",
+    "episodeId": "ep-gen-050",
+    "passage": "GEN.22.15-GEN.22.19",
+    "learningGoalKo": "언약 축복 반복 패턴",
+    "questionKo": "아브라함이 돌아온 지역은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "브엘세바",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "갈릴리",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바벨",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 22:15~19의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "약속의 재확인에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 언약 축복 반복 패턴을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-051",
+    "episodeId": "ep-gen-051",
+    "passage": "GEN.22.20-GEN.22.24",
+    "learningGoalKo": "계보와 다음 사건 연결",
+    "questionKo": "이 계보에서 다음 장에 중요해질 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "리브가",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "드보라",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "룻",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 22:20~24의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "나홀 가문의 소식에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 계보와 다음 사건 연결을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-052",
+    "episodeId": "ep-gen-052",
+    "passage": "GEN.23.1-GEN.23.9",
+    "learningGoalKo": "상실과 장례 문화 서술",
+    "questionKo": "사라가 죽은 뒤 아브라함이 요청한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "매장할 땅",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "왕관",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "전차",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 23:1~9의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "사라의 죽음과 매장지 청원에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 상실과 장례 문화 서술을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-053",
+    "episodeId": "ep-gen-053",
+    "passage": "GEN.23.10-GEN.23.20",
+    "learningGoalKo": "문서화된 거래와 권리 개념",
+    "questionKo": "아브라함이 매장지로 산 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "막벨라 굴이 있는 밭",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "예루살렘 왕궁",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "시내산",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 23:10~20의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "막벨라 굴을 사다에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 문서화된 거래와 권리 개념을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-054",
+    "episodeId": "ep-gen-054",
+    "passage": "GEN.24.1-GEN.24.9",
+    "learningGoalKo": "혼인·이동의 의도 읽기",
+    "questionKo": "혼인 상대를 찾도록 파송한 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이름이 기록되지 않은 집안 관리인",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "모세",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "사무엘",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 24:1~9의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "이삭의 결혼을 위한 파송에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 혼인·이동의 의도 읽기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-055",
+    "episodeId": "ep-gen-055",
+    "passage": "GEN.24.10-GEN.24.27",
+    "learningGoalKo": "우물 장면과 행동을 추적",
+    "questionKo": "리브가가 관리인의 낙타를 위해 한 행동은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "물을 길어 주었다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "전쟁터로 몰고 갔다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "낙타를 팔았다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 24:10~27의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "우물에서 만난 리브가에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 우물 장면과 행동을 추적을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-056",
+    "episodeId": "ep-gen-056",
+    "passage": "GEN.24.28-GEN.24.49",
+    "learningGoalKo": "이야기 내 재서술과 반복 구별",
+    "questionKo": "리브가에게서 소식을 듣고 달려온 가족 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "라반",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "에서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 24:28~49의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "집안에 전해진 사명에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 이야기 내 재서술과 반복 구별을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-057",
+    "episodeId": "ep-gen-057",
+    "passage": "GEN.24.50-GEN.24.61",
+    "learningGoalKo": "리브가의 의사 표명을 명시",
+    "questionKo": "떠날지 묻는 질문에 리브가가 한 선택은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가겠다고 답하였다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "왕위를 요구하였다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "이집트로 숨었다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 24:50~61의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "리브가의 동의와 떠남에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 리브가의 의사 표명을 명시을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-058",
+    "episodeId": "ep-gen-058",
+    "passage": "GEN.24.62-GEN.24.67",
+    "learningGoalKo": "혼인 서사의 결말 확인",
+    "questionKo": "리브가와 결혼한 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이삭",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "이스마엘",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에녹",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 24:62~67의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "이삭과 리브가의 만남에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 혼인 서사의 결말 확인을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-059",
+    "episodeId": "ep-gen-059",
+    "passage": "GEN.25.1-GEN.25.6",
+    "learningGoalKo": "계보를 사건 대신 관계망으로 표현",
+    "questionKo": "그두라에게서 나온 후손 중 이름이 기록된 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "미디안",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "솔로몬",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "여호수아",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 25:1~6의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "그두라와 후손의 계보에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 계보를 사건 대신 관계망으로 표현을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-060",
+    "episodeId": "ep-gen-060",
+    "passage": "GEN.25.7-GEN.25.11",
+    "learningGoalKo": "두 아들의 공동 장례 주목",
+    "questionKo": "아브라함을 함께 장사한 두 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이삭과 이스마엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "가인과 아벨",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에서와 야곱",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 25:7~11의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "아브라함의 죽음과 장례에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 두 아들의 공동 장례 주목을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-061",
+    "episodeId": "ep-gen-061",
+    "passage": "GEN.25.12-GEN.25.18",
+    "learningGoalKo": "이스마엘 계열도 언약 서사에서 누락하지 않기",
+    "questionKo": "본문이 기록하는 이스마엘 후손의 족장은 몇 명인가?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "열두 명",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "세 명",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "마흔 명",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 25:12~18의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "이스마엘의 열두 족장에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 이스마엘 계열도 언약 서사에서 누락하지 않기을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-062",
+    "episodeId": "ep-gen-062",
+    "passage": "GEN.25.19-GEN.25.26",
+    "learningGoalKo": "앞으로 이어질 갈등의 씨앗",
+    "questionKo": "이스마엘 후대 다음에 본문이 전개하는 형제는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에서와 야곱",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "가인과 아벨",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "모세와 아론",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 25:19~26의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "에서와 야곱의 탄생에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 앞으로 이어질 갈등의 씨앗을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-063",
+    "episodeId": "ep-gen-063",
+    "passage": "GEN.25.27-GEN.25.34",
+    "learningGoalKo": "선택 평가와 서사 결과 고정",
+    "questionKo": "에서가 야곱에게 판 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "장자의 명분",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "아브라함의 무덤",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요단 강",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "본문 25:27~34의 서술에서 확인할 수 있습니다. 해당 본문을 직접 읽고 대조하도록 안내합니다.",
+    "reflectionPromptKo": "장자의 명분 거래에서 어떤 장면이 실제 본문에 명시되며, 어떤 부분이 게임의 교육적 연출인지 구분해 보세요.",
+    "teacherGuideKo": "본문을 먼저 읽고 선택 평가와 서사 결과 고정을 확인한 다음, 다른 번역의 표현 차이 또는 관찰 지점을 질문하세요. 외부 역사적 입증과 본문 내 서술을 구분합니다.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  }
+]

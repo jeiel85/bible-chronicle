@@ -1,0 +1,38 @@
+[
+  {
+    "from": "handoff-gen-026",
+    "to": "ep-gen-064",
+    "type": "previous_phase_alias_resolution",
+    "source": "GEN.25.34-GEN.26.1"
+  },
+  {
+    "from": "ep-gen-115",
+    "to": "handoff-gen-037",
+    "type": "next_phase_pending",
+    "source": "GEN.36.43-GEN.37.1"
+  },
+  {
+    "from": "ep-gen-067",
+    "to": "GEN.21.22-GEN.21.34",
+    "type": "well_covenant_parallel_not_same_event",
+    "source": "GEN.26.18-GEN.26.33"
+  },
+  {
+    "from": "ep-gen-077",
+    "to": "GEN.12.1-GEN.12.5",
+    "type": "promise_motif_not_identical_event",
+    "source": "GEN.28.10-GEN.28.17"
+  },
+  {
+    "from": "ep-gen-114",
+    "to": "1CH.1.43-1CH.1.54",
+    "type": "parallel_genealogy_not_historical_attestation",
+    "source": "GEN.36.31-GEN.36.39"
+  },
+  {
+    "from": "ep-gen-097",
+    "to": "HOS.12.3-HOS.12.5",
+    "type": "later_interpretive_reference",
+    "source": "GEN.32.22-GEN.32.32"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "version": "1.9",
+  "date": "2026-10-13",
+  "scope": "Genesis 1-50",
+  "originalVerseCount": 1533,
+  "verseSpecificIndependentFirstPassDraftCount": 1533,
+  "chapterCount": 50,
+  "chapterWiseMarkdownFiles": 50,
+  "priorFocusedNotesRetained": 74,
+  "uniqueVerseNotes": 1533,
+  "episodesLinked": 179,
+  "criticalReviewQueueCount": 32,
+  "verseOriginalLanguageFullCrosschecked": 0,
+  "externalExpertSignoffs": 0,
+  "externalExpertSignoffRequiredToIterate": false,
+  "readyForIterativeInternalUse": true,
+  "readyToClaimScholarlyValidation": false,
+  "koreanBibleTranslationIncluded": false,
+  "releaseState": "draft_with_live_corrections_and_license_gate"
+}

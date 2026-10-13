@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Q01",
+    "topicKo": "아브라함 연대 비정",
+    "reviewQuestionKo": "아브라함 서사의 시간 배경을 BCE 정수값으로 확정할 수 있는가?",
+    "editorialRuleKo": "아니오",
+    "sourceIds": [
+      "SRC-KCI-ABRAHAM",
+      "SRC-HENDEL"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q02",
+    "topicKo": "갈대아 우르 비정",
+    "reviewQuestionKo": "고대 우르의 발굴로 성경 아브람이 우르에 살았다는 사실도 입증되는가?",
+    "editorialRuleKo": "아니오",
+    "sourceIds": [
+      "SRC-UNESCO-UR",
+      "SRC-SAGGS-UR"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q03",
+    "topicKo": "동방 네 왕 전쟁",
+    "reviewQuestionKo": "창 14장 전쟁을 외부 왕명·고고학으로 확인하는가?",
+    "editorialRuleKo": "독립적 입증 여부 미확정; 외부 사료 확인 전 단정 금지",
+    "sourceIds": [
+      "SRC-USCCB-GEN"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q04",
+    "topicKo": "살렘 비정",
+    "reviewQuestionKo": "살렘을 현대 예루살렘과 단정할 수 있는가?",
+    "editorialRuleKo": "기록 전승·학설 분리",
+    "sourceIds": [
+      "SRC-USCCB-GEN"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q05",
+    "topicKo": "소돔 위치",
+    "reviewQuestionKo": "소돔·고모라 파괴의 확정 유적이 있는가?",
+    "editorialRuleKo": "독립적 입증 여부 미확정; 외부 사료 확인 전 단정 금지",
+    "sourceIds": [
+      "SRC-USCCB-GEN"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q06",
+    "topicKo": "그랄 위치",
+    "reviewQuestionKo": "그랄 도시 좌표가 합의되었는가?",
+    "editorialRuleKo": "불확실",
+    "sourceIds": [
+      "SRC-USCCB-GEN20"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q07",
+    "topicKo": "모리아 지리",
+    "reviewQuestionKo": "창 22장의 모리아가 성전산과 동일한 곳으로 확인되었는가?",
+    "editorialRuleKo": "미확정; 전승/해석 분리",
+    "sourceIds": [
+      "SRC-KALIMI-MORIAH"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q08",
+    "topicKo": "창 24장 관리인",
+    "reviewQuestionKo": "창 24장 아브라함의 종 이름은 본문에 기록되어 있는가?",
+    "editorialRuleKo": "아니오",
+    "sourceIds": [
+      "SRC-USCCB-GEN24"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q09",
+    "topicKo": "리브가 의사",
+    "reviewQuestionKo": "리브가에게 떠날 의사를 직접 물은 장면은 있는가?",
+    "editorialRuleKo": "있음: 창 24:58",
+    "sourceIds": [
+      "SRC-USCCB-GEN24"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q10",
+    "topicKo": "그두라 결혼의 연대",
+    "reviewQuestionKo": "창 25장 편집 순서를 실제 혼인 발생 순서로 단정하는가?",
+    "editorialRuleKo": "안됨",
+    "sourceIds": [
+      "SRC-USCCB-GEN25"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q11",
+    "topicKo": "이삭의 나이",
+    "reviewQuestionKo": "창 22장의 이삭 나이를 정확히 계산해 넣을 수 있는가?",
+    "editorialRuleKo": "본문에 직접 수치 없음",
+    "sourceIds": [
+      "SRC-USCCB-GEN"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  },
+  {
+    "id": "Q12",
+    "topicKo": "할례 설명",
+    "reviewQuestionKo": "종교 실천을 플레이어 보상이나 조작 버튼으로 바꾸는 것이 적절한가?",
+    "editorialRuleKo": "교육 카드·설명 처리; 의례 수행 미니게임 금지",
+    "sourceIds": [
+      "SRC-USCCB-GEN"
+    ],
+    "humanReview": "pending",
+    "publishGate": "unapproved"
+  }
+]

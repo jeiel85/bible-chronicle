@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "S01A Episode Details",
+  "type": "array",
+  "minItems": 22,
+  "items": {
+    "type": "object",
+    "additionalProperties": true,
+    "required": [
+      "id",
+      "stageId",
+      "passage",
+      "canonicalOutcomeId",
+      "canonicalNextId",
+      "canonicalOutcomeLocked",
+      "mapMode",
+      "mapConfidence",
+      "claimIds",
+      "releaseReady",
+      "review"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^ep-gen-[0-9]{3}$"
+      },
+      "stageId": {
+        "const": "S01A"
+      },
+      "canonicalOutcomeLocked": {
+        "const": true
+      },
+      "releaseReady": {
+        "const": false
+      },
+      "mapMode": {
+        "enum": [
+          "none",
+          "symbolic",
+          "conceptual",
+          "region_uncertain"
+        ]
+      },
+      "passage": {
+        "type": "object",
+        "required": [
+          "start",
+          "end",
+          "osis"
+        ]
+      }
+    }
+  }
+}

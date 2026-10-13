@@ -1,0 +1,119 @@
+[
+  {
+    "id": "SRC-MET-ASSYRIA",
+    "organization": "Metropolitan Museum of Art",
+    "title": "The Eastern Mediterranean and Syria, 1000 B.C.–1 A.D.",
+    "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wae.html",
+    "scopeNoteKo": "사마리아 722/721년 및 앗수르 제국의 역사 맥락. 날짜/동시 사건 확인 용도.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-BM-LACHISH",
+    "organization": "British Museum",
+    "title": "Siege of Lachish gallery",
+    "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+    "scopeNoteKo": "라기스 701년 공성전과 앗수르 부조 맥락. 왕하 18-19장 전체의 독립 검증이 아님.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-BM-LACHISH-RELIEF",
+    "organization": "British Museum",
+    "title": "Lachish relief museum object 124904",
+    "url": "https://www.britishmuseum.org/collection/object/W_1856-0909-14_1",
+    "scopeNoteKo": "부조의 제작시기와 묘사 확인. 이미지 라이선스 별도.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-BM-BABYLON",
+    "organization": "British Museum",
+    "title": "Babylonian Chronicle tablet BM 21946",
+    "url": "https://www.britishmuseum.org/collection/object/W_1896-0409-51",
+    "scopeNoteKo": "597 BCE 예루살렘 원정, 586년 성전 소실과 별개 사건.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-BM-OBELISK",
+    "organization": "British Museum",
+    "title": "Black Obelisk of Shalmaneser III",
+    "url": "https://www.britishmuseum.org/collection/object/W_1848-1104-1",
+    "scopeNoteKo": "예후 조공 841 BCE의 앗수르 측 기록.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-LOUVRE-MESHA",
+    "organization": "Musée du Louvre",
+    "title": "Stèle de Mesha",
+    "url": "https://collections.louvre.fr/ark:/53355/cl010120339",
+    "scopeNoteKo": "모압 왕 메사의 명문. 왕하 3장 서술과 관점 비교, 둘을 동일 진술로 합치지 않음.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-JM-TELDAN",
+    "organization": "The Jewish Museum",
+    "title": "Tel Dan Stele exhibition information",
+    "url": "https://thejewishmuseum.org/exhibitions/tel-dan-stele/",
+    "scopeNoteKo": "다윗 왕조 표현이 나오는 비문; 사무엘하의 세부 사건 전체를 입증하지 않음.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-HUJ-586",
+    "organization": "Hebrew University of Jerusalem / Journal of Archaeological Science",
+    "title": "Destruction by fire (2023)",
+    "url": "https://cris.huji.ac.il/en/publications/destruction-by-fire-reconstructing-the-evidence-of-the-586-bce-ba/",
+    "scopeNoteKo": "586 BCE 파괴층 연구, 587/586 연대차를 삭제하는 근거 아님.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-KEIMER-2021",
+    "organization": "Jerusalem Journal of Archaeology",
+    "title": "Evaluating the “United Monarchy” of Israel (2021)",
+    "url": "https://doi.org/10.52486/01.00001.3",
+    "scopeNoteKo": "통일왕국 규모와 정치적 일체성에 대한 학술 논쟁.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-BG-KINGS",
+    "organization": "Bible Gateway",
+    "title": "Guide to the Kings and Prophets of Israel and Judah (2024)",
+    "url": "https://www.biblegateway.com/learn/topics-themes/explainers/kings-prophets-israel-judah/",
+    "scopeNoteKo": "왕 목록·병행 본문 검토용 2차 자료. 날짜는 단정 금지.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-BP-KINGS",
+    "organization": "BibleProject",
+    "title": "Book of Kings Guide",
+    "url": "https://bibleproject.com/guides/books-of-kings/",
+    "scopeNoteKo": "정경 서사 구조를 이해하기 위한 교리·문학 관점, 고고학적 독립 증거가 아님.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-MICH-SILOAM",
+    "organization": "University of Michigan",
+    "title": "Siloam Tunnel Inscription",
+    "url": "https://image-database.nes.lsa.umich.edu/items/show/86",
+    "scopeNoteKo": "수로 명문 자료; 시공 연대 단정 시 추가 논문 대조 필요.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  },
+  {
+    "id": "SRC-SILOAM-DEBATE",
+    "organization": "Tel Aviv journal",
+    "title": "The Date of the Siloam Tunnel Reconsidered (2011)",
+    "url": "https://www.tandfonline.com/doi/abs/10.1179/033443511x13099584885268",
+    "scopeNoteKo": "수로의 히스기야 귀속 문제에 학술적 이견이 있음을 표시.",
+    "accessedDate": "2026-10-12",
+    "scopeStatus": "scope_checked_needs_editor_review"
+  }
+]

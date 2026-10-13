@@ -1,0 +1,192 @@
+[
+  {
+    "id": "gerar",
+    "labelKo": "그랄",
+    "evidenceClass": "patriarchal_site_unconfirmed",
+    "cautionKo": "고대 그랄의 특정 발굴 지점을 이삭의 활동 장소로 확정하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "canaan",
+    "labelKo": "가나안",
+    "evidenceClass": "regional_label",
+    "cautionKo": "지명은 성경의 지역 표현. 확정된 국경선 없이 광역 음영",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "rehoboth",
+    "labelKo": "르호봇(우물)",
+    "evidenceClass": "unlocated",
+    "cautionKo": "우물의 정확한 현대 위치는 모름; 르호봇이라는 후대 지명과 혼동 금지",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "beer_sheba",
+    "labelKo": "브엘세바",
+    "evidenceClass": "site_known_narrative_unverified",
+    "cautionKo": "현존 유적의 실제 층위와 족장 당시 활동은 별도로 다루기",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "haran",
+    "labelKo": "하란",
+    "evidenceClass": "site_known_narrative_unverified",
+    "cautionKo": "하란 유적의 실재가 야곱 개인의 방문을 입증하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "bethel",
+    "labelKo": "벧엘",
+    "evidenceClass": "traditional_identification_debated",
+    "cautionKo": "베이틴 등 제안 있으나 야곱의 돌기둥·꿈 장소를 확정하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "paddan_aram",
+    "labelKo": "밧단아람",
+    "evidenceClass": "broad_region",
+    "cautionKo": "지역 단위로만 표시; 본문이 정확한 이동 경로를 제공하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "gilead",
+    "labelKo": "길르앗",
+    "evidenceClass": "broad_region",
+    "cautionKo": "동부 산지의 넓은 권역이며 돌무더기 위치는 확정 불가",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "mahanaim",
+    "labelKo": "마하나임",
+    "evidenceClass": "site_uncertain",
+    "cautionKo": "장소 지목은 연구상 의견이 있으며 점좌표 고정 금지",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "seir",
+    "labelKo": "세일 산지",
+    "evidenceClass": "historical_region_retrojection_risk",
+    "cautionKo": "성경 족보상의 지리 명칭; 후대 에돔 왕국 경계를 소급하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "jabbok",
+    "labelKo": "얍복강",
+    "evidenceClass": "watercourse_known_crossing_unknown",
+    "cautionKo": "요단강 동쪽 수계는 연결되나 건넌 나루의 정확한 위치 미확정",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "peniel",
+    "labelKo": "브니엘·브누엘",
+    "evidenceClass": "competing_site_identifications",
+    "cautionKo": "여러 현대 후보지가 있으므로 특정 점 고정 금지",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "succoth",
+    "labelKo": "숙곳",
+    "evidenceClass": "site_uncertain",
+    "cautionKo": "장막을 친 장소의 정확한 위치는 불확실함",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "shechem",
+    "labelKo": "세겜",
+    "evidenceClass": "ancient_city_attested_but_narrative_not",
+    "cautionKo": "텔 발라타 등 고대 도시 연구와 창세기 사건의 실재 입증을 혼동하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "ephrath",
+    "labelKo": "에브랏/베들레헴으로 가는 길",
+    "evidenceClass": "regional_route_uncertain",
+    "cautionKo": "정확한 묘지 위치나 경로를 확정하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "migdal_eder",
+    "labelKo": "에델 망대",
+    "evidenceClass": "site_unlocated",
+    "cautionKo": "관련 장소를 확정된 유적처럼 표시하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "hebron",
+    "labelKo": "헤브론",
+    "evidenceClass": "later_city_known",
+    "cautionKo": "지역은 알려져 있으나 족장 시대 장면의 정확한 역사적 층위는 별도 검증",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "mamre",
+    "labelKo": "마므레",
+    "evidenceClass": "site_uncertain",
+    "cautionKo": "특정 유적과 족장 시대 본문 사건을 동일시하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  },
+  {
+    "id": "edom",
+    "labelKo": "에돔",
+    "evidenceClass": "later_polity_not_projected",
+    "cautionKo": "에돔 왕들의 명단을 기원전 족장시대 확정 정치지도로 변환하지 않음",
+    "approvedArchaeologicalPin": false,
+    "coordinate": null,
+    "boundary": null,
+    "pinRule": "candidate_toggle_with_citation_only"
+  }
+]

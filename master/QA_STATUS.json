@@ -1,0 +1,24 @@
+{
+  "release": "1.2.0",
+  "generatedAt": "2026-10-12",
+  "scope": "Stage 0 master architecture, not 66-book manuscript",
+  "bookCount": 66,
+  "chapterCount": 1189,
+  "literaryMacroOutlineCount": 250,
+  "arcCount": 15,
+  "relatedPassageSeedGroupCount": 23,
+  "phaseCount": 15,
+  "preservedIsraelCampaignOutlineCount": 219,
+  "priorPackageFileCount": 38,
+  "chaptersFullyAuthored": 0,
+  "historicallyVerifiedAllClaims": false,
+  "rightsClearedForKoreanFullText": false,
+  "knownLimitations": [
+    "literary macro-structures are editorial draft, not verse-verified",
+    "parallel seed groups are not verified passage correspondence",
+    "maps and ancient political borders not supplied",
+    "actual web/PWA client not implemented",
+    "source register examples do not verify 66 books",
+    "no licensed Korean translation text included"
+  ]
+}

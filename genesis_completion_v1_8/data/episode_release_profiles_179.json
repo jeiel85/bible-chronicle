@@ -1,0 +1,5117 @@
+[
+  {
+    "episodeId": "ep-gen-001",
+    "titleKo": "빛과 질서의 시작",
+    "range": "GEN.1.1-GEN.1.13",
+    "verseCount": 13,
+    "canonicalNextEpisodeId": "ep-gen-002",
+    "lockedOutcome": true,
+    "originalOverviewKo": "빛과 질서의 시작: 태초와 빛의 구분 → 궁창과 물의 구분 → 땅·바다·식물의 등장.",
+    "learningFocusKo": "일곱 날의 반복 구조와 인간에게 부여된 책임을 구분하여 읽는다.",
+    "historicalCautionKo": "창조 기사를 과학 교과서의 연대 순서로 환원하지 않는다.",
+    "sourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-002",
+    "titleKo": "하늘의 광명과 생명의 다양성",
+    "range": "GEN.1.14-GEN.1.25",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-003",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하늘의 광명과 생명의 다양성: 낮·밤·절기 구분을 위한 광명 → 물과 하늘의 생물 → 땅의 생물.",
+    "learningFocusKo": "일곱 날의 반복 구조와 인간에게 부여된 책임을 구분하여 읽는다.",
+    "historicalCautionKo": "창조 기사를 과학 교과서의 연대 순서로 환원하지 않는다.",
+    "sourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-003",
+    "titleKo": "사람과 일곱째 날",
+    "range": "GEN.1.26-GEN.2.3",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-004",
+    "lockedOutcome": true,
+    "originalOverviewKo": "사람과 일곱째 날: 사람이 하나님의 형상으로 창조됨 → 생육과 피조 세계 돌봄 → 창조의 마침과 일곱째 날 쉼.",
+    "learningFocusKo": "일곱 날의 반복 구조와 인간에게 부여된 책임을 구분하여 읽는다.",
+    "historicalCautionKo": "창조 기사를 과학 교과서의 연대 순서로 환원하지 않는다.",
+    "sourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-004",
+    "titleKo": "에덴의 사람과 사명",
+    "range": "GEN.2.4-GEN.2.17",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-005",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에덴의 사람과 사명: 사람을 지으심 → 에덴·강·나무를 서술 → 경작과 돌봄 및 금지 명령.",
+    "learningFocusKo": "안식의 결말(1:31–2:3)과 동산 이야기(2:4 이하)의 초점을 살핀다.",
+    "historicalCautionKo": "동산의 실제 지도 좌표와 강줄기를 현대 지형에 강제로 일치시키지 않는다.",
+    "sourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-005",
+    "titleKo": "서로 마주하는 동반자",
+    "range": "GEN.2.18-GEN.2.25",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-006",
+    "lockedOutcome": true,
+    "originalOverviewKo": "서로 마주하는 동반자: 혼자 있음의 의미 → 동물 이름 붙이기 → 여자의 창조와 한 몸의 관계.",
+    "learningFocusKo": "안식의 결말(1:31–2:3)과 동산 이야기(2:4 이하)의 초점을 살핀다.",
+    "historicalCautionKo": "동산의 실제 지도 좌표와 강줄기를 현대 지형에 강제로 일치시키지 않는다.",
+    "sourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-006",
+    "titleKo": "금지와 유혹",
+    "range": "GEN.3.1-GEN.3.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-007",
+    "lockedOutcome": true,
+    "originalOverviewKo": "금지와 유혹: 뱀과 여자의 대화 → 열매를 먹는 서술 → 눈이 밝아지고 가림.",
+    "learningFocusKo": "뱀의 말, 인간의 선택, 책임 전가, 추방의 흐름을 구분한다.",
+    "historicalCautionKo": "3:15의 후대 기독교적 해석과 본문 즉시 문맥을 분리한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-007",
+    "titleKo": "동산 밖으로",
+    "range": "GEN.3.8-GEN.3.24",
+    "verseCount": 17,
+    "canonicalNextEpisodeId": "ep-gen-008",
+    "lockedOutcome": true,
+    "originalOverviewKo": "동산 밖으로: 숨음과 질문 → 각 대상에게 선고 → 가죽옷·동산 추방.",
+    "learningFocusKo": "뱀의 말, 인간의 선택, 책임 전가, 추방의 흐름을 구분한다.",
+    "historicalCautionKo": "3:15의 후대 기독교적 해석과 본문 즉시 문맥을 분리한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-008",
+    "titleKo": "두 형제와 예물",
+    "range": "GEN.4.1-GEN.4.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-009",
+    "lockedOutcome": true,
+    "originalOverviewKo": "두 형제와 예물: 가인과 아벨의 생업 → 예물에 대한 반응 → 들에서 아벨을 죽임.",
+    "learningFocusKo": "가인과 아벨의 관계, 경고, 살인, 보호 표지, 도시 전승을 비교한다.",
+    "historicalCautionKo": "형벌·보호 문구를 폭력 정당화나 피해자 비난에 사용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-009",
+    "titleKo": "가인에게 던져진 질문",
+    "range": "GEN.4.9-GEN.4.16",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-010",
+    "lockedOutcome": true,
+    "originalOverviewKo": "가인에게 던져진 질문: 아벨의 행방 질문 → 가인의 책임과 처분 → 표와 놋 땅 이동.",
+    "learningFocusKo": "가인과 아벨의 관계, 경고, 살인, 보호 표지, 도시 전승을 비교한다.",
+    "historicalCautionKo": "형벌·보호 문구를 폭력 정당화나 피해자 비난에 사용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-010",
+    "titleKo": "도시·기술·새로운 세대",
+    "range": "GEN.4.17-GEN.4.26",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-011",
+    "lockedOutcome": true,
+    "originalOverviewKo": "도시·기술·새로운 세대: 가인의 자손과 도시 → 문화·직업 발달 서술 → 셋·에노스 계보.",
+    "learningFocusKo": "가인과 아벨의 관계, 경고, 살인, 보호 표지, 도시 전승을 비교한다.",
+    "historicalCautionKo": "형벌·보호 문구를 폭력 정당화나 피해자 비난에 사용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-011",
+    "titleKo": "아담에서 노아까지",
+    "range": "GEN.5.1-GEN.5.32",
+    "verseCount": 32,
+    "canonicalNextEpisodeId": "ep-gen-012",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아담에서 노아까지: 아담 계보의 시작 → 생몰 연수와 자손의 반복 → 노아의 계보 도달.",
+    "learningFocusKo": "반복되는 수명·출생·죽음 공식 속 에녹과 노아의 특별한 서술을 찾는다.",
+    "historicalCautionKo": "족보의 수치를 현대 절대연대 표로 단정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-012",
+    "titleKo": "폭력으로 가득한 세상",
+    "range": "GEN.6.1-GEN.6.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-013",
+    "lockedOutcome": true,
+    "originalOverviewKo": "폭력으로 가득한 세상: 사람 번성과 난해한 표현 → 인간 악에 관한 서술 → 노아가 은혜를 입음.",
+    "learningFocusKo": "인간 폭력의 확대와 노아의 구별, 방주 준비가 함께 전개된다.",
+    "historicalCautionKo": "6:1–4 존재의 정체에 관해 단일 학설을 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-013",
+    "titleKo": "방주를 준비하는 노아",
+    "range": "GEN.6.9-GEN.6.22",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-014",
+    "lockedOutcome": true,
+    "originalOverviewKo": "방주를 준비하는 노아: 노아 세대의 평가 → 방주 제작 명령과 치수 → 명령에 따름.",
+    "learningFocusKo": "인간 폭력의 확대와 노아의 구별, 방주 준비가 함께 전개된다.",
+    "historicalCautionKo": "6:1–4 존재의 정체에 관해 단일 학설을 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-014",
+    "titleKo": "큰물이 덮다",
+    "range": "GEN.7.1-GEN.7.24",
+    "verseCount": 24,
+    "canonicalNextEpisodeId": "ep-gen-015",
+    "lockedOutcome": true,
+    "originalOverviewKo": "큰물이 덮다: 방주 입장 → 비와 큰 깊음의 샘 → 물의 지속과 심판.",
+    "learningFocusKo": "방주 입장과 홍수 진행에 등장하는 날짜·물·생존 주제를 읽는다.",
+    "historicalCautionKo": "지질학이 전 지구적 홍수를 입증했다고 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-015",
+    "titleKo": "물이 물러가다",
+    "range": "GEN.8.1-GEN.8.19",
+    "verseCount": 19,
+    "canonicalNextEpisodeId": "ep-gen-016",
+    "lockedOutcome": true,
+    "originalOverviewKo": "물이 물러가다: 물이 감해지는 서술 → 까마귀·비둘기 내보냄 → 땅 마름과 방주 밖으로.",
+    "learningFocusKo": "방주의 멈춤, 새의 왕복, 제사, 땅의 지속성 선언을 살핀다.",
+    "historicalCautionKo": "방주 정착 지점을 현대 산 정상의 실물로 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-016",
+    "titleKo": "제단과 무지개 언약",
+    "range": "GEN.8.20-GEN.9.17",
+    "verseCount": 20,
+    "canonicalNextEpisodeId": "ep-gen-017",
+    "lockedOutcome": true,
+    "originalOverviewKo": "제단과 무지개 언약: 방주에서 나와 제단 → 먹을거리·생명에 관한 규정 → 언약과 무지개 징표.",
+    "learningFocusKo": "방주의 멈춤, 새의 왕복, 제사, 땅의 지속성 선언을 살핀다.",
+    "historicalCautionKo": "방주 정착 지점을 현대 산 정상의 실물로 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-017",
+    "titleKo": "노아의 포도원과 가족",
+    "range": "GEN.9.18-GEN.9.29",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-018",
+    "lockedOutcome": true,
+    "originalOverviewKo": "노아의 포도원과 가족: 세 아들의 언급 → 포도주 사건과 노출 → 가나안 관련 선고와 노아의 죽음.",
+    "learningFocusKo": "생명 존중·먹을거리·언약과 노아 가정의 균열을 함께 읽는다.",
+    "historicalCautionKo": "가나안에 대한 말이 특정 인종의 열등함을 규정한다는 해석을 배제한다.",
+    "sourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-018",
+    "titleKo": "열방의 계보: 야벳·함",
+    "range": "GEN.10.1-GEN.10.20",
+    "verseCount": 20,
+    "canonicalNextEpisodeId": "ep-gen-019",
+    "lockedOutcome": true,
+    "originalOverviewKo": "열방의 계보: 야벳·함: 노아 자손의 갈래 → 야벳 계열 → 함 계열과 니므롯 언급.",
+    "learningFocusKo": "족속·언어·땅의 분류가 본문에서 갖는 기능을 살핀다.",
+    "historicalCautionKo": "현대 국가·민족·유전 계통과 일대일 대응시키지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-019",
+    "titleKo": "열방의 계보: 셈",
+    "range": "GEN.10.21-GEN.10.32",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-020",
+    "lockedOutcome": true,
+    "originalOverviewKo": "열방의 계보: 셈: 셈 계열 서술 → 계보와 거주 관련 표현 → 민족·언어·땅 분포의 목록.",
+    "learningFocusKo": "족속·언어·땅의 분류가 본문에서 갖는 기능을 살핀다.",
+    "historicalCautionKo": "현대 국가·민족·유전 계통과 일대일 대응시키지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-020",
+    "titleKo": "시날 평지와 바벨의 탑",
+    "range": "GEN.11.1-GEN.11.9",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-021",
+    "lockedOutcome": true,
+    "originalOverviewKo": "시날 평지와 바벨의 탑: 언어의 하나됨 → 벽돌과 성읍·탑 건설 → 말의 혼잡과 흩어짐.",
+    "learningFocusKo": "바벨의 언어 사건과 셈의 계보가 족장 이야기의 문턱을 만든다.",
+    "historicalCautionKo": "바벨탑을 특정 지구라트와 같은 건물로 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-021",
+    "titleKo": "셈에서 아브람으로",
+    "range": "GEN.11.10-GEN.11.26",
+    "verseCount": 17,
+    "canonicalNextEpisodeId": "ep-gen-022",
+    "lockedOutcome": true,
+    "originalOverviewKo": "셈에서 아브람으로: 셈부터 아르박삿 계보 → 세대마다 출생·수명 기재 → 데라와 아브람의 도달.",
+    "learningFocusKo": "바벨의 언어 사건과 셈의 계보가 족장 이야기의 문턱을 만든다.",
+    "historicalCautionKo": "바벨탑을 특정 지구라트와 같은 건물로 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-022",
+    "titleKo": "데라의 가족과 하란",
+    "range": "GEN.11.27-GEN.11.32",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-023",
+    "lockedOutcome": true,
+    "originalOverviewKo": "데라의 가족과 하란: 데라의 가족 관계 → 우르에서 가나안으로 떠남 → 하란에 머묾과 데라의 죽음.",
+    "learningFocusKo": "바벨의 언어 사건과 셈의 계보가 족장 이야기의 문턱을 만든다.",
+    "historicalCautionKo": "바벨탑을 특정 지구라트와 같은 건물로 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-023",
+    "titleKo": "부르심과 출발",
+    "range": "GEN.12.1-GEN.12.5",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-024",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브람에게 떠나라는 말씀 → 민족·이름·복의 약속 → 가족·소유와 함께 하란을 떠남",
+    "learningFocusKo": "땅과 후손에 관한 약속이 이동과 기근 이야기에서 시험받는 구조를 살핀다.",
+    "historicalCautionKo": "족장 활동의 연도나 바로의 이름을 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-024",
+    "titleKo": "세겜과 벧엘의 제단",
+    "range": "GEN.12.6-GEN.12.9",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-025",
+    "lockedOutcome": true,
+    "originalOverviewKo": "세겜 모레 상수리나무 근처 이동 → 땅에 대한 약속과 제단 → 벧엘·아이 사이 제단과 남방 이동",
+    "learningFocusKo": "땅과 후손에 관한 약속이 이동과 기근 이야기에서 시험받는 구조를 살핀다.",
+    "historicalCautionKo": "족장 활동의 연도나 바로의 이름을 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-025",
+    "titleKo": "기근과 애굽에서의 사래",
+    "range": "GEN.12.10-GEN.12.20",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-026",
+    "lockedOutcome": true,
+    "originalOverviewKo": "기근으로 애굽 이동 → 사래를 누이라 소개한 사건 → 바로가 돌려보내고 떠남",
+    "learningFocusKo": "땅과 후손에 관한 약속이 이동과 기근 이야기에서 시험받는 구조를 살핀다.",
+    "historicalCautionKo": "족장 활동의 연도나 바로의 이름을 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-026",
+    "titleKo": "목자들 사이의 다툼",
+    "range": "GEN.13.1-GEN.13.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-027",
+    "lockedOutcome": true,
+    "originalOverviewKo": "애굽에서 네겝으로 돌아옴 → 가축과 재산 증가 → 두 집안의 목자들 사이 충돌",
+    "learningFocusKo": "목초지 갈등·선택·땅 약속의 순서를 구분한다.",
+    "historicalCautionKo": "보이는 지역의 지형을 현재 정치적 영토 주장에 기계적으로 적용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-027",
+    "titleKo": "롯이 요단 들을 택하다",
+    "range": "GEN.13.8-GEN.13.13",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-028",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브람이 평화로운 분리를 제안 → 롯이 요단 들을 고름 → 롯은 소돔 가까이 거주",
+    "learningFocusKo": "목초지 갈등·선택·땅 약속의 순서를 구분한다.",
+    "historicalCautionKo": "보이는 지역의 지형을 현재 정치적 영토 주장에 기계적으로 적용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-028",
+    "titleKo": "약속의 재확인과 헤브론",
+    "range": "GEN.13.14-GEN.13.18",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-029",
+    "lockedOutcome": true,
+    "originalOverviewKo": "자손과 땅에 대한 약속 → 땅의 사방을 바라봄 → 헤브론 마므레에서 제단",
+    "learningFocusKo": "목초지 갈등·선택·땅 약속의 순서를 구분한다.",
+    "historicalCautionKo": "보이는 지역의 지형을 현재 정치적 영토 주장에 기계적으로 적용하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-029",
+    "titleKo": "네 왕과 다섯 왕의 전쟁",
+    "range": "GEN.14.1-GEN.14.12",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-030",
+    "lockedOutcome": true,
+    "originalOverviewKo": "동맹 왕국의 군사 행동 → 싯딤 골짜기에서 충돌 → 소돔에 살던 롯이 사로잡힘",
+    "learningFocusKo": "롯 구출·왕들과의 만남·전리품 거절을 함께 읽는다.",
+    "historicalCautionKo": "등장 왕의 이름을 외부 비문으로 전부 확인했다고 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-030",
+    "titleKo": "아브람의 롯 구출",
+    "range": "GEN.14.13-GEN.14.16",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-031",
+    "lockedOutcome": true,
+    "originalOverviewKo": "도망자가 소식을 전함 → 아브람과 동맹이 추격 → 롯과 재물을 되찾음",
+    "learningFocusKo": "롯 구출·왕들과의 만남·전리품 거절을 함께 읽는다.",
+    "historicalCautionKo": "등장 왕의 이름을 외부 비문으로 전부 확인했다고 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-031",
+    "titleKo": "멜기세덱과 전리품",
+    "range": "GEN.14.17-GEN.14.24",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-032",
+    "lockedOutcome": true,
+    "originalOverviewKo": "살렘 왕 멜기세덱 등장 → 축복과 십분의 일 → 소돔 왕의 제안에 대한 아브람의 답",
+    "learningFocusKo": "롯 구출·왕들과의 만남·전리품 거절을 함께 읽는다.",
+    "historicalCautionKo": "등장 왕의 이름을 외부 비문으로 전부 확인했다고 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-032",
+    "titleKo": "별을 바라보는 약속",
+    "range": "GEN.15.1-GEN.15.6",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-033",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브람이 자손 문제를 묻다 → 하늘의 별과 자손의 비유 → 아브람의 믿음 서술",
+    "learningFocusKo": "아브람의 질문, 믿음, 언약 의식, 미래의 압박과 회복 서술을 관찰한다.",
+    "historicalCautionKo": "400년 등 시간을 기계적으로 단일 출애굽 연대에 맞추지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-033",
+    "titleKo": "언약과 미래의 예고",
+    "range": "GEN.15.7-GEN.15.21",
+    "verseCount": 15,
+    "canonicalNextEpisodeId": "ep-gen-034",
+    "lockedOutcome": true,
+    "originalOverviewKo": "땅을 주겠다는 약속과 희생 제물 → 후손의 타국 체류·압제와 귀환 예고 → 언약의 선언",
+    "learningFocusKo": "아브람의 질문, 믿음, 언약 의식, 미래의 압박과 회복 서술을 관찰한다.",
+    "historicalCautionKo": "400년 등 시간을 기계적으로 단일 출애굽 연대에 맞추지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-034",
+    "titleKo": "사래와 하갈의 갈등",
+    "range": "GEN.16.1-GEN.16.6",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-035",
+    "lockedOutcome": true,
+    "originalOverviewKo": "사래가 하갈을 아브람에게 줌 → 하갈이 임신한 후 관계가 악화 → 하갈이 떠남",
+    "learningFocusKo": "하갈의 처지와 광야에서의 만남을 중심으로 권력 관계를 성찰한다.",
+    "historicalCautionKo": "하갈의 고난이나 이스마엘의 후손을 현대 민족 전체에 일반화하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-035",
+    "titleKo": "하갈과 이스마엘",
+    "range": "GEN.16.7-GEN.16.16",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-036",
+    "lockedOutcome": true,
+    "originalOverviewKo": "광야 길에서 하갈을 만나는 여호와의 사자 → 이스마엘 이름을 알려줌 → 하갈이 돌아와 이스마엘을 낳음",
+    "learningFocusKo": "하갈의 처지와 광야에서의 만남을 중심으로 권력 관계를 성찰한다.",
+    "historicalCautionKo": "하갈의 고난이나 이스마엘의 후손을 현대 민족 전체에 일반화하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-036",
+    "titleKo": "아브라함과 언약의 표",
+    "range": "GEN.17.1-GEN.17.14",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-037",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이름 아브람에서 아브라함으로 → 많은 민족의 조상이라는 약속 → 할례를 언약의 표로 명함",
+    "learningFocusKo": "아브람·사래의 이름 변화와 언약 표징, 이삭 약속을 구분한다.",
+    "historicalCautionKo": "고대 관습에 관한 비교 자료가 이야기 자체를 독립 입증하지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-037",
+    "titleKo": "사라의 이름과 이삭의 약속",
+    "range": "GEN.17.15-GEN.17.27",
+    "verseCount": 13,
+    "canonicalNextEpisodeId": "ep-gen-038",
+    "lockedOutcome": true,
+    "originalOverviewKo": "사래에서 사라로 이름 변경 → 사라가 낳을 아들 이삭 약속 → 이스마엘에 대한 약속과 할례 시행",
+    "learningFocusKo": "아브람·사래의 이름 변화와 언약 표징, 이삭 약속을 구분한다.",
+    "historicalCautionKo": "고대 관습에 관한 비교 자료가 이야기 자체를 독립 입증하지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-038",
+    "titleKo": "마므레의 방문객",
+    "range": "GEN.18.1-GEN.18.15",
+    "verseCount": 15,
+    "canonicalNextEpisodeId": "ep-gen-039",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브라함이 방문객을 맞음 → 음식을 준비하고 대접함 → 사라가 아들 약속을 듣고 웃음",
+    "learningFocusKo": "방문객, 사라의 반응, 소돔을 위한 아브라함의 간구를 구분한다.",
+    "historicalCautionKo": "소돔 이야기의 심판을 오늘날 특정 집단 공격의 명분으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-039",
+    "titleKo": "소돔을 위한 중보",
+    "range": "GEN.18.16-GEN.18.33",
+    "verseCount": 18,
+    "canonicalNextEpisodeId": "ep-gen-040",
+    "lockedOutcome": true,
+    "originalOverviewKo": "소돔의 죄악에 대한 대화 → 아브라함이 의인 수를 두고 간구 → 말씀을 마치고 각자 떠남",
+    "learningFocusKo": "방문객, 사라의 반응, 소돔을 위한 아브라함의 간구를 구분한다.",
+    "historicalCautionKo": "소돔 이야기의 심판을 오늘날 특정 집단 공격의 명분으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-040",
+    "titleKo": "롯의 집에 온 방문객",
+    "range": "GEN.19.1-GEN.19.11",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-041",
+    "lockedOutcome": true,
+    "originalOverviewKo": "롯이 손님을 맞음 → 폭력적 군중이 집을 에워쌈 → 방문객이 롯을 보호함",
+    "learningFocusKo": "위험과 탈출, 롯의 아내, 동굴 이야기를 연달아 읽는다.",
+    "historicalCautionKo": "특정 발굴 파괴층을 소돔 사건의 확정 증거로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-041",
+    "titleKo": "롯 가족의 탈출",
+    "range": "GEN.19.12-GEN.19.22",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-042",
+    "lockedOutcome": true,
+    "originalOverviewKo": "방문객의 탈출 경고 → 롯 가족이 도시를 떠남 → 소알로 피신 요청",
+    "learningFocusKo": "위험과 탈출, 롯의 아내, 동굴 이야기를 연달아 읽는다.",
+    "historicalCautionKo": "특정 발굴 파괴층을 소돔 사건의 확정 증거로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-042",
+    "titleKo": "소돔과 고모라의 멸망",
+    "range": "GEN.19.23-GEN.19.29",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-043",
+    "lockedOutcome": true,
+    "originalOverviewKo": "소돔과 고모라의 멸망 → 롯의 아내에 관한 서술 → 아브라함이 멀리서 연기를 봄",
+    "learningFocusKo": "위험과 탈출, 롯의 아내, 동굴 이야기를 연달아 읽는다.",
+    "historicalCautionKo": "특정 발굴 파괴층을 소돔 사건의 확정 증거로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-043",
+    "titleKo": "롯과 두 딸의 후일담",
+    "range": "GEN.19.30-GEN.19.38",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-044",
+    "lockedOutcome": true,
+    "originalOverviewKo": "롯과 두 딸이 산지 동굴에 거주 → 두 딸의 행동과 출산 → 모압과 암몬 조상에 관한 서술",
+    "learningFocusKo": "위험과 탈출, 롯의 아내, 동굴 이야기를 연달아 읽는다.",
+    "historicalCautionKo": "특정 발굴 파괴층을 소돔 사건의 확정 증거로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-044",
+    "titleKo": "그랄의 아비멜렉",
+    "range": "GEN.20.1-GEN.20.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-045",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브라함이 그랄로 이동 → 사라를 누이라 말함 → 아비멜렉이 꿈에서 경고 받음",
+    "learningFocusKo": "아브라함의 두려움·사라·왕의 대응을 비교한다.",
+    "historicalCautionKo": "비슷한 아내 이야기들을 서로 무조건 같은 역사 사건으로 병합하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-045",
+    "titleKo": "사라를 돌려보내다",
+    "range": "GEN.20.8-GEN.20.18",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-046",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아비멜렉이 아브라함을 책망 → 사라를 돌려보내고 선물 제공 → 아브라함의 기도와 집안 회복",
+    "learningFocusKo": "아브라함의 두려움·사라·왕의 대응을 비교한다.",
+    "historicalCautionKo": "비슷한 아내 이야기들을 서로 무조건 같은 역사 사건으로 병합하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-046",
+    "titleKo": "이삭의 탄생",
+    "range": "GEN.21.1-GEN.21.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-047",
+    "lockedOutcome": true,
+    "originalOverviewKo": "사라가 이삭을 낳음 → 아브라함이 이름을 지음 → 약속과 기쁨의 연결",
+    "learningFocusKo": "이삭 탄생의 기쁨과 하갈·이스마엘의 고통을 함께 읽는다.",
+    "historicalCautionKo": "어린이 교육에서는 가족 갈등을 피해자 조롱 없이 다룬다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-047",
+    "titleKo": "하갈과 이스마엘의 광야",
+    "range": "GEN.21.8-GEN.21.21",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-048",
+    "lockedOutcome": true,
+    "originalOverviewKo": "가족 갈등으로 하갈과 아들이 떠남 → 광야에서 물이 떨어지는 위기 → 하나님이 하갈과 아이를 돌보심",
+    "learningFocusKo": "이삭 탄생의 기쁨과 하갈·이스마엘의 고통을 함께 읽는다.",
+    "historicalCautionKo": "어린이 교육에서는 가족 갈등을 피해자 조롱 없이 다룬다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-048",
+    "titleKo": "브엘세바의 우물과 맹세",
+    "range": "GEN.21.22-GEN.21.34",
+    "verseCount": 13,
+    "canonicalNextEpisodeId": "ep-gen-049",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아비멜렉과 관계를 확인 → 우물 권리를 두고 분쟁 정리 → 맹세와 브엘세바의 이름",
+    "learningFocusKo": "이삭 탄생의 기쁨과 하갈·이스마엘의 고통을 함께 읽는다.",
+    "historicalCautionKo": "어린이 교육에서는 가족 갈등을 피해자 조롱 없이 다룬다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-049",
+    "titleKo": "이삭을 바치라는 시험",
+    "range": "GEN.22.1-GEN.22.14",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-050",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브라함이 시험을 받음 → 모리아 땅으로 이동 → 행위를 멈추게 하고 숫양을 준비하심",
+    "learningFocusKo": "위기·중단·대체물 제공·약속의 반복 구조를 살핀다.",
+    "historicalCautionKo": "아동 희생을 실천 과제나 놀이의 승리 조건으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-050",
+    "titleKo": "약속의 재확인",
+    "range": "GEN.22.15-GEN.22.19",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-051",
+    "lockedOutcome": true,
+    "originalOverviewKo": "여호와의 사자가 다시 부름 → 후손과 복의 약속 재진술 → 아브라함이 브엘세바로 돌아감",
+    "learningFocusKo": "위기·중단·대체물 제공·약속의 반복 구조를 살핀다.",
+    "historicalCautionKo": "아동 희생을 실천 과제나 놀이의 승리 조건으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-051",
+    "titleKo": "나홀 가문의 소식",
+    "range": "GEN.22.20-GEN.22.24",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-052",
+    "lockedOutcome": true,
+    "originalOverviewKo": "나홀의 가족 소식을 들음 → 브두엘과 리브가 계보 등장 → 다음 혼인 이야기의 복선",
+    "learningFocusKo": "위기·중단·대체물 제공·약속의 반복 구조를 살핀다.",
+    "historicalCautionKo": "아동 희생을 실천 과제나 놀이의 승리 조건으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-052",
+    "titleKo": "사라의 죽음과 매장지 청원",
+    "range": "GEN.23.1-GEN.23.9",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-053",
+    "lockedOutcome": true,
+    "originalOverviewKo": "사라의 죽음(127세) 서술 → 아브라함이 슬퍼함 → 매장지를 요청함",
+    "learningFocusKo": "애도·교섭·매입 과정에서 가족과 토지의 의미를 살핀다.",
+    "historicalCautionKo": "현 기념 유적이 거래 자체를 고고학적으로 증명한다고 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-053",
+    "titleKo": "막벨라 굴을 사다",
+    "range": "GEN.23.10-GEN.23.20",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-054",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에브론과 공개 협상 → 밭과 굴 값을 지급 → 매장 소유지를 확보하고 사라 장사",
+    "learningFocusKo": "애도·교섭·매입 과정에서 가족과 토지의 의미를 살핀다.",
+    "historicalCautionKo": "현 기념 유적이 거래 자체를 고고학적으로 증명한다고 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-054",
+    "titleKo": "이삭의 결혼을 위한 파송",
+    "range": "GEN.24.1-GEN.24.9",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-055",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브라함이 집안 관리인에게 맹세를 요구 → 가나안 사람이 아닌 친족 쪽에서 배우자를 구하도록 지시 → 관리인이 약속",
+    "learningFocusKo": "긴 이야기 속 반복 보고·동의·이동·만남을 구분한다.",
+    "historicalCautionKo": "고대 혼인 절차를 지금의 가족 규범으로 강요하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-055",
+    "titleKo": "우물에서 만난 리브가",
+    "range": "GEN.24.10-GEN.24.27",
+    "verseCount": 18,
+    "canonicalNextEpisodeId": "ep-gen-056",
+    "lockedOutcome": true,
+    "originalOverviewKo": "관리인이 나홀의 성으로 향함 → 우물가에서 리브가의 친절을 봄 → 관리인이 감사",
+    "learningFocusKo": "긴 이야기 속 반복 보고·동의·이동·만남을 구분한다.",
+    "historicalCautionKo": "고대 혼인 절차를 지금의 가족 규범으로 강요하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-056",
+    "titleKo": "집안에 전해진 사명",
+    "range": "GEN.24.28-GEN.24.49",
+    "verseCount": 22,
+    "canonicalNextEpisodeId": "ep-gen-057",
+    "lockedOutcome": true,
+    "originalOverviewKo": "리브가가 가족에게 알림 → 관리인이 목적과 과정 설명 → 가족의 답을 구함",
+    "learningFocusKo": "긴 이야기 속 반복 보고·동의·이동·만남을 구분한다.",
+    "historicalCautionKo": "고대 혼인 절차를 지금의 가족 규범으로 강요하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-057",
+    "titleKo": "리브가의 동의와 떠남",
+    "range": "GEN.24.50-GEN.24.61",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-058",
+    "lockedOutcome": true,
+    "originalOverviewKo": "가족이 혼인을 허락함 → 리브가 본인에게 의사를 물음 → 리브가가 떠나기로 답하고 출발",
+    "learningFocusKo": "긴 이야기 속 반복 보고·동의·이동·만남을 구분한다.",
+    "historicalCautionKo": "고대 혼인 절차를 지금의 가족 규범으로 강요하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-058",
+    "titleKo": "이삭과 리브가의 만남",
+    "range": "GEN.24.62-GEN.24.67",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-059",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이삭이 들판에 나옴 → 리브가와 관리인이 도착 → 이삭이 리브가를 아내로 맞음",
+    "learningFocusKo": "긴 이야기 속 반복 보고·동의·이동·만남을 구분한다.",
+    "historicalCautionKo": "고대 혼인 절차를 지금의 가족 규범으로 강요하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-059",
+    "titleKo": "그두라와 후손의 계보",
+    "range": "GEN.25.1-GEN.25.6",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-060",
+    "lockedOutcome": true,
+    "originalOverviewKo": "그두라의 자녀 이름 기록 → 여러 계열의 후손 연결 → 이삭과 다른 아들들에게 재산을 분배",
+    "learningFocusKo": "장례·이스마엘의 계보·쌍둥이의 갈등으로 세대 전환을 관찰한다.",
+    "historicalCautionKo": "족보를 현대 민족적 우열의 근거로 읽지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-060",
+    "titleKo": "아브라함의 죽음과 장례",
+    "range": "GEN.25.7-GEN.25.11",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-061",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아브라함의 생애 175년 기록 → 이삭과 이스마엘이 장사 → 이삭을 향한 축복과 이후 거처",
+    "learningFocusKo": "장례·이스마엘의 계보·쌍둥이의 갈등으로 세대 전환을 관찰한다.",
+    "historicalCautionKo": "족보를 현대 민족적 우열의 근거로 읽지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-061",
+    "titleKo": "이스마엘의 열두 족장",
+    "range": "GEN.25.12-GEN.25.18",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-062",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이스마엘 자손의 이름 기록 → 열두 족장과 거처 서술 → 이스마엘 삶의 마무리",
+    "learningFocusKo": "장례·이스마엘의 계보·쌍둥이의 갈등으로 세대 전환을 관찰한다.",
+    "historicalCautionKo": "족보를 현대 민족적 우열의 근거로 읽지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-062",
+    "titleKo": "에서와 야곱의 탄생",
+    "range": "GEN.25.19-GEN.25.26",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-063",
+    "lockedOutcome": true,
+    "originalOverviewKo": "리브가의 임신과 질문 → 쌍둥이에 관한 말씀 → 에서와 야곱 출생",
+    "learningFocusKo": "장례·이스마엘의 계보·쌍둥이의 갈등으로 세대 전환을 관찰한다.",
+    "historicalCautionKo": "족보를 현대 민족적 우열의 근거로 읽지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-063",
+    "titleKo": "장자의 명분 거래",
+    "range": "GEN.25.27-GEN.25.34",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-064",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형제의 성격과 부모의 편애 → 지친 에서가 음식을 요청 → 에서가 장자의 명분을 팔음",
+    "learningFocusKo": "장례·이스마엘의 계보·쌍둥이의 갈등으로 세대 전환을 관찰한다.",
+    "historicalCautionKo": "족보를 현대 민족적 우열의 근거로 읽지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-064",
+    "titleKo": "이삭에게 이어진 약속",
+    "range": "GEN.26.1-GEN.26.6",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-065",
+    "lockedOutcome": true,
+    "originalOverviewKo": "기근에 이삭이 그랄로 감 → 애굽으로 내려가지 말라는 지시 → 아브라함에게 주어진 약속이 이삭에게 재확인됨",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-065",
+    "titleKo": "리브가를 누이라 말하다",
+    "range": "GEN.26.7-GEN.26.11",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-066",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이삭이 리브가를 누이라고 소개함 → 아비멜렉이 둘의 관계를 알아차림 → 왕이 부부를 해치지 말라고 명함",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-066",
+    "titleKo": "풍요와 시기",
+    "range": "GEN.26.12-GEN.26.17",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-067",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이삭이 농사에서 풍성한 소출을 얻음 → 우물들이 메워지고 다툼이 생김 → 이삭이 그랄 골짜기로 옮겨 감",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-067",
+    "titleKo": "에섹·싯나·르호봇",
+    "range": "GEN.26.18-GEN.26.22",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-068",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아버지 때의 우물을 다시 팜 → 에섹과 싯나의 다툼을 겪음 → 르호봇의 우물에서는 다투지 않음",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-068",
+    "titleKo": "브엘세바의 제단",
+    "range": "GEN.26.23-GEN.26.25",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-069",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이삭이 브엘세바로 감 → 하나님의 약속을 다시 들음 → 제단을 쌓고 장막을 침",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-069",
+    "titleKo": "아비멜렉과 언약",
+    "range": "GEN.26.26-GEN.26.33",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-070",
+    "lockedOutcome": true,
+    "originalOverviewKo": "아비멜렉 일행이 이삭을 찾아옴 → 서로 해치지 않기로 약속하고 잔치를 엶 → 우물의 물을 얻어 이름을 붙임",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-070",
+    "titleKo": "에서의 혼인",
+    "range": "GEN.26.34-GEN.26.35",
+    "verseCount": 2,
+    "canonicalNextEpisodeId": "ep-gen-071",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에서가 헷 족속 여인 둘과 혼인함 → 이 일로 이삭과 리브가의 마음이 근심하게 됨",
+    "learningFocusKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "historicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-071",
+    "titleKo": "맏아들을 부른 이삭",
+    "range": "GEN.27.1-GEN.27.4",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-072",
+    "lockedOutcome": true,
+    "originalOverviewKo": "늙은 이삭의 시력이 약해짐 → 에서에게 사냥해 음식을 가져오라고 말함 → 축복을 준비함",
+    "learningFocusKo": "눈먼 이삭, 리브가·야곱의 계획, 에서의 상실을 다양한 시점으로 본다.",
+    "historicalCautionKo": "속임수를 신앙적으로 권장하는 선택지로 설계하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-072",
+    "titleKo": "리브가와 야곱의 계획",
+    "range": "GEN.27.5-GEN.27.17",
+    "verseCount": 13,
+    "canonicalNextEpisodeId": "ep-gen-073",
+    "lockedOutcome": true,
+    "originalOverviewKo": "리브가가 말을 엿듣고 야곱에게 알림 → 음식을 준비하고 에서의 옷과 염소 가죽을 사용함 → 야곱이 아버지에게 다가감",
+    "learningFocusKo": "눈먼 이삭, 리브가·야곱의 계획, 에서의 상실을 다양한 시점으로 본다.",
+    "historicalCautionKo": "속임수를 신앙적으로 권장하는 선택지로 설계하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-073",
+    "titleKo": "야곱이 받은 축복",
+    "range": "GEN.27.18-GEN.27.29",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-074",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 자신을 에서라고 말함 → 이삭이 목소리와 손을 확인함 → 마침내 야곱에게 축복함",
+    "learningFocusKo": "눈먼 이삭, 리브가·야곱의 계획, 에서의 상실을 다양한 시점으로 본다.",
+    "historicalCautionKo": "속임수를 신앙적으로 권장하는 선택지로 설계하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-074",
+    "titleKo": "에서의 눈물",
+    "range": "GEN.27.30-GEN.27.40",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-075",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에서가 사냥에서 돌아옴 → 이미 축복이 이루어졌음을 알게 됨 → 이삭이 에서에게도 장래에 관한 말을 전함",
+    "learningFocusKo": "눈먼 이삭, 리브가·야곱의 계획, 에서의 상실을 다양한 시점으로 본다.",
+    "historicalCautionKo": "속임수를 신앙적으로 권장하는 선택지로 설계하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-075",
+    "titleKo": "형제 사이의 위기",
+    "range": "GEN.27.41-GEN.27.46",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-076",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에서가 야곱에게 분노함 → 리브가가 위험을 알고 피하도록 계획함 → 혼인 문제를 들어 이삭에게 의견을 말함",
+    "learningFocusKo": "눈먼 이삭, 리브가·야곱의 계획, 에서의 상실을 다양한 시점으로 본다.",
+    "historicalCautionKo": "속임수를 신앙적으로 권장하는 선택지로 설계하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-076",
+    "titleKo": "고향을 떠나는 야곱",
+    "range": "GEN.28.1-GEN.28.9",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-077",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이삭이 야곱을 축복하여 외가로 보냄 → 가나안 여인과 혼인하지 말라고 함 → 에서가 이스마엘 가문의 여인과도 혼인함",
+    "learningFocusKo": "야곱의 도주 중 꿈과 응답, 장소 이름 붙이기를 살핀다.",
+    "historicalCautionKo": "하늘 사다리의 물리적 위치와 실물을 주장하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-077",
+    "titleKo": "벧엘의 꿈",
+    "range": "GEN.28.10-GEN.28.17",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-078",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 브엘세바에서 하란으로 길을 감 → 잠들어 하늘에 닿은 사다리를 꿈에서 봄 → 하나님이 약속하시고 야곱이 경외함",
+    "learningFocusKo": "야곱의 도주 중 꿈과 응답, 장소 이름 붙이기를 살핀다.",
+    "historicalCautionKo": "하늘 사다리의 물리적 위치와 실물을 주장하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-078",
+    "titleKo": "벧엘의 기둥과 서원",
+    "range": "GEN.28.18-GEN.28.22",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-079",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 아침에 돌을 세우고 기름을 부음 → 그곳을 벧엘이라고 부름 → 하나님 앞에서 서원을 함",
+    "learningFocusKo": "야곱의 도주 중 꿈과 응답, 장소 이름 붙이기를 살핀다.",
+    "historicalCautionKo": "하늘 사다리의 물리적 위치와 실물을 주장하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-079",
+    "titleKo": "우물가의 라헬",
+    "range": "GEN.29.1-GEN.29.14",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-080",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 동방 사람들의 땅에 도착함 → 우물에서 라헬을 만나고 돌을 옮김 → 라반의 집에서 환영받음",
+    "learningFocusKo": "야곱·레아·라헬 각 인물의 처지를 비교한다.",
+    "historicalCautionKo": "여성의 처지를 낭만화하거나 결혼을 거래 게임으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-080",
+    "titleKo": "칠 년의 수고",
+    "range": "GEN.29.15-GEN.29.20",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-081",
+    "lockedOutcome": true,
+    "originalOverviewKo": "라반이 임금에 대해 물음 → 야곱이 라헬을 위해 칠 년을 일하기로 함 → 긴 시간이 사랑으로 짧게 여겨졌다고 서술됨",
+    "learningFocusKo": "야곱·레아·라헬 각 인물의 처지를 비교한다.",
+    "historicalCautionKo": "여성의 처지를 낭만화하거나 결혼을 거래 게임으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-081",
+    "titleKo": "혼인의 속임과 두 아내",
+    "range": "GEN.29.21-GEN.29.30",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-082",
+    "lockedOutcome": true,
+    "originalOverviewKo": "라반이 잔치를 열고 레아를 들여보냄 → 야곱이 속임을 알게 됨 → 라헬과도 혼인하고 추가 일곱 해를 섬김",
+    "learningFocusKo": "야곱·레아·라헬 각 인물의 처지를 비교한다.",
+    "historicalCautionKo": "여성의 처지를 낭만화하거나 결혼을 거래 게임으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-082",
+    "titleKo": "레아의 네 아들",
+    "range": "GEN.29.31-GEN.29.35",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-083",
+    "lockedOutcome": true,
+    "originalOverviewKo": "레아가 사랑받지 못하는 상황이 서술됨 → 르우벤·시므온·레위·유다가 태어남 → 이름에 얽힌 고백이 기록됨",
+    "learningFocusKo": "야곱·레아·라헬 각 인물의 처지를 비교한다.",
+    "historicalCautionKo": "여성의 처지를 낭만화하거나 결혼을 거래 게임으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-083",
+    "titleKo": "라헬과 빌하",
+    "range": "GEN.30.1-GEN.30.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-084",
+    "lockedOutcome": true,
+    "originalOverviewKo": "라헬이 자녀 문제로 괴로워함 → 라헬의 종 빌하가 단과 납달리를 낳음 → 가족 관계의 긴장이 이어짐",
+    "learningFocusKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "historicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-084",
+    "titleKo": "레아와 실바",
+    "range": "GEN.30.9-GEN.30.13",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-085",
+    "lockedOutcome": true,
+    "originalOverviewKo": "레아가 자신의 종 실바를 야곱에게 줌 → 실바가 갓과 아셀을 낳음 → 가족 계보가 확장됨",
+    "learningFocusKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "historicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-085",
+    "titleKo": "합환채와 가족의 확장",
+    "range": "GEN.30.14-GEN.30.21",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-086",
+    "lockedOutcome": true,
+    "originalOverviewKo": "르우벤이 들에서 합환채를 구함 → 레아와 라헬 사이에 합환채가 등장함 → 잇사갈·스불론과 딸 디나가 태어남",
+    "learningFocusKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "historicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-086",
+    "titleKo": "요셉의 탄생",
+    "range": "GEN.30.22-GEN.30.24",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-087",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하나님이 라헬을 기억하셨다고 본문이 전함 → 라헬이 아들 요셉을 낳음 → 또 다른 아들을 바라는 이름 풀이가 이어짐",
+    "learningFocusKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "historicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-087",
+    "titleKo": "고향으로 돌아갈 때",
+    "range": "GEN.30.25-GEN.30.36",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-088",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 태어난 뒤 야곱이 떠나기를 요청함 → 라반과 가축 보수에 관해 협의함 → 양 떼와 염소 떼를 나누어 관리함",
+    "learningFocusKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "historicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-088",
+    "titleKo": "가축 번식 이야기",
+    "range": "GEN.30.37-GEN.30.43",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-089",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 나뭇가지 껍질을 벗겨 물구유에 둠 → 가축 떼가 늘어나고 야곱의 재산이 풍부해짐 → 오늘날 생물학적 번식 원리로 단정하지 않음",
+    "learningFocusKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "historicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-089",
+    "titleKo": "떠날 결심",
+    "range": "GEN.31.1-GEN.31.16",
+    "verseCount": 16,
+    "canonicalNextEpisodeId": "ep-gen-090",
+    "lockedOutcome": true,
+    "originalOverviewKo": "라반 아들들의 말과 라반의 태도가 달라짐 → 하나님이 야곱에게 돌아가라고 말씀하심 → 라헬과 레아가 함께 떠나는 데 동의함",
+    "learningFocusKo": "떠남, 추격, 가정 신상, 언약 기념물을 연결한다.",
+    "historicalCautionKo": "이동 경로는 지역 수준으로만 시각화한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-090",
+    "titleKo": "라반의 집을 떠나다",
+    "range": "GEN.31.17-GEN.31.21",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-091",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 가족과 가축을 이끌고 출발함 → 라헬이 드라빔을 가져감 → 야곱이 라반에게 알리지 않고 길을 떠남",
+    "learningFocusKo": "떠남, 추격, 가정 신상, 언약 기념물을 연결한다.",
+    "historicalCautionKo": "이동 경로는 지역 수준으로만 시각화한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-091",
+    "titleKo": "추격과 수색",
+    "range": "GEN.31.22-GEN.31.35",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-092",
+    "lockedOutcome": true,
+    "originalOverviewKo": "라반이 뒤늦게 소식을 듣고 추격함 → 하나님이 꿈에서 라반에게 경고하심 → 드라빔을 찾지 못하고 수색이 끝남",
+    "learningFocusKo": "떠남, 추격, 가정 신상, 언약 기념물을 연결한다.",
+    "historicalCautionKo": "이동 경로는 지역 수준으로만 시각화한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-092",
+    "titleKo": "야곱의 항변",
+    "range": "GEN.31.36-GEN.31.42",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-093",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 수색과 오랜 노동에 항변함 → 사십이 아니라 스무 해를 섬긴 일을 언급함 → 공정한 보상과 보호를 이야기함",
+    "learningFocusKo": "떠남, 추격, 가정 신상, 언약 기념물을 연결한다.",
+    "historicalCautionKo": "이동 경로는 지역 수준으로만 시각화한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-093",
+    "titleKo": "언약의 돌무더기",
+    "range": "GEN.31.43-GEN.31.55",
+    "verseCount": 13,
+    "canonicalNextEpisodeId": "ep-gen-094",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱과 라반이 돌무더기를 증거로 삼음 → 서로 넘어가 해치지 않기로 맹세함 → 라반이 가족과 작별함",
+    "learningFocusKo": "떠남, 추격, 가정 신상, 언약 기념물을 연결한다.",
+    "historicalCautionKo": "이동 경로는 지역 수준으로만 시각화한다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-094",
+    "titleKo": "마하나임과 형 에서의 소식",
+    "range": "GEN.32.1-GEN.32.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-095",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하나님의 사자들을 만났다고 본문이 기록함 → 야곱이 그곳을 마하나임이라 부름 → 에서가 사백 명과 온다는 말을 듣고 두려워함",
+    "learningFocusKo": "에서와의 재회를 앞둔 준비, 기도, 씨름, 새 이름의 연결을 읽는다.",
+    "historicalCautionKo": "브니엘의 정확한 좌표를 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-095",
+    "titleKo": "두려움 속의 기도",
+    "range": "GEN.32.9-GEN.32.12",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-096",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 아브라함과 이삭의 하나님을 부름 → 자신의 부족함을 고백함 → 에서에게서 구해 달라고 기도함",
+    "learningFocusKo": "에서와의 재회를 앞둔 준비, 기도, 씨름, 새 이름의 연결을 읽는다.",
+    "historicalCautionKo": "브니엘의 정확한 좌표를 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-096",
+    "titleKo": "화해를 위한 예물",
+    "range": "GEN.32.13-GEN.32.21",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-097",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 가축을 나누어 예물을 준비함 → 여러 떼로 보내면서 화해를 도모함 → 자신은 밤에 머무름",
+    "learningFocusKo": "에서와의 재회를 앞둔 준비, 기도, 씨름, 새 이름의 연결을 읽는다.",
+    "historicalCautionKo": "브니엘의 정확한 좌표를 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-097",
+    "titleKo": "얍복강의 밤과 이스라엘",
+    "range": "GEN.32.22-GEN.32.32",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-098",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 가족을 얍복 나루 건너편으로 보냄 → 밤새 한 사람과 씨름했다고 본문이 기록함 → 이스라엘이라는 이름을 받고 브니엘이라 이름 붙임",
+    "learningFocusKo": "에서와의 재회를 앞둔 준비, 기도, 씨름, 새 이름의 연결을 읽는다.",
+    "historicalCautionKo": "브니엘의 정확한 좌표를 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-098",
+    "titleKo": "형제의 재회",
+    "range": "GEN.33.1-GEN.33.11",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-099",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 에서와 그의 사람들을 봄 → 에서가 달려와 야곱을 안고 함께 욺 → 야곱이 예물을 권함",
+    "learningFocusKo": "야곱과 에서가 다시 만난 뒤 서로 다른 행로를 택하는 이유를 살핀다.",
+    "historicalCautionKo": "화해를 즉각적 신뢰 회복의 단순 공식으로 가르치지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-099",
+    "titleKo": "에돔으로 가는 길과 숙곳",
+    "range": "GEN.33.12-GEN.33.17",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-100",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에서가 앞서 가자고 권함 → 야곱은 가축과 어린이를 이유로 천천히 가겠다고 함 → 에서는 세일로 가고 야곱은 숙곳에 머묾",
+    "learningFocusKo": "야곱과 에서가 다시 만난 뒤 서로 다른 행로를 택하는 이유를 살핀다.",
+    "historicalCautionKo": "화해를 즉각적 신뢰 회복의 단순 공식으로 가르치지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-100",
+    "titleKo": "세겜에 자리 잡다",
+    "range": "GEN.33.18-GEN.33.20",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-101",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 세겜 성 가까이에 이르렀다고 서술됨 → 그곳에서 땅을 사고 장막을 침 → 제단을 쌓고 이름을 붙임",
+    "learningFocusKo": "야곱과 에서가 다시 만난 뒤 서로 다른 행로를 택하는 이유를 살핀다.",
+    "historicalCautionKo": "화해를 즉각적 신뢰 회복의 단순 공식으로 가르치지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-101",
+    "titleKo": "디나에게 일어난 폭력",
+    "range": "GEN.34.1-GEN.34.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-102",
+    "lockedOutcome": true,
+    "originalOverviewKo": "디나가 그 땅의 딸들을 보러 나감 → 세겜이 디나에게 성적 폭력을 가했다고 서술됨 → 야곱의 아들들이 분노함",
+    "learningFocusKo": "디나의 피해와 가문 내 대응, 집단 보복의 윤리 문제를 구분한다.",
+    "historicalCautionKo": "성폭력·살해를 플레이어 보상 행동으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-102",
+    "titleKo": "혼인 제안과 조건",
+    "range": "GEN.34.8-GEN.34.17",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-103",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하몰이 혼인과 공존을 제안함 → 형제들이 속임으로 할례 조건을 내세움 → 협상이 이어짐",
+    "learningFocusKo": "디나의 피해와 가문 내 대응, 집단 보복의 윤리 문제를 구분한다.",
+    "historicalCautionKo": "성폭력·살해를 플레이어 보상 행동으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-103",
+    "titleKo": "세겜의 성문 합의",
+    "range": "GEN.34.18-GEN.34.24",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-104",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하몰과 세겜이 성문에서 주민들에게 이야기함 → 주민 남자들이 할례에 동의함 → 평화 제안과 속임이 엇갈림",
+    "learningFocusKo": "디나의 피해와 가문 내 대응, 집단 보복의 윤리 문제를 구분한다.",
+    "historicalCautionKo": "성폭력·살해를 플레이어 보상 행동으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-104",
+    "titleKo": "시므온과 레위의 보복",
+    "range": "GEN.34.25-GEN.34.31",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-105",
+    "lockedOutcome": true,
+    "originalOverviewKo": "시므온과 레위가 도시에 공격을 가함 → 남자들을 죽이고 디나를 데려옴 → 야곱이 결과를 염려하고 형제들이 반박함",
+    "learningFocusKo": "디나의 피해와 가문 내 대응, 집단 보복의 윤리 문제를 구분한다.",
+    "historicalCautionKo": "성폭력·살해를 플레이어 보상 행동으로 만들지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-105",
+    "titleKo": "벧엘로 돌아가다",
+    "range": "GEN.35.1-GEN.35.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-106",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하나님이 야곱에게 벧엘로 가라고 하심 → 가족이 이방 신상을 버리고 정결하게 함 → 드보라가 죽고 장사되었다고 기록됨",
+    "learningFocusKo": "이름·언약 재확인과 라헬·이삭의 죽음을 연결한다.",
+    "historicalCautionKo": "장례 장소의 현지 전승을 독립 입증으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-106",
+    "titleKo": "이스라엘이라는 이름의 재확인",
+    "range": "GEN.35.9-GEN.35.15",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-107",
+    "lockedOutcome": true,
+    "originalOverviewKo": "하나님이 다시 야곱에게 나타나셨다고 서술됨 → 이스라엘의 이름과 약속을 확인함 → 야곱이 돌기둥을 세우고 벧엘이라 부름",
+    "learningFocusKo": "이름·언약 재확인과 라헬·이삭의 죽음을 연결한다.",
+    "historicalCautionKo": "장례 장소의 현지 전승을 독립 입증으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-107",
+    "titleKo": "베냐민의 탄생과 라헬의 죽음",
+    "range": "GEN.35.16-GEN.35.20",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-108",
+    "lockedOutcome": true,
+    "originalOverviewKo": "벧엘에서 길을 떠나 에브랏으로 향함 → 라헬이 베냐민을 낳고 숨짐 → 야곱이 길가에 기둥을 세움",
+    "learningFocusKo": "이름·언약 재확인과 라헬·이삭의 죽음을 연결한다.",
+    "historicalCautionKo": "장례 장소의 현지 전승을 독립 입증으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-108",
+    "titleKo": "열두 아들의 명단",
+    "range": "GEN.35.21-GEN.35.26",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-109",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이스라엘이 에델 망대 너머에 장막을 침 → 르우벤과 빌하에 관한 짧은 서술이 나옴 → 레아·라헬·빌하·실바의 아들 명단을 정리함",
+    "learningFocusKo": "이름·언약 재확인과 라헬·이삭의 죽음을 연결한다.",
+    "historicalCautionKo": "장례 장소의 현지 전승을 독립 입증으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-109",
+    "titleKo": "이삭의 죽음",
+    "range": "GEN.35.27-GEN.35.29",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-110",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 마므레의 이삭에게 돌아옴 → 이삭이 백팔십 세로 죽었다고 서술됨 → 에서와 야곱이 함께 장사함",
+    "learningFocusKo": "이름·언약 재확인과 라헬·이삭의 죽음을 연결한다.",
+    "historicalCautionKo": "장례 장소의 현지 전승을 독립 입증으로 쓰지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-110",
+    "titleKo": "에서의 가정과 세일 이주",
+    "range": "GEN.36.1-GEN.36.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-111",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에서의 아내와 자녀 이름이 소개됨 → 형제의 재산이 많아 함께 살기 어려워짐 → 에서가 세일 산으로 옮겨 감",
+    "learningFocusKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "historicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-111",
+    "titleKo": "에서의 자손",
+    "range": "GEN.36.9-GEN.36.14",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-112",
+    "lockedOutcome": true,
+    "originalOverviewKo": "세일 산지의 에서 자손이 열거됨 → 엘리바스·르우엘 등의 자손이 기록됨 → 후대 집단 이름과 연결되는 계보형 자료",
+    "learningFocusKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "historicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-112",
+    "titleKo": "에돔의 족장들",
+    "range": "GEN.36.15-GEN.36.19",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-113",
+    "lockedOutcome": true,
+    "originalOverviewKo": "엘리바스와 르우엘 자손의 족장이 열거됨 → 오홀리바마 계열의 족장들이 소개됨 → 명단은 족보 탐색 화면으로 제시함",
+    "learningFocusKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "historicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-113",
+    "titleKo": "세일 원주민 호리 족속",
+    "range": "GEN.36.20-GEN.36.30",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-114",
+    "lockedOutcome": true,
+    "originalOverviewKo": "세일의 호리 사람들과 족장들의 명단이 소개됨 → 인물 사이 친족 관계를 분리해 읽음 → 후대 왕국 경계선처럼 그리지 않음",
+    "learningFocusKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "historicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-114",
+    "titleKo": "이스라엘 왕 이전 에돔 왕 목록",
+    "range": "GEN.36.31-GEN.36.39",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-115",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이스라엘 왕이 있기 전에 다스린 왕들의 목록이 나옴 → 벨라부터 하닷까지 이름과 지역을 열거함 → 현대 기준 절대 연대와 왕국 영토는 추정하지 않음",
+    "learningFocusKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "historicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-115",
+    "titleKo": "에돔의 거주지와 족장",
+    "range": "GEN.36.40-GEN.36.43",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-116",
+    "lockedOutcome": true,
+    "originalOverviewKo": "에서에서 이어지는 족장들의 명칭을 열거함 → 정착지를 따라 족보가 정리됨 → 요셉 서사로 넘어가기 전 계보의 마침표",
+    "learningFocusKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "historicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-116",
+    "titleKo": "편애와 형제 갈등",
+    "range": "GEN.37.1-GEN.37.4",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-117",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱 가족은 가나안에 거주 → 요셉이 형들의 일을 아버지에게 알림 → 특별한 옷과 편애가 형제 갈등을 드러냄",
+    "learningFocusKo": "가족 내 편애, 꿈, 형제들의 행동과 애굽행을 시간순으로 살핀다.",
+    "historicalCautionKo": "노예 거래의 상세 제도를 이 한 본문으로 재구성하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-117",
+    "titleKo": "두 꿈과 형제들의 반응",
+    "range": "GEN.37.5-GEN.37.11",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-118",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 곡식 단의 꿈을 이야기함 → 해와 달과 별의 꿈이 이어짐 → 형들은 시기하고 야곱은 그 말을 마음에 둠",
+    "learningFocusKo": "가족 내 편애, 꿈, 형제들의 행동과 애굽행을 시간순으로 살핀다.",
+    "historicalCautionKo": "노예 거래의 상세 제도를 이 한 본문으로 재구성하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-118",
+    "titleKo": "형들을 찾아가는 길",
+    "range": "GEN.37.12-GEN.37.17",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-119",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형들이 세겜에서 양을 침 → 야곱이 요셉을 보냄 → 요셉이 도단으로 향함",
+    "learningFocusKo": "가족 내 편애, 꿈, 형제들의 행동과 애굽행을 시간순으로 살핀다.",
+    "historicalCautionKo": "노예 거래의 상세 제도를 이 한 본문으로 재구성하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-119",
+    "titleKo": "구덩이와 매매",
+    "range": "GEN.37.18-GEN.37.28",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-120",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형들이 멀리서 요셉을 보고 모의함 → 르우벤의 제안으로 구덩이에 넣음 → 상인들과 요셉의 매매가 이어짐",
+    "learningFocusKo": "가족 내 편애, 꿈, 형제들의 행동과 애굽행을 시간순으로 살핀다.",
+    "historicalCautionKo": "노예 거래의 상세 제도를 이 한 본문으로 재구성하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-120",
+    "titleKo": "옷으로 속이다",
+    "range": "GEN.37.29-GEN.37.36",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-121",
+    "lockedOutcome": true,
+    "originalOverviewKo": "르우벤이 돌아와 요셉을 찾지 못함 → 형들이 옷을 이용하여 아버지를 속임 → 요셉은 애굽으로 팔려감",
+    "learningFocusKo": "가족 내 편애, 꿈, 형제들의 행동과 애굽행을 시간순으로 살핀다.",
+    "historicalCautionKo": "노예 거래의 상세 제도를 이 한 본문으로 재구성하지 않는다.",
+    "sourceIds": [
+      "YALE-INTRO",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-121",
+    "titleKo": "유다의 집과 다말",
+    "range": "GEN.38.1-GEN.38.11",
+    "verseCount": 11,
+    "canonicalNextEpisodeId": "ep-gen-122",
+    "lockedOutcome": true,
+    "originalOverviewKo": "유다가 형제들에게서 떠남 → 유다의 아들들의 죽음이 기록됨 → 다말이 아버지 집으로 돌아감",
+    "learningFocusKo": "다말의 권리 회복을 중심으로 유다의 행동과 고백을 읽는다.",
+    "historicalCautionKo": "성적 문제를 선정적 선택지나 피해자 비난으로 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-BRODIE",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-122",
+    "titleKo": "다말과 증표",
+    "range": "GEN.38.12-GEN.38.19",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-123",
+    "lockedOutcome": true,
+    "originalOverviewKo": "시간이 흐르고 유다가 딤나로 향함 → 다말이 가림옷을 입고 유다를 만남 → 도장·끈·지팡이가 증표로 남음",
+    "learningFocusKo": "다말의 권리 회복을 중심으로 유다의 행동과 고백을 읽는다.",
+    "historicalCautionKo": "성적 문제를 선정적 선택지나 피해자 비난으로 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-BRODIE",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-123",
+    "titleKo": "찾지 못한 증표",
+    "range": "GEN.38.20-GEN.38.23",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-124",
+    "lockedOutcome": true,
+    "originalOverviewKo": "유다가 증표를 돌려받으려 사람을 보냄 → 해당 여인을 찾지 못함 → 유다는 일을 덮으려 함",
+    "learningFocusKo": "다말의 권리 회복을 중심으로 유다의 행동과 고백을 읽는다.",
+    "historicalCautionKo": "성적 문제를 선정적 선택지나 피해자 비난으로 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-BRODIE",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-124",
+    "titleKo": "다말의 정당함 인정",
+    "range": "GEN.38.24-GEN.38.26",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-125",
+    "lockedOutcome": true,
+    "originalOverviewKo": "다말의 임신 소식으로 생명의 위기가 옴 → 다말이 증표를 제시함 → 유다가 자신의 책임을 인정함",
+    "learningFocusKo": "다말의 권리 회복을 중심으로 유다의 행동과 고백을 읽는다.",
+    "historicalCautionKo": "성적 문제를 선정적 선택지나 피해자 비난으로 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-BRODIE",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-125",
+    "titleKo": "베레스와 세라",
+    "range": "GEN.38.27-GEN.38.30",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-126",
+    "lockedOutcome": true,
+    "originalOverviewKo": "다말이 쌍둥이를 출산함 → 아이들이 태어나는 순서가 기록됨 → 베레스와 세라의 계보가 시작됨",
+    "learningFocusKo": "다말의 권리 회복을 중심으로 유다의 행동과 고백을 읽는다.",
+    "historicalCautionKo": "성적 문제를 선정적 선택지나 피해자 비난으로 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-BRODIE",
+      "OUP-HOFF"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-126",
+    "titleKo": "애굽 집의 요셉",
+    "range": "GEN.39.1-GEN.39.6",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-127",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 보디발의 집에 들어감 → 집안일을 맡으며 신임을 얻음 → 보디발이 일을 요셉에게 맡김",
+    "learningFocusKo": "신뢰와 부당한 고발, 억울함 속에서의 생존을 살핀다.",
+    "historicalCautionKo": "성적 강요를 희화화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-127",
+    "titleKo": "거절과 도망",
+    "range": "GEN.39.7-GEN.39.12",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-128",
+    "lockedOutcome": true,
+    "originalOverviewKo": "보디발 아내가 요셉을 유혹함 → 요셉이 이를 거절함 → 요셉이 겉옷을 두고 자리를 피함",
+    "learningFocusKo": "신뢰와 부당한 고발, 억울함 속에서의 생존을 살핀다.",
+    "historicalCautionKo": "성적 강요를 희화화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-128",
+    "titleKo": "거짓 고발",
+    "range": "GEN.39.13-GEN.39.18",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-129",
+    "lockedOutcome": true,
+    "originalOverviewKo": "보디발의 아내가 옷을 이용하여 주장함 → 집 사람과 남편에게 이야기를 반복함 → 요셉에게 거짓 혐의가 씌워짐",
+    "learningFocusKo": "신뢰와 부당한 고발, 억울함 속에서의 생존을 살핀다.",
+    "historicalCautionKo": "성적 강요를 희화화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-129",
+    "titleKo": "감옥에서도 계속된 이야기",
+    "range": "GEN.39.19-GEN.39.23",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-130",
+    "lockedOutcome": true,
+    "originalOverviewKo": "보디발이 말을 듣고 화를 냄 → 요셉이 왕의 죄수를 가두는 곳에 수감됨 → 간수가 일을 요셉에게 맡김",
+    "learningFocusKo": "신뢰와 부당한 고발, 억울함 속에서의 생존을 살핀다.",
+    "historicalCautionKo": "성적 강요를 희화화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-130",
+    "titleKo": "두 관원의 꿈",
+    "range": "GEN.40.1-GEN.40.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-131",
+    "lockedOutcome": true,
+    "originalOverviewKo": "술 맡은 관원장과 떡 굽는 관원장이 수감됨 → 두 사람이 각기 꿈을 꿈 → 요셉이 꿈을 듣고자 함",
+    "learningFocusKo": "관원 두 사람의 꿈과 해석의 결과, 잊힘을 살핀다.",
+    "historicalCautionKo": "꿈 풀이를 재현 가능한 미래 예측 훈련으로 만들지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-131",
+    "titleKo": "술 맡은 관원장의 꿈",
+    "range": "GEN.40.9-GEN.40.15",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-132",
+    "lockedOutcome": true,
+    "originalOverviewKo": "술 맡은 관원장이 포도나무 꿈을 설명함 → 요셉이 사흘 뒤 회복될 것이라 해석함 → 요셉이 자신을 기억해 달라 부탁함",
+    "learningFocusKo": "관원 두 사람의 꿈과 해석의 결과, 잊힘을 살핀다.",
+    "historicalCautionKo": "꿈 풀이를 재현 가능한 미래 예측 훈련으로 만들지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-132",
+    "titleKo": "떡 굽는 관원장의 꿈",
+    "range": "GEN.40.16-GEN.40.19",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-133",
+    "lockedOutcome": true,
+    "originalOverviewKo": "떡 굽는 관원장이 바구니 꿈을 이야기함 → 요셉이 다른 결말을 해석함 → 서로 다른 운명이 대비됨",
+    "learningFocusKo": "관원 두 사람의 꿈과 해석의 결과, 잊힘을 살핀다.",
+    "historicalCautionKo": "꿈 풀이를 재현 가능한 미래 예측 훈련으로 만들지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-133",
+    "titleKo": "엇갈린 결과와 잊힌 요셉",
+    "range": "GEN.40.20-GEN.40.23",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-134",
+    "lockedOutcome": true,
+    "originalOverviewKo": "바로 생일에 두 관원의 처지가 결정됨 → 술 맡은 관원장은 복직됨 → 그러나 요셉은 기억되지 못함",
+    "learningFocusKo": "관원 두 사람의 꿈과 해석의 결과, 잊힘을 살핀다.",
+    "historicalCautionKo": "꿈 풀이를 재현 가능한 미래 예측 훈련으로 만들지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-134",
+    "titleKo": "바로의 두 꿈",
+    "range": "GEN.41.1-GEN.41.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-135",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이 년이 지나 바로가 나일강과 이삭의 꿈을 꿈 → 해석자가 나타나지 않음 → 궁정의 불안이 커짐",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-135",
+    "titleKo": "기억나는 요셉",
+    "range": "GEN.41.9-GEN.41.16",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-136",
+    "lockedOutcome": true,
+    "originalOverviewKo": "술 맡은 관원장이 요셉을 떠올림 → 요셉이 감옥에서 궁정으로 나옴 → 요셉이 해석의 공을 하나님께 돌림",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-136",
+    "titleKo": "풍년과 흉년의 예고",
+    "range": "GEN.41.17-GEN.41.32",
+    "verseCount": 16,
+    "canonicalNextEpisodeId": "ep-gen-137",
+    "lockedOutcome": true,
+    "originalOverviewKo": "바로가 두 꿈을 재진술함 → 요셉이 두 꿈을 연결해 해석함 → 일곱 해 풍년 뒤 일곱 해 흉년이 예고됨",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-137",
+    "titleKo": "식량 관리 제안",
+    "range": "GEN.41.33-GEN.41.40",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-138",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 감독 체계를 제안함 → 풍년의 오분의 일을 저장하자고 함 → 바로가 요셉을 주요 관리로 세움",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-138",
+    "titleKo": "왕의 권한을 받은 요셉",
+    "range": "GEN.41.41-GEN.41.45",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-139",
+    "lockedOutcome": true,
+    "originalOverviewKo": "바로가 반지를 주고 옷을 입힘 → 요셉이 애굽 전역의 관리로 세워짐 → 요셉의 애굽 이름과 결혼 이야기가 나옴",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-139",
+    "titleKo": "저장과 두 아들",
+    "range": "GEN.41.46-GEN.41.52",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-140",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 서른 살에 바로 앞에 섬 → 풍년 동안 곡물을 모음 → 므낫세와 에브라임이 태어남",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-140",
+    "titleKo": "흉년 시작과 곡식 배급",
+    "range": "GEN.41.53-GEN.41.57",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-141",
+    "lockedOutcome": true,
+    "originalOverviewKo": "풍년 일곱 해가 끝남 → 흉년이 여러 땅에 미침 → 사람들이 요셉에게 곡식을 구함",
+    "learningFocusKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "historicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-141",
+    "titleKo": "형제들의 첫 애굽행",
+    "range": "GEN.42.1-GEN.42.5",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-142",
+    "lockedOutcome": true,
+    "originalOverviewKo": "가나안에 먹을 것이 부족해짐 → 야곱이 열 형제를 보냄 → 베냐민은 함께 보내지 않음",
+    "learningFocusKo": "먹을거리 부족, 형제들의 두려움, 시므온의 억류를 관찰한다.",
+    "historicalCautionKo": "기근의 기간을 특정 발굴 기록으로 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-142",
+    "titleKo": "알아보지 못하는 형제들",
+    "range": "GEN.42.6-GEN.42.17",
+    "verseCount": 12,
+    "canonicalNextEpisodeId": "ep-gen-143",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형들은 요셉 앞에 절함 → 요셉은 형들을 알아보지만 형들은 모름 → 요셉이 그들을 시험하며 구금함",
+    "learningFocusKo": "먹을거리 부족, 형제들의 두려움, 시므온의 억류를 관찰한다.",
+    "historicalCautionKo": "기근의 기간을 특정 발굴 기록으로 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-143",
+    "titleKo": "시므온이 남다",
+    "range": "GEN.42.18-GEN.42.25",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-144",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 형제들에게 조건을 제시함 → 형들이 과거의 죄를 떠올림 → 시므온이 붙잡히고 곡식이 준비됨",
+    "learningFocusKo": "먹을거리 부족, 형제들의 두려움, 시므온의 억류를 관찰한다.",
+    "historicalCautionKo": "기근의 기간을 특정 발굴 기록으로 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-144",
+    "titleKo": "되돌아온 돈",
+    "range": "GEN.42.26-GEN.42.28",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-145",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형들이 곡식을 싣고 떠남 → 한 형제가 자루에서 돈을 발견함 → 형들이 놀라고 두려워함",
+    "learningFocusKo": "먹을거리 부족, 형제들의 두려움, 시므온의 억류를 관찰한다.",
+    "historicalCautionKo": "기근의 기간을 특정 발굴 기록으로 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-145",
+    "titleKo": "야곱의 두려움",
+    "range": "GEN.42.29-GEN.42.38",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-146",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형들이 가나안에서 상황을 설명함 → 돈이 다시 발견됨 → 야곱은 베냐민을 보내기를 거절함",
+    "learningFocusKo": "먹을거리 부족, 형제들의 두려움, 시므온의 억류를 관찰한다.",
+    "historicalCautionKo": "기근의 기간을 특정 발굴 기록으로 확정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-146",
+    "titleKo": "유다의 책임 선언",
+    "range": "GEN.43.1-GEN.43.10",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-147",
+    "lockedOutcome": true,
+    "originalOverviewKo": "기근이 심해짐 → 다시 가려면 베냐민이 필요함 → 유다가 그의 안전을 보증함",
+    "learningFocusKo": "가족의 설득·방문·연회에서 관계의 긴장을 읽는다.",
+    "historicalCautionKo": "당시의 예절을 현대 문화 규범으로 동일시하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-147",
+    "titleKo": "예물과 두 번째 여정",
+    "range": "GEN.43.11-GEN.43.15",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-148",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 예물과 돈을 준비하게 함 → 형들이 베냐민과 함께 길을 떠남 → 애굽의 요셉 앞에 도착함",
+    "learningFocusKo": "가족의 설득·방문·연회에서 관계의 긴장을 읽는다.",
+    "historicalCautionKo": "당시의 예절을 현대 문화 규범으로 동일시하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-148",
+    "titleKo": "요셉의 집으로",
+    "range": "GEN.43.16-GEN.43.25",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-149",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 베냐민을 보고 형들을 집에 들이게 함 → 형들이 돈 문제를 해명함 → 시므온이 돌아오고 잔치가 준비됨",
+    "learningFocusKo": "가족의 설득·방문·연회에서 관계의 긴장을 읽는다.",
+    "historicalCautionKo": "당시의 예절을 현대 문화 규범으로 동일시하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-149",
+    "titleKo": "형제들의 식탁",
+    "range": "GEN.43.26-GEN.43.34",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-150",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형들이 요셉 앞에서 절함 → 요셉은 베냐민을 보고 감정이 북받침 → 베냐민에게 더 많은 음식이 주어짐",
+    "learningFocusKo": "가족의 설득·방문·연회에서 관계의 긴장을 읽는다.",
+    "historicalCautionKo": "당시의 예절을 현대 문화 규범으로 동일시하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-150",
+    "titleKo": "은잔의 시험",
+    "range": "GEN.44.1-GEN.44.5",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-151",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 집사에게 자루에 곡식과 돈을 넣게 함 → 베냐민의 자루에 은잔을 넣음 → 떠난 형들을 다시 쫓게 함",
+    "learningFocusKo": "시험의 상황과 유다의 자기희생적 간청을 연결한다.",
+    "historicalCautionKo": "속임이나 강압이 교육적으로 모범 행동이라는 결론을 피한다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-151",
+    "titleKo": "은잔 발견",
+    "range": "GEN.44.6-GEN.44.13",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-152",
+    "lockedOutcome": true,
+    "originalOverviewKo": "청지기가 형제들에게 고함 → 형들이 자루를 열게 함 → 베냐민의 자루에서 잔이 나옴",
+    "learningFocusKo": "시험의 상황과 유다의 자기희생적 간청을 연결한다.",
+    "historicalCautionKo": "속임이나 강압이 교육적으로 모범 행동이라는 결론을 피한다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-152",
+    "titleKo": "판결 앞의 형제들",
+    "range": "GEN.44.14-GEN.44.17",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-153",
+    "lockedOutcome": true,
+    "originalOverviewKo": "유다와 형제들이 되돌아옴 → 요셉이 자신의 종으로 남을 사람을 지목함 → 형제들은 곤란에 처함",
+    "learningFocusKo": "시험의 상황과 유다의 자기희생적 간청을 연결한다.",
+    "historicalCautionKo": "속임이나 강압이 교육적으로 모범 행동이라는 결론을 피한다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-153",
+    "titleKo": "유다의 긴 변론",
+    "range": "GEN.44.18-GEN.44.34",
+    "verseCount": 17,
+    "canonicalNextEpisodeId": "ep-gen-154",
+    "lockedOutcome": true,
+    "originalOverviewKo": "유다가 아버지의 슬픔을 설명함 → 베냐민 없는 귀환을 거절함 → 자신이 대신 남겠다고 제안함",
+    "learningFocusKo": "시험의 상황과 유다의 자기희생적 간청을 연결한다.",
+    "historicalCautionKo": "속임이나 강압이 교육적으로 모범 행동이라는 결론을 피한다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-154",
+    "titleKo": "요셉의 정체 공개",
+    "range": "GEN.45.1-GEN.45.8",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-155",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 수행원을 물림 → 형들에게 자신의 정체를 밝힘 → 그간의 일을 보존의 관점에서 설명함",
+    "learningFocusKo": "정체 밝힘, 두려움, 가족 소식, 이주 제안을 살핀다.",
+    "historicalCautionKo": "피해자에게 무조건적·즉각적 화해를 요구하는 교훈으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-155",
+    "titleKo": "아버지를 부르다",
+    "range": "GEN.45.9-GEN.45.15",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-156",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 아버지를 데려오라 부탁함 → 고센 거주 계획을 설명함 → 형제들이 울며 대화함",
+    "learningFocusKo": "정체 밝힘, 두려움, 가족 소식, 이주 제안을 살핀다.",
+    "historicalCautionKo": "피해자에게 무조건적·즉각적 화해를 요구하는 교훈으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-156",
+    "titleKo": "바로의 지원",
+    "range": "GEN.45.16-GEN.45.20",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-157",
+    "lockedOutcome": true,
+    "originalOverviewKo": "형제들의 방문이 바로에게 전해짐 → 바로가 가족을 데려올 지원을 명함 → 좋은 땅을 제공하겠다고 함",
+    "learningFocusKo": "정체 밝힘, 두려움, 가족 소식, 이주 제안을 살핀다.",
+    "historicalCautionKo": "피해자에게 무조건적·즉각적 화해를 요구하는 교훈으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-157",
+    "titleKo": "야곱에게 전한 소식",
+    "range": "GEN.45.21-GEN.45.28",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-158",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 수레와 선물을 보냄 → 형들이 가나안으로 돌아와 소식을 전함 → 야곱이 요셉을 만나기로 함",
+    "learningFocusKo": "정체 밝힘, 두려움, 가족 소식, 이주 제안을 살핀다.",
+    "historicalCautionKo": "피해자에게 무조건적·즉각적 화해를 요구하는 교훈으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [
+      "teacher_discussion_and_age_gate_required"
+    ],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-158",
+    "titleKo": "브엘세바에서 애굽으로",
+    "range": "GEN.46.1-GEN.46.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-159",
+    "lockedOutcome": true,
+    "originalOverviewKo": "이스라엘이 브엘세바에서 제사함 → 밤 환상 속 약속을 들음 → 가족들이 애굽으로 향함",
+    "learningFocusKo": "브엘세바의 확인과 함께 애굽으로 이동하는 가족의 계보를 살핀다.",
+    "historicalCautionKo": "가족 수의 전승 차이를 임의로 단일 수치로 교정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-159",
+    "titleKo": "내려간 가족의 명단",
+    "range": "GEN.46.8-GEN.46.27",
+    "verseCount": 20,
+    "canonicalNextEpisodeId": "ep-gen-160",
+    "lockedOutcome": true,
+    "originalOverviewKo": "애굽에 들어간 야곱 가족의 이름들이 열거됨 → 가족별 계보와 인원 합산을 제시함 → 본문과 다른 전승의 인원수 차이를 주석으로 안내",
+    "learningFocusKo": "브엘세바의 확인과 함께 애굽으로 이동하는 가족의 계보를 살핀다.",
+    "historicalCautionKo": "가족 수의 전승 차이를 임의로 단일 수치로 교정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-160",
+    "titleKo": "고센에서 재회",
+    "range": "GEN.46.28-GEN.46.30",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": "ep-gen-161",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 유다를 먼저 보냄 → 요셉이 고센에서 아버지를 만남 → 부자는 오랜 세월 후 재회함",
+    "learningFocusKo": "브엘세바의 확인과 함께 애굽으로 이동하는 가족의 계보를 살핀다.",
+    "historicalCautionKo": "가족 수의 전승 차이를 임의로 단일 수치로 교정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-161",
+    "titleKo": "목축업을 소개하다",
+    "range": "GEN.46.31-GEN.46.34",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-162",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 형제들에게 바로 앞에서 할 말을 설명함 → 목축업과 가축을 언급하게 함 → 고센 거주 배경을 소개함",
+    "learningFocusKo": "브엘세바의 확인과 함께 애굽으로 이동하는 가족의 계보를 살핀다.",
+    "historicalCautionKo": "가족 수의 전승 차이를 임의로 단일 수치로 교정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-162",
+    "titleKo": "바로 앞의 형제들",
+    "range": "GEN.47.1-GEN.47.6",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-163",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 가족의 도착을 알림 → 바로가 일부 형제들의 일을 물음 → 고센 거주가 허락됨",
+    "learningFocusKo": "가족의 정착과 기근 중의 토지·노동·식량 정책을 함께 읽는다.",
+    "historicalCautionKo": "정책을 특정 이집트 왕조의 실증 행정 기록으로 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-163",
+    "titleKo": "야곱과 바로의 만남",
+    "range": "GEN.47.7-GEN.47.12",
+    "verseCount": 6,
+    "canonicalNextEpisodeId": "ep-gen-164",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 바로를 만나 축복함 → 자신의 나이와 삶을 이야기함 → 요셉이 가족을 부양함",
+    "learningFocusKo": "가족의 정착과 기근 중의 토지·노동·식량 정책을 함께 읽는다.",
+    "historicalCautionKo": "정책을 특정 이집트 왕조의 실증 행정 기록으로 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-164",
+    "titleKo": "기근 아래 애굽의 토지",
+    "range": "GEN.47.13-GEN.47.22",
+    "verseCount": 10,
+    "canonicalNextEpisodeId": "ep-gen-165",
+    "lockedOutcome": true,
+    "originalOverviewKo": "극심한 기근으로 식량이 부족해짐 → 요셉이 돈과 가축을 받고 곡식을 줌 → 토지의 왕실 귀속과 제사장 예외가 기록됨",
+    "learningFocusKo": "가족의 정착과 기근 중의 토지·노동·식량 정책을 함께 읽는다.",
+    "historicalCautionKo": "정책을 특정 이집트 왕조의 실증 행정 기록으로 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-165",
+    "titleKo": "농지와 오분의 일",
+    "range": "GEN.47.23-GEN.47.26",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-166",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 씨앗과 수확 의무를 설명함 → 수확의 오분의 일을 왕에게 바치게 함 → 그 제도가 이어진다고 서술함",
+    "learningFocusKo": "가족의 정착과 기근 중의 토지·노동·식량 정책을 함께 읽는다.",
+    "historicalCautionKo": "정책을 특정 이집트 왕조의 실증 행정 기록으로 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-166",
+    "titleKo": "야곱의 마지막 부탁",
+    "range": "GEN.47.27-GEN.47.31",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-167",
+    "lockedOutcome": true,
+    "originalOverviewKo": "가족이 고센에 정착함 → 야곱이 늙어감 → 요셉에게 가나안 선영에 묻어 달라고 부탁함",
+    "learningFocusKo": "가족의 정착과 기근 중의 토지·노동·식량 정책을 함께 읽는다.",
+    "historicalCautionKo": "정책을 특정 이집트 왕조의 실증 행정 기록으로 주장하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-167",
+    "titleKo": "요셉의 아들을 데려오다",
+    "range": "GEN.48.1-GEN.48.7",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-168",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 병들었다는 소식이 전해짐 → 요셉이 두 아들을 데려옴 → 야곱이 이전 약속을 돌아봄",
+    "learningFocusKo": "장자의 자리와 축복 순서의 역전을 관찰한다.",
+    "historicalCautionKo": "후대 지파의 운명을 개인의 고정 운명론으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-168",
+    "titleKo": "손을 교차해 축복",
+    "range": "GEN.48.8-GEN.48.16",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-169",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 요셉의 두 아들을 안고 축복함 → 손을 교차하여 에브라임의 머리에 오른손을 얹음 → 축복이 이어짐",
+    "learningFocusKo": "장자의 자리와 축복 순서의 역전을 관찰한다.",
+    "historicalCautionKo": "후대 지파의 운명을 개인의 고정 운명론으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-169",
+    "titleKo": "요셉의 반응과 야곱의 뜻",
+    "range": "GEN.48.17-GEN.48.20",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-170",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 손을 바로잡으려 함 → 야곱이 의도적으로 선택했음을 말함 → 에브라임과 므낫세에 대한 축복이 이어짐",
+    "learningFocusKo": "장자의 자리와 축복 순서의 역전을 관찰한다.",
+    "historicalCautionKo": "후대 지파의 운명을 개인의 고정 운명론으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-170",
+    "titleKo": "땅을 향한 유언",
+    "range": "GEN.48.21-GEN.48.22",
+    "verseCount": 2,
+    "canonicalNextEpisodeId": "ep-gen-171",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 죽음이 가까움을 이야기함 → 하나님이 가족을 땅으로 돌아가게 하실 것을 말함 → 요셉에게 특별한 몫을 언급함",
+    "learningFocusKo": "장자의 자리와 축복 순서의 역전을 관찰한다.",
+    "historicalCautionKo": "후대 지파의 운명을 개인의 고정 운명론으로 단순화하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-171",
+    "titleKo": "장자 르우벤의 자리",
+    "range": "GEN.49.1-GEN.49.4",
+    "verseCount": 4,
+    "canonicalNextEpisodeId": "ep-gen-172",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 아들들을 불러 모음 → 르우벤의 장자 지위와 과거 행동을 언급함 → 아들별 발언이 이어짐",
+    "learningFocusKo": "시적 언어·축복과 책망을 지파 역사와 구별하여 읽는다.",
+    "historicalCautionKo": "시의 상징을 문자적 일기예보처럼 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-172",
+    "titleKo": "시므온·레위·유다",
+    "range": "GEN.49.5-GEN.49.12",
+    "verseCount": 8,
+    "canonicalNextEpisodeId": "ep-gen-173",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 시므온과 레위의 폭력을 지적함 → 유다에 대해 지도력에 관한 시적 표현을 말함 → 후대 해석과 본문의 시어를 구분함",
+    "learningFocusKo": "시적 언어·축복과 책망을 지파 역사와 구별하여 읽는다.",
+    "historicalCautionKo": "시의 상징을 문자적 일기예보처럼 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-173",
+    "titleKo": "여러 아들의 축복 시어",
+    "range": "GEN.49.13-GEN.49.21",
+    "verseCount": 9,
+    "canonicalNextEpisodeId": "ep-gen-174",
+    "lockedOutcome": true,
+    "originalOverviewKo": "스불론·잇사갈·단·갓·아셀·납달리를 언급함 → 지리와 비유가 혼합됨 → 후대 영토로 역투영하지 않음",
+    "learningFocusKo": "시적 언어·축복과 책망을 지파 역사와 구별하여 읽는다.",
+    "historicalCautionKo": "시의 상징을 문자적 일기예보처럼 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-174",
+    "titleKo": "요셉과 베냐민",
+    "range": "GEN.49.22-GEN.49.28",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-175",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉에게 풍성한 축복의 말이 주어짐 → 베냐민도 비유로 묘사됨 → 전체 아들에 대한 축복이 마무리됨",
+    "learningFocusKo": "시적 언어·축복과 책망을 지파 역사와 구별하여 읽는다.",
+    "historicalCautionKo": "시의 상징을 문자적 일기예보처럼 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-175",
+    "titleKo": "매장 지시와 야곱의 죽음",
+    "range": "GEN.49.29-GEN.49.33",
+    "verseCount": 5,
+    "canonicalNextEpisodeId": "ep-gen-176",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱이 가나안의 가족 묘지에 묻어 달라 당부함 → 매장지와 가족 선대가 열거됨 → 야곱의 죽음이 기록됨",
+    "learningFocusKo": "시적 언어·축복과 책망을 지파 역사와 구별하여 읽는다.",
+    "historicalCautionKo": "시의 상징을 문자적 일기예보처럼 처리하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-176",
+    "titleKo": "가나안에서 야곱의 장례",
+    "range": "GEN.50.1-GEN.50.14",
+    "verseCount": 14,
+    "canonicalNextEpisodeId": "ep-gen-177",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 애도하며 장례를 준비함 → 긴 애도와 장례 행렬이 이어짐 → 가나안 매장 뒤 애굽으로 돌아옴",
+    "learningFocusKo": "애도·귀환·두려움·용서와 애굽에서 마무리되는 출애굽의 전조를 읽는다.",
+    "historicalCautionKo": "요셉의 실제 관이나 무덤이 고고학으로 확인되었다고 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-177",
+    "titleKo": "형제들의 두려움과 용서",
+    "range": "GEN.50.15-GEN.50.21",
+    "verseCount": 7,
+    "canonicalNextEpisodeId": "ep-gen-178",
+    "lockedOutcome": true,
+    "originalOverviewKo": "야곱의 죽음 뒤 형들이 두려워함 → 요셉이 형들을 안심시키며 말함 → 가족에 대한 돌봄을 약속함",
+    "learningFocusKo": "애도·귀환·두려움·용서와 애굽에서 마무리되는 출애굽의 전조를 읽는다.",
+    "historicalCautionKo": "요셉의 실제 관이나 무덤이 고고학으로 확인되었다고 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-178",
+    "titleKo": "요셉의 후손",
+    "range": "GEN.50.22-GEN.50.23",
+    "verseCount": 2,
+    "canonicalNextEpisodeId": "ep-gen-179",
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 애굽에서 오래 삶 → 에브라임 후손과 므낫세 가족에 대한 언급이 이어짐 → 여러 세대가 이어짐",
+    "learningFocusKo": "애도·귀환·두려움·용서와 애굽에서 마무리되는 출애굽의 전조를 읽는다.",
+    "historicalCautionKo": "요셉의 실제 관이나 무덤이 고고학으로 확인되었다고 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  },
+  {
+    "episodeId": "ep-gen-179",
+    "titleKo": "요셉의 죽음과 출애굽의 예고",
+    "range": "GEN.50.24-GEN.50.26",
+    "verseCount": 3,
+    "canonicalNextEpisodeId": null,
+    "lockedOutcome": true,
+    "originalOverviewKo": "요셉이 형제들에게 하나님의 돌보심을 말함 → 훗날 나갈 때 자신의 유골을 가지고 가라 당부함 → 요셉의 죽음으로 창세기가 끝남",
+    "learningFocusKo": "애도·귀환·두려움·용서와 애굽에서 마무리되는 출애굽의 전조를 읽는다.",
+    "historicalCautionKo": "요셉의 실제 관이나 무덤이 고고학으로 확인되었다고 단정하지 않는다.",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "readerModes": [
+      "observer",
+      "biblical_character_stated_only",
+      "fictional_witness_labeled"
+    ],
+    "ageAndSafetyGates": [],
+    "reviewFlags": {
+      "scripture_text": "not_independently_verse_proofread",
+      "historical": "source_scope_check_required",
+      "theological": "external_human_review_required",
+      "teacher": "external_human_review_required"
+    },
+    "readyToPublish": false
+  }
+]

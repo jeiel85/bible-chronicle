@@ -1,0 +1,102 @@
+[
+  {
+    "id": "SRC-KBS-PLATFORM",
+    "kind": "copyright",
+    "title": "대한성서공회 성경 콘텐츠 저작권 안내",
+    "url": "https://bible.bskorea.or.kr/copyright_notice",
+    "verifiedAccess": "2026-10-12",
+    "supports": "개역개정 등 출처 표시 및 번역 저작권 표기",
+    "limits": "개별 앱 배포 허락까지 부여하지 않음",
+    "assetReuse": "license_required_for_text"
+  },
+  {
+    "id": "SRC-KBS-FAQ",
+    "kind": "copyright",
+    "title": "대한성서공회 저작권 관련 FAQ",
+    "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq",
+    "verifiedAccess": "2026-10-12",
+    "supports": "이용 목적별 사용 허가 안내 목록",
+    "limits": "실제 권한 여부는 개별 확인",
+    "assetReuse": "not_applicable"
+  },
+  {
+    "id": "SRC-BM-OBELISK",
+    "kind": "artifact",
+    "title": "British Museum Black Obelisk 118885",
+    "url": "https://www.britishmuseum.org/collection/object/W_1848-1104-1",
+    "verifiedAccess": "2026-10-12",
+    "supports": "예후 조공으로 식별된 비문/부조에 대한 소장처 기록",
+    "limits": "다른 모든 북이스라엘 사건의 역사적 검증이 아님",
+    "assetReuse": "museum_image_separate_permission"
+  },
+  {
+    "id": "SRC-BM-LACHISH",
+    "kind": "artifact",
+    "title": "British Museum Lachish relief 124911",
+    "url": "https://www.britishmuseum.org/collection/object/W_1856-0909-14_7",
+    "verifiedAccess": "2026-10-12",
+    "supports": "산헤립과 라기스 함락을 보여주는 부조",
+    "limits": "예루살렘 함락 사건과 동일시 금지",
+    "assetReuse": "museum_image_separate_permission"
+  },
+  {
+    "id": "SRC-BM-CHRONICLE",
+    "kind": "artifact",
+    "title": "British Museum Babylonian Chronicle 21946",
+    "url": "https://www.britishmuseum.org/collection/object/W_1896-0409-51",
+    "verifiedAccess": "2026-10-12",
+    "supports": "느부갓네살 첫 예루살렘 원정(기원전 597년) 기록",
+    "limits": "최종 587/586년 함락을 이 점토판 하나로 검증했다고 주장 금지",
+    "assetReuse": "museum_image_separate_permission"
+  },
+  {
+    "id": "SRC-BM-IMAGE-RULE",
+    "kind": "license",
+    "title": "British Museum black obelisk image terms example",
+    "url": "https://www.britishmuseum.org/collection/image/1613406540",
+    "verifiedAccess": "2026-10-12",
+    "supports": "예시 이미지의 비상업 CC BY-NC-SA 및 상업 이용 절차",
+    "limits": "다른 이미지에 자동 적용 금지",
+    "assetReuse": "noncommercial_only_for_this_asset"
+  },
+  {
+    "id": "SRC-NATURAL-EARTH",
+    "kind": "map_license",
+    "title": "Natural Earth Terms of Use",
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "verifiedAccess": "2026-10-12",
+    "supports": "기본 지리 벡터/래스터가 퍼블릭 도메인",
+    "limits": "고대 왕국 경계/이동 루트 근거 아님",
+    "assetReuse": "public_domain"
+  },
+  {
+    "id": "SRC-OSM-LICENSE",
+    "kind": "map_license",
+    "title": "OpenStreetMap Copyright",
+    "url": "https://www.openstreetmap.org/copyright",
+    "verifiedAccess": "2026-10-12",
+    "supports": "ODbL과 지도 데이터 출처 표기 요구",
+    "limits": "OSM 타일 제공은 별도 사용 정책",
+    "assetReuse": "attribution_sharealike_database_conditions"
+  },
+  {
+    "id": "SRC-SBL-GNT",
+    "kind": "text_license",
+    "title": "SBL Greek New Testament licence",
+    "url": "https://sblgnt.com/license/",
+    "verifiedAccess": "2026-10-12",
+    "supports": "SBLGNT CC BY 4.0 라이선스",
+    "limits": "한국어 개역개정 사용 허가를 대체하지 않음",
+    "assetReuse": "cc_by_4_0_with_attribution"
+  },
+  {
+    "id": "SRC-CROSSREF",
+    "kind": "reference_license",
+    "title": "CrossReferences.org Bible reference data",
+    "url": "https://crossreferences.org/project/data/",
+    "verifiedAccess": "2026-10-12",
+    "supports": "CC BY 4.0 교차참조 데이터",
+    "limits": "교차참조는 동일 사건이란 뜻 아님; 번역 저작권 개별 확인",
+    "assetReuse": "cc_by_4_0_with_attribution"
+  }
+]

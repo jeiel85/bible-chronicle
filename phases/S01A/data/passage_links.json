@@ -1,0 +1,134 @@
+[
+  {
+    "episodeId": "ep-gen-001",
+    "osis": "GEN.1.1-GEN.1.13",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-002",
+    "osis": "GEN.1.14-GEN.1.25",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-003",
+    "osis": "GEN.1.26-GEN.2.3",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-004",
+    "osis": "GEN.2.4-GEN.2.17",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-005",
+    "osis": "GEN.2.18-GEN.2.25",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-006",
+    "osis": "GEN.3.1-GEN.3.7",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-007",
+    "osis": "GEN.3.8-GEN.3.24",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-008",
+    "osis": "GEN.4.1-GEN.4.8",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-009",
+    "osis": "GEN.4.9-GEN.4.16",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-010",
+    "osis": "GEN.4.17-GEN.4.26",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-011",
+    "osis": "GEN.5.1-GEN.5.32",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-012",
+    "osis": "GEN.6.1-GEN.6.8",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-013",
+    "osis": "GEN.6.9-GEN.6.22",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-014",
+    "osis": "GEN.7.1-GEN.7.24",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-015",
+    "osis": "GEN.8.1-GEN.8.19",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-016",
+    "osis": "GEN.8.20-GEN.9.17",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-017",
+    "osis": "GEN.9.18-GEN.9.29",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-018",
+    "osis": "GEN.10.1-GEN.10.20",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-019",
+    "osis": "GEN.10.21-GEN.10.32",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-020",
+    "osis": "GEN.11.1-GEN.11.9",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-021",
+    "osis": "GEN.11.10-GEN.11.26",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  },
+  {
+    "episodeId": "ep-gen-022",
+    "osis": "GEN.11.27-GEN.11.32",
+    "crossReferenceStatus": "not_systematically_reviewed",
+    "primary": true
+  }
+]

@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "ep-gen-001",
+    "stageId": "S01A",
+    "titleKo": "빛과 질서의 시작",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 13
+      },
+      "osis": "GEN.1.1-GEN.1.13"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "태초와 빛의 구분",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "궁창과 물의 구분",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "땅·바다·식물의 등장",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-001",
+    "canonicalNextId": "ep-gen-002",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "창조 서술의 반복 구조와 질서화",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C01"
+    ],
+    "illustrationId": "art-gen-001",
+    "lessonId": "lesson-gen-001",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "빛과 질서의 시작: 태초와 빛의 구분 → 궁창과 물의 구분 → 땅·바다·식물의 등장.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-002",
+    "stageId": "S01A",
+    "titleKo": "하늘의 광명과 생명의 다양성",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 25
+      },
+      "osis": "GEN.1.14-GEN.1.25"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "낮·밤·절기 구분을 위한 광명",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "물과 하늘의 생물",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "땅의 생물",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-002",
+    "canonicalNextId": "ep-gen-003",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "본문의 창조일 배열·기능을 비교",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C01"
+    ],
+    "illustrationId": "art-gen-002",
+    "lessonId": "lesson-gen-002",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "하늘의 광명과 생명의 다양성: 낮·밤·절기 구분을 위한 광명 → 물과 하늘의 생물 → 땅의 생물.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-003",
+    "stageId": "S01A",
+    "titleKo": "사람과 일곱째 날",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 3
+      },
+      "osis": "GEN.1.26-GEN.2.3"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사람이 하나님의 형상으로 창조됨",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "생육과 피조 세계 돌봄",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "창조의 마침과 일곱째 날 쉼",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-003",
+    "canonicalNextId": "ep-gen-004",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "인간의 존엄성과 안식의 위치",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C01",
+      "C02"
+    ],
+    "illustrationId": "art-gen-003",
+    "lessonId": "lesson-gen-003",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "사람과 일곱째 날: 사람이 하나님의 형상으로 창조됨 → 생육과 피조 세계 돌봄 → 창조의 마침과 일곱째 날 쉼.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-004",
+    "stageId": "S01A",
+    "titleKo": "에덴의 사람과 사명",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 17
+      },
+      "osis": "GEN.2.4-GEN.2.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사람을 지으심",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "에덴·강·나무를 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "경작과 돌봄 및 금지 명령",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-004",
+    "canonicalNextId": "ep-gen-005",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "adam",
+    "allowedPerspectives": [
+      "observer",
+      "adam"
+    ],
+    "perspectiveLabelKo": "아담 관점(고정된 본문 사건 관찰)",
+    "knowledgeObjectiveKo": "지리적 위치와 본문 기능을 구분",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "location_unknown",
+    "claimIds": [
+      "C02",
+      "C03"
+    ],
+    "illustrationId": "art-gen-004",
+    "lessonId": "lesson-gen-004",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "에덴의 사람과 사명: 사람을 지으심 → 에덴·강·나무를 서술 → 경작과 돌봄 및 금지 명령.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-005",
+    "stageId": "S01A",
+    "titleKo": "서로 마주하는 동반자",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 25
+      },
+      "osis": "GEN.2.18-GEN.2.25"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "혼자 있음의 의미",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "동물 이름 붙이기",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "여자의 창조와 한 몸의 관계",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-005",
+    "canonicalNextId": "ep-gen-006",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "adam",
+    "allowedPerspectives": [
+      "observer",
+      "adam"
+    ],
+    "perspectiveLabelKo": "아담 관점(고정된 본문 사건 관찰)",
+    "knowledgeObjectiveKo": "본문의 관계·동반성 읽기",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C02"
+    ],
+    "illustrationId": "art-gen-005",
+    "lessonId": "lesson-gen-005",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "서로 마주하는 동반자: 혼자 있음의 의미 → 동물 이름 붙이기 → 여자의 창조와 한 몸의 관계.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-006",
+    "stageId": "S01A",
+    "titleKo": "금지와 유혹",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 7
+      },
+      "osis": "GEN.3.1-GEN.3.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "뱀과 여자의 대화",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "열매를 먹는 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "눈이 밝아지고 가림",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-006",
+    "canonicalNextId": "ep-gen-007",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "eve",
+    "allowedPerspectives": [
+      "observer",
+      "eve"
+    ],
+    "perspectiveLabelKo": "하와 관점(고정된 본문 사건 관찰)",
+    "knowledgeObjectiveKo": "서술된 말과 후대 해석의 분리",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C04"
+    ],
+    "illustrationId": "art-gen-006",
+    "lessonId": "lesson-gen-006",
+    "sensitivity": [
+      "morality"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "금지와 유혹: 뱀과 여자의 대화 → 열매를 먹는 서술 → 눈이 밝아지고 가림.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-007",
+    "stageId": "S01A",
+    "titleKo": "동산 밖으로",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 24
+      },
+      "osis": "GEN.3.8-GEN.3.24"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "숨음과 질문",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "각 대상에게 선고",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "가죽옷·동산 추방",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-007",
+    "canonicalNextId": "ep-gen-008",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "adam",
+    "allowedPerspectives": [
+      "observer",
+      "adam"
+    ],
+    "perspectiveLabelKo": "아담 관점(고정된 본문 사건 관찰)",
+    "knowledgeObjectiveKo": "본문 속 결과는 비가변으로 유지",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C04"
+    ],
+    "illustrationId": "art-gen-007",
+    "lessonId": "lesson-gen-007",
+    "sensitivity": [
+      "distress"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "동산 밖으로: 숨음과 질문 → 각 대상에게 선고 → 가죽옷·동산 추방.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-008",
+    "stageId": "S01A",
+    "titleKo": "두 형제와 예물",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 8
+      },
+      "osis": "GEN.4.1-GEN.4.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "가인과 아벨의 생업",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "예물에 대한 반응",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "들에서 아벨을 죽임",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-008",
+    "canonicalNextId": "ep-gen-009",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "cain",
+    "allowedPerspectives": [
+      "observer",
+      "cain"
+    ],
+    "perspectiveLabelKo": "가인 관점(판단·행동 변경 불가)",
+    "knowledgeObjectiveKo": "동기를 본문 이상으로 단정하지 않기",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C05"
+    ],
+    "illustrationId": "art-gen-008",
+    "lessonId": "lesson-gen-008",
+    "sensitivity": [
+      "violence"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "두 형제와 예물: 가인과 아벨의 생업 → 예물에 대한 반응 → 들에서 아벨을 죽임.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-009",
+    "stageId": "S01A",
+    "titleKo": "가인에게 던져진 질문",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 16
+      },
+      "osis": "GEN.4.9-GEN.4.16"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아벨의 행방 질문",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "가인의 책임과 처분",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "표와 놋 땅 이동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-009",
+    "canonicalNextId": "ep-gen-010",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "cain",
+    "allowedPerspectives": [
+      "observer",
+      "cain"
+    ],
+    "perspectiveLabelKo": "가인 관점(판단·행동 변경 불가)",
+    "knowledgeObjectiveKo": "가인의 표의 구체적 모양은 본문에 없음",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "location_unknown",
+    "claimIds": [
+      "C05"
+    ],
+    "illustrationId": "art-gen-009",
+    "lessonId": "lesson-gen-009",
+    "sensitivity": [
+      "violence"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "가인에게 던져진 질문: 아벨의 행방 질문 → 가인의 책임과 처분 → 표와 놋 땅 이동.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-010",
+    "stageId": "S01A",
+    "titleKo": "도시·기술·새로운 세대",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 26
+      },
+      "osis": "GEN.4.17-GEN.4.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "가인의 자손과 도시",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "문화·직업 발달 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "셋·에노스 계보",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-010",
+    "canonicalNextId": "ep-gen-011",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "문명 발전 목록은 역사유적 위치 목록이 아님",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C06"
+    ],
+    "illustrationId": "art-gen-010",
+    "lessonId": "lesson-gen-010",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "도시·기술·새로운 세대: 가인의 자손과 도시 → 문화·직업 발달 서술 → 셋·에노스 계보.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-011",
+    "stageId": "S01A",
+    "titleKo": "아담에서 노아까지",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 5,
+        "verse": 32
+      },
+      "osis": "GEN.5.1-GEN.5.32"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아담 계보의 시작",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "생몰 연수와 자손의 반복",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "노아의 계보 도달",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-011",
+    "canonicalNextId": "ep-gen-012",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "족보의 문학적 기능과 연대 계산의 한계",
+    "mapMode": "none",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "chronology_uncertain",
+    "claimIds": [
+      "C06",
+      "C07"
+    ],
+    "illustrationId": "art-gen-011",
+    "lessonId": "lesson-gen-011",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아담에서 노아까지: 아담 계보의 시작 → 생몰 연수와 자손의 반복 → 노아의 계보 도달.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-012",
+    "stageId": "S01A",
+    "titleKo": "폭력으로 가득한 세상",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 8
+      },
+      "osis": "GEN.6.1-GEN.6.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사람 번성과 난해한 표현",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "인간 악에 관한 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "노아가 은혜를 입음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-012",
+    "canonicalNextId": "ep-gen-013",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "하나님의 아들들·네피림 해석 다양성 표시",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "interpretation_disputed",
+    "claimIds": [
+      "C08"
+    ],
+    "illustrationId": "art-gen-012",
+    "lessonId": "lesson-gen-012",
+    "sensitivity": [
+      "violence"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "폭력으로 가득한 세상: 사람 번성과 난해한 표현 → 인간 악에 관한 서술 → 노아가 은혜를 입음.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-013",
+    "stageId": "S01A",
+    "titleKo": "방주를 준비하는 노아",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 22
+      },
+      "osis": "GEN.6.9-GEN.6.22"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "노아 세대의 평가",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "방주 제작 명령과 치수",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "명령에 따름",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-013",
+    "canonicalNextId": "ep-gen-014",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "noah",
+    "allowedPerspectives": [
+      "observer",
+      "noah"
+    ],
+    "perspectiveLabelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+    "knowledgeObjectiveKo": "방주 치수는 본문 자료로만 제시",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C09"
+    ],
+    "illustrationId": "art-gen-013",
+    "lessonId": "lesson-gen-013",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "방주를 준비하는 노아: 노아 세대의 평가 → 방주 제작 명령과 치수 → 명령에 따름.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-014",
+    "stageId": "S01A",
+    "titleKo": "큰물이 덮다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 7,
+        "verse": 24
+      },
+      "osis": "GEN.7.1-GEN.7.24"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "방주 입장",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "비와 큰 깊음의 샘",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "물의 지속과 심판",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-014",
+    "canonicalNextId": "ep-gen-015",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "noah",
+    "allowedPerspectives": [
+      "observer",
+      "noah"
+    ],
+    "perspectiveLabelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+    "knowledgeObjectiveKo": "전 지구적 홍수의 고고학적 확정 주장 금지",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "independent_evidence_not_established",
+    "claimIds": [
+      "C09",
+      "C10"
+    ],
+    "illustrationId": "art-gen-014",
+    "lessonId": "lesson-gen-014",
+    "sensitivity": [
+      "mass_death"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "큰물이 덮다: 방주 입장 → 비와 큰 깊음의 샘 → 물의 지속과 심판.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-015",
+    "stageId": "S01A",
+    "titleKo": "물이 물러가다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 8,
+        "verse": 19
+      },
+      "osis": "GEN.8.1-GEN.8.19"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "물이 감해지는 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "까마귀·비둘기 내보냄",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "땅 마름과 방주 밖으로",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-015",
+    "canonicalNextId": "ep-gen-016",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "noah",
+    "allowedPerspectives": [
+      "observer",
+      "noah"
+    ],
+    "perspectiveLabelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+    "knowledgeObjectiveKo": "방주 정착지는 특정 아라라트산 정상으로 고정하지 않기",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "location_unknown",
+    "claimIds": [
+      "C09",
+      "C11"
+    ],
+    "illustrationId": "art-gen-015",
+    "lessonId": "lesson-gen-015",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "물이 물러가다: 물이 감해지는 서술 → 까마귀·비둘기 내보냄 → 땅 마름과 방주 밖으로.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-016",
+    "stageId": "S01A",
+    "titleKo": "제단과 무지개 언약",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 8,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 9,
+        "verse": 17
+      },
+      "osis": "GEN.8.20-GEN.9.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "방주에서 나와 제단",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "먹을거리·생명에 관한 규정",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "언약과 무지개 징표",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-016",
+    "canonicalNextId": "ep-gen-017",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "noah",
+    "allowedPerspectives": [
+      "observer",
+      "noah"
+    ],
+    "perspectiveLabelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+    "knowledgeObjectiveKo": "언약 상대와 내용이 무엇인지 본문을 기준으로 학습",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "biblical_literary",
+    "claimIds": [
+      "C09"
+    ],
+    "illustrationId": "art-gen-016",
+    "lessonId": "lesson-gen-016",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "제단과 무지개 언약: 방주에서 나와 제단 → 먹을거리·생명에 관한 규정 → 언약과 무지개 징표.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-017",
+    "stageId": "S01A",
+    "titleKo": "노아의 포도원과 가족",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 9,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 9,
+        "verse": 29
+      },
+      "osis": "GEN.9.18-GEN.9.29"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "세 아들의 언급",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "포도주 사건과 노출",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "가나안 관련 선고와 노아의 죽음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-017",
+    "canonicalNextId": "ep-gen-018",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "함이 아닌 가나안이 저주 대상이라는 본문 구분; 인종 정당화 금지",
+    "mapMode": "symbolic",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "interpretation_disputed",
+    "claimIds": [
+      "C12"
+    ],
+    "illustrationId": "art-gen-017",
+    "lessonId": "lesson-gen-017",
+    "sensitivity": [
+      "nudity",
+      "misuse_risk"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "노아의 포도원과 가족: 세 아들의 언급 → 포도주 사건과 노출 → 가나안 관련 선고와 노아의 죽음.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-018",
+    "stageId": "S01A",
+    "titleKo": "열방의 계보: 야벳·함",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 20
+      },
+      "osis": "GEN.10.1-GEN.10.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "노아 자손의 갈래",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "야벳 계열",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "함 계열과 니므롯 언급",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-018",
+    "canonicalNextId": "ep-gen-019",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "현대 민족·인종에 기계적으로 일대일 대응 금지",
+    "mapMode": "conceptual",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "ethnogeography_interpretive",
+    "claimIds": [
+      "C13"
+    ],
+    "illustrationId": "art-gen-018",
+    "lessonId": "lesson-gen-018",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "열방의 계보: 야벳·함: 노아 자손의 갈래 → 야벳 계열 → 함 계열과 니므롯 언급.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-019",
+    "stageId": "S01A",
+    "titleKo": "열방의 계보: 셈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 32
+      },
+      "osis": "GEN.10.21-GEN.10.32"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "셈 계열 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "계보와 거주 관련 표현",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "민족·언어·땅 분포의 목록",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-019",
+    "canonicalNextId": "ep-gen-020",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "창세기 10장과 11장은 현대적 연대 순서로 강제 배치 금지",
+    "mapMode": "conceptual",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "ethnogeography_interpretive",
+    "claimIds": [
+      "C13"
+    ],
+    "illustrationId": "art-gen-019",
+    "lessonId": "lesson-gen-019",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "열방의 계보: 셈: 셈 계열 서술 → 계보와 거주 관련 표현 → 민족·언어·땅 분포의 목록.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-020",
+    "stageId": "S01A",
+    "titleKo": "시날 평지와 바벨의 탑",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 9
+      },
+      "osis": "GEN.11.1-GEN.11.9"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "언어의 하나됨",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "벽돌과 성읍·탑 건설",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "말의 혼잡과 흩어짐",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-020",
+    "canonicalNextId": "ep-gen-021",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "fictional_witness",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "가상 목격자(창작 인물 표지 필수)",
+    "knowledgeObjectiveKo": "실존 에테멘안키를 곧 성경의 탑으로 확정하지 않기",
+    "mapMode": "region_uncertain",
+    "mapConfidence": "disputed",
+    "historicalStatus": "archaeological_analogy_not_equivalence",
+    "claimIds": [
+      "C14",
+      "C15"
+    ],
+    "illustrationId": "art-gen-020",
+    "lessonId": "lesson-gen-020",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "시날 평지와 바벨의 탑: 언어의 하나됨 → 벽돌과 성읍·탑 건설 → 말의 혼잡과 흩어짐.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-021",
+    "stageId": "S01A",
+    "titleKo": "셈에서 아브람으로",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 26
+      },
+      "osis": "GEN.11.10-GEN.11.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "셈부터 아르박삿 계보",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "세대마다 출생·수명 기재",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "데라와 아브람의 도달",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-021",
+    "canonicalNextId": "ep-gen-022",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "독자·역사 관찰자",
+    "knowledgeObjectiveKo": "계보를 고정 기원전 연표로 역산하지 않음",
+    "mapMode": "none",
+    "mapConfidence": "not_geolocatable",
+    "historicalStatus": "chronology_uncertain",
+    "claimIds": [
+      "C07"
+    ],
+    "illustrationId": "art-gen-021",
+    "lessonId": "lesson-gen-021",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "셈에서 아브람으로: 셈부터 아르박삿 계보 → 세대마다 출생·수명 기재 → 데라와 아브람의 도달.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  },
+  {
+    "id": "ep-gen-022",
+    "stageId": "S01A",
+    "titleKo": "데라의 가족과 하란",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 32
+      },
+      "osis": "GEN.11.27-GEN.11.32"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "데라의 가족 관계",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "우르에서 가나안으로 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "하란에 머묾과 데라의 죽음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-022",
+    "canonicalNextId": "handoff-gen-012",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "fictional_witness",
+    "allowedPerspectives": [
+      "observer",
+      "fictional_witness"
+    ],
+    "perspectiveLabelKo": "가상 목격자(창작 인물 표지 필수)",
+    "knowledgeObjectiveKo": "우르의 정확한 위치 및 시기는 해석상 여지 남음",
+    "mapMode": "region_uncertain",
+    "mapConfidence": "disputed",
+    "historicalStatus": "location_debated",
+    "claimIds": [
+      "C16"
+    ],
+    "illustrationId": "art-gen-022",
+    "lessonId": "lesson-gen-022",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "데라의 가족과 하란: 데라의 가족 관계 → 우르에서 가나안으로 떠남 → 하란에 머묾과 데라의 죽음.",
+    "UI": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "accessibilityReducedMotion": true
+    }
+  }
+]

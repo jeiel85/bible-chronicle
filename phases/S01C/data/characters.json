@@ -1,0 +1,191 @@
+[
+  {
+    "id": "isaac",
+    "labelKo": "이삭",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "rebekah",
+    "labelKo": "리브가",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "abimelech",
+    "labelKo": "아비멜렉",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "esau",
+    "labelKo": "에서",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "jacob",
+    "labelKo": "야곱",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "laban",
+    "labelKo": "라반",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "rachel",
+    "labelKo": "라헬",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "leah",
+    "labelKo": "레아",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "reuben",
+    "labelKo": "르우벤",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "bilhah",
+    "labelKo": "빌하",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "zilpah",
+    "labelKo": "실바",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "dinah",
+    "labelKo": "디나",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "피해자 관점 존중. 미기록 동의·심리 창작 금지"
+  },
+  {
+    "id": "joseph",
+    "labelKo": "요셉",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "simeon",
+    "labelKo": "시므온",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "levi",
+    "labelKo": "레위",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "hamor",
+    "labelKo": "하몰",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "shechem_person",
+    "labelKo": "세겜(인물)",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "deborah_nurse",
+    "labelKo": "드보라(리브가의 유모)",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "benjamin",
+    "labelKo": "베냐민",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "adah",
+    "labelKo": "아다",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "basemath",
+    "labelKo": "바스맛",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "oholibamah",
+    "labelKo": "오홀리바마",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "eliphaz",
+    "labelKo": "엘리바스",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "reuel",
+    "labelKo": "르우엘",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "seir_person",
+    "labelKo": "세일(호리 계보)",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "bela_edom",
+    "labelKo": "벨라(에돔 왕)",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  },
+  {
+    "id": "hadad_edom",
+    "labelKo": "하닷(에돔 왕)",
+    "isBiblicalNamedCharacter": true,
+    "historicalProof": "scripture_person_not_independently_attested",
+    "editorial": "성경에 기재되지 않은 감정/대사 단정 금지"
+  }
+]

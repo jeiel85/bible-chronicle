@@ -1,0 +1,535 @@
+[
+  {
+    "episodeId": "ep-gen-023",
+    "displayTitleKo": "부르심과 출발",
+    "openingLineKo": "아브람에게 떠나라는 말씀",
+    "finalRevealKo": "가족·소유와 함께 하란을 떠남",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-023"
+  },
+  {
+    "episodeId": "ep-gen-024",
+    "displayTitleKo": "세겜과 벧엘의 제단",
+    "openingLineKo": "세겜 모레 상수리나무 근처 이동",
+    "finalRevealKo": "벧엘·아이 사이 제단과 남방 이동",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-024"
+  },
+  {
+    "episodeId": "ep-gen-025",
+    "displayTitleKo": "기근과 애굽에서의 사래",
+    "openingLineKo": "기근으로 애굽 이동",
+    "finalRevealKo": "바로가 돌려보내고 떠남",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-025"
+  },
+  {
+    "episodeId": "ep-gen-026",
+    "displayTitleKo": "목자들 사이의 다툼",
+    "openingLineKo": "애굽에서 네겝으로 돌아옴",
+    "finalRevealKo": "두 집안의 목자들 사이 충돌",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-026"
+  },
+  {
+    "episodeId": "ep-gen-027",
+    "displayTitleKo": "롯이 요단 들을 택하다",
+    "openingLineKo": "아브람이 평화로운 분리를 제안",
+    "finalRevealKo": "롯은 소돔 가까이 거주",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-027"
+  },
+  {
+    "episodeId": "ep-gen-028",
+    "displayTitleKo": "약속의 재확인과 헤브론",
+    "openingLineKo": "자손과 땅에 대한 약속",
+    "finalRevealKo": "헤브론 마므레에서 제단",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-028"
+  },
+  {
+    "episodeId": "ep-gen-029",
+    "displayTitleKo": "네 왕과 다섯 왕의 전쟁",
+    "openingLineKo": "동맹 왕국의 군사 행동",
+    "finalRevealKo": "소돔에 살던 롯이 사로잡힘",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-029"
+  },
+  {
+    "episodeId": "ep-gen-030",
+    "displayTitleKo": "아브람의 롯 구출",
+    "openingLineKo": "도망자가 소식을 전함",
+    "finalRevealKo": "롯과 재물을 되찾음",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-030"
+  },
+  {
+    "episodeId": "ep-gen-031",
+    "displayTitleKo": "멜기세덱과 전리품",
+    "openingLineKo": "살렘 왕 멜기세덱 등장",
+    "finalRevealKo": "소돔 왕의 제안에 대한 아브람의 답",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-031"
+  },
+  {
+    "episodeId": "ep-gen-032",
+    "displayTitleKo": "별을 바라보는 약속",
+    "openingLineKo": "아브람이 자손 문제를 묻다",
+    "finalRevealKo": "아브람의 믿음 서술",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-032"
+  },
+  {
+    "episodeId": "ep-gen-033",
+    "displayTitleKo": "언약과 미래의 예고",
+    "openingLineKo": "땅을 주겠다는 약속과 희생 제물",
+    "finalRevealKo": "언약의 선언",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-033"
+  },
+  {
+    "episodeId": "ep-gen-034",
+    "displayTitleKo": "사래와 하갈의 갈등",
+    "openingLineKo": "사래가 하갈을 아브람에게 줌",
+    "finalRevealKo": "하갈이 떠남",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-034"
+  },
+  {
+    "episodeId": "ep-gen-035",
+    "displayTitleKo": "하갈과 이스마엘",
+    "openingLineKo": "광야 길에서 하갈을 만나는 여호와의 사자",
+    "finalRevealKo": "하갈이 돌아와 이스마엘을 낳음",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-035"
+  },
+  {
+    "episodeId": "ep-gen-036",
+    "displayTitleKo": "아브라함과 언약의 표",
+    "openingLineKo": "이름 아브람에서 아브라함으로",
+    "finalRevealKo": "할례를 언약의 표로 명함",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-036"
+  },
+  {
+    "episodeId": "ep-gen-037",
+    "displayTitleKo": "사라의 이름과 이삭의 약속",
+    "openingLineKo": "사래에서 사라로 이름 변경",
+    "finalRevealKo": "이스마엘에 대한 약속과 할례 시행",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-037"
+  },
+  {
+    "episodeId": "ep-gen-038",
+    "displayTitleKo": "마므레의 방문객",
+    "openingLineKo": "아브라함이 방문객을 맞음",
+    "finalRevealKo": "사라가 아들 약속을 듣고 웃음",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-038"
+  },
+  {
+    "episodeId": "ep-gen-039",
+    "displayTitleKo": "소돔을 위한 중보",
+    "openingLineKo": "소돔의 죄악에 대한 대화",
+    "finalRevealKo": "말씀을 마치고 각자 떠남",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-039"
+  },
+  {
+    "episodeId": "ep-gen-040",
+    "displayTitleKo": "롯의 집에 온 방문객",
+    "openingLineKo": "롯이 손님을 맞음",
+    "finalRevealKo": "방문객이 롯을 보호함",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-040"
+  },
+  {
+    "episodeId": "ep-gen-041",
+    "displayTitleKo": "롯 가족의 탈출",
+    "openingLineKo": "방문객의 탈출 경고",
+    "finalRevealKo": "소알로 피신 요청",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-041"
+  },
+  {
+    "episodeId": "ep-gen-042",
+    "displayTitleKo": "소돔과 고모라의 멸망",
+    "openingLineKo": "소돔과 고모라의 멸망",
+    "finalRevealKo": "아브라함이 멀리서 연기를 봄",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-042"
+  },
+  {
+    "episodeId": "ep-gen-043",
+    "displayTitleKo": "롯과 두 딸의 후일담",
+    "openingLineKo": "롯과 두 딸이 산지 동굴에 거주",
+    "finalRevealKo": "모압과 암몬 조상에 관한 서술",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-043"
+  },
+  {
+    "episodeId": "ep-gen-044",
+    "displayTitleKo": "그랄의 아비멜렉",
+    "openingLineKo": "아브라함이 그랄로 이동",
+    "finalRevealKo": "아비멜렉이 꿈에서 경고 받음",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-044"
+  },
+  {
+    "episodeId": "ep-gen-045",
+    "displayTitleKo": "사라를 돌려보내다",
+    "openingLineKo": "아비멜렉이 아브라함을 책망",
+    "finalRevealKo": "아브라함의 기도와 집안 회복",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-045"
+  },
+  {
+    "episodeId": "ep-gen-046",
+    "displayTitleKo": "이삭의 탄생",
+    "openingLineKo": "사라가 이삭을 낳음",
+    "finalRevealKo": "약속과 기쁨의 연결",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-046"
+  },
+  {
+    "episodeId": "ep-gen-047",
+    "displayTitleKo": "하갈과 이스마엘의 광야",
+    "openingLineKo": "가족 갈등으로 하갈과 아들이 떠남",
+    "finalRevealKo": "하나님이 하갈과 아이를 돌보심",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-047"
+  },
+  {
+    "episodeId": "ep-gen-048",
+    "displayTitleKo": "브엘세바의 우물과 맹세",
+    "openingLineKo": "아비멜렉과 관계를 확인",
+    "finalRevealKo": "맹세와 브엘세바의 이름",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-048"
+  },
+  {
+    "episodeId": "ep-gen-049",
+    "displayTitleKo": "이삭을 바치라는 시험",
+    "openingLineKo": "아브라함이 시험을 받음",
+    "finalRevealKo": "행위를 멈추게 하고 숫양을 준비하심",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-049"
+  },
+  {
+    "episodeId": "ep-gen-050",
+    "displayTitleKo": "약속의 재확인",
+    "openingLineKo": "여호와의 사자가 다시 부름",
+    "finalRevealKo": "아브라함이 브엘세바로 돌아감",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-050"
+  },
+  {
+    "episodeId": "ep-gen-051",
+    "displayTitleKo": "나홀 가문의 소식",
+    "openingLineKo": "나홀의 가족 소식을 들음",
+    "finalRevealKo": "다음 혼인 이야기의 복선",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-051"
+  },
+  {
+    "episodeId": "ep-gen-052",
+    "displayTitleKo": "사라의 죽음과 매장지 청원",
+    "openingLineKo": "사라의 죽음(127세) 서술",
+    "finalRevealKo": "매장지를 요청함",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-052"
+  },
+  {
+    "episodeId": "ep-gen-053",
+    "displayTitleKo": "막벨라 굴을 사다",
+    "openingLineKo": "에브론과 공개 협상",
+    "finalRevealKo": "매장 소유지를 확보하고 사라 장사",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-053"
+  },
+  {
+    "episodeId": "ep-gen-054",
+    "displayTitleKo": "이삭의 결혼을 위한 파송",
+    "openingLineKo": "아브라함이 집안 관리인에게 맹세를 요구",
+    "finalRevealKo": "관리인이 약속",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-054"
+  },
+  {
+    "episodeId": "ep-gen-055",
+    "displayTitleKo": "우물에서 만난 리브가",
+    "openingLineKo": "관리인이 나홀의 성으로 향함",
+    "finalRevealKo": "관리인이 감사",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-055"
+  },
+  {
+    "episodeId": "ep-gen-056",
+    "displayTitleKo": "집안에 전해진 사명",
+    "openingLineKo": "리브가가 가족에게 알림",
+    "finalRevealKo": "가족의 답을 구함",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-056"
+  },
+  {
+    "episodeId": "ep-gen-057",
+    "displayTitleKo": "리브가의 동의와 떠남",
+    "openingLineKo": "가족이 혼인을 허락함",
+    "finalRevealKo": "리브가가 떠나기로 답하고 출발",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-057"
+  },
+  {
+    "episodeId": "ep-gen-058",
+    "displayTitleKo": "이삭과 리브가의 만남",
+    "openingLineKo": "이삭이 들판에 나옴",
+    "finalRevealKo": "이삭이 리브가를 아내로 맞음",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-058"
+  },
+  {
+    "episodeId": "ep-gen-059",
+    "displayTitleKo": "그두라와 후손의 계보",
+    "openingLineKo": "그두라의 자녀 이름 기록",
+    "finalRevealKo": "이삭과 다른 아들들에게 재산을 분배",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-059"
+  },
+  {
+    "episodeId": "ep-gen-060",
+    "displayTitleKo": "아브라함의 죽음과 장례",
+    "openingLineKo": "아브라함의 생애 175년 기록",
+    "finalRevealKo": "이삭을 향한 축복과 이후 거처",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-060"
+  },
+  {
+    "episodeId": "ep-gen-061",
+    "displayTitleKo": "이스마엘의 열두 족장",
+    "openingLineKo": "이스마엘 자손의 이름 기록",
+    "finalRevealKo": "이스마엘 삶의 마무리",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-061"
+  },
+  {
+    "episodeId": "ep-gen-062",
+    "displayTitleKo": "에서와 야곱의 탄생",
+    "openingLineKo": "리브가의 임신과 질문",
+    "finalRevealKo": "에서와 야곱 출생",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-062"
+  },
+  {
+    "episodeId": "ep-gen-063",
+    "displayTitleKo": "장자의 명분 거래",
+    "openingLineKo": "형제의 성격과 부모의 편애",
+    "finalRevealKo": "에서가 장자의 명분을 팔음",
+    "microInteractions": [
+      "이미지 세부 관찰",
+      "본문 대조",
+      "지도 레이어 열기",
+      "학습 문제 풀기"
+    ],
+    "immutableMilestone": "canon-gen-063"
+  }
+]

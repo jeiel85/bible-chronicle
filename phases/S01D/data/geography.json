@@ -1,0 +1,1175 @@
+[
+  {
+    "episodeId": "ep-gen-116",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-117",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-118",
+    "placeIds": [
+      "shechem",
+      "dothan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-119",
+    "placeIds": [
+      "dothan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-120",
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-121",
+    "placeIds": [
+      "adullam",
+      "timnah"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-122",
+    "placeIds": [
+      "timnah"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-123",
+    "placeIds": [
+      "timnah"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-124",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-125",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-126",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-127",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-128",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-129",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-130",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-131",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-132",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-133",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-134",
+    "placeIds": [
+      "nile",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-135",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-136",
+    "placeIds": [
+      "nile",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-137",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-138",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-139",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-140",
+    "placeIds": [
+      "egypt",
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-141",
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-142",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-143",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-144",
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-145",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-146",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-147",
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-148",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-149",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-150",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-151",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-152",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-153",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-154",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-155",
+    "placeIds": [
+      "egypt",
+      "goshen"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-156",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-157",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-158",
+    "placeIds": [
+      "beersheba",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-159",
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-160",
+    "placeIds": [
+      "goshen"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-161",
+    "placeIds": [
+      "goshen",
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-162",
+    "placeIds": [
+      "egypt",
+      "goshen"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-163",
+    "placeIds": [
+      "egypt",
+      "goshen"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-164",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-165",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-166",
+    "placeIds": [
+      "goshen",
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-167",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-168",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-169",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-170",
+    "placeIds": [
+      "egypt",
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-171",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-172",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-173",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-174",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-175",
+    "placeIds": [
+      "machpelah",
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-176",
+    "placeIds": [
+      "egypt",
+      "canaan",
+      "machpelah"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-177",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-178",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-179",
+    "placeIds": [
+      "egypt",
+      "canaan"
+    ],
+    "mapMode": "regional_comparative_only",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 서술된 이동·지명이며 고고학적으로 특정 요셉 사건의 경로·정확한 장소를 확인한 지도는 아닙니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "근대 지명·현대 도시 좌표를 족장 활동의 역사적 사실로 단정하지 않음",
+      "애굽 왕조·왕명·궁정 좌표 미확정",
+      "가나안-애굽 이동 동선은 추정선을 사용하고 이동 거리·일수 산출 금지",
+      "고센 경계는 역사 확정 지도처럼 표시하지 않음"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "packageVersion": "1.6.0",
+  "phase": "S01D_closed_50_chapter_design",
+  "canonBooksRetained": 66,
+  "canonChaptersRetained": 1189,
+  "genesisChapters": 50,
+  "genesisVerseMappingCount": 1533,
+  "genesisEpisodeCount": 179,
+  "phaseCounts": [
+    {
+      "stage": "S01A",
+      "chapters": [
+        1,
+        11
+      ],
+      "episodes": 22,
+      "verses": 299
+    },
+    {
+      "stage": "S01B",
+      "chapters": [
+        12,
+        25
+      ],
+      "episodes": 41,
+      "verses": 394
+    },
+    {
+      "stage": "S01C",
+      "chapters": [
+        26,
+        36
+      ],
+      "episodes": 52,
+      "verses": 391
+    },
+    {
+      "stage": "S01D",
+      "chapters": [
+        37,
+        50
+      ],
+      "episodes": 64,
+      "verses": 449
+    }
+  ],
+  "publicReleaseApproved": false,
+  "visualAssetsGenerated": 0,
+  "independentHistoricalAttestationApproved": 0,
+  "editorialHumanApproval": false,
+  "futureHandoff": "handoff-exo-001",
+  "scope": "full_chapter_and_verse_coverage_structural_design_not_verse_exegesis_review"
+}

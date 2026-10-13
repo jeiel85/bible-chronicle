@@ -1,0 +1,36 @@
+[
+  {
+    "claimId": "H-701-LACHISH", "assertion": "앗수르의 산헤립이 기원전 701년 라기스를 함락시켰다.",
+    "classification": "external_primary", "status": "source_checked_scope_limited", "checkedAt": "2026-10-12",
+    "passageRefs": ["2KI.18", "ISA.36"], "sourceIds": ["SRC-BM-LACHISH-GALLERY", "SRC-BM-LACHISH-RELIEF"],
+    "sources": [
+      {"id":"SRC-BM-LACHISH-GALLERY","url":"https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts","provider":"British Museum","supports":"전시 설명은 701 BC 산헤립이 라기스를 함락했다고 명시"},
+      {"id":"SRC-BM-LACHISH-RELIEF","url":"https://www.britishmuseum.org/collection/object/W_1856-0909-14_2","provider":"British Museum","supports":"라기스 공성전 부조 소장품 기록"}
+    ],
+    "limitations":"부조가 열왕기하의 모든 개별 대사/사건을 증명한다는 뜻이 아님."
+  },
+  {
+    "claimId": "H-597-JERUSALEM", "assertion": "바벨론 연대기에는 느부갓네살의 기원전 597년 예루살렘 원정이 기록되어 있다.",
+    "classification": "external_primary", "status": "source_checked_scope_limited", "checkedAt": "2026-10-12",
+    "passageRefs": ["2KI.24"], "sourceIds": ["SRC-BM-BABYLON-CHRONICLE"],
+    "sources": [{"id":"SRC-BM-BABYLON-CHRONICLE","url":"https://www.britishmuseum.org/collection/object/W_1896-0409-51","provider":"British Museum","supports":"BM 21946 설명에 597 BC 예루살렘 원정을 명시"}],
+    "limitations":"기원전 587/586년 성전 멸망에 대한 독립적 증거라고 이 단일 점토판을 인용하면 안 됨."
+  },
+  {
+    "claimId": "H-TEL-DAN-DYNASTY", "assertion": "기원전 9세기의 텔 단 비문은 일반적으로 '다윗의 집'으로 읽는 왕조 명칭을 포함한다.",
+    "classification": "external_primary", "status": "source_checked_scope_limited", "checkedAt": "2026-10-12",
+    "passageRefs": ["2SA.7"], "sourceIds": ["SRC-JEWISH-MUSEUM-TELDAN"],
+    "sources": [{"id":"SRC-JEWISH-MUSEUM-TELDAN","url":"https://thejewishmuseum.org/exhibitions/tel-dan-stele/","provider":"The Jewish Museum","supports":"9세기 BCE 텔 단 비문 및 'House of David' 명칭 소개"}],
+    "limitations":"다윗 생애 모든 세부 이야기의 독립 검증은 아님; 비문 작성자·역사 맥락 해석도 연구 검토 필요."
+  },
+  {
+    "claimId": "H-EXODUS-DEBATE", "assertion": "출애굽 전승의 규모·시기·경로에는 학술적 이견이 있으며 직접적인 당대 증거가 제한적이다.",
+    "classification": "scholarly_debate", "status": "introductory_literature_checked", "checkedAt": "2026-10-12",
+    "passageRefs": ["EXO.1", "EXO.15"], "sourceIds": ["SRC-PENNSTATE-EXODUS", "SRC-OXFORD-HOFFMEIER"],
+    "sources": [
+      {"id":"SRC-PENNSTATE-EXODUS","url":"https://doi.org/10.5325/j.ctv1bxgxxt","provider":"Penn State University Press/JSTOR","supports":"현존하는 직접 기록의 부재와 상반된 해석 관점을 편집서 소개문에 명시"},
+      {"id":"SRC-OXFORD-HOFFMEIER","url":"https://doi.org/10.1093/acprof:oso/9780195130881.001.0001","provider":"Oxford University Press","supports":"출애굽 전승의 역사성에 우호적인 해석 관점 소개"}
+    ],
+    "limitations":"관련 단행본 전문의 개별 주장과 증거들은 이 패키지에서 전수 검증하지 않음."
+  }
+]

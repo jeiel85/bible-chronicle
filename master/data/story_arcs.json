@@ -1,0 +1,263 @@
+[
+  {
+    "id": "ARC01",
+    "titleKo": "태초와 인간",
+    "arcType": "literary_origin",
+    "bookIds": [
+      "GEN"
+    ],
+    "leadPhaseId": "S01",
+    "mapPolicy": "origin_story",
+    "historicalCautionKo": "시공간 실측 불가",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC02",
+    "titleKo": "족장과 언약",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "GEN"
+    ],
+    "leadPhaseId": "S01",
+    "mapPolicy": "uncertain_location",
+    "historicalCautionKo": "배경 연대 미확정",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC03",
+    "titleKo": "출애굽과 광야",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "EXO",
+      "NUM",
+      "DEU"
+    ],
+    "leadPhaseId": "S02",
+    "mapPolicy": "route_hypotheses",
+    "historicalCautionKo": "출애굽 연대·경로가 논쟁 중",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC04",
+    "titleKo": "율법과 거룩",
+    "arcType": "nonchronological_companion",
+    "bookIds": [
+      "EXO",
+      "LEV",
+      "DEU"
+    ],
+    "leadPhaseId": "S02",
+    "mapPolicy": "learning_diagram",
+    "historicalCautionKo": "법과 의례를 역사 순차 사건으로 왜곡 금지",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC05",
+    "titleKo": "땅과 사사",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "JOS",
+      "JDG",
+      "RUT"
+    ],
+    "leadPhaseId": "S03",
+    "mapPolicy": "uncertain_geography",
+    "historicalCautionKo": "정복 서사의 역사화 논쟁 구분",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC06",
+    "titleKo": "사울부터 솔로몬",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "1SA",
+      "2SA",
+      "1KI",
+      "1CH",
+      "2CH"
+    ],
+    "leadPhaseId": "S04",
+    "mapPolicy": "periodized_context",
+    "historicalCautionKo": "통일왕국 규모와 연대에 이견",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC07",
+    "titleKo": "왕국 분열과 두 왕국",
+    "arcType": "dual_kingdom_parallel",
+    "bookIds": [
+      "1KI",
+      "2KI",
+      "2CH",
+      "HOS",
+      "AMO"
+    ],
+    "leadPhaseId": "S04",
+    "mapPolicy": "periodized_context",
+    "historicalCautionKo": "북남 왕들의 재위 동기화는 연대 가정에 좌우",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC08",
+    "titleKo": "앗수르·바벨론과 몰락",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "2KI",
+      "2CH",
+      "ISA",
+      "JER",
+      "EZK"
+    ],
+    "leadPhaseId": "S04",
+    "mapPolicy": "evidence_linked_map",
+    "historicalCautionKo": "외부 사료가 있는 지점만 검증 표시",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC09",
+    "titleKo": "포로와 귀환",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "EZR",
+      "NEH",
+      "EST",
+      "DAN",
+      "HAG",
+      "ZEC"
+    ],
+    "leadPhaseId": "S05",
+    "mapPolicy": "mixed_location",
+    "historicalCautionKo": "에스더 연대를 포로 귀환 단일 연대표로 혼합 금지",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC10",
+    "titleKo": "시가와 지혜",
+    "arcType": "nonchronological_companion",
+    "bookIds": [
+      "JOB",
+      "PSA",
+      "PRO",
+      "ECC",
+      "SNG"
+    ],
+    "leadPhaseId": "S06",
+    "mapPolicy": "no_time_pin",
+    "historicalCautionKo": "시편 표제를 역사 연대로 그대로 단정하지 않음",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC11",
+    "titleKo": "선지자의 책들",
+    "arcType": "prophetic_crosscut",
+    "bookIds": [
+      "ISA",
+      "JER",
+      "LAM",
+      "EZK",
+      "DAN",
+      "HOS",
+      "JOL",
+      "AMO",
+      "OBA",
+      "JON",
+      "MIC",
+      "NAM",
+      "HAB",
+      "ZEP",
+      "HAG",
+      "ZEC",
+      "MAL"
+    ],
+    "leadPhaseId": "S07",
+    "mapPolicy": "time_ranges",
+    "historicalCautionKo": "저자·편집 시기 학술 논의와 본문 화자 구별",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC12",
+    "titleKo": "예수님의 생애와 가르침",
+    "arcType": "gospel_parallel",
+    "bookIds": [
+      "MAT",
+      "MRK",
+      "LUK",
+      "JHN"
+    ],
+    "leadPhaseId": "S09",
+    "mapPolicy": "region_and_routes",
+    "historicalCautionKo": "사복음서 연대 세부가 자동 확정되지 않음",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC13",
+    "titleKo": "초기 교회",
+    "arcType": "history_narrative",
+    "bookIds": [
+      "ACT"
+    ],
+    "leadPhaseId": "S10",
+    "mapPolicy": "travel_routes_hypotheses",
+    "historicalCautionKo": "항해·여정의 경로와 지명 신뢰도 구분",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC14",
+    "titleKo": "서신과 공동체",
+    "arcType": "epistolary_companion",
+    "bookIds": [
+      "ROM",
+      "1CO",
+      "2CO",
+      "GAL",
+      "EPH",
+      "PHP",
+      "COL",
+      "1TH",
+      "2TH",
+      "1TI",
+      "2TI",
+      "TIT",
+      "PHM",
+      "HEB",
+      "JAS",
+      "1PE",
+      "2PE",
+      "1JN",
+      "2JN",
+      "3JN",
+      "JUD"
+    ],
+    "leadPhaseId": "S11",
+    "mapPolicy": "audience_context",
+    "historicalCautionKo": "편지의 작성 장소/연대 미확정 가능",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  },
+  {
+    "id": "ARC15",
+    "titleKo": "요한계시록",
+    "arcType": "symbolic_vision",
+    "bookIds": [
+      "REV"
+    ],
+    "leadPhaseId": "S13",
+    "mapPolicy": "symbolic_nonliteral",
+    "historicalCautionKo": "환상의 상징을 현대·고대 지도로 강제 고정 금지",
+    "narrativeStatus": "architecture_only",
+    "date": "not_fixed_by_master"
+  }
+]

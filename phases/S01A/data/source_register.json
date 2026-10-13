@@ -1,0 +1,101 @@
+[
+  {
+    "id": "SRC-OXFORD-CARR",
+    "title": "David M. Carr, The Formation of Genesis 1–11: Biblical and Other Precursors",
+    "publisher": "Oxford University Press",
+    "kind": "academic_monograph_abstract",
+    "url": "https://academic.oup.com/book/32142",
+    "checkedAt": "2026-10-12",
+    "supports": "원역사 문학 형성 및 메소포타미아 문헌과의 관계에 대한 학술적 논의의 존재",
+    "limitations": "학술적 저술의 하나; 본 패키지에서 전권 본문을 열람·검증하지 않았음",
+    "assetUse": "metadata_and_short_paraphrase_only"
+  },
+  {
+    "id": "SRC-BM-FLOOD",
+    "title": "Epic of Gilgamesh Tablet XI fragment K.2252",
+    "publisher": "British Museum",
+    "kind": "primary_artifact_collection_metadata",
+    "url": "https://www.britishmuseum.org/collection/object/W_K-2252",
+    "checkedAt": "2026-10-12",
+    "supports": "아시리아 서고에서 나온 점토판에 길가메시 11번 점토판의 홍수 이야기가 있음",
+    "limitations": "성경 노아 홍수의 연대/규모/원인을 입증하지 않음",
+    "assetUse": "image_license_separately_required"
+  },
+  {
+    "id": "SRC-MET-ZIGGURAT",
+    "title": "Ur: The Ziggurat",
+    "publisher": "The Metropolitan Museum of Art",
+    "kind": "museum_research",
+    "url": "https://www.metmuseum.org/it/essays/ur-the-ziggurat",
+    "checkedAt": "2026-10-12",
+    "supports": "메소포타미아 지구라트 건축 전통과 그 현대적 설명",
+    "limitations": "성경 바벨탑의 정확한 형태와 위치를 확정하지 않음",
+    "assetUse": "no_direct_image_embedded"
+  },
+  {
+    "id": "SRC-MET-ETEMENANKI",
+    "title": "Nebuchadnezzar II Etemenanki Reconstruction Inscription",
+    "publisher": "The Metropolitan Museum of Art",
+    "kind": "primary_artifact_collection_metadata",
+    "url": "https://www.metmuseum.org/art/collection/search/321908",
+    "checkedAt": "2026-10-12",
+    "supports": "바벨론의 에테멘안키 재건을 기록한 기원전 6세기경 점토 원통",
+    "limitations": "성경 바벨탑을 직접 확인하지 않음; 시대를 창세기 11장에 역투영 금지",
+    "assetUse": "public_domain_collection_metadata_image_requires_object_check"
+  },
+  {
+    "id": "SRC-MET-BABEL",
+    "title": "The Tower of Babel or Birs Nimrud Restored",
+    "publisher": "The Metropolitan Museum of Art",
+    "kind": "museum_history_of_art",
+    "url": "https://www.metmuseum.org/art/collection/search/891634",
+    "checkedAt": "2026-10-12",
+    "supports": "19세기 바벨탑 재현이 역사적 상상에 근거했고 Borsippa와 Babylon은 다른 도시라는 설명",
+    "limitations": "후대 그림 자체를 고대 탑의 기록 사진으로 사용 금지",
+    "assetUse": "separate_asset_status"
+  },
+  {
+    "id": "SRC-CAMBRIDGE-NATIONS",
+    "title": "The Dispersion of the Peoples after the Flood (Gen 10 and Greek parallels)",
+    "publisher": "Cambridge University Press",
+    "kind": "academic_chapter_abstract",
+    "url": "https://www.cambridge.org/core/books/abs/stories-of-origins-in-the-bible-and-ancient-mediterranean-literature/dispersion-of-the-peoples-after-the-flood/DB3B39945C6F3C5371861FCBE006289E",
+    "checkedAt": "2026-10-12",
+    "supports": "창세기 10장의 열방표를 고대 민족 기원 문학의 한 형태로 연구한다는 것",
+    "limitations": "현재 인구 집단의 확정 혈통 지도가 아님; 초록 수준 확인",
+    "assetUse": "metadata_only"
+  },
+  {
+    "id": "SRC-KBS-COPYRIGHT",
+    "title": "대한성서공회 성경 역본 및 저작권 안내",
+    "publisher": "대한성서공회",
+    "kind": "rights_notice",
+    "url": "https://www.bskorea.or.kr/",
+    "checkedAt": "2026-10-12",
+    "supports": "대한성서공회 웹사이트에서 저작권 안내·이용 허가 신청 메뉴 제공",
+    "limitations": "앱의 개역개정 재배포 허가는 별도 서면 확인 필요",
+    "assetUse": "do_not_embed_translated_verses_without_permission"
+  },
+  {
+    "id": "SRC-KBS-PUBLISHER",
+    "title": "개역개정판 (1998) 대한성서공회 성경 플랫폼",
+    "publisher": "대한성서공회",
+    "kind": "translation_attribution",
+    "url": "https://bible.bskorea.or.kr/user_guide/resource_guide",
+    "checkedAt": "2026-10-12",
+    "supports": "개역개정판과 다양한 다른 성경 역본을 제공함을 확인",
+    "limitations": "열람가능과 애플리케이션 내 전문재배포 가능은 별개",
+    "assetUse": "passage_reference_only"
+  },
+  {
+    "id": "SRC-BM-IMAGE-TERMS",
+    "title": "Flood tablet image 396940001 rights notice",
+    "publisher": "British Museum",
+    "kind": "image_license",
+    "url": "https://www.britishmuseum.org/collection/image/396940001",
+    "checkedAt": "2026-10-12",
+    "supports": "비상업용 CC BY-NC-SA 4.0, 상업적 사용은 별도 라이선스 안내",
+    "limitations": "해당 사진 한 장 기준; 타 이미지로 확장 불가",
+    "assetUse": "DO_NOT_BUNDLE"
+  }
+]

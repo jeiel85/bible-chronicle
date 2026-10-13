@@ -1,0 +1,193 @@
+[
+  {
+    "claimId": "C01",
+    "statementKo": "창세기 1:1~2:3은 창조의 날 배열과 일곱째 날 쉼을 서술한다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.1.1-GEN.2.3",
+    "sourceIds": [],
+    "claimLimitsKo": "성경 본문의 문학적 서술 확인이며 물리적 기원에 대한 독립 과학 입증은 아니다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C02",
+    "statementKo": "창세기 2장은 첫 장의 서술과 초점이 다른 에덴·사람·관계 이야기를 제시한다.",
+    "kind": "textual_observation",
+    "primaryPassage": "GEN.2.4-GEN.2.25",
+    "sourceIds": [
+      "SRC-OXFORD-CARR"
+    ],
+    "claimLimitsKo": "두 본문을 서로 단순 동시 영상으로 묶는 해석은 금지.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C03",
+    "statementKo": "에덴의 정확한 현대 좌표는 이 설계의 자료로 검증되지 않았다.",
+    "kind": "unknown",
+    "primaryPassage": "GEN.2.8-GEN.2.14",
+    "sourceIds": [],
+    "claimLimitsKo": "네 강 중 이름이 같은 현재 강도 동산의 위치 입증 근거가 아니다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C04",
+    "statementKo": "창세기 3장은 금지 명령 위반과 동산에서의 추방을 서술한다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.3.1-GEN.3.24",
+    "sourceIds": [],
+    "claimLimitsKo": "실과의 종류를 사과로 확정하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C05",
+    "statementKo": "창세기 4장은 아벨의 죽음과 가인의 처분을 서술한다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.4.1-GEN.4.16",
+    "sourceIds": [],
+    "claimLimitsKo": "가인의 표 모양·아벨 살해 도구를 창작 사실로 제시하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C06",
+    "statementKo": "창세기 4~5장은 후손과 인물·문화 요소를 계보 형태로 배열한다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.4.17-GEN.5.32",
+    "sourceIds": [],
+    "claimLimitsKo": "구체적인 도시 발굴 연대와 동일시하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C07",
+    "statementKo": "창세기 5장과 11장의 족보 숫자를 인류·지구의 검증된 절대 연대로 변환할 수 없다.",
+    "kind": "critical_limit",
+    "primaryPassage": "GEN.5.1-GEN.11.26",
+    "sourceIds": [
+      "SRC-OXFORD-CARR"
+    ],
+    "claimLimitsKo": "구약 사본 전통·해석적 문제도 별도 감수 필요.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C08",
+    "statementKo": "창세기 6:1~4의 정체성·표현을 단 하나의 역사적 해석으로 확정할 수 없다.",
+    "kind": "interpretation_disputed",
+    "primaryPassage": "GEN.6.1-GEN.6.4",
+    "sourceIds": [
+      "SRC-OXFORD-CARR"
+    ],
+    "claimLimitsKo": "대안적 해석의 존재를 표시하되 특정 해석을 확정하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C09",
+    "statementKo": "창세기 6~9장은 방주·홍수·언약을 연결하여 서술한다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.6.9-GEN.9.17",
+    "sourceIds": [],
+    "claimLimitsKo": "본문 장절의 내용 설명이며 홍수의 실제 발생을 고고학적으로 증명한 것은 아니다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C10",
+    "statementKo": "영국박물관 점토판은 길가메시 서사시의 홍수 이야기 일부를 보존한다.",
+    "kind": "independent_artifact",
+    "primaryPassage": "GEN.7.1-GEN.7.24",
+    "sourceIds": [
+      "SRC-BM-FLOOD"
+    ],
+    "claimLimitsKo": "고대 메소포타미아 홍수 문학의 존재만 뒷받침하며 노아 홍수의 규모·연대·실재를 증명하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": true,
+    "published": false
+  },
+  {
+    "claimId": "C11",
+    "statementKo": "창세기 8:4는 방주가 아라랏 산들이 있는 곳에 머물렀다고 서술하며 특정 단일 봉우리 좌표를 제공하지 않는다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.8.4",
+    "sourceIds": [],
+    "claimLimitsKo": "현대 아라라트산 정상에 핀 표시 금지.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C12",
+    "statementKo": "창세기 9:25의 저주 대상은 가나안이다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.9.25",
+    "sourceIds": [],
+    "claimLimitsKo": "본문을 근거로 어떤 현대 인종·민족의 열등성도 주장하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C13",
+    "statementKo": "창세기 10장의 열방표는 고대 세계에 관한 계보적·지리적 서술이다.",
+    "kind": "literary_geography",
+    "primaryPassage": "GEN.10.1-GEN.10.32",
+    "sourceIds": [
+      "SRC-CAMBRIDGE-NATIONS"
+    ],
+    "claimLimitsKo": "현대 국가별 혈통 기원이나 객관적 인구 유전 계보로 사용하면 안 된다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  },
+  {
+    "claimId": "C14",
+    "statementKo": "메소포타미아에는 지구라트 건축 전통이 존재한다.",
+    "kind": "independent_archaeology",
+    "primaryPassage": "GEN.11.1-GEN.11.9",
+    "sourceIds": [
+      "SRC-MET-ZIGGURAT"
+    ],
+    "claimLimitsKo": "유사 건축 양식 설명이지 특정 바벨탑의 실재 확인이 아님.",
+    "humanReview": "pending",
+    "independentHistoricalProof": true,
+    "published": false
+  },
+  {
+    "claimId": "C15",
+    "statementKo": "바벨론의 에테멘안키 지구라트는 고고학·비문 자료로 알려져 있다.",
+    "kind": "independent_archaeology",
+    "primaryPassage": "GEN.11.1-GEN.11.9",
+    "sourceIds": [
+      "SRC-MET-ETEMENANKI",
+      "SRC-MET-BABEL"
+    ],
+    "claimLimitsKo": "후대 바벨론 건축물의 실재와 창세기 11장 사건의 동일성·연대를 혼동하지 않는다.",
+    "humanReview": "pending",
+    "independentHistoricalProof": true,
+    "published": false
+  },
+  {
+    "claimId": "C16",
+    "statementKo": "창세기 11:31은 데라가 가족을 데리고 갈대아인의 우르에서 가나안으로 향하다 하란에 머물렀다고 서술한다.",
+    "kind": "scripture_text",
+    "primaryPassage": "GEN.11.31",
+    "sourceIds": [],
+    "claimLimitsKo": "우르 발굴지와 성경 지명의 직접 동일성, 이동 경로, 이동 시기의 확증 없음.",
+    "humanReview": "pending",
+    "independentHistoricalProof": false,
+    "published": false
+  }
+]

@@ -1,0 +1,977 @@
+[
+  {
+    "assetId": "GEN-ART-001",
+    "storyTitleKo": "창조의 시작",
+    "sourceScene": "atlas16:r0c0",
+    "subjectEventId": "ep-gen-001",
+    "episodeTitleKo": "빛과 질서의 시작",
+    "scriptureRefs": [
+      "GEN.1.1-GEN.1.13"
+    ],
+    "keyVerse": "GEN.1.1",
+    "imageFile": "scenes/gen_art_001.png",
+    "nativeCropFile": "scenes/gen_art_001_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      3,
+      63,
+      304,
+      174
+    ],
+    "sourcePixelSize": [
+      301,
+      111
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "창조 사건을 우주에서 바라본 상징적 콘셉트",
+    "interpretationCautionKo": "현대 우주 관측의 시점은 역사적 재현이 아닌 시각적 비유",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-002",
+    "storyTitleKo": "에덴의 정원",
+    "sourceScene": "atlas20:r0c1",
+    "subjectEventId": "ep-gen-004",
+    "episodeTitleKo": "에덴의 사람과 사명",
+    "scriptureRefs": [
+      "GEN.2.4-GEN.2.17"
+    ],
+    "keyVerse": "GEN.2.8",
+    "imageFile": "scenes/gen_art_002.png",
+    "nativeCropFile": "scenes/gen_art_002_native.png",
+    "sourceImage": "original_storyboards/atlas20.png",
+    "pixelCropLTRB": [
+      310,
+      66,
+      611,
+      187
+    ],
+    "sourcePixelSize": [
+      301,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "에덴 동산의 상상 풍경",
+    "interpretationCautionKo": "에덴의 실제 지리·생태 정보가 밝혀진 것은 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-003",
+    "storyTitleKo": "유혹과 타락",
+    "sourceScene": "atlas16:r0c1",
+    "subjectEventId": "ep-gen-006",
+    "episodeTitleKo": "금지와 유혹",
+    "scriptureRefs": [
+      "GEN.3.1-GEN.3.7"
+    ],
+    "keyVerse": "GEN.3.6",
+    "imageFile": "scenes/gen_art_003.png",
+    "nativeCropFile": "scenes/gen_art_003_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      310,
+      63,
+      611,
+      174
+    ],
+    "sourcePixelSize": [
+      301,
+      111
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "선악을 알게 하는 나무 주변의 아담과 하와",
+    "interpretationCautionKo": "인물 외모·나무 종류와 뱀의 외양은 창작",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-004",
+    "storyTitleKo": "가인과 아벨",
+    "sourceScene": "atlas20:r0c2",
+    "subjectEventId": "ep-gen-008",
+    "episodeTitleKo": "두 형제와 예물",
+    "scriptureRefs": [
+      "GEN.4.1-GEN.4.8"
+    ],
+    "keyVerse": "GEN.4.4",
+    "imageFile": "scenes/gen_art_004.png",
+    "nativeCropFile": "scenes/gen_art_004_native.png",
+    "sourceImage": "original_storyboards/atlas20.png",
+    "pixelCropLTRB": [
+      617,
+      66,
+      919,
+      187
+    ],
+    "sourcePixelSize": [
+      302,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "가인과 아벨의 제사 장면",
+    "interpretationCautionKo": "제단 형태·복장은 재구성; 폭력 묘사는 사용 안 함",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-005",
+    "storyTitleKo": "노아의 방주",
+    "sourceScene": "atlas16:r0c2",
+    "subjectEventId": "ep-gen-014",
+    "episodeTitleKo": "큰물이 덮다",
+    "scriptureRefs": [
+      "GEN.7.1-GEN.7.24"
+    ],
+    "keyVerse": "GEN.7.17",
+    "imageFile": "scenes/gen_art_005.png",
+    "nativeCropFile": "scenes/gen_art_005_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      617,
+      63,
+      919,
+      174
+    ],
+    "sourcePixelSize": [
+      302,
+      111
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "큰물 가운데 있는 방주",
+    "interpretationCautionKo": "방주 외양은 추정; 역사적 크기와 경로를 고증한 장면이 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-006",
+    "storyTitleKo": "무지개 언약",
+    "sourceScene": "poster35:r0c6",
+    "subjectEventId": "ep-gen-016",
+    "episodeTitleKo": "제단과 무지개 언약",
+    "scriptureRefs": [
+      "GEN.8.20-GEN.9.17"
+    ],
+    "keyVerse": "GEN.9.13",
+    "imageFile": "scenes/gen_art_006.png",
+    "nativeCropFile": "scenes/gen_art_006_native.png",
+    "sourceImage": "original_storyboards/poster35.png",
+    "pixelCropLTRB": [
+      1155,
+      48,
+      1341,
+      183
+    ],
+    "sourcePixelSize": [
+      186,
+      135
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "노아 가족과 무지개를 담은 상징적 장면",
+    "interpretationCautionKo": "사람의 복장·산악 지형·무지개 위치는 상상",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-007",
+    "storyTitleKo": "바벨탑",
+    "sourceScene": "atlas16:r0c3",
+    "subjectEventId": "ep-gen-020",
+    "episodeTitleKo": "시날 평지와 바벨의 탑",
+    "scriptureRefs": [
+      "GEN.11.1-GEN.11.9"
+    ],
+    "keyVerse": "GEN.11.4",
+    "imageFile": "scenes/gen_art_007.png",
+    "nativeCropFile": "scenes/gen_art_007_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      925,
+      63,
+      1226,
+      174
+    ],
+    "sourcePixelSize": [
+      301,
+      111
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "높이 세우는 탑과 고대 도시",
+    "interpretationCautionKo": "실제 지구라트와 동일한 구조임을 주장할 수 없음",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-008",
+    "storyTitleKo": "아브람의 부르심",
+    "sourceScene": "atlas16:r0c4",
+    "subjectEventId": "ep-gen-023",
+    "episodeTitleKo": "부르심과 출발",
+    "scriptureRefs": [
+      "GEN.12.1-GEN.12.5"
+    ],
+    "keyVerse": "GEN.12.1",
+    "imageFile": "scenes/gen_art_008.png",
+    "nativeCropFile": "scenes/gen_art_008_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      1232,
+      63,
+      1533,
+      174
+    ],
+    "sourcePixelSize": [
+      301,
+      111
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "먼 곳을 바라보는 아브람",
+    "interpretationCautionKo": "배경 도시와 외모는 창작, 이동 연대 미확정",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-009",
+    "storyTitleKo": "별을 바라보는 아브람",
+    "sourceScene": "poster35:r1c2",
+    "subjectEventId": "ep-gen-032",
+    "episodeTitleKo": "별을 바라보는 약속",
+    "scriptureRefs": [
+      "GEN.15.1-GEN.15.6"
+    ],
+    "keyVerse": "GEN.15.5",
+    "imageFile": "scenes/gen_art_009.png",
+    "nativeCropFile": "scenes/gen_art_009_native.png",
+    "sourceImage": "original_storyboards/poster35.png",
+    "pixelCropLTRB": [
+      387,
+      242,
+      573,
+      378
+    ],
+    "sourcePixelSize": [
+      186,
+      136
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "별이 빛나는 밤하늘을 바라보는 아브람",
+    "interpretationCautionKo": "천문 현상이나 실제 장소를 고증한 그림이 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-010",
+    "storyTitleKo": "언약과 표징",
+    "sourceScene": "atlas20:r1c1",
+    "subjectEventId": "ep-gen-036",
+    "episodeTitleKo": "아브라함과 언약의 표",
+    "scriptureRefs": [
+      "GEN.17.1-GEN.17.14"
+    ],
+    "keyVerse": "GEN.17.1",
+    "imageFile": "scenes/gen_art_010.png",
+    "nativeCropFile": "scenes/gen_art_010_native.png",
+    "sourceImage": "original_storyboards/atlas20.png",
+    "pixelCropLTRB": [
+      310,
+      268,
+      611,
+      374
+    ],
+    "sourcePixelSize": [
+      301,
+      106
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "아브라함과 언약을 표현한 상징적 인물화",
+    "interpretationCautionKo": "창세기 17장의 몸의 언약 징표를 이 그림 자체로 재현한 것은 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-011",
+    "storyTitleKo": "소돔의 위기",
+    "sourceScene": "atlas16:r1c0",
+    "subjectEventId": "ep-gen-042",
+    "episodeTitleKo": "소돔과 고모라의 멸망",
+    "scriptureRefs": [
+      "GEN.19.23-GEN.19.29"
+    ],
+    "keyVerse": "GEN.19.24",
+    "imageFile": "scenes/gen_art_011.png",
+    "nativeCropFile": "scenes/gen_art_011_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      3,
+      245,
+      304,
+      382
+    ],
+    "sourcePixelSize": [
+      301,
+      137
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "불길 속 도시 외곽의 사람들",
+    "interpretationCautionKo": "소돔의 실제 위치·지형·파괴 양상을 입증하는 그림이 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-012",
+    "storyTitleKo": "이삭의 탄생",
+    "sourceScene": "atlas20:r1c3",
+    "subjectEventId": "ep-gen-046",
+    "episodeTitleKo": "이삭의 탄생",
+    "scriptureRefs": [
+      "GEN.21.1-GEN.21.7"
+    ],
+    "keyVerse": "GEN.21.2",
+    "imageFile": "scenes/gen_art_012.png",
+    "nativeCropFile": "scenes/gen_art_012_native.png",
+    "sourceImage": "original_storyboards/atlas20.png",
+    "pixelCropLTRB": [
+      925,
+      268,
+      1226,
+      374
+    ],
+    "sourcePixelSize": [
+      301,
+      106
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "아브라함과 사라가 아이 이삭을 안고 기뻐하는 상상 장면",
+    "interpretationCautionKo": "실제 얼굴·의복·가옥은 창작",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-013",
+    "storyTitleKo": "아브라함의 시험",
+    "sourceScene": "atlas16:r1c1",
+    "subjectEventId": "ep-gen-049",
+    "episodeTitleKo": "이삭을 바치라는 시험",
+    "scriptureRefs": [
+      "GEN.22.1-GEN.22.14"
+    ],
+    "keyVerse": "GEN.22.12",
+    "imageFile": "scenes/gen_art_013.png",
+    "nativeCropFile": "scenes/gen_art_013_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      310,
+      245,
+      611,
+      382
+    ],
+    "sourcePixelSize": [
+      301,
+      137
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "아브라함의 시험과 이삭을 보여주는 상상 장면",
+    "interpretationCautionKo": "모리아 산의 위치·물리적 표현 미확정; 폭력 장면으로 소비하지 않음",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-014",
+    "storyTitleKo": "야곱과 에서",
+    "sourceScene": "atlas20:r2c0",
+    "subjectEventId": "ep-gen-074",
+    "episodeTitleKo": "에서의 눈물",
+    "scriptureRefs": [
+      "GEN.27.30-GEN.27.40"
+    ],
+    "keyVerse": "GEN.27.30",
+    "imageFile": "scenes/gen_art_014.png",
+    "nativeCropFile": "scenes/gen_art_014_native.png",
+    "sourceImage": "original_storyboards/atlas20.png",
+    "pixelCropLTRB": [
+      3,
+      446,
+      304,
+      564
+    ],
+    "sourcePixelSize": [
+      301,
+      118
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "야곱과 에서의 만남을 상징화한 장면",
+    "interpretationCautionKo": "성경의 정확한 한 순간을 재현한 사진이 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-015",
+    "storyTitleKo": "벧엘의 꿈",
+    "sourceScene": "atlas16:r1c2",
+    "subjectEventId": "ep-gen-077",
+    "episodeTitleKo": "벧엘의 꿈",
+    "scriptureRefs": [
+      "GEN.28.10-GEN.28.17"
+    ],
+    "keyVerse": "GEN.28.12",
+    "imageFile": "scenes/gen_art_015.png",
+    "nativeCropFile": "scenes/gen_art_015_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      617,
+      245,
+      919,
+      382
+    ],
+    "sourcePixelSize": [
+      302,
+      137
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "야곱의 꿈속에 나타난 하늘에 닿는 계단",
+    "interpretationCautionKo": "환상의 상징적 시각화; 실제 지리·건축 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-016",
+    "storyTitleKo": "라반 집안의 생활",
+    "sourceScene": "atlas16:r1c3",
+    "subjectEventId": "ep-gen-080",
+    "episodeTitleKo": "칠 년의 수고",
+    "scriptureRefs": [
+      "GEN.29.15-GEN.29.20"
+    ],
+    "keyVerse": "GEN.29.20",
+    "imageFile": "scenes/gen_art_016.png",
+    "nativeCropFile": "scenes/gen_art_016_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      925,
+      245,
+      1226,
+      382
+    ],
+    "sourcePixelSize": [
+      301,
+      137
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "라반의 집안과 야곱 일행을 묘사한 장면",
+    "interpretationCautionKo": "인물 구성·상호 동작은 구체 본문과 다를 수 있음",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-017",
+    "storyTitleKo": "얍복강의 씨름",
+    "sourceScene": "atlas16:r1c4",
+    "subjectEventId": "ep-gen-097",
+    "episodeTitleKo": "얍복강의 밤과 이스라엘",
+    "scriptureRefs": [
+      "GEN.32.22-GEN.32.32"
+    ],
+    "keyVerse": "GEN.32.24",
+    "imageFile": "scenes/gen_art_017.png",
+    "nativeCropFile": "scenes/gen_art_017_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      1232,
+      245,
+      1533,
+      382
+    ],
+    "sourcePixelSize": [
+      301,
+      137
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "밤에 한 인물과 씨름하는 야곱",
+    "interpretationCautionKo": "성경의 정체 설명을 초월하는 날개 달린 천사 도상은 창작적 관례",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-018",
+    "storyTitleKo": "요셉의 꿈",
+    "sourceScene": "atlas16:r2c0",
+    "subjectEventId": "ep-gen-117",
+    "episodeTitleKo": "두 꿈과 형제들의 반응",
+    "scriptureRefs": [
+      "GEN.37.5-GEN.37.11"
+    ],
+    "keyVerse": "GEN.37.7",
+    "imageFile": "scenes/gen_art_018.png",
+    "nativeCropFile": "scenes/gen_art_018_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      3,
+      459,
+      253,
+      580
+    ],
+    "sourcePixelSize": [
+      250,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "특별한 옷을 입은 젊은 요셉",
+    "interpretationCautionKo": "의복 문양·색상은 알려져 있지 않음",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-019",
+    "storyTitleKo": "형제들의 배신",
+    "sourceScene": "poster35:r3c1",
+    "subjectEventId": "ep-gen-119",
+    "episodeTitleKo": "구덩이와 매매",
+    "scriptureRefs": [
+      "GEN.37.18-GEN.37.28"
+    ],
+    "keyVerse": "GEN.37.24",
+    "imageFile": "scenes/gen_art_019.png",
+    "nativeCropFile": "scenes/gen_art_019_native.png",
+    "sourceImage": "original_storyboards/poster35.png",
+    "pixelCropLTRB": [
+      195,
+      644,
+      381,
+      770
+    ],
+    "sourcePixelSize": [
+      186,
+      126
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "움푹 팬 구덩이와 형제들을 표현한 장면",
+    "interpretationCautionKo": "성경 기록의 시각적 해석이며 무역상들의 정확한 모습은 미확정",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-020",
+    "storyTitleKo": "감옥의 요셉",
+    "sourceScene": "atlas16:r2c1",
+    "subjectEventId": "ep-gen-130",
+    "episodeTitleKo": "두 관원의 꿈",
+    "scriptureRefs": [
+      "GEN.40.1-GEN.40.8"
+    ],
+    "keyVerse": "GEN.40.1",
+    "imageFile": "scenes/gen_art_020.png",
+    "nativeCropFile": "scenes/gen_art_020_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      259,
+      459,
+      509,
+      580
+    ],
+    "sourcePixelSize": [
+      250,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "어두운 감옥 안의 요셉",
+    "interpretationCautionKo": "감옥 구조·조명·복장은 고증 미완료",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-021",
+    "storyTitleKo": "이집트의 요셉",
+    "sourceScene": "atlas16:r2c2",
+    "subjectEventId": "ep-gen-138",
+    "episodeTitleKo": "왕의 권한을 받은 요셉",
+    "scriptureRefs": [
+      "GEN.41.41-GEN.41.45"
+    ],
+    "keyVerse": "GEN.41.42",
+    "imageFile": "scenes/gen_art_021.png",
+    "nativeCropFile": "scenes/gen_art_021_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      515,
+      459,
+      765,
+      580
+    ],
+    "sourcePixelSize": [
+      250,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "이집트 왕 앞에 세워진 요셉의 모습",
+    "interpretationCautionKo": "구체 왕조·파라오 신원 확정 불가; 왕관 복식의 양식 고증 미완료",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-022",
+    "storyTitleKo": "흉년과 곡식 배급",
+    "sourceScene": "poster35:r3c5",
+    "subjectEventId": "ep-gen-140",
+    "episodeTitleKo": "흉년 시작과 곡식 배급",
+    "scriptureRefs": [
+      "GEN.41.53-GEN.41.57"
+    ],
+    "keyVerse": "GEN.41.57",
+    "imageFile": "scenes/gen_art_022.png",
+    "nativeCropFile": "scenes/gen_art_022_native.png",
+    "sourceImage": "original_storyboards/poster35.png",
+    "pixelCropLTRB": [
+      963,
+      644,
+      1149,
+      770
+    ],
+    "sourcePixelSize": [
+      186,
+      126
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "흉년 동안 곡식을 나누는 관리를 상상한 장면",
+    "interpretationCautionKo": "실제 곡창 구조·분배 제도 고증 아님",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-023",
+    "storyTitleKo": "형제와의 재회",
+    "sourceScene": "atlas16:r2c3",
+    "subjectEventId": "ep-gen-155",
+    "episodeTitleKo": "아버지를 부르다",
+    "scriptureRefs": [
+      "GEN.45.9-GEN.45.15"
+    ],
+    "keyVerse": "GEN.45.14",
+    "imageFile": "scenes/gen_art_023.png",
+    "nativeCropFile": "scenes/gen_art_023_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      771,
+      459,
+      1021,
+      580
+    ],
+    "sourcePixelSize": [
+      250,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "요셉과 형제들이 서로 껴안는 모습",
+    "interpretationCautionKo": "등장인물 얼굴 및 자세는 상상 재구성",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-024",
+    "storyTitleKo": "야곱 가족의 이주",
+    "sourceScene": "atlas16:r2c4",
+    "subjectEventId": "ep-gen-158",
+    "episodeTitleKo": "브엘세바에서 애굽으로",
+    "scriptureRefs": [
+      "GEN.46.1-GEN.46.7"
+    ],
+    "keyVerse": "GEN.46.5",
+    "imageFile": "scenes/gen_art_024.png",
+    "nativeCropFile": "scenes/gen_art_024_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      1027,
+      459,
+      1277,
+      580
+    ],
+    "sourcePixelSize": [
+      250,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "가축과 가족을 데리고 이집트로 이동하는 장면",
+    "interpretationCautionKo": "여정 경로·이동 수단과 배경은 추정",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  },
+  {
+    "assetId": "GEN-ART-025",
+    "storyTitleKo": "야곱의 마지막 날",
+    "sourceScene": "atlas16:r2c5",
+    "subjectEventId": "ep-gen-175",
+    "episodeTitleKo": "매장 지시와 야곱의 죽음",
+    "scriptureRefs": [
+      "GEN.49.29-GEN.49.33"
+    ],
+    "keyVerse": "GEN.49.33",
+    "imageFile": "scenes/gen_art_025.png",
+    "nativeCropFile": "scenes/gen_art_025_native.png",
+    "sourceImage": "original_storyboards/atlas16.png",
+    "pixelCropLTRB": [
+      1283,
+      459,
+      1533,
+      580
+    ],
+    "sourcePixelSize": [
+      250,
+      121
+    ],
+    "presentationPixelSize": [
+      960,
+      540
+    ],
+    "altTextKo": "병상에서 가족과 함께하는 야곱",
+    "interpretationCautionKo": "가족 배치·표정·가구 형태는 상상 재구성",
+    "assetType": "ai_generated_storyboard_crop",
+    "createdWithAI": true,
+    "editorialStatus": "prototype_needs_review",
+    "historicalAccuracyStatus": "not_verified",
+    "rightsStatus": "usage_terms_check_required",
+    "productionStatus": "prototype_only",
+    "noOverpaintedBibleText": true,
+    "sourceIsAIComposite": true,
+    "isOriginalHighResArtwork": false
+  }
+]

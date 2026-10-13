@@ -1,0 +1,754 @@
+[
+  {
+    "chapter": 1,
+    "chapterId": "GEN.001",
+    "focusTitleKo": "창조의 질서와 생명의 선함",
+    "integratedInterpretationKo": "일곱 날의 반복 구조와 인간에게 부여된 책임을 구분하여 읽는다.",
+    "teachingQuestionKo": "창조 서술에서 반복되는 표현이 독자에게 주는 효과는 무엇인가?",
+    "historicalAndEthicalCautionKo": "창조 기사를 과학 교과서의 연대 순서로 환원하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 2,
+    "chapterId": "GEN.002",
+    "focusTitleKo": "안식과 에덴의 인간",
+    "integratedInterpretationKo": "안식의 결말(1:31–2:3)과 동산 이야기(2:4 이하)의 초점을 살핀다.",
+    "teachingQuestionKo": "안식과 돌봄은 어떻게 이어지는가?",
+    "historicalAndEthicalCautionKo": "동산의 실제 지도 좌표와 강줄기를 현대 지형에 강제로 일치시키지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-CREATION",
+      "YALE-LECTURE",
+      "OUP-BRODIE-CRE"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 3,
+    "chapterId": "GEN.003",
+    "focusTitleKo": "불순종과 추방",
+    "integratedInterpretationKo": "뱀의 말, 인간의 선택, 책임 전가, 추방의 흐름을 구분한다.",
+    "teachingQuestionKo": "서술이 강조하는 책임 회피의 모습은 무엇인가?",
+    "historicalAndEthicalCautionKo": "3:15의 후대 기독교적 해석과 본문 즉시 문맥을 분리한다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 4,
+    "chapterId": "GEN.004",
+    "focusTitleKo": "형제 사이의 폭력",
+    "integratedInterpretationKo": "가인과 아벨의 관계, 경고, 살인, 보호 표지, 도시 전승을 비교한다.",
+    "teachingQuestionKo": "가인에게 주어진 경고는 무엇을 묻는가?",
+    "historicalAndEthicalCautionKo": "형벌·보호 문구를 폭력 정당화나 피해자 비난에 사용하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 5,
+    "chapterId": "GEN.005",
+    "focusTitleKo": "아담의 계보",
+    "integratedInterpretationKo": "반복되는 수명·출생·죽음 공식 속 에녹과 노아의 특별한 서술을 찾는다.",
+    "teachingQuestionKo": "반복되는 계보 문구는 무엇을 강조하는가?",
+    "historicalAndEthicalCautionKo": "족보의 수치를 현대 절대연대 표로 단정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 6,
+    "chapterId": "GEN.006",
+    "focusTitleKo": "악과 노아의 선택",
+    "integratedInterpretationKo": "인간 폭력의 확대와 노아의 구별, 방주 준비가 함께 전개된다.",
+    "teachingQuestionKo": "왜 폭력이 핵심 판단 근거로 제시되는가?",
+    "historicalAndEthicalCautionKo": "6:1–4 존재의 정체에 관해 단일 학설을 확정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 7,
+    "chapterId": "GEN.007",
+    "focusTitleKo": "홍수의 전개",
+    "integratedInterpretationKo": "방주 입장과 홍수 진행에 등장하는 날짜·물·생존 주제를 읽는다.",
+    "teachingQuestionKo": "본문은 물의 진행을 어떤 단계로 배열하는가?",
+    "historicalAndEthicalCautionKo": "지질학이 전 지구적 홍수를 입증했다고 주장하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 8,
+    "chapterId": "GEN.008",
+    "focusTitleKo": "물의 감소와 새 출발",
+    "integratedInterpretationKo": "방주의 멈춤, 새의 왕복, 제사, 땅의 지속성 선언을 살핀다.",
+    "teachingQuestionKo": "노아의 첫 행동이 무엇이며 왜 의미가 있는가?",
+    "historicalAndEthicalCautionKo": "방주 정착 지점을 현대 산 정상의 실물로 단정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 9,
+    "chapterId": "GEN.009",
+    "focusTitleKo": "무지개 언약",
+    "integratedInterpretationKo": "생명 존중·먹을거리·언약과 노아 가정의 균열을 함께 읽는다.",
+    "teachingQuestionKo": "하나님이 언약의 표징으로 주신 것은 무엇인가?",
+    "historicalAndEthicalCautionKo": "가나안에 대한 말이 특정 인종의 열등함을 규정한다는 해석을 배제한다.",
+    "chapterGuideSourceIds": [
+      "OUP-CARR-FLOOD",
+      "BM-FLOOD"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 10,
+    "chapterId": "GEN.010",
+    "focusTitleKo": "열방의 계보",
+    "integratedInterpretationKo": "족속·언어·땅의 분류가 본문에서 갖는 기능을 살핀다.",
+    "teachingQuestionKo": "이 계보가 11장 바벨 이야기 앞에 놓인 효과는 무엇인가?",
+    "historicalAndEthicalCautionKo": "현대 국가·민족·유전 계통과 일대일 대응시키지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 11,
+    "chapterId": "GEN.011",
+    "focusTitleKo": "바벨과 아브람 계보",
+    "integratedInterpretationKo": "바벨의 언어 사건과 셈의 계보가 족장 이야기의 문턱을 만든다.",
+    "teachingQuestionKo": "바벨 이후 이야기가 한 가족으로 집중되는 이유는?",
+    "historicalAndEthicalCautionKo": "바벨탑을 특정 지구라트와 같은 건물로 확정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-CARR"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 12,
+    "chapterId": "GEN.012",
+    "focusTitleKo": "아브람의 부르심과 이동",
+    "integratedInterpretationKo": "땅과 후손에 관한 약속이 이동과 기근 이야기에서 시험받는 구조를 살핀다.",
+    "teachingQuestionKo": "아브람이 이동할 때 붙든 약속은 무엇인가?",
+    "historicalAndEthicalCautionKo": "족장 활동의 연도나 바로의 이름을 확정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 13,
+    "chapterId": "GEN.013",
+    "focusTitleKo": "아브람과 롯의 분리",
+    "integratedInterpretationKo": "목초지 갈등·선택·땅 약속의 순서를 구분한다.",
+    "teachingQuestionKo": "분리 이후 다시 주어진 약속은 무엇인가?",
+    "historicalAndEthicalCautionKo": "보이는 지역의 지형을 현재 정치적 영토 주장에 기계적으로 적용하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 14,
+    "chapterId": "GEN.014",
+    "focusTitleKo": "왕들의 전쟁과 멜기세덱",
+    "integratedInterpretationKo": "롯 구출·왕들과의 만남·전리품 거절을 함께 읽는다.",
+    "teachingQuestionKo": "아브람은 소돔 왕의 제안에 어떻게 답하는가?",
+    "historicalAndEthicalCautionKo": "등장 왕의 이름을 외부 비문으로 전부 확인했다고 쓰지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 15,
+    "chapterId": "GEN.015",
+    "focusTitleKo": "언약과 후손 약속",
+    "integratedInterpretationKo": "아브람의 질문, 믿음, 언약 의식, 미래의 압박과 회복 서술을 관찰한다.",
+    "teachingQuestionKo": "질문하는 아브람과 약속의 관계는?",
+    "historicalAndEthicalCautionKo": "400년 등 시간을 기계적으로 단일 출애굽 연대에 맞추지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 16,
+    "chapterId": "GEN.016",
+    "focusTitleKo": "하갈과 이스마엘",
+    "integratedInterpretationKo": "하갈의 처지와 광야에서의 만남을 중심으로 권력 관계를 성찰한다.",
+    "teachingQuestionKo": "하갈의 관점에서 어떤 변화가 보이는가?",
+    "historicalAndEthicalCautionKo": "하갈의 고난이나 이스마엘의 후손을 현대 민족 전체에 일반화하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 17,
+    "chapterId": "GEN.017",
+    "focusTitleKo": "이름과 할례 언약",
+    "integratedInterpretationKo": "아브람·사래의 이름 변화와 언약 표징, 이삭 약속을 구분한다.",
+    "teachingQuestionKo": "이름이 바뀐다는 것은 이야기에서 어떤 의미인가?",
+    "historicalAndEthicalCautionKo": "고대 관습에 관한 비교 자료가 이야기 자체를 독립 입증하지는 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 18,
+    "chapterId": "GEN.018",
+    "focusTitleKo": "손님과 중보",
+    "integratedInterpretationKo": "방문객, 사라의 반응, 소돔을 위한 아브라함의 간구를 구분한다.",
+    "teachingQuestionKo": "아브라함의 반복된 질문은 무엇을 보여주는가?",
+    "historicalAndEthicalCautionKo": "소돔 이야기의 심판을 오늘날 특정 집단 공격의 명분으로 쓰지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 19,
+    "chapterId": "GEN.019",
+    "focusTitleKo": "소돔 멸망과 롯 가정",
+    "integratedInterpretationKo": "위험과 탈출, 롯의 아내, 동굴 이야기를 연달아 읽는다.",
+    "teachingQuestionKo": "본문에서 위험에 처한 사람들은 누구인가?",
+    "historicalAndEthicalCautionKo": "특정 발굴 파괴층을 소돔 사건의 확정 증거로 제시하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 20,
+    "chapterId": "GEN.020",
+    "focusTitleKo": "그랄과 아비멜렉",
+    "integratedInterpretationKo": "아브라함의 두려움·사라·왕의 대응을 비교한다.",
+    "teachingQuestionKo": "아브라함은 무엇을 두려워했는가?",
+    "historicalAndEthicalCautionKo": "비슷한 아내 이야기들을 서로 무조건 같은 역사 사건으로 병합하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 21,
+    "chapterId": "GEN.021",
+    "focusTitleKo": "이삭과 하갈의 광야",
+    "integratedInterpretationKo": "이삭 탄생의 기쁨과 하갈·이스마엘의 고통을 함께 읽는다.",
+    "teachingQuestionKo": "이삭과 이스마엘 모두에게서 어떤 미래가 보이는가?",
+    "historicalAndEthicalCautionKo": "어린이 교육에서는 가족 갈등을 피해자 조롱 없이 다룬다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 22,
+    "chapterId": "GEN.022",
+    "focusTitleKo": "이삭을 드리는 시험",
+    "integratedInterpretationKo": "위기·중단·대체물 제공·약속의 반복 구조를 살핀다.",
+    "teachingQuestionKo": "이야기의 결말에서 일어나지 않은 일은 무엇인가?",
+    "historicalAndEthicalCautionKo": "아동 희생을 실천 과제나 놀이의 승리 조건으로 만들지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 23,
+    "chapterId": "GEN.023",
+    "focusTitleKo": "사라의 죽음과 장지",
+    "integratedInterpretationKo": "애도·교섭·매입 과정에서 가족과 토지의 의미를 살핀다.",
+    "teachingQuestionKo": "본문은 매입 과정에 얼마나 많은 지면을 쓰는가?",
+    "historicalAndEthicalCautionKo": "현 기념 유적이 거래 자체를 고고학적으로 증명한다고 쓰지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 24,
+    "chapterId": "GEN.024",
+    "focusTitleKo": "이삭과 리브가의 결혼",
+    "integratedInterpretationKo": "긴 이야기 속 반복 보고·동의·이동·만남을 구분한다.",
+    "teachingQuestionKo": "리브가는 어떤 결정의 주체로 등장하는가?",
+    "historicalAndEthicalCautionKo": "고대 혼인 절차를 지금의 가족 규범으로 강요하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 25,
+    "chapterId": "GEN.025",
+    "focusTitleKo": "아브라함의 죽음과 다음 세대",
+    "integratedInterpretationKo": "장례·이스마엘의 계보·쌍둥이의 갈등으로 세대 전환을 관찰한다.",
+    "teachingQuestionKo": "약속의 이야기는 누구에게 이어지는가?",
+    "historicalAndEthicalCautionKo": "족보를 현대 민족적 우열의 근거로 읽지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 26,
+    "chapterId": "GEN.026",
+    "focusTitleKo": "이삭의 삶과 우물",
+    "integratedInterpretationKo": "기근, 왕과의 갈등, 우물, 브엘세바의 평화 협약을 연결한다.",
+    "teachingQuestionKo": "이삭은 다툼 속에서 어떻게 이동하는가?",
+    "historicalAndEthicalCautionKo": "유적의 명칭이 동일하다고 사건의 역사적 입증이 되지는 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 27,
+    "chapterId": "GEN.027",
+    "focusTitleKo": "속임과 축복",
+    "integratedInterpretationKo": "눈먼 이삭, 리브가·야곱의 계획, 에서의 상실을 다양한 시점으로 본다.",
+    "teachingQuestionKo": "누가 무엇을 얻고 무엇을 잃었는가?",
+    "historicalAndEthicalCautionKo": "속임수를 신앙적으로 권장하는 선택지로 설계하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 28,
+    "chapterId": "GEN.028",
+    "focusTitleKo": "벧엘의 약속",
+    "integratedInterpretationKo": "야곱의 도주 중 꿈과 응답, 장소 이름 붙이기를 살핀다.",
+    "teachingQuestionKo": "야곱은 잠들기 전후 무엇이 달라지는가?",
+    "historicalAndEthicalCautionKo": "하늘 사다리의 물리적 위치와 실물을 주장하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 29,
+    "chapterId": "GEN.029",
+    "focusTitleKo": "라반 집의 혼인과 노동",
+    "integratedInterpretationKo": "야곱·레아·라헬 각 인물의 처지를 비교한다.",
+    "teachingQuestionKo": "누가 어떤 자리에서 소외되는가?",
+    "historicalAndEthicalCautionKo": "여성의 처지를 낭만화하거나 결혼을 거래 게임으로 만들지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 30,
+    "chapterId": "GEN.030",
+    "focusTitleKo": "가정의 갈등과 재산",
+    "integratedInterpretationKo": "출생·이름·번식과 노동 대가의 갈등을 함께 읽는다.",
+    "teachingQuestionKo": "가족과 고용 관계의 공통 갈등은?",
+    "historicalAndEthicalCautionKo": "가족 갈등을 현대 유전학·생물학의 교과서로 제시하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 31,
+    "chapterId": "GEN.031",
+    "focusTitleKo": "귀향과 경계의 협정",
+    "integratedInterpretationKo": "떠남, 추격, 가정 신상, 언약 기념물을 연결한다.",
+    "teachingQuestionKo": "서로 의심하는 두 집단은 어떻게 분리되는가?",
+    "historicalAndEthicalCautionKo": "이동 경로는 지역 수준으로만 시각화한다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 32,
+    "chapterId": "GEN.032",
+    "focusTitleKo": "위기와 새 이름",
+    "integratedInterpretationKo": "에서와의 재회를 앞둔 준비, 기도, 씨름, 새 이름의 연결을 읽는다.",
+    "teachingQuestionKo": "이름의 변화는 삶의 무엇을 바꾸는가?",
+    "historicalAndEthicalCautionKo": "브니엘의 정확한 좌표를 확정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 33,
+    "chapterId": "GEN.033",
+    "focusTitleKo": "형제의 화해",
+    "integratedInterpretationKo": "야곱과 에서가 다시 만난 뒤 서로 다른 행로를 택하는 이유를 살핀다.",
+    "teachingQuestionKo": "두 형제는 만남 이후 어디로 향하는가?",
+    "historicalAndEthicalCautionKo": "화해를 즉각적 신뢰 회복의 단순 공식으로 가르치지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 34,
+    "chapterId": "GEN.034",
+    "focusTitleKo": "디나 사건과 보복",
+    "integratedInterpretationKo": "디나의 피해와 가문 내 대응, 집단 보복의 윤리 문제를 구분한다.",
+    "teachingQuestionKo": "행동의 결과를 누가 감당하는가?",
+    "historicalAndEthicalCautionKo": "성폭력·살해를 플레이어 보상 행동으로 만들지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 35,
+    "chapterId": "GEN.035",
+    "focusTitleKo": "벧엘 재방문과 가족의 죽음",
+    "integratedInterpretationKo": "이름·언약 재확인과 라헬·이삭의 죽음을 연결한다.",
+    "teachingQuestionKo": "귀환 이후 누가 떠나고 누가 남는가?",
+    "historicalAndEthicalCautionKo": "장례 장소의 현지 전승을 독립 입증으로 쓰지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 36,
+    "chapterId": "GEN.036",
+    "focusTitleKo": "에서와 에돔 계보",
+    "integratedInterpretationKo": "족장·왕의 목록이 이후 에돔 이야기의 전제가 됨을 살핀다.",
+    "teachingQuestionKo": "계보는 미래의 어떤 이야기를 준비하는가?",
+    "historicalAndEthicalCautionKo": "왕별 재위연도와 실존을 일괄 확정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-SPERLING"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 37,
+    "chapterId": "GEN.037",
+    "focusTitleKo": "요셉의 꿈과 형제 갈등",
+    "integratedInterpretationKo": "가족 내 편애, 꿈, 형제들의 행동과 애굽행을 시간순으로 살핀다.",
+    "teachingQuestionKo": "형제들이 숨긴 사실은 무엇인가?",
+    "historicalAndEthicalCautionKo": "노예 거래의 상세 제도를 이 한 본문으로 재구성하지 않는다.",
+    "chapterGuideSourceIds": [
+      "YALE-INTRO",
+      "OUP-HOFF"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 38,
+    "chapterId": "GEN.038",
+    "focusTitleKo": "유다와 다말",
+    "integratedInterpretationKo": "다말의 권리 회복을 중심으로 유다의 행동과 고백을 읽는다.",
+    "teachingQuestionKo": "유다의 인정이 앞선 행동과 어떻게 다른가?",
+    "historicalAndEthicalCautionKo": "성적 문제를 선정적 선택지나 피해자 비난으로 처리하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-BRODIE",
+      "OUP-HOFF"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 39,
+    "chapterId": "GEN.039",
+    "focusTitleKo": "보디발 집과 감옥",
+    "integratedInterpretationKo": "신뢰와 부당한 고발, 억울함 속에서의 생존을 살핀다.",
+    "teachingQuestionKo": "권력을 가진 인물의 말은 어떻게 오용되는가?",
+    "historicalAndEthicalCautionKo": "성적 강요를 희화화하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 40,
+    "chapterId": "GEN.040",
+    "focusTitleKo": "꿈을 해석한 요셉",
+    "integratedInterpretationKo": "관원 두 사람의 꿈과 해석의 결과, 잊힘을 살핀다.",
+    "teachingQuestionKo": "같은 감옥에서 왜 결과가 달랐는가?",
+    "historicalAndEthicalCautionKo": "꿈 풀이를 재현 가능한 미래 예측 훈련으로 만들지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 41,
+    "chapterId": "GEN.041",
+    "focusTitleKo": "바로의 꿈과 식량 정책",
+    "integratedInterpretationKo": "해석·계획·관리와 풍년·흉년의 연쇄를 연결한다.",
+    "teachingQuestionKo": "재난을 대비하기 위해 어떤 조치가 제안되는가?",
+    "historicalAndEthicalCautionKo": "이를 직접 입증하는 요셉 명의 고대 행정문서가 발견됐다고 쓰지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 42,
+    "chapterId": "GEN.042",
+    "focusTitleKo": "형제들의 첫 방문",
+    "integratedInterpretationKo": "먹을거리 부족, 형제들의 두려움, 시므온의 억류를 관찰한다.",
+    "teachingQuestionKo": "형제들은 과거의 행동을 언제 떠올리는가?",
+    "historicalAndEthicalCautionKo": "기근의 기간을 특정 발굴 기록으로 확정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 43,
+    "chapterId": "GEN.043",
+    "focusTitleKo": "베냐민과 두 번째 방문",
+    "integratedInterpretationKo": "가족의 설득·방문·연회에서 관계의 긴장을 읽는다.",
+    "teachingQuestionKo": "유다는 무엇을 책임지겠다고 하는가?",
+    "historicalAndEthicalCautionKo": "당시의 예절을 현대 문화 규범으로 동일시하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 44,
+    "chapterId": "GEN.044",
+    "focusTitleKo": "은잔과 유다의 간청",
+    "integratedInterpretationKo": "시험의 상황과 유다의 자기희생적 간청을 연결한다.",
+    "teachingQuestionKo": "유다의 말에서 과거와 달라진 점은 무엇인가?",
+    "historicalAndEthicalCautionKo": "속임이나 강압이 교육적으로 모범 행동이라는 결론을 피한다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 45,
+    "chapterId": "GEN.045",
+    "focusTitleKo": "요셉의 정체와 용서",
+    "integratedInterpretationKo": "정체 밝힘, 두려움, 가족 소식, 이주 제안을 살핀다.",
+    "teachingQuestionKo": "요셉은 과거를 어떻게 다시 해석하는가?",
+    "historicalAndEthicalCautionKo": "피해자에게 무조건적·즉각적 화해를 요구하는 교훈으로 단순화하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 46,
+    "chapterId": "GEN.046",
+    "focusTitleKo": "야곱 가족의 애굽 이주",
+    "integratedInterpretationKo": "브엘세바의 확인과 함께 애굽으로 이동하는 가족의 계보를 살핀다.",
+    "teachingQuestionKo": "이동은 가족에게 어떤 의미인가?",
+    "historicalAndEthicalCautionKo": "가족 수의 전승 차이를 임의로 단일 수치로 교정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 47,
+    "chapterId": "GEN.047",
+    "focusTitleKo": "고센 정착과 경제 위기",
+    "integratedInterpretationKo": "가족의 정착과 기근 중의 토지·노동·식량 정책을 함께 읽는다.",
+    "teachingQuestionKo": "기근을 해결하는 정책에는 어떤 대가가 따르는가?",
+    "historicalAndEthicalCautionKo": "정책을 특정 이집트 왕조의 실증 행정 기록으로 주장하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 48,
+    "chapterId": "GEN.048",
+    "focusTitleKo": "에브라임과 므낫세",
+    "integratedInterpretationKo": "장자의 자리와 축복 순서의 역전을 관찰한다.",
+    "teachingQuestionKo": "야곱은 왜 손을 엇갈리게 놓는가?",
+    "historicalAndEthicalCautionKo": "후대 지파의 운명을 개인의 고정 운명론으로 단순화하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 49,
+    "chapterId": "GEN.049",
+    "focusTitleKo": "열두 아들에 관한 말",
+    "integratedInterpretationKo": "시적 언어·축복과 책망을 지파 역사와 구별하여 읽는다.",
+    "teachingQuestionKo": "형제 각각의 말투와 내용은 어떻게 다른가?",
+    "historicalAndEthicalCautionKo": "시의 상징을 문자적 일기예보처럼 처리하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  },
+  {
+    "chapter": 50,
+    "chapterId": "GEN.050",
+    "focusTitleKo": "야곱의 장례와 요셉의 죽음",
+    "integratedInterpretationKo": "애도·귀환·두려움·용서와 애굽에서 마무리되는 출애굽의 전조를 읽는다.",
+    "teachingQuestionKo": "창세기는 어떤 약속을 남긴 채 끝나는가?",
+    "historicalAndEthicalCautionKo": "요셉의 실제 관이나 무덤이 고고학으로 확인되었다고 단정하지 않는다.",
+    "chapterGuideSourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "scope": "original classroom synthesis, not independently peer reviewed",
+    "verseProof": false,
+    "editorialApproval": "draft_requires_textual_review"
+  }
+]

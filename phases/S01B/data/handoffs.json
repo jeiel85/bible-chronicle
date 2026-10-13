@@ -1,0 +1,16 @@
+[
+  {
+    "aliasId": "handoff-gen-012",
+    "resolvesTo": "ep-gen-023",
+    "fromStage": "S01A",
+    "toStage": "S01B",
+    "notes": "기존 S01A 에피소드 데이터를 수정하지 않고 라우팅 앨리어스로 연결"
+  },
+  {
+    "aliasId": "handoff-gen-026",
+    "resolvesTo": null,
+    "fromStage": "S01B",
+    "toStage": "S01C",
+    "notes": "다음 구간 창 26-36은 아직 작성되지 않아 잠금 상태"
+  }
+]

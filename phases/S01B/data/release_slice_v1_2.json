@@ -1,0 +1,2598 @@
+{
+  "schemaVersion": "1.2.0",
+  "releaseId": "S01B-GEN-012-025-DRAFT-20261012",
+  "bookIds": [
+    "GEN"
+  ],
+  "content": {
+    "reviewStatus": "draft_only",
+    "published": false,
+    "historicalClaimsVerified": false,
+    "licensedTextEmbedded": false
+  },
+  "episodes": [
+    {
+      "id": "ep-gen-023",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      "outcomeId": "canon-gen-023",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-023/opening",
+          "choices": [
+            {
+              "id": "ep-gen-023/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-023/lens"
+            },
+            {
+              "id": "ep-gen-023/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-023/evidence"
+            },
+            {
+              "id": "ep-gen-023/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-023/atlas"
+            },
+            {
+              "id": "ep-gen-023/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-023/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-023/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-023/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-023/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-023/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-023/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-024",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      "outcomeId": "canon-gen-024",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-024/opening",
+          "choices": [
+            {
+              "id": "ep-gen-024/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-024/lens"
+            },
+            {
+              "id": "ep-gen-024/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-024/evidence"
+            },
+            {
+              "id": "ep-gen-024/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-024/atlas"
+            },
+            {
+              "id": "ep-gen-024/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-024/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-024/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-024/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-024/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-024/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-024/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-025",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      "outcomeId": "canon-gen-025",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-025/opening",
+          "choices": [
+            {
+              "id": "ep-gen-025/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-025/lens"
+            },
+            {
+              "id": "ep-gen-025/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-025/evidence"
+            },
+            {
+              "id": "ep-gen-025/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-025/atlas"
+            },
+            {
+              "id": "ep-gen-025/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-025/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-025/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-025/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-025/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-025/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-025/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-026",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      },
+      "outcomeId": "canon-gen-026",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-026/opening",
+          "choices": [
+            {
+              "id": "ep-gen-026/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-026/lens"
+            },
+            {
+              "id": "ep-gen-026/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-026/evidence"
+            },
+            {
+              "id": "ep-gen-026/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-026/atlas"
+            },
+            {
+              "id": "ep-gen-026/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-026/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-026/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-026/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-026/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-026/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-026/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-027",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      },
+      "outcomeId": "canon-gen-027",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-027/opening",
+          "choices": [
+            {
+              "id": "ep-gen-027/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-027/lens"
+            },
+            {
+              "id": "ep-gen-027/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-027/evidence"
+            },
+            {
+              "id": "ep-gen-027/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-027/atlas"
+            },
+            {
+              "id": "ep-gen-027/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-027/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-027/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-027/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-027/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-027/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-027/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-028",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      },
+      "outcomeId": "canon-gen-028",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-028/opening",
+          "choices": [
+            {
+              "id": "ep-gen-028/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-028/lens"
+            },
+            {
+              "id": "ep-gen-028/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-028/evidence"
+            },
+            {
+              "id": "ep-gen-028/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-028/atlas"
+            },
+            {
+              "id": "ep-gen-028/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-028/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-028/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-028/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-028/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-028/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-028/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-029",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      "outcomeId": "canon-gen-029",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-029/opening",
+          "choices": [
+            {
+              "id": "ep-gen-029/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-029/lens"
+            },
+            {
+              "id": "ep-gen-029/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-029/evidence"
+            },
+            {
+              "id": "ep-gen-029/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-029/atlas"
+            },
+            {
+              "id": "ep-gen-029/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-029/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-029/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-029/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-029/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-029/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-029/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-030",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      "outcomeId": "canon-gen-030",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-030/opening",
+          "choices": [
+            {
+              "id": "ep-gen-030/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-030/lens"
+            },
+            {
+              "id": "ep-gen-030/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-030/evidence"
+            },
+            {
+              "id": "ep-gen-030/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-030/atlas"
+            },
+            {
+              "id": "ep-gen-030/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-030/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-030/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-030/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-030/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-030/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-030/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-031",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      "outcomeId": "canon-gen-031",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-031/opening",
+          "choices": [
+            {
+              "id": "ep-gen-031/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-031/lens"
+            },
+            {
+              "id": "ep-gen-031/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-031/evidence"
+            },
+            {
+              "id": "ep-gen-031/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-031/atlas"
+            },
+            {
+              "id": "ep-gen-031/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-031/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-031/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-031/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-031/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-031/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-031/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-032",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      "outcomeId": "canon-gen-032",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-032/opening",
+          "choices": [
+            {
+              "id": "ep-gen-032/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-032/lens"
+            },
+            {
+              "id": "ep-gen-032/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-032/evidence"
+            },
+            {
+              "id": "ep-gen-032/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-032/atlas"
+            },
+            {
+              "id": "ep-gen-032/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-032/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-032/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-032/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-032/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-032/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-032/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "symbolic",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-033",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      "outcomeId": "canon-gen-033",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-033/opening",
+          "choices": [
+            {
+              "id": "ep-gen-033/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-033/lens"
+            },
+            {
+              "id": "ep-gen-033/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-033/evidence"
+            },
+            {
+              "id": "ep-gen-033/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-033/atlas"
+            },
+            {
+              "id": "ep-gen-033/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-033/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-033/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-033/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-033/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-033/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-033/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "symbolic",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-034",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      "outcomeId": "canon-gen-034",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-034/opening",
+          "choices": [
+            {
+              "id": "ep-gen-034/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-034/lens"
+            },
+            {
+              "id": "ep-gen-034/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-034/evidence"
+            },
+            {
+              "id": "ep-gen-034/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-034/atlas"
+            },
+            {
+              "id": "ep-gen-034/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-034/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-034/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-034/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-034/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-034/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-034/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-035",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      "outcomeId": "canon-gen-035",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-035/opening",
+          "choices": [
+            {
+              "id": "ep-gen-035/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-035/lens"
+            },
+            {
+              "id": "ep-gen-035/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-035/evidence"
+            },
+            {
+              "id": "ep-gen-035/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-035/atlas"
+            },
+            {
+              "id": "ep-gen-035/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-035/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-035/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-035/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-035/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-035/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-035/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-036",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      },
+      "outcomeId": "canon-gen-036",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-036/opening",
+          "choices": [
+            {
+              "id": "ep-gen-036/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-036/lens"
+            },
+            {
+              "id": "ep-gen-036/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-036/evidence"
+            },
+            {
+              "id": "ep-gen-036/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-036/atlas"
+            },
+            {
+              "id": "ep-gen-036/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-036/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-036/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-036/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-036/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-036/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-036/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "symbolic",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-037",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      },
+      "outcomeId": "canon-gen-037",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-037/opening",
+          "choices": [
+            {
+              "id": "ep-gen-037/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-037/lens"
+            },
+            {
+              "id": "ep-gen-037/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-037/evidence"
+            },
+            {
+              "id": "ep-gen-037/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-037/atlas"
+            },
+            {
+              "id": "ep-gen-037/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-037/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-037/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-037/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-037/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-037/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-037/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "symbolic",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-038",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      "outcomeId": "canon-gen-038",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-038/opening",
+          "choices": [
+            {
+              "id": "ep-gen-038/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-038/lens"
+            },
+            {
+              "id": "ep-gen-038/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-038/evidence"
+            },
+            {
+              "id": "ep-gen-038/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-038/atlas"
+            },
+            {
+              "id": "ep-gen-038/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-038/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-038/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-038/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-038/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-038/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-038/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "symbolic",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-039",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      "outcomeId": "canon-gen-039",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-039/opening",
+          "choices": [
+            {
+              "id": "ep-gen-039/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-039/lens"
+            },
+            {
+              "id": "ep-gen-039/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-039/evidence"
+            },
+            {
+              "id": "ep-gen-039/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-039/atlas"
+            },
+            {
+              "id": "ep-gen-039/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-039/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-039/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-039/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-039/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-039/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-039/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "symbolic",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-040",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 19,
+        "chapterEnd": 19
+      },
+      "outcomeId": "canon-gen-040",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-040/opening",
+          "choices": [
+            {
+              "id": "ep-gen-040/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-040/lens"
+            },
+            {
+              "id": "ep-gen-040/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-040/evidence"
+            },
+            {
+              "id": "ep-gen-040/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-040/atlas"
+            },
+            {
+              "id": "ep-gen-040/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-040/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-040/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-040/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-040/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-040/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-040/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-041",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 19,
+        "chapterEnd": 19
+      },
+      "outcomeId": "canon-gen-041",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-041/opening",
+          "choices": [
+            {
+              "id": "ep-gen-041/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-041/lens"
+            },
+            {
+              "id": "ep-gen-041/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-041/evidence"
+            },
+            {
+              "id": "ep-gen-041/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-041/atlas"
+            },
+            {
+              "id": "ep-gen-041/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-041/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-041/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-041/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-041/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-041/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-041/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-042",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 19,
+        "chapterEnd": 19
+      },
+      "outcomeId": "canon-gen-042",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-042/opening",
+          "choices": [
+            {
+              "id": "ep-gen-042/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-042/lens"
+            },
+            {
+              "id": "ep-gen-042/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-042/evidence"
+            },
+            {
+              "id": "ep-gen-042/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-042/atlas"
+            },
+            {
+              "id": "ep-gen-042/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-042/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-042/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-042/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-042/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-042/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-042/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-043",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 19,
+        "chapterEnd": 19
+      },
+      "outcomeId": "canon-gen-043",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-043/opening",
+          "choices": [
+            {
+              "id": "ep-gen-043/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-043/lens"
+            },
+            {
+              "id": "ep-gen-043/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-043/evidence"
+            },
+            {
+              "id": "ep-gen-043/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-043/atlas"
+            },
+            {
+              "id": "ep-gen-043/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-043/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-043/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-043/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-043/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-043/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-043/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-044",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      },
+      "outcomeId": "canon-gen-044",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-044/opening",
+          "choices": [
+            {
+              "id": "ep-gen-044/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-044/lens"
+            },
+            {
+              "id": "ep-gen-044/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-044/evidence"
+            },
+            {
+              "id": "ep-gen-044/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-044/atlas"
+            },
+            {
+              "id": "ep-gen-044/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-044/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-044/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-044/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-044/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-044/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-044/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-045",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      },
+      "outcomeId": "canon-gen-045",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-045/opening",
+          "choices": [
+            {
+              "id": "ep-gen-045/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-045/lens"
+            },
+            {
+              "id": "ep-gen-045/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-045/evidence"
+            },
+            {
+              "id": "ep-gen-045/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-045/atlas"
+            },
+            {
+              "id": "ep-gen-045/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-045/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-045/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-045/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-045/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-045/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-045/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-046",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      "outcomeId": "canon-gen-046",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-046/opening",
+          "choices": [
+            {
+              "id": "ep-gen-046/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-046/lens"
+            },
+            {
+              "id": "ep-gen-046/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-046/evidence"
+            },
+            {
+              "id": "ep-gen-046/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-046/atlas"
+            },
+            {
+              "id": "ep-gen-046/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-046/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-046/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-046/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-046/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-046/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-046/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-047",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      "outcomeId": "canon-gen-047",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-047/opening",
+          "choices": [
+            {
+              "id": "ep-gen-047/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-047/lens"
+            },
+            {
+              "id": "ep-gen-047/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-047/evidence"
+            },
+            {
+              "id": "ep-gen-047/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-047/atlas"
+            },
+            {
+              "id": "ep-gen-047/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-047/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-047/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-047/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-047/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-047/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-047/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-048",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      "outcomeId": "canon-gen-048",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-048/opening",
+          "choices": [
+            {
+              "id": "ep-gen-048/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-048/lens"
+            },
+            {
+              "id": "ep-gen-048/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-048/evidence"
+            },
+            {
+              "id": "ep-gen-048/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-048/atlas"
+            },
+            {
+              "id": "ep-gen-048/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-048/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-048/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-048/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-048/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-048/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-048/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-049",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      "outcomeId": "canon-gen-049",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-049/opening",
+          "choices": [
+            {
+              "id": "ep-gen-049/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-049/lens"
+            },
+            {
+              "id": "ep-gen-049/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-049/evidence"
+            },
+            {
+              "id": "ep-gen-049/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-049/atlas"
+            },
+            {
+              "id": "ep-gen-049/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-049/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-049/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-049/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-049/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-049/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-049/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-050",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      "outcomeId": "canon-gen-050",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-050/opening",
+          "choices": [
+            {
+              "id": "ep-gen-050/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-050/lens"
+            },
+            {
+              "id": "ep-gen-050/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-050/evidence"
+            },
+            {
+              "id": "ep-gen-050/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-050/atlas"
+            },
+            {
+              "id": "ep-gen-050/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-050/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-050/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-050/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-050/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-050/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-050/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-051",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      "outcomeId": "canon-gen-051",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-051/opening",
+          "choices": [
+            {
+              "id": "ep-gen-051/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-051/lens"
+            },
+            {
+              "id": "ep-gen-051/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-051/evidence"
+            },
+            {
+              "id": "ep-gen-051/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-051/atlas"
+            },
+            {
+              "id": "ep-gen-051/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-051/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-051/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-051/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-051/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-051/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-051/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-052",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      "outcomeId": "canon-gen-052",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-052/opening",
+          "choices": [
+            {
+              "id": "ep-gen-052/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-052/lens"
+            },
+            {
+              "id": "ep-gen-052/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-052/evidence"
+            },
+            {
+              "id": "ep-gen-052/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-052/atlas"
+            },
+            {
+              "id": "ep-gen-052/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-052/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-052/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-052/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-052/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-052/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-052/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-053",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      "outcomeId": "canon-gen-053",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-053/opening",
+          "choices": [
+            {
+              "id": "ep-gen-053/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-053/lens"
+            },
+            {
+              "id": "ep-gen-053/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-053/evidence"
+            },
+            {
+              "id": "ep-gen-053/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-053/atlas"
+            },
+            {
+              "id": "ep-gen-053/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-053/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-053/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-053/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-053/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-053/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-053/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-054",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      "outcomeId": "canon-gen-054",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-054/opening",
+          "choices": [
+            {
+              "id": "ep-gen-054/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-054/lens"
+            },
+            {
+              "id": "ep-gen-054/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-054/evidence"
+            },
+            {
+              "id": "ep-gen-054/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-054/atlas"
+            },
+            {
+              "id": "ep-gen-054/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-054/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-054/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-054/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-054/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-054/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-054/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-055",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      "outcomeId": "canon-gen-055",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-055/opening",
+          "choices": [
+            {
+              "id": "ep-gen-055/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-055/lens"
+            },
+            {
+              "id": "ep-gen-055/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-055/evidence"
+            },
+            {
+              "id": "ep-gen-055/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-055/atlas"
+            },
+            {
+              "id": "ep-gen-055/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-055/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-055/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-055/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-055/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-055/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-055/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-056",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      "outcomeId": "canon-gen-056",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-056/opening",
+          "choices": [
+            {
+              "id": "ep-gen-056/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-056/lens"
+            },
+            {
+              "id": "ep-gen-056/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-056/evidence"
+            },
+            {
+              "id": "ep-gen-056/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-056/atlas"
+            },
+            {
+              "id": "ep-gen-056/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-056/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-056/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-056/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-056/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-056/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-056/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-057",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      "outcomeId": "canon-gen-057",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-057/opening",
+          "choices": [
+            {
+              "id": "ep-gen-057/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-057/lens"
+            },
+            {
+              "id": "ep-gen-057/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-057/evidence"
+            },
+            {
+              "id": "ep-gen-057/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-057/atlas"
+            },
+            {
+              "id": "ep-gen-057/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-057/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-057/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-057/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-057/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-057/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-057/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-058",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      "outcomeId": "canon-gen-058",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-058/opening",
+          "choices": [
+            {
+              "id": "ep-gen-058/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-058/lens"
+            },
+            {
+              "id": "ep-gen-058/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-058/evidence"
+            },
+            {
+              "id": "ep-gen-058/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-058/atlas"
+            },
+            {
+              "id": "ep-gen-058/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-058/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-058/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-058/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-058/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-058/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-058/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-059",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      "outcomeId": "canon-gen-059",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-059/opening",
+          "choices": [
+            {
+              "id": "ep-gen-059/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-059/lens"
+            },
+            {
+              "id": "ep-gen-059/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-059/evidence"
+            },
+            {
+              "id": "ep-gen-059/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-059/atlas"
+            },
+            {
+              "id": "ep-gen-059/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-059/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-059/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-059/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-059/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-059/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-059/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-060",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      "outcomeId": "canon-gen-060",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-060/opening",
+          "choices": [
+            {
+              "id": "ep-gen-060/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-060/lens"
+            },
+            {
+              "id": "ep-gen-060/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-060/evidence"
+            },
+            {
+              "id": "ep-gen-060/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-060/atlas"
+            },
+            {
+              "id": "ep-gen-060/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-060/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-060/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-060/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-060/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-060/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-060/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-061",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      "outcomeId": "canon-gen-061",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-061/opening",
+          "choices": [
+            {
+              "id": "ep-gen-061/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-061/lens"
+            },
+            {
+              "id": "ep-gen-061/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-061/evidence"
+            },
+            {
+              "id": "ep-gen-061/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-061/atlas"
+            },
+            {
+              "id": "ep-gen-061/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-061/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-061/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-061/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-061/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-061/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-061/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-062",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      "outcomeId": "canon-gen-062",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-062/opening",
+          "choices": [
+            {
+              "id": "ep-gen-062/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-062/lens"
+            },
+            {
+              "id": "ep-gen-062/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-062/evidence"
+            },
+            {
+              "id": "ep-gen-062/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-062/atlas"
+            },
+            {
+              "id": "ep-gen-062/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-062/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-062/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-062/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-062/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-062/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-062/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    },
+    {
+      "id": "ep-gen-063",
+      "primaryPassage": {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      "outcomeId": "canon-gen-063",
+      "outcomeLocked": true,
+      "scenes": [
+        {
+          "id": "ep-gen-063/opening",
+          "choices": [
+            {
+              "id": "ep-gen-063/choice-lens",
+              "kind": "narrative_perspective",
+              "next": "ep-gen-063/lens"
+            },
+            {
+              "id": "ep-gen-063/choice-evidence",
+              "kind": "inspection",
+              "next": "ep-gen-063/evidence"
+            },
+            {
+              "id": "ep-gen-063/choice-atlas",
+              "kind": "learning_focus",
+              "next": "ep-gen-063/atlas"
+            },
+            {
+              "id": "ep-gen-063/choice-reflection",
+              "kind": "reflection",
+              "next": "ep-gen-063/reflection"
+            }
+          ]
+        },
+        {
+          "id": "ep-gen-063/lens",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-063/evidence",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-063/atlas",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-063/reflection",
+          "choices": []
+        },
+        {
+          "id": "ep-gen-063/locked-outcome",
+          "choices": []
+        }
+      ],
+      "historicalReview": "not_reviewed",
+      "map": {
+        "mode": "reconstruction",
+        "confidence": "unknown"
+      },
+      "notForPublicRelease": true
+    }
+  ]
+}

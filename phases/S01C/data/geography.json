@@ -1,0 +1,908 @@
+[
+  {
+    "episodeId": "ep-gen-064",
+    "placeIds": [
+      "gerar",
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-065",
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-066",
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-067",
+    "placeIds": [
+      "gerar",
+      "rehoboth"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-068",
+    "placeIds": [
+      "beer_sheba"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-069",
+    "placeIds": [
+      "beer_sheba",
+      "gerar"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-070",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-071",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-072",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-073",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-074",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-075",
+    "placeIds": [
+      "canaan",
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-076",
+    "placeIds": [
+      "beer_sheba",
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-077",
+    "placeIds": [
+      "beer_sheba",
+      "bethel",
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-078",
+    "placeIds": [
+      "bethel"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-079",
+    "placeIds": [
+      "haran",
+      "paddan_aram"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-080",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-081",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-082",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-083",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-084",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-085",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-086",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-087",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-088",
+    "placeIds": [
+      "haran"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-089",
+    "placeIds": [
+      "haran",
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-090",
+    "placeIds": [
+      "haran",
+      "gilead"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-091",
+    "placeIds": [
+      "gilead"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-092",
+    "placeIds": [
+      "gilead"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-093",
+    "placeIds": [
+      "gilead"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-094",
+    "placeIds": [
+      "mahanaim",
+      "seir"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-095",
+    "placeIds": [
+      "mahanaim"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-096",
+    "placeIds": [
+      "mahanaim",
+      "jabbok"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-097",
+    "placeIds": [
+      "jabbok",
+      "peniel"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-098",
+    "placeIds": [
+      "seir",
+      "jabbok"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-099",
+    "placeIds": [
+      "seir",
+      "succoth"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-100",
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-101",
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-102",
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-103",
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-104",
+    "placeIds": [
+      "shechem"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-105",
+    "placeIds": [
+      "bethel",
+      "shechem"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-106",
+    "placeIds": [
+      "bethel"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-107",
+    "placeIds": [
+      "ephrath",
+      "bethel"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-108",
+    "placeIds": [
+      "migdal_eder",
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-109",
+    "placeIds": [
+      "hebron",
+      "mamre"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-110",
+    "placeIds": [
+      "seir",
+      "canaan"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-111",
+    "placeIds": [
+      "seir"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-112",
+    "placeIds": [
+      "seir"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-113",
+    "placeIds": [
+      "seir"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-114",
+    "placeIds": [
+      "edom",
+      "seir"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-115",
+    "placeIds": [
+      "edom",
+      "seir"
+    ],
+    "mapMode": "comparative_regional_no_ancient_pin",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "captionKo": "성경에 등장하는 지명/이동 순서이며 당시의 검증된 정확한 위치·거리·왕국 경계는 아님.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "외부 사료로 검증되지 않은 사건 장소를 정밀 좌표로 고정하지 않음",
+      "후대 성읍 유적과 족장 활동의 외부 입증을 분리",
+      "점선은 서사 순서를 나타내며 실제 이동 경로 의미하지 않음"
+    ]
+  }
+]

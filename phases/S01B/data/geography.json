@@ -1,0 +1,797 @@
+[
+  {
+    "episodeId": "ep-gen-023",
+    "placeIds": [
+      "haran",
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-024",
+    "placeIds": [
+      "shechem",
+      "bethel",
+      "negeb"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-025",
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "이동의 순서는 성경 서술 기준입니다. 실제 연대·이동 경로 및 거리 확정 불가.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-026",
+    "placeIds": [
+      "negeb",
+      "bethel"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-027",
+    "placeIds": [
+      "jordan_plain",
+      "sodom"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-028",
+    "placeIds": [
+      "hebron"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "요단 들/소돔의 당시 경관과 도시 좌표는 복원 불가.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-029",
+    "placeIds": [
+      "siddim",
+      "sodom"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-030",
+    "placeIds": [
+      "dan_region",
+      "damascus_region"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-031",
+    "placeIds": [
+      "salem_uncertain"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "창세기 14장 왕들의 전쟁과 이동 경로를 외부 고대 기록으로 확인하지 못했습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-032",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "별·횃불 장면은 시각적 상징 연출이며 외부 역사 입증과 무관합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-033",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "별·횃불 장면은 시각적 상징 연출이며 외부 역사 입증과 무관합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-034",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "하갈의 이동 경로와 샘 위치를 점 좌표로 표시하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-035",
+    "placeIds": [
+      "shur_region",
+      "beer_lahai_roi"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "하갈의 이동 경로와 샘 위치를 점 좌표로 표시하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-036",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "인물의 연령은 본문 상대연대만 표시하고 절대 BC 연대를 만들지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-037",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "인물의 연령은 본문 상대연대만 표시하고 절대 BC 연대를 만들지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-038",
+    "placeIds": [
+      "hebron"
+    ],
+    "mapMode": "conceptual",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "방문객 정체에 대한 별도 신학 해석을 사실처럼 하나로 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-039",
+    "placeIds": [
+      "sodom"
+    ],
+    "mapMode": "conceptual",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "방문객 정체에 대한 별도 신학 해석을 사실처럼 하나로 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-040",
+    "placeIds": [
+      "sodom"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-041",
+    "placeIds": [
+      "sodom",
+      "zoar"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-042",
+    "placeIds": [
+      "sodom",
+      "gomorrah"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-043",
+    "placeIds": [
+      "moab_ammon_region"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "소돔·고모라의 고고학적 위치와 멸망 원인 확정은 불가합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-044",
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "그랄의 정확한 소재지는 불확실하며 왕의 외부 실재 증명이 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-045",
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "그랄의 정확한 소재지는 불확실하며 왕의 외부 실재 증명이 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-046",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-047",
+    "placeIds": [
+      "beersheba_wilderness",
+      "paran"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-048",
+    "placeIds": [
+      "beersheba"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "브엘세바의 지명과 당시 우물의 현장 대응은 별개입니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-049",
+    "placeIds": [
+      "moriah_unknown"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-050",
+    "placeIds": [
+      "beersheba"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-051",
+    "placeIds": [
+      "aramaic_region"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "창 22장의 모리아 땅과 역대하 성전산의 위치 연결은 해석 문제입니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-052",
+    "placeIds": [
+      "hebron"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "막벨라 전통 장소와 본문 속 거래 사건은 별도로 분류합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-053",
+    "placeIds": [
+      "machpelah",
+      "hebron"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "막벨라 전통 장소와 본문 속 거래 사건은 별도로 분류합니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-054",
+    "placeIds": [
+      "canaan",
+      "aram_naharaim"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-055",
+    "placeIds": [
+      "nahor_city"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-056",
+    "placeIds": [
+      "nahor_city"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-057",
+    "placeIds": [
+      "nahor_city",
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-058",
+    "placeIds": [
+      "beer_lahai_roi",
+      "negeb"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "종은 이름이 기록되지 않았으며 출발점·우물의 좌표는 확정하지 않습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-059",
+    "placeIds": [
+      "eastern_regions"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-060",
+    "placeIds": [
+      "machpelah",
+      "beer_lahai_roi"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-061",
+    "placeIds": [
+      "eastern_regions"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-062",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  },
+  {
+    "episodeId": "ep-gen-063",
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "coordinatePin": null,
+    "boundaryPolygon": null,
+    "absoluteBce": null,
+    "layer": "conceptual-patriarch-route",
+    "captionKo": "계보·사망·출생 이야기는 문학적으로 배열되어 모든 내용을 연대순이라 볼 수 없습니다.",
+    "routeKind": "textual_sequence_not_geodetic",
+    "renderRules": [
+      "실제 고대 국경선 표시 금지",
+      "위치 미확정 도시는 핀 대신 ?/음영 영역",
+      "출발·이동 경로는 점선과 인용 범위 표시",
+      "현대 지리 베이스맵과 고대 사건 재구성 레이어 분리"
+    ]
+  }
+]

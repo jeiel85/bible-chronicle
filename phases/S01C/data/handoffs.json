@@ -1,0 +1,16 @@
+[
+  {
+    "aliasId": "handoff-gen-026",
+    "resolvesTo": "ep-gen-064",
+    "fromStage": "S01B",
+    "toStage": "S01C",
+    "notes": "S01B의 마지막 canonicalNextId를 수정하지 않고 별도 라우터에서 연결"
+  },
+  {
+    "aliasId": "handoff-gen-037",
+    "resolvesTo": null,
+    "fromStage": "S01C",
+    "toStage": "S01D",
+    "notes": "S01D 37장 완료 전까지 다음 콘텐츠 잠금"
+  }
+]

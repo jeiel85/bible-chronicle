@@ -1,0 +1,238 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/bible-chronicle/release_slice.schema.json",
+  "title": "Bible Chronicle Phase Release Slice v1.2",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "releaseId",
+    "bookIds",
+    "content",
+    "episodes"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "1.2.0"
+    },
+    "releaseId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "bookIds": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "content": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reviewStatus",
+        "published",
+        "historicalClaimsVerified",
+        "licensedTextEmbedded"
+      ],
+      "properties": {
+        "reviewStatus": {
+          "enum": [
+            "draft_only",
+            "under_review",
+            "reviewed",
+            "publishable"
+          ]
+        },
+        "published": {
+          "type": "boolean"
+        },
+        "historicalClaimsVerified": {
+          "type": "boolean"
+        },
+        "licensedTextEmbedded": {
+          "type": "boolean"
+        }
+      }
+    },
+    "episodes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/episode"
+      }
+    }
+  },
+  "$defs": {
+    "passage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "bookId",
+        "chapterStart",
+        "chapterEnd"
+      ],
+      "properties": {
+        "bookId": {
+          "type": "string"
+        },
+        "chapterStart": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "chapterEnd": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "choice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "kind",
+        "next"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "inspection",
+            "learning_focus",
+            "narrative_perspective",
+            "reflection"
+          ]
+        },
+        "next": {
+          "type": "string"
+        }
+      }
+    },
+    "scene": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "choices"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "choices": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/choice"
+          }
+        }
+      }
+    },
+    "map": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "confidence"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "none",
+            "historical",
+            "reconstruction",
+            "symbolic"
+          ]
+        },
+        "confidence": {
+          "enum": [
+            "verified",
+            "approximate",
+            "disputed",
+            "unknown",
+            "not_geolocatable"
+          ]
+        }
+      }
+    },
+    "episode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "primaryPassage",
+        "outcomeId",
+        "outcomeLocked",
+        "scenes",
+        "historicalReview",
+        "map",
+        "notForPublicRelease"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "primaryPassage": {
+          "$ref": "#/$defs/passage"
+        },
+        "outcomeId": {
+          "type": "string"
+        },
+        "outcomeLocked": {
+          "const": true
+        },
+        "scenes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/scene"
+          }
+        },
+        "historicalReview": {
+          "enum": [
+            "not_reviewed",
+            "in_progress",
+            "approved"
+          ]
+        },
+        "map": {
+          "$ref": "#/$defs/map"
+        },
+        "notForPublicRelease": {
+          "type": "boolean"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "content": {
+            "properties": {
+              "published": {
+                "const": true
+              }
+            }
+          }
+        },
+        "required": [
+          "content"
+        ]
+      },
+      "then": {
+        "properties": {
+          "content": {
+            "properties": {
+              "reviewStatus": {
+                "const": "publishable"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "1.1",
+  "generatedAt": "2026-10-12",
+  "periodCount": 22,
+  "episodeOutlineCount": 219,
+  "rulerRosterCount": 42,
+  "rulersByKingdom": {
+    "united": 3,
+    "north": 19,
+    "south": 20
+  },
+  "prophetIndexCount": 26,
+  "historicalAnchorWithSourceCount": 9,
+  "chaptersInCampaignScope": 686,
+  "chaptersLinkedToOutline": 686,
+  "chaptersAwaitingOutlineMapping": [],
+  "allEpisodesAuthored": false,
+  "allHistoricalFactsChecked": false,
+  "notPublishableWithoutEditorialReview": true
+}

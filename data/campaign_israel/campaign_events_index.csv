@@ -1,0 +1,220 @@
+﻿eventId,order,periodId,titleKo,lane,scriptureChapterRefs,learningFocus,contentStatus,historicalStatus
+isl-0001,1,P00,창조와 인간의 자리,context,GEN:1-2,문학 장르와 신앙 서술,outline_not_authored,pending_per_event_review
+isl-0002,2,P00,타락과 에덴 동산,context,GEN:3,창조와 인간의 책임,outline_not_authored,pending_per_event_review
+isl-0003,3,P00,가인과 아벨,context,GEN:4,폭력의 시작,outline_not_authored,pending_per_event_review
+isl-0004,4,P00,족보와 노아,context,GEN:5-6,족보의 역할,outline_not_authored,pending_per_event_review
+isl-0005,5,P00,홍수와 언약,context,GEN:7-9,신학적 맥락,outline_not_authored,pending_per_event_review
+isl-0006,6,P00,민족들의 목록과 바벨,context,GEN:10-11,족장 이야기 전의 배경,outline_not_authored,pending_per_event_review
+isl-0007,7,P00,역대상의 계보와 이스라엘의 기억,context,1CH:1-9,실제 시간 순서가 아닌 문헌 자료실,outline_not_authored,pending_per_event_review
+isl-0008,8,P01,아브람을 부르심,patriarch,GEN:12,땅과 민족의 약속,outline_not_authored,pending_per_event_review
+isl-0009,9,P01,롯과의 분리,patriarch,GEN:13,가나안의 지리,outline_not_authored,pending_per_event_review
+isl-0010,10,P01,롯을 구출함,patriarch,GEN:14,고대 도시·왕명 연대 미확정,outline_not_authored,pending_per_event_review
+isl-0011,11,P01,횃불 언약,patriarch,GEN:15,자손과 땅의 약속,outline_not_authored,pending_per_event_review
+isl-0012,12,P01,하갈과 이스마엘,patriarch,GEN:16,가족의 갈등,outline_not_authored,pending_per_event_review
+isl-0013,13,P01,할례 언약과 이름 변화,patriarch,GEN:17,약속의 표시,outline_not_authored,pending_per_event_review
+isl-0014,14,P01,소돔과 고모라,patriarch,GEN:18-19,심판 서사·위치 미확정,outline_not_authored,pending_per_event_review
+isl-0015,15,P01,아브라함과 아비멜렉,patriarch,GEN:20,그랄 전승,outline_not_authored,pending_per_event_review
+isl-0016,16,P01,이삭의 출생,patriarch,GEN:21,약속 성취,outline_not_authored,pending_per_event_review
+isl-0017,17,P01,이삭을 바치라는 시험,patriarch,GEN:22,믿음과 순종,outline_not_authored,pending_per_event_review
+isl-0018,18,P01,사라의 죽음과 막벨라,patriarch,GEN:23,매장지 기억,outline_not_authored,pending_per_event_review
+isl-0019,19,P01,리브가와 이삭,patriarch,GEN:24,가족의 계보,outline_not_authored,pending_per_event_review
+isl-0020,20,P01,아브라함의 죽음과 에서·야곱,patriarch,GEN:25,장자권,outline_not_authored,pending_per_event_review
+isl-0021,21,P01,이삭의 우물과 언약,patriarch,GEN:26,정착 생활,outline_not_authored,pending_per_event_review
+isl-0022,22,P01,야곱의 축복과 벧엘,patriarch,GEN:27-28,도주와 약속,outline_not_authored,pending_per_event_review
+isl-0023,23,P01,야곱의 결혼과 자녀,patriarch,GEN:29-30,열두 지파의 기원,outline_not_authored,pending_per_event_review
+isl-0024,24,P01,야곱의 귀향과 얍복,patriarch,GEN:31-33,이스라엘 이름,outline_not_authored,pending_per_event_review
+isl-0025,25,P01,디나와 세겜의 사건,patriarch,GEN:34,폭력 묘사 배려,outline_not_authored,pending_per_event_review
+isl-0026,26,P01,벧엘과 라헬의 죽음,patriarch,GEN:35,지파 계보,outline_not_authored,pending_per_event_review
+isl-0027,27,P01,에서의 족보,patriarch,GEN:36,에돔의 계보,outline_not_authored,pending_per_event_review
+isl-0028,28,P02,요셉의 꿈과 형제들,joseph,GEN:37,가족 분열,outline_not_authored,pending_per_event_review
+isl-0029,29,P02,유다와 다말,joseph,GEN:38,유다 지파 계보,outline_not_authored,pending_per_event_review
+isl-0030,30,P02,보디발 집과 감옥,joseph,GEN:39-40,이집트의 삶,outline_not_authored,pending_per_event_review
+isl-0031,31,P02,요셉의 총리 등용,joseph,GEN:41,기근 대비,outline_not_authored,pending_per_event_review
+isl-0032,32,P02,형제들의 첫 방문,joseph,GEN:42,기근과 이주,outline_not_authored,pending_per_event_review
+isl-0033,33,P02,베냐민을 데려옴,joseph,GEN:43-44,형제 관계의 변화,outline_not_authored,pending_per_event_review
+isl-0034,34,P02,요셉의 정체와 용서,joseph,GEN:45,화해,outline_not_authored,pending_per_event_review
+isl-0035,35,P02,야곱 가족이 애굽으로,joseph,GEN:46-47,이집트 고센의 지리,outline_not_authored,pending_per_event_review
+isl-0036,36,P02,에브라임·므낫세 축복,joseph,GEN:48,요셉 자손 지파,outline_not_authored,pending_per_event_review
+isl-0037,37,P02,열두 아들에 대한 축복,joseph,GEN:49,계보와 복,outline_not_authored,pending_per_event_review
+isl-0038,38,P02,야곱 장례와 요셉의 죽음,joseph,GEN:50,창세기의 마무리,outline_not_authored,pending_per_event_review
+isl-0039,39,P03,애굽의 압제와 모세의 탄생,exodus,EXO:1-2,이스라엘의 고난,outline_not_authored,pending_per_event_review
+isl-0040,40,P03,떨기나무에서의 부르심,exodus,EXO:3-4,하나님의 이름,outline_not_authored,pending_per_event_review
+isl-0041,41,P03,바로와 첫 대면,exodus,EXO:5-6,노동과 압박,outline_not_authored,pending_per_event_review
+isl-0042,42,P03,열 가지 재앙,exodus,EXO:7-11,재앙의 순서,outline_not_authored,pending_per_event_review
+isl-0043,43,P03,첫 유월절과 출애굽,exodus,EXO:12-13,절기와 해방,outline_not_authored,pending_per_event_review
+isl-0044,44,P03,바다를 건넘,exodus,EXO:14-15,경로·바다 위치 논쟁,outline_not_authored,pending_per_event_review
+isl-0045,45,P03,만나와 메추라기,exodus,EXO:16,광야 식량,outline_not_authored,pending_per_event_review
+isl-0046,46,P03,르비딤과 아말렉,exodus,EXO:17,갈등과 물,outline_not_authored,pending_per_event_review
+isl-0047,47,P03,이드로의 조언,exodus,EXO:18,재판 체계,outline_not_authored,pending_per_event_review
+isl-0048,48,P03,시내산 언약과 십계명,exodus,EXO:19-20,언약 형성,outline_not_authored,pending_per_event_review
+isl-0049,49,P03,사회법과 언약 체결,exodus,EXO:21-24,법과 공동체,outline_not_authored,pending_per_event_review
+isl-0050,50,P03,성막과 제사장 지침,exodus,EXO:25-31;LEV:1-7,비사건 콘텐츠/규범형 학습,outline_not_authored,pending_per_event_review
+isl-0051,51,P03,금송아지와 언약 갱신,exodus,EXO:32-34,실패와 용서,outline_not_authored,pending_per_event_review
+isl-0052,52,P03,성막 제작과 완성,exodus,EXO:35-40,성막 구조,outline_not_authored,pending_per_event_review
+isl-0053,53,P03,제사장 위임과 나답·아비후,exodus,LEV:8-10,거룩함,outline_not_authored,pending_per_event_review
+isl-0054,54,P03,정결법·속죄일·성결 규례,exodus,LEV:11-27,비사건 콘텐츠/주제형 학습,outline_not_authored,pending_per_event_review
+isl-0055,55,P04,첫 계수와 진영 구성,wilderness,NUM:1-4,열두 지파의 배치,outline_not_authored,pending_per_event_review
+isl-0056,56,P04,나실인·봉헌·유월절,wilderness,NUM:5-9,광야 공동체,outline_not_authored,pending_per_event_review
+isl-0057,57,P04,출발과 원망,wilderness,NUM:10-12,인도하심,outline_not_authored,pending_per_event_review
+isl-0058,58,P04,정탐꾼과 불신앙,wilderness,NUM:13-14,40년 광야,outline_not_authored,pending_per_event_review
+isl-0059,59,P04,고라의 반역과 아론의 지팡이,wilderness,NUM:15-17,권위와 제사,outline_not_authored,pending_per_event_review
+isl-0060,60,P04,붉은 암송아지와 므리바,wilderness,NUM:18-20,정결과 모세의 실수,outline_not_authored,pending_per_event_review
+isl-0061,61,P04,놋뱀과 광야 승리,wilderness,NUM:21,에돔 우회와 전투,outline_not_authored,pending_per_event_review
+isl-0062,62,P04,발락과 발람,wilderness,NUM:22-24,모압과 여호와,outline_not_authored,pending_per_event_review
+isl-0063,63,P04,브올 사건·새 인구 조사,wilderness,NUM:25-27,다음 세대,outline_not_authored,pending_per_event_review
+isl-0064,64,P04,절기와 전쟁과 서원,wilderness,NUM:28-31,공동체 규례,outline_not_authored,pending_per_event_review
+isl-0065,65,P04,요단 동편 지파와 경로,wilderness,NUM:32-33,요단 동편 정착,outline_not_authored,pending_per_event_review
+isl-0066,66,P04,땅의 경계·도피성·상속,wilderness,NUM:34-36,정착 준비,outline_not_authored,pending_per_event_review
+isl-0067,67,P04,모세의 역사 회고와 십계명,wilderness,DEU:1-5,후대 교육,outline_not_authored,pending_per_event_review
+isl-0068,68,P04,쉐마와 율법 교육,wilderness,DEU:6-11,자녀 교육,outline_not_authored,pending_per_event_review
+isl-0069,69,P04,언약의 법과 사회 윤리,wilderness,DEU:12-26,학습 자료 중심,outline_not_authored,pending_per_event_review
+isl-0070,70,P04,복과 저주·언약 갱신,wilderness,DEU:27-30,순종·불순종,outline_not_authored,pending_per_event_review
+isl-0071,71,P04,여호수아 위임·모세의 노래,wilderness,DEU:31-32,세대 교체,outline_not_authored,pending_per_event_review
+isl-0072,72,P04,모세의 축복과 죽음,wilderness,DEU:33-34,여호수아로 전환,outline_not_authored,pending_per_event_review
+isl-0073,73,P05,여호수아 소명과 정탐,settlement,JOS:1-2,지도 열기,outline_not_authored,pending_per_event_review
+isl-0074,74,P05,요단강 도하와 길갈 돌,settlement,JOS:3-5,기억과 의례,outline_not_authored,pending_per_event_review
+isl-0075,75,P05,여리고의 함락,settlement,JOS:6,고고학·연대 논쟁,outline_not_authored,pending_per_event_review
+isl-0076,76,P05,아간 사건과 아이 성,settlement,JOS:7-8,전쟁과 언약,outline_not_authored,pending_per_event_review
+isl-0077,77,P05,기브온과 남부 연합,settlement,JOS:9-10,고대 정치 구도,outline_not_authored,pending_per_event_review
+isl-0078,78,P05,북부 가나안 전쟁,settlement,JOS:11-12,지도 연출에 불확실성 표기,outline_not_authored,pending_per_event_review
+isl-0079,79,P05,요단 동서편 땅 분배,settlement,JOS:13-19,지파별 영역,outline_not_authored,pending_per_event_review
+isl-0080,80,P05,도피성과 레위인의 성읍,settlement,JOS:20-21,거주 인프라,outline_not_authored,pending_per_event_review
+isl-0081,81,P05,동편 제단 논쟁,settlement,JOS:22,지파 연합,outline_not_authored,pending_per_event_review
+isl-0082,82,P05,세겜 언약 갱신,settlement,JOS:23-24,지도/언약,outline_not_authored,pending_per_event_review
+isl-0083,83,P06,사사 시대의 시작과 실패,judges,JDG:1-2,지파의 분산,outline_not_authored,pending_per_event_review
+isl-0084,84,P06,옷니엘과 에훗과 삼갈,judges,JDG:3,사사 주기,outline_not_authored,pending_per_event_review
+isl-0085,85,P06,드보라와 바락,judges,JDG:4-5,드보라의 노래,outline_not_authored,pending_per_event_review
+isl-0086,86,P06,기드온의 소명과 승리,judges,JDG:6-8,주변 세력,outline_not_authored,pending_per_event_review
+isl-0087,87,P06,아비멜렉의 참극,judges,JDG:9,왕정 전조,outline_not_authored,pending_per_event_review
+isl-0088,88,P06,돌라와 야일,judges,JDG:10,작은 사사들,outline_not_authored,pending_per_event_review
+isl-0089,89,P06,입다와 서원,judges,JDG:11-12,서사 속 모호한 지점 분리,outline_not_authored,pending_per_event_review
+isl-0090,90,P06,입산·엘론·압돈,judges,JDG:12,작은 사사들,outline_not_authored,pending_per_event_review
+isl-0091,91,P06,삼손과 블레셋,judges,JDG:13-16,삼손 서사 전체,outline_not_authored,pending_per_event_review
+isl-0092,92,P06,미가의 신상과 단 지파,judges,JDG:17-18,종교 혼란,outline_not_authored,pending_per_event_review
+isl-0093,93,P06,기브아 사건과 베냐민 전쟁,judges,JDG:19-21,폭력/미성년자 노출 보호,outline_not_authored,pending_per_event_review
+isl-0094,94,P06,"룻과 나오미, 보아스",judges,RUT:1-4,다윗 왕가로 이어지는 계보,outline_not_authored,pending_per_event_review
+isl-0095,95,P07,사무엘의 출생과 엘리 가문,united,1SA:1-3,제사장 체제,outline_not_authored,pending_per_event_review
+isl-0096,96,P07,언약궤와 블레셋,united,1SA:4-7,실로·벧세메스·미스바,outline_not_authored,pending_per_event_review
+isl-0097,97,P07,왕을 요구하는 백성,united,1SA:8,왕정 체제로 변화,outline_not_authored,pending_per_event_review
+isl-0098,98,P07,사울의 기름부음과 즉위,united,1SA:9-12,첫 왕,outline_not_authored,pending_per_event_review
+isl-0099,99,P07,사울의 불순종과 갈등,united,1SA:13-15,언약 순종,outline_not_authored,pending_per_event_review
+isl-0100,100,P07,다윗의 선택과 기름부음,united,1SA:16,외모와 중심,outline_not_authored,pending_per_event_review
+isl-0101,101,P07,다윗과 골리앗,united,1SA:17,전투와 신뢰,outline_not_authored,pending_per_event_review
+isl-0102,102,P07,"다윗과 요나단, 사울의 질투",united,1SA:18-20,우정과 왕권 갈등,outline_not_authored,pending_per_event_review
+isl-0103,103,P07,다윗의 도피와 놉의 학살,united,1SA:21-23,참혹한 결과,outline_not_authored,pending_per_event_review
+isl-0104,104,P07,다윗이 사울을 살림,united,1SA:24;1SA:26,권력과 절제,outline_not_authored,pending_per_event_review
+isl-0105,105,P07,나발과 아비가일,united,1SA:25,분쟁 해결,outline_not_authored,pending_per_event_review
+isl-0106,106,P07,블레셋과 엔돌의 사울,united,1SA:27-29,전쟁 전야,outline_not_authored,pending_per_event_review
+isl-0107,107,P07,시글락과 길보아,united,1SA:30-31;1CH:10,사울의 최후,outline_not_authored,pending_per_event_review
+isl-0108,108,P08,다윗의 애가와 헤브론 즉위,united,2SA:1-2,남북 통합 이전 단계,outline_not_authored,pending_per_event_review
+isl-0109,109,P08,이스보셋과 통일 과정,united,2SA:3-5,내전과 왕조 전환,outline_not_authored,pending_per_event_review
+isl-0110,110,P08,예루살렘 점령과 언약궤,united,2SA:5-6;1CH:11-16,도성·종교 중심,outline_not_authored,pending_per_event_review
+isl-0111,111,P08,다윗 언약,united,2SA:7;1CH:17,왕조와 약속,outline_not_authored,pending_per_event_review
+isl-0112,112,P08,다윗 왕국의 전쟁과 신하들,united,2SA:8-10;1CH:18-20,영역 지도는 추정 표시,outline_not_authored,pending_per_event_review
+isl-0113,113,P08,밧세바와 우리아,united,2SA:11-12,권력 남용과 회개,outline_not_authored,pending_per_event_review
+isl-0114,114,P08,암논·다말과 압살롬,united,2SA:13-15,가정의 상처,outline_not_authored,pending_per_event_review
+isl-0115,115,P08,압살롬의 반란과 최후,united,2SA:16-19,국가 내전,outline_not_authored,pending_per_event_review
+isl-0116,116,P08,세바의 반란과 말년,united,2SA:20-23,왕권 후반,outline_not_authored,pending_per_event_review
+isl-0117,117,P08,인구 조사와 타작마당,united,2SA:24;1CH:21,성전 자리와 연결,outline_not_authored,pending_per_event_review
+isl-0118,118,P08,성전 준비와 다윗의 유언,united,1CH:22-29,역대기의 관점,outline_not_authored,pending_per_event_review
+isl-0119,119,P09,왕위 계승 경쟁과 솔로몬 즉위,united,1KI:1-2,아도니야와 솔로몬,outline_not_authored,pending_per_event_review
+isl-0120,120,P09,솔로몬의 지혜와 재판,united,1KI:3-4;2CH:1,국가 조직,outline_not_authored,pending_per_event_review
+isl-0121,121,P09,성전 건축과 봉헌,united,1KI:5-8;2CH:2-7,성막→성전,outline_not_authored,pending_per_event_review
+isl-0122,122,P09,솔로몬의 외교·경제·건축,united,1KI:9-10;2CH:8-9,교역 관계,outline_not_authored,pending_per_event_review
+isl-0123,123,P09,솔로몬의 우상숭배와 심판 예고,united,1KI:11,분열의 신학적 설명,outline_not_authored,pending_per_event_review
+isl-0124,124,P10,세겜 회의와 왕국 분열,both,1KI:12;2CH:10-11,르호보암 강압과 여로보암 선택,outline_not_authored,pending_per_event_review
+isl-0125,125,P10,벧엘과 단의 금송아지,north,1KI:12-13,북왕국 예배 제도,outline_not_authored,pending_per_event_review
+isl-0126,126,P10,여로보암 가문의 심판 예고,north,1KI:14,아히야와 여로보암,outline_not_authored,pending_per_event_review
+isl-0127,127,P10,르호보암과 애굽 시삭의 침공,south,1KI:14;2CH:12,남유다 초반,outline_not_authored,pending_per_event_review
+isl-0128,128,P10,아비얌과 아사의 통치,south,1KI:15;2CH:13-16,개혁과 전쟁,outline_not_authored,pending_per_event_review
+isl-0129,129,P10,나답·바아사·엘라·시므리,north,1KI:15-16,연속 왕조 교체,outline_not_authored,pending_per_event_review
+isl-0130,130,P10,디브니와 오므리의 왕권 경쟁,north,1KI:16,경합자로 표시,outline_not_authored,pending_per_event_review
+isl-0131,131,P10,오므리와 사마리아 수도,north,1KI:16,수도 변화,outline_not_authored,pending_per_event_review
+isl-0132,132,P10,여호사밧의 개혁,south,1KI:22;2CH:17-20,동시대 왕국 비교,outline_not_authored,pending_per_event_review
+isl-0133,133,P11,아합과 이세벨의 통치,north,1KI:16,바알 숭배와 권력,outline_not_authored,pending_per_event_review
+isl-0134,134,P11,"엘리야와 가뭄, 사르밧",north,1KI:17,선지자 등장,outline_not_authored,pending_per_event_review
+isl-0135,135,P11,갈멜산의 대결,north,1KI:18,신앙과 권력,outline_not_authored,pending_per_event_review
+isl-0136,136,P11,호렙산의 엘리야,north,1KI:19,절망과 사명,outline_not_authored,pending_per_event_review
+isl-0137,137,P11,아람과 아합의 전쟁,north,1KI:20,강국과 전투,outline_not_authored,pending_per_event_review
+isl-0138,138,P11,나봇 포도원 사건,north,1KI:21,정의와 억압,outline_not_authored,pending_per_event_review
+isl-0139,139,P11,아합의 최후와 미가야,both,1KI:22;2CH:18,북왕국·남왕국 동맹,outline_not_authored,pending_per_event_review
+isl-0140,140,P11,아하시야와 엘리야,north,2KI:1,왕위 계승,outline_not_authored,pending_per_event_review
+isl-0141,141,P12,남유다 여호람 통치,south,2CH:21,아합 집안과 왕실 혼인,outline_not_authored,pending_per_event_review
+isl-0142,142,P12,엘리야 승천과 엘리사,north,2KI:2,예언 사역 계승,outline_not_authored,pending_per_event_review
+isl-0143,143,P12,모압과의 전쟁,north,2KI:3,모압석비와 별개 시각,outline_not_authored,pending_per_event_review
+isl-0144,144,P12,과부의 기름·수넴 여인,north,2KI:4,삶의 회복,outline_not_authored,pending_per_event_review
+isl-0145,145,P12,나아만과 게하시,north,2KI:5,아람과 이스라엘,outline_not_authored,pending_per_event_review
+isl-0146,146,P12,도끼·도단·사마리아 포위,north,2KI:6-7,아람의 위협,outline_not_authored,pending_per_event_review
+isl-0147,147,P12,수넴 여인·하사엘 예고,north,2KI:8,아람 왕권 변화,outline_not_authored,pending_per_event_review
+isl-0148,148,P12,예후의 쿠데타와 아합 왕가 최후,both,2KI:9-10,예후의 폭력과 개혁,outline_not_authored,pending_per_event_review
+isl-0149,149,P12,아달랴의 찬탈과 요아스 보호,south,2KI:11;2CH:22-23,남유다 왕조 위기,outline_not_authored,pending_per_event_review
+isl-0150,150,P12,요아스의 성전 수리,south,2KI:12;2CH:24,개혁과 쇠퇴,outline_not_authored,pending_per_event_review
+isl-0151,151,P12,북왕국 여호아하스와 요아스,north,2KI:13,아람과의 충돌,outline_not_authored,pending_per_event_review
+isl-0152,152,P12,엘리사의 마지막과 죽음,north,2KI:13,예언 사역의 마무리,outline_not_authored,pending_per_event_review
+isl-0153,153,P12,아마샤와 북왕국 요아스의 전쟁,both,2KI:14;2CH:25,왕국 간 군사 충돌,outline_not_authored,pending_per_event_review
+isl-0154,154,P13,여로보암 2세의 확장,north,2KI:14,북왕국 마지막 번영,outline_not_authored,pending_per_event_review
+isl-0155,155,P13,아모스의 정의·예배 비판,north,AMO:1-9,사회 불의와 심판,outline_not_authored,pending_per_event_review
+isl-0156,156,P13,호세아의 언약·우상숭배 비판,north,HOS:1-14,결혼 비유·회복,outline_not_authored,pending_per_event_review
+isl-0157,157,P13,요나와 니느웨,prophetic,JON:1-4,서술 배경과 저술 연대를 분리,outline_not_authored,pending_per_event_review
+isl-0158,158,P13,유다 웃시야와 요담,south,2KI:15;2CH:26-27,남유다 변화,outline_not_authored,pending_per_event_review
+isl-0159,159,P13,북왕국 왕위 쟁탈전,north,2KI:15,스가랴·살룸·므나헴·브가히야·베가,outline_not_authored,pending_per_event_review
+isl-0160,160,P13,앗수르의 조공과 영토 상실,north,2KI:15,제국의 팽창,outline_not_authored,pending_per_event_review
+isl-0161,161,P13,이사야의 소명과 왕국 경고,prophetic,ISA:1-6,남유다 예언의 문학 단락,outline_not_authored,pending_per_event_review
+isl-0162,162,P14,베가·르신과 아하스의 대립,both,2KI:16;ISA:7-8;2CH:28,시리아-에브라임 전쟁,outline_not_authored,pending_per_event_review
+isl-0163,163,P14,호세아가 마지막 왕이 됨,north,2KI:17,제국의 종속,outline_not_authored,pending_per_event_review
+isl-0164,164,P14,사마리아 포위와 북왕국 멸망,north,2KI:17,722/721 전후 사료 비교,outline_not_authored,pending_per_event_review
+isl-0165,165,P14,강제 이주와 사마리아의 재구성,north,2KI:17,전면적 인구 소멸로 오해 금지,outline_not_authored,pending_per_event_review
+isl-0166,166,P14,북왕국 멸망의 성경적 해석,north,2KI:17;HOS:1-14;AMO:1-9,본문의 원인 분석,outline_not_authored,pending_per_event_review
+isl-0167,167,P15,아하스와 앗수르 종속,south,2KI:16;2CH:28,조공과 종교 정책,outline_not_authored,pending_per_event_review
+isl-0168,168,P15,히스기야의 종교 개혁,south,2KI:18;2CH:29-31,유월절,outline_not_authored,pending_per_event_review
+isl-0169,169,P15,앗수르의 라기스 함락,south,2KI:18;2CH:32;ISA:36,701년 부조 사료,outline_not_authored,pending_per_event_review
+isl-0170,170,P15,예루살렘 포위 위기와 이사야,south,2KI:18-19;ISA:36-37,서로 다른 자료 시점,outline_not_authored,pending_per_event_review
+isl-0171,171,P15,히스기야의 병과 바벨론 사절,south,2KI:20;ISA:38-39,다음 제국의 그림자,outline_not_authored,pending_per_event_review
+isl-0172,172,P15,이사야의 심판·위로·회복 예언,prophetic,ISA:9-66,예언서의 문학·편집 층위 주의,outline_not_authored,pending_per_event_review
+isl-0173,173,P15,미가의 불의 비판과 회복 약속,prophetic,MIC:1-7,북/남 왕국 배경,outline_not_authored,pending_per_event_review
+isl-0174,174,P16,므낫세가 왕이 됨,south,2KI:21;2CH:33,통치 시작,outline_not_authored,pending_per_event_review
+isl-0175,175,P16,므낫세의 우상숭배와 아들 희생,south,2KI:21;2CH:33,절별 활동·7가지 악행과 연결,outline_not_authored,pending_per_event_review
+isl-0176,176,P16,므낫세가 무죄한 피를 흘림,south,2KI:21,과장된 시각 재현 금지,outline_not_authored,pending_per_event_review
+isl-0177,177,P16,역대하에 기록된 므낫세의 겸비,south,2CH:33,열왕기와 역대기 병행 서술 구분,outline_not_authored,pending_per_event_review
+isl-0178,178,P16,아몬의 통치와 죽음,south,2KI:21;2CH:33,왕위 교체,outline_not_authored,pending_per_event_review
+isl-0179,179,P17,요시야의 즉위와 우상 제거,south,2KI:22-23;2CH:34,개혁의 시작,outline_not_authored,pending_per_event_review
+isl-0180,180,P17,성전 수리와 율법책 발견,south,2KI:22;2CH:34,중심 사건,outline_not_authored,pending_per_event_review
+isl-0181,181,P17,여선지자 훌다의 경고,south,2KI:22;2CH:34,심판 예고와 반응,outline_not_authored,pending_per_event_review
+isl-0182,182,P17,언약 갱신과 유월절,south,2KI:23;2CH:35,공동체 개혁,outline_not_authored,pending_per_event_review
+isl-0183,183,P17,요시야 시대의 스바냐,prophetic,ZEP:1-3,선지서의 시대 배경,outline_not_authored,pending_per_event_review
+isl-0184,184,P17,요시야의 므깃도 죽음,south,2KI:23;2CH:35,애굽의 세력 부상,outline_not_authored,pending_per_event_review
+isl-0185,185,P17,나훔의 니느웨 심판,prophetic,NAM:1-3,기원전 612년 전후 독립 연표,outline_not_authored,pending_per_event_review
+isl-0186,186,P17,하박국의 질문과 응답,prophetic,HAB:1-3,정확한 작성 시기 단정 금지,outline_not_authored,pending_per_event_review
+isl-0187,187,P18,여호아하스의 짧은 통치,south,2KI:23;2CH:36,이집트 개입,outline_not_authored,pending_per_event_review
+isl-0188,188,P18,여호야김과 바벨론의 부상,south,2KI:23-24;2CH:36,애굽→바벨론 패권,outline_not_authored,pending_per_event_review
+isl-0189,189,P18,예레미야의 경고와 성전 설교,prophetic,JER:1-26,예언서 배열과 사건 연대는 별개,outline_not_authored,pending_per_event_review
+isl-0190,190,P18,바룩과 두루마리를 불사른 왕,south,JER:36,왕과 말씀,outline_not_authored,pending_per_event_review
+isl-0191,191,P18,바룩에게 주어진 말씀,prophetic,JER:45,예레미야서 배열과 연대 차이,outline_not_authored,pending_per_event_review
+isl-0192,192,P18,열방에 대한 예레미야의 예언,prophetic,JER:46-51,애굽·블레셋·모압·암몬·에돔·바벨론 등,outline_not_authored,pending_per_event_review
+isl-0193,193,P18,여호야긴 시대 첫 주요 포로 이송,south,2KI:24;2CH:36;JER:27-29,597년 바벨론 연대기,outline_not_authored,pending_per_event_review
+isl-0194,194,P18,시드기야의 즉위와 정세,south,2KI:24;JER:27-29,바벨론 봉신,outline_not_authored,pending_per_event_review
+isl-0195,195,P18,시드기야의 반란과 예루살렘 포위,south,2KI:25;JER:34-39;JER:52,전쟁·기근·정치,outline_not_authored,pending_per_event_review
+isl-0196,196,P18,예루살렘 함락과 성전 소실,south,2KI:25;2CH:36;JER:39;JER:52,587/586년경/학술 연대차,outline_not_authored,pending_per_event_review
+isl-0197,197,P18,시드기야가 붙잡히고 포로가 됨,south,2KI:25;JER:39,잔혹행위 장면 유아 보호,outline_not_authored,pending_per_event_review
+isl-0198,198,P18,성전 기물과 포로 이동,south,2KI:25;JER:52,포로 규모의 단계 구분,outline_not_authored,pending_per_event_review
+isl-0199,199,P18,남은 농민과 그다랴 행정,south,2KI:25;JER:40,인구가 전부 떠난 것은 아님,outline_not_authored,pending_per_event_review
+isl-0200,200,P18,그다랴 암살과 애굽 이주,south,2KI:25;JER:41-44,멸망 이후 잔존 사회,outline_not_authored,pending_per_event_review
+isl-0201,201,P19,예루살렘을 위한 애가,exile,LAM:1-5,애가를 영화식 사건으로 오인 금지,outline_not_authored,pending_per_event_review
+isl-0202,202,P19,예레미야의 위로와 새 언약,exile,JER:30-33,심판과 회복의 언약,outline_not_authored,pending_per_event_review
+isl-0203,203,P19,에스겔의 소명과 성전 환상,exile,EZK:1-11,상징·환상 표현,outline_not_authored,pending_per_event_review
+isl-0204,204,P19,예루살렘 멸망과 에스겔 예언,exile,EZK:12-24;EZK:33,배경과 본문 연결,outline_not_authored,pending_per_event_review
+isl-0205,205,P19,열방 심판과 회복의 예언,exile,EZK:25-32;EZK:34-39,두 막대기/마른 뼈,outline_not_authored,pending_per_event_review
+isl-0206,206,P19,새 성전 환상,exile,EZK:40-48,환상 지도 vs 실제 역사 지도,outline_not_authored,pending_per_event_review
+isl-0207,207,P19,다니엘과 바벨론 궁정 이야기,exile,DAN:1-6,인물/작성 연대 구분,outline_not_authored,pending_per_event_review
+isl-0208,208,P19,다니엘의 묵시 환상,exile,DAN:7-12,묵시 문학·상징,outline_not_authored,pending_per_event_review
+isl-0209,209,P19,오바댜의 에돔 신탁,prophetic,OBA:1,책의 정확한 작성 시기 단정 금지,outline_not_authored,pending_per_event_review
+isl-0210,210,P19,여호야긴 석방으로 마감,exile,2KI:25;JER:52,왕조의 여지,outline_not_authored,pending_per_event_review
+isl-0211,211,P20,고레스와 귀환 허용,epilogue,EZR:1;2CH:36,성경 본문과 고레스 원통의 문구 혼동 금지,outline_not_authored,pending_per_event_review
+isl-0212,212,P20,귀환자의 명부와 제단,epilogue,EZR:2-3,사람·지파 목록,outline_not_authored,pending_per_event_review
+isl-0213,213,P20,성전 재건 방해와 완공,epilogue,EZR:4-6;HAG:1-2;ZEC:1-8,페르시아 통치,outline_not_authored,pending_per_event_review
+isl-0214,214,P20,에스라의 귀환과 율법 교육,epilogue,EZR:7-10,율법 교육,outline_not_authored,pending_per_event_review
+isl-0215,215,P20,느헤미야의 성벽 재건,epilogue,NEH:1-7,예루살렘 재건,outline_not_authored,pending_per_event_review
+isl-0216,216,P20,율법 낭독·언약·봉헌,epilogue,NEH:8-13,공동체 회복,outline_not_authored,pending_per_event_review
+isl-0217,217,P20,에스더의 디아스포라 이야기,epilogue,EST:1-10,페르시아 역사적 배경,outline_not_authored,pending_per_event_review
+isl-0218,218,P20,스가랴 후기·말라기의 메시지,epilogue,ZEC:9-14;MAL:1-4,저술·편집 시기 연구 참고,outline_not_authored,pending_per_event_review
+isl-0219,219,PXX,요엘의 예언과 여호와의 날,prophetic,JOL:1-3,저술 시기 미확정·시간순 연대표 비표시,outline_not_authored,pending_per_event_review

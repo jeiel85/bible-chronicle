@@ -1,0 +1,65 @@
+﻿episode_id,passage,title_ko,place_ids,sensitive_tags,public_ready
+ep-gen-116,GEN.37.1-GEN.37.4,편애와 형제 갈등,canaan,family_conflict,False
+ep-gen-117,GEN.37.5-GEN.37.11,두 꿈과 형제들의 반응,canaan,,False
+ep-gen-118,GEN.37.12-GEN.37.17,형들을 찾아가는 길,"shechem,dothan",,False
+ep-gen-119,GEN.37.18-GEN.37.28,구덩이와 매매,dothan,child_trafficking,False
+ep-gen-120,GEN.37.29-GEN.37.36,옷으로 속이다,"canaan,egypt","grief,child_trafficking",False
+ep-gen-121,GEN.38.1-GEN.38.11,유다의 집과 다말,"adullam,timnah","death,sexual_ethics",False
+ep-gen-122,GEN.38.12-GEN.38.19,다말과 증표,timnah,"sexual_ethics,adult_theme",False
+ep-gen-123,GEN.38.20-GEN.38.23,찾지 못한 증표,timnah,adult_theme,False
+ep-gen-124,GEN.38.24-GEN.38.26,다말의 정당함 인정,canaan,"threatened_execution,sexual_ethics",False
+ep-gen-125,GEN.38.27-GEN.38.30,베레스와 세라,canaan,birth,False
+ep-gen-126,GEN.39.1-GEN.39.6,애굽 집의 요셉,egypt,,False
+ep-gen-127,GEN.39.7-GEN.39.12,거절과 도망,egypt,sexual_coercion,False
+ep-gen-128,GEN.39.13-GEN.39.18,거짓 고발,egypt,"false_accusation,sexual_coercion",False
+ep-gen-129,GEN.39.19-GEN.39.23,감옥에서도 계속된 이야기,egypt,imprisonment,False
+ep-gen-130,GEN.40.1-GEN.40.8,두 관원의 꿈,egypt,,False
+ep-gen-131,GEN.40.9-GEN.40.15,술 맡은 관원장의 꿈,egypt,,False
+ep-gen-132,GEN.40.16-GEN.40.19,떡 굽는 관원장의 꿈,egypt,death_sentence,False
+ep-gen-133,GEN.40.20-GEN.40.23,엇갈린 결과와 잊힌 요셉,egypt,execution,False
+ep-gen-134,GEN.41.1-GEN.41.8,바로의 두 꿈,"nile,egypt",,False
+ep-gen-135,GEN.41.9-GEN.41.16,기억나는 요셉,egypt,,False
+ep-gen-136,GEN.41.17-GEN.41.32,풍년과 흉년의 예고,"nile,egypt",,False
+ep-gen-137,GEN.41.33-GEN.41.40,식량 관리 제안,egypt,,False
+ep-gen-138,GEN.41.41-GEN.41.45,왕의 권한을 받은 요셉,egypt,,False
+ep-gen-139,GEN.41.46-GEN.41.52,저장과 두 아들,egypt,,False
+ep-gen-140,GEN.41.53-GEN.41.57,흉년 시작과 곡식 배급,"egypt,canaan",famine,False
+ep-gen-141,GEN.42.1-GEN.42.5,형제들의 첫 애굽행,"canaan,egypt",famine,False
+ep-gen-142,GEN.42.6-GEN.42.17,알아보지 못하는 형제들,egypt,imprisonment,False
+ep-gen-143,GEN.42.18-GEN.42.25,시므온이 남다,egypt,"guilt,imprisonment",False
+ep-gen-144,GEN.42.26-GEN.42.28,되돌아온 돈,"canaan,egypt",,False
+ep-gen-145,GEN.42.29-GEN.42.38,야곱의 두려움,canaan,grief,False
+ep-gen-146,GEN.43.1-GEN.43.10,유다의 책임 선언,canaan,famine,False
+ep-gen-147,GEN.43.11-GEN.43.15,예물과 두 번째 여정,"canaan,egypt",famine,False
+ep-gen-148,GEN.43.16-GEN.43.25,요셉의 집으로,egypt,,False
+ep-gen-149,GEN.43.26-GEN.43.34,형제들의 식탁,egypt,grief,False
+ep-gen-150,GEN.44.1-GEN.44.5,은잔의 시험,egypt,,False
+ep-gen-151,GEN.44.6-GEN.44.13,은잔 발견,egypt,false_accusation,False
+ep-gen-152,GEN.44.14-GEN.44.17,판결 앞의 형제들,egypt,coercive_power,False
+ep-gen-153,GEN.44.18-GEN.44.34,유다의 긴 변론,egypt,family_grief,False
+ep-gen-154,GEN.45.1-GEN.45.8,요셉의 정체 공개,egypt,reconciliation,False
+ep-gen-155,GEN.45.9-GEN.45.15,아버지를 부르다,"egypt,goshen",reconciliation,False
+ep-gen-156,GEN.45.16-GEN.45.20,바로의 지원,egypt,,False
+ep-gen-157,GEN.45.21-GEN.45.28,야곱에게 전한 소식,canaan,"grief,reconciliation",False
+ep-gen-158,GEN.46.1-GEN.46.7,브엘세바에서 애굽으로,"beersheba,egypt",,False
+ep-gen-159,GEN.46.8-GEN.46.27,내려간 가족의 명단,"canaan,egypt",genealogy,False
+ep-gen-160,GEN.46.28-GEN.46.30,고센에서 재회,goshen,reconciliation,False
+ep-gen-161,GEN.46.31-GEN.46.34,목축업을 소개하다,"goshen,egypt",,False
+ep-gen-162,GEN.47.1-GEN.47.6,바로 앞의 형제들,"egypt,goshen",,False
+ep-gen-163,GEN.47.7-GEN.47.12,야곱과 바로의 만남,"egypt,goshen",,False
+ep-gen-164,GEN.47.13-GEN.47.22,기근 아래 애굽의 토지,egypt,"famine,economic_inequality",False
+ep-gen-165,GEN.47.23-GEN.47.26,농지와 오분의 일,egypt,economic_inequality,False
+ep-gen-166,GEN.47.27-GEN.47.31,야곱의 마지막 부탁,"goshen,canaan","death,grief",False
+ep-gen-167,GEN.48.1-GEN.48.7,요셉의 아들을 데려오다,egypt,illness,False
+ep-gen-168,GEN.48.8-GEN.48.16,손을 교차해 축복,egypt,,False
+ep-gen-169,GEN.48.17-GEN.48.20,요셉의 반응과 야곱의 뜻,egypt,,False
+ep-gen-170,GEN.48.21-GEN.48.22,땅을 향한 유언,"egypt,canaan",death,False
+ep-gen-171,GEN.49.1-GEN.49.4,장자 르우벤의 자리,egypt,family_conflict,False
+ep-gen-172,GEN.49.5-GEN.49.12,시므온·레위·유다,egypt,"violence,poetry",False
+ep-gen-173,GEN.49.13-GEN.49.21,여러 아들의 축복 시어,egypt,poetry,False
+ep-gen-174,GEN.49.22-GEN.49.28,요셉과 베냐민,egypt,poetry,False
+ep-gen-175,GEN.49.29-GEN.49.33,매장 지시와 야곱의 죽음,"machpelah,canaan","death,grief",False
+ep-gen-176,GEN.50.1-GEN.50.14,가나안에서 야곱의 장례,"egypt,canaan,machpelah","death,grief",False
+ep-gen-177,GEN.50.15-GEN.50.21,형제들의 두려움과 용서,egypt,"reconciliation,guilt",False
+ep-gen-178,GEN.50.22-GEN.50.23,요셉의 후손,egypt,genealogy,False
+ep-gen-179,GEN.50.24-GEN.50.26,요셉의 죽음과 출애굽의 예고,"egypt,canaan","death,grief",False

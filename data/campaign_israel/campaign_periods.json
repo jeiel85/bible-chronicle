@@ -1,0 +1,134 @@
+[
+  {
+    "id": "P00",
+    "nameKo": "시작을 이해하는 배경",
+    "descriptionKo": "성경의 창조·타락·홍수·바벨 이야기. 고대 근동 연대표의 실증 사건처럼 고정하지 않음",
+    "group": "prologue"
+  },
+  {
+    "id": "P01",
+    "nameKo": "족장과 언약",
+    "descriptionKo": "아브라함·이삭·야곱과 약속·열두 아들",
+    "group": "origins"
+  },
+  {
+    "id": "P02",
+    "nameKo": "요셉과 애굽 이주",
+    "descriptionKo": "요셉과 형제들의 사건, 야곱 가족의 이동",
+    "group": "origins"
+  },
+  {
+    "id": "P03",
+    "nameKo": "출애굽과 시내산",
+    "descriptionKo": "모세의 부르심, 출애굽, 시내산 언약과 성막",
+    "group": "formation"
+  },
+  {
+    "id": "P04",
+    "nameKo": "광야와 모압 평지",
+    "descriptionKo": "인구 조사, 불순종, 광야 여정, 모세의 고별 설교",
+    "group": "formation"
+  },
+  {
+    "id": "P05",
+    "nameKo": "가나안 진입과 정착",
+    "descriptionKo": "여호수아와 가나안, 지파 분배, 언약 갱신",
+    "group": "settlement"
+  },
+  {
+    "id": "P06",
+    "nameKo": "사사 시대와 룻",
+    "descriptionKo": "지파 연합의 위기, 사사들의 이야기, 룻의 족보",
+    "group": "settlement"
+  },
+  {
+    "id": "P07",
+    "nameKo": "사무엘과 사울",
+    "descriptionKo": "왕정 요구와 첫 왕 사울",
+    "group": "united"
+  },
+  {
+    "id": "P08",
+    "nameKo": "다윗의 시대",
+    "descriptionKo": "다윗의 등장, 통일, 언약, 왕실 위기",
+    "group": "united"
+  },
+  {
+    "id": "P09",
+    "nameKo": "솔로몬과 왕국 분열",
+    "descriptionKo": "성전 건축과 왕국 분열의 원인·경과",
+    "group": "united"
+  },
+  {
+    "id": "P10",
+    "nameKo": "분열왕국 전기",
+    "descriptionKo": "여로보암/르호보암의 두 체제, 초기 왕위 계승",
+    "group": "divided"
+  },
+  {
+    "id": "P11",
+    "nameKo": "오므리 왕조와 엘리야",
+    "descriptionKo": "아합, 아람과의 충돌, 갈멜산과 엘리야",
+    "group": "divided"
+  },
+  {
+    "id": "P12",
+    "nameKo": "엘리사와 예후 왕조",
+    "descriptionKo": "엘리사, 나아만, 예후 쿠데타, 남유다 아달랴",
+    "group": "divided"
+  },
+  {
+    "id": "P13",
+    "nameKo": "북왕국 후기와 예언자들",
+    "descriptionKo": "여로보암 2세, 호세아·아모스, 앗수르 팽창",
+    "group": "divided"
+  },
+  {
+    "id": "P14",
+    "nameKo": "북이스라엘의 멸망",
+    "descriptionKo": "호세아와 사마리아 함락, 강제 이주",
+    "group": "fall_north"
+  },
+  {
+    "id": "P15",
+    "nameKo": "남유다와 앗수르",
+    "descriptionKo": "아하스, 히스기야, 라기스, 예루살렘 위기",
+    "group": "divided"
+  },
+  {
+    "id": "P16",
+    "nameKo": "므낫세와 아몬",
+    "descriptionKo": "왕하 21장/대하 33장의 서로 다른 서술 범위",
+    "group": "divided"
+  },
+  {
+    "id": "P17",
+    "nameKo": "요시야의 개혁과 죽음",
+    "descriptionKo": "성전, 율법책, 언약 갱신, 므깃도",
+    "group": "divided"
+  },
+  {
+    "id": "P18",
+    "nameKo": "남유다의 멸망",
+    "descriptionKo": "이집트·바벨론·여호야김·여호야긴·시드기야·성전 소실",
+    "group": "fall_south"
+  },
+  {
+    "id": "P19",
+    "nameKo": "포로와 멸망 이후",
+    "descriptionKo": "그다랴, 애가, 에스겔, 다니엘과 포로 생활",
+    "group": "exile"
+  },
+  {
+    "id": "P20",
+    "nameKo": "회복 서사의 입구",
+    "descriptionKo": "고레스·귀환·성전 재건·느헤미야; 메인 캠페인 종료 후 에필로그",
+    "group": "epilogue"
+  },
+  {
+    "id": "PXX",
+    "nameKo": "연대 미확정 문헌의 별도 서가",
+    "descriptionKo": "연대가 확정되지 않은 기록은 시간 순서에 삽입하지 않고 독립 학습 카드로 제공",
+    "group": "undated_appendix"
+  }
+]

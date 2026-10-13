@@ -1,0 +1,24 @@
+{
+  "version": "1.6.0",
+  "baselineZipName": "Bible_Chronicle_Integrated_v1_5.zip",
+  "baselineZipSha256": "2f930bfb1ce0b03c9f39e7cb219116753721bb0b16b7d58c8cc7c88a1d534309",
+  "baselineEntryCount": 159,
+  "changedMetadata": [
+    "LATEST_RELEASE.md",
+    "master/NEXT_REQUEST.md"
+  ],
+  "preservedUnchangedEntryCount": 157,
+  "addedModule": "phases/S01D",
+  "addedIntegration": "genesis_integrated",
+  "addedEpisodes": 64,
+  "addedVerseMappings": 449,
+  "genesisTotalEpisodes": 179,
+  "genesisTotalVerseMappings": 1533,
+  "masterCanonBooks": 66,
+  "masterCanonChapters": 1189,
+  "israelCampaignEpisodeOutlinesRetained": 219,
+  "designDraftOnly": true,
+  "releaseGateBlocked": true,
+  "preservationErrors": [],
+  "addedNewEntryCountIncludingManifest": 41
+}

@@ -1,0 +1,2701 @@
+[
+  {
+    "id": "isl-0001",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0002",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0003",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 4,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0004",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 5,
+        "chapterEnd": 6
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0005",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 7,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0006",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 10,
+        "chapterEnd": 11
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0007",
+    "scriptureRefs": [
+      {
+        "bookId": "1CH",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0008",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0009",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0010",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0011",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0012",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0013",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0014",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 18,
+        "chapterEnd": 19
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0015",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0016",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0017",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0018",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0019",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0020",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0021",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 26,
+        "chapterEnd": 26
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0022",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 27,
+        "chapterEnd": 28
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0023",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 29,
+        "chapterEnd": 30
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0024",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 31,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0025",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0026",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 35,
+        "chapterEnd": 35
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0027",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0028",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 37,
+        "chapterEnd": 37
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0029",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 38,
+        "chapterEnd": 38
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0030",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 39,
+        "chapterEnd": 40
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0031",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 41,
+        "chapterEnd": 41
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0032",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 42,
+        "chapterEnd": 42
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0033",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 43,
+        "chapterEnd": 44
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0034",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 45,
+        "chapterEnd": 45
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0035",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 46,
+        "chapterEnd": 47
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0036",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 48,
+        "chapterEnd": 48
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0037",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 49,
+        "chapterEnd": 49
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0038",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 50,
+        "chapterEnd": 50
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0039",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0040",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 3,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0041",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 5,
+        "chapterEnd": 6
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0042",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 7,
+        "chapterEnd": 11
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0043",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 12,
+        "chapterEnd": 13
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0044",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 14,
+        "chapterEnd": 15
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0045",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0046",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0047",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0048",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 19,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0049",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 21,
+        "chapterEnd": 24
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0050",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 25,
+        "chapterEnd": 31
+      },
+      {
+        "bookId": "LEV",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0051",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 32,
+        "chapterEnd": 34
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0052",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 35,
+        "chapterEnd": 40
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0053",
+    "scriptureRefs": [
+      {
+        "bookId": "LEV",
+        "chapterStart": 8,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0054",
+    "scriptureRefs": [
+      {
+        "bookId": "LEV",
+        "chapterStart": 11,
+        "chapterEnd": 27
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0055",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0056",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 5,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0057",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 10,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0058",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 13,
+        "chapterEnd": 14
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0059",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 15,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0060",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0061",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0062",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 22,
+        "chapterEnd": 24
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0063",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 25,
+        "chapterEnd": 27
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0064",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 28,
+        "chapterEnd": 31
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0065",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 32,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0066",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 34,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0067",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 1,
+        "chapterEnd": 5
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0068",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 6,
+        "chapterEnd": 11
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0069",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 12,
+        "chapterEnd": 26
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0070",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 27,
+        "chapterEnd": 30
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0071",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 31,
+        "chapterEnd": 32
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0072",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 33,
+        "chapterEnd": 34
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0073",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0074",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 3,
+        "chapterEnd": 5
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0075",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 6,
+        "chapterEnd": 6
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0076",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 7,
+        "chapterEnd": 8
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0077",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0078",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 11,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0079",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 13,
+        "chapterEnd": 19
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0080",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 20,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0081",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0082",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 23,
+        "chapterEnd": 24
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0083",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0084",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0085",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 4,
+        "chapterEnd": 5
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0086",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 6,
+        "chapterEnd": 8
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0087",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 9,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0088",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 10,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0089",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 11,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0090",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0091",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 13,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0092",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 17,
+        "chapterEnd": 18
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0093",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 19,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0094",
+    "scriptureRefs": [
+      {
+        "bookId": "RUT",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0095",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0096",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 4,
+        "chapterEnd": 7
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0097",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 8,
+        "chapterEnd": 8
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0098",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 9,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0099",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 13,
+        "chapterEnd": 15
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0100",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0101",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0102",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0103",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 21,
+        "chapterEnd": 23
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0104",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "1SA",
+        "chapterStart": 26,
+        "chapterEnd": 26
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0105",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0106",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 27,
+        "chapterEnd": 29
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0107",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 30,
+        "chapterEnd": 31
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 10,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0108",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0109",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 3,
+        "chapterEnd": 5
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0110",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 5,
+        "chapterEnd": 6
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 11,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0111",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 7,
+        "chapterEnd": 7
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0112",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 8,
+        "chapterEnd": 10
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0113",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 11,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0114",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 13,
+        "chapterEnd": 15
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0115",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 16,
+        "chapterEnd": 19
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0116",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 20,
+        "chapterEnd": 23
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0117",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0118",
+    "scriptureRefs": [
+      {
+        "bookId": "1CH",
+        "chapterStart": 22,
+        "chapterEnd": 29
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0119",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0120",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 3,
+        "chapterEnd": 4
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0121",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 5,
+        "chapterEnd": 8
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 2,
+        "chapterEnd": 7
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0122",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 8,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0123",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 11,
+        "chapterEnd": 11
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0124",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 10,
+        "chapterEnd": 11
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0125",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 12,
+        "chapterEnd": 13
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0126",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0127",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0128",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 13,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0129",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 15,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0130",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0131",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0132",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 17,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0133",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0134",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0135",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0136",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 19,
+        "chapterEnd": 19
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0137",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0138",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0139",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0140",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0141",
+    "scriptureRefs": [
+      {
+        "bookId": "2CH",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0142",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 2,
+        "chapterEnd": 2
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0143",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0144",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 4,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0145",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 5,
+        "chapterEnd": 5
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0146",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 6,
+        "chapterEnd": 7
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0147",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 8,
+        "chapterEnd": 8
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0148",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0149",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 11,
+        "chapterEnd": 11
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 22,
+        "chapterEnd": 23
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0150",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0151",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0152",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0153",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0154",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0155",
+    "scriptureRefs": [
+      {
+        "bookId": "AMO",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0156",
+    "scriptureRefs": [
+      {
+        "bookId": "HOS",
+        "chapterStart": 1,
+        "chapterEnd": 14
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0157",
+    "scriptureRefs": [
+      {
+        "bookId": "JON",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0158",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 26,
+        "chapterEnd": 27
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0159",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0160",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0161",
+    "scriptureRefs": [
+      {
+        "bookId": "ISA",
+        "chapterStart": 1,
+        "chapterEnd": 6
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0162",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 7,
+        "chapterEnd": 8
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 28,
+        "chapterEnd": 28
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0163",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0164",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0165",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0166",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      },
+      {
+        "bookId": "HOS",
+        "chapterStart": 1,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "AMO",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0167",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 28,
+        "chapterEnd": 28
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0168",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 29,
+        "chapterEnd": 31
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0169",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 32,
+        "chapterEnd": 32
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0170",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 19
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 36,
+        "chapterEnd": 37
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0171",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 38,
+        "chapterEnd": 39
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0172",
+    "scriptureRefs": [
+      {
+        "bookId": "ISA",
+        "chapterStart": 9,
+        "chapterEnd": 66
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0173",
+    "scriptureRefs": [
+      {
+        "bookId": "MIC",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0174",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0175",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0176",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0177",
+    "scriptureRefs": [
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0178",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0179",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0180",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0181",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0182",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 35,
+        "chapterEnd": 35
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0183",
+    "scriptureRefs": [
+      {
+        "bookId": "ZEP",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0184",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 35,
+        "chapterEnd": 35
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0185",
+    "scriptureRefs": [
+      {
+        "bookId": "NAM",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0186",
+    "scriptureRefs": [
+      {
+        "bookId": "HAB",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0187",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0188",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0189",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 1,
+        "chapterEnd": 26
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0190",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0191",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 45,
+        "chapterEnd": 45
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0192",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 46,
+        "chapterEnd": 51
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0193",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 27,
+        "chapterEnd": 29
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0194",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 27,
+        "chapterEnd": 29
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0195",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 34,
+        "chapterEnd": 39
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0196",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 39,
+        "chapterEnd": 39
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0197",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 39,
+        "chapterEnd": 39
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0198",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0199",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 40,
+        "chapterEnd": 40
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0200",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 41,
+        "chapterEnd": 44
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0201",
+    "scriptureRefs": [
+      {
+        "bookId": "LAM",
+        "chapterStart": 1,
+        "chapterEnd": 5
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0202",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 30,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0203",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 1,
+        "chapterEnd": 11
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0204",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 12,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "EZK",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0205",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 25,
+        "chapterEnd": 32
+      },
+      {
+        "bookId": "EZK",
+        "chapterStart": 34,
+        "chapterEnd": 39
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0206",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 40,
+        "chapterEnd": 48
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0207",
+    "scriptureRefs": [
+      {
+        "bookId": "DAN",
+        "chapterStart": 1,
+        "chapterEnd": 6
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0208",
+    "scriptureRefs": [
+      {
+        "bookId": "DAN",
+        "chapterStart": 7,
+        "chapterEnd": 12
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0209",
+    "scriptureRefs": [
+      {
+        "bookId": "OBA",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0210",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0211",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0212",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 2,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0213",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 4,
+        "chapterEnd": 6
+      },
+      {
+        "bookId": "HAG",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      },
+      {
+        "bookId": "ZEC",
+        "chapterStart": 1,
+        "chapterEnd": 8
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0214",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 7,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0215",
+    "scriptureRefs": [
+      {
+        "bookId": "NEH",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0216",
+    "scriptureRefs": [
+      {
+        "bookId": "NEH",
+        "chapterStart": 8,
+        "chapterEnd": 13
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0217",
+    "scriptureRefs": [
+      {
+        "bookId": "EST",
+        "chapterStart": 1,
+        "chapterEnd": 10
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0218",
+    "scriptureRefs": [
+      {
+        "bookId": "ZEC",
+        "chapterStart": 9,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "MAL",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  },
+  {
+    "id": "isl-0219",
+    "scriptureRefs": [
+      {
+        "bookId": "JOL",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "contentStatus": "outline_not_authored"
+  }
+]

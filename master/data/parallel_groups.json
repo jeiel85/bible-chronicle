@@ -1,0 +1,575 @@
+[
+  {
+    "id": "PG001",
+    "titleKo": "사무엘과 역대기: 다윗 언약",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 7,
+        "chapterEnd": 7
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "세부 강조점과 표현 차이를 보존"
+  },
+  {
+    "id": "PG002",
+    "titleKo": "다윗의 인구 조사",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "행위 주체 설명의 차이를 나란히 보여줄 것"
+  },
+  {
+    "id": "PG003",
+    "titleKo": "솔로몬과 성전",
+    "relationType": "related_narrative",
+    "passages": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 3,
+        "chapterEnd": 8
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "단락별 대응은 추후 절별 검증"
+  },
+  {
+    "id": "PG004",
+    "titleKo": "왕국 분열",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 10,
+        "chapterEnd": 11
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "병행 서술과 별도 추가 자료 구분"
+  },
+  {
+    "id": "PG005",
+    "titleKo": "히스기야와 앗수르",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 36,
+        "chapterEnd": 39
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 29,
+        "chapterEnd": 32
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "이사야/역대기 범위 중 배경이 다른 단락을 강제 병합하지 않음"
+  },
+  {
+    "id": "PG006",
+    "titleKo": "므낫세의 행적",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "회개의 기록은 역대기에 나타나며 열왕기와 서술 차이를 공개"
+  },
+  {
+    "id": "PG007",
+    "titleKo": "요시야의 개혁",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 35
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "절별 표현·주제 차이를 확인"
+  },
+  {
+    "id": "PG008",
+    "titleKo": "예루살렘 함락 서술",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 24,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 39,
+        "chapterEnd": 39
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "597년과 마지막 함락을 단일 시점으로 합치지 않음"
+  },
+  {
+    "id": "PG009",
+    "titleKo": "다윗의 노래",
+    "relationType": "parallel_text",
+    "passages": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "PSA",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "시와 서사 맥락을 따로 보존"
+  },
+  {
+    "id": "PG010",
+    "titleKo": "귀환자 명단",
+    "relationType": "related_narrative",
+    "passages": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 2,
+        "chapterEnd": 2
+      },
+      {
+        "bookId": "NEH",
+        "chapterStart": 7,
+        "chapterEnd": 7
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "인명/숫자 차이 자동 정규화 금지"
+  },
+  {
+    "id": "PG011",
+    "titleKo": "예수의 시험",
+    "relationType": "related_narrative",
+    "passages": [
+      {
+        "bookId": "MAT",
+        "chapterStart": 4,
+        "chapterEnd": 4
+      },
+      {
+        "bookId": "MRK",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      },
+      {
+        "bookId": "LUK",
+        "chapterStart": 4,
+        "chapterEnd": 4
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "서술 분량과 배열 차이 존중"
+  },
+  {
+    "id": "PG012",
+    "titleKo": "오병이어",
+    "relationType": "related_narrative",
+    "passages": [
+      {
+        "bookId": "MAT",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "MRK",
+        "chapterStart": 6,
+        "chapterEnd": 6
+      },
+      {
+        "bookId": "LUK",
+        "chapterStart": 9,
+        "chapterEnd": 9
+      },
+      {
+        "bookId": "JHN",
+        "chapterStart": 6,
+        "chapterEnd": 6
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "같은 맥락의 사건 식별 여부를 절 단위로 재검토"
+  },
+  {
+    "id": "PG013",
+    "titleKo": "예수의 수난",
+    "relationType": "related_narrative",
+    "passages": [
+      {
+        "bookId": "MAT",
+        "chapterStart": 26,
+        "chapterEnd": 27
+      },
+      {
+        "bookId": "MRK",
+        "chapterStart": 14,
+        "chapterEnd": 15
+      },
+      {
+        "bookId": "LUK",
+        "chapterStart": 22,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "JHN",
+        "chapterStart": 18,
+        "chapterEnd": 19
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "복음서 간 차이/시간 표현을 그대로 공개"
+  },
+  {
+    "id": "PG014",
+    "titleKo": "부활 기록",
+    "relationType": "related_narrative",
+    "passages": [
+      {
+        "bookId": "MAT",
+        "chapterStart": 28,
+        "chapterEnd": 28
+      },
+      {
+        "bookId": "MRK",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      {
+        "bookId": "LUK",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "JHN",
+        "chapterStart": 20,
+        "chapterEnd": 21
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "마가복음 긴 결말의 본문비평적 이슈를 별도 표기"
+  },
+  {
+    "id": "PG015",
+    "titleKo": "바울의 회심 서술",
+    "relationType": "parallel_report",
+    "passages": [
+      {
+        "bookId": "ACT",
+        "chapterStart": 9,
+        "chapterEnd": 9
+      },
+      {
+        "bookId": "ACT",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "ACT",
+        "chapterStart": 26,
+        "chapterEnd": 26
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "사도행전 안의 반복 증언·화자별 관점"
+  },
+  {
+    "id": "PG016",
+    "titleKo": "예루살렘 회의와 바울의 증언",
+    "relationType": "disputed_relation",
+    "passages": [
+      {
+        "bookId": "ACT",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      {
+        "bookId": "GAL",
+        "chapterStart": 2,
+        "chapterEnd": 2
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "두 서술이 동일 방문을 가리키는지 학술적 이견"
+  },
+  {
+    "id": "PG017",
+    "titleKo": "창조 주제의 재사용",
+    "relationType": "thematic_link",
+    "passages": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      },
+      {
+        "bookId": "JHN",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      },
+      {
+        "bookId": "COL",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "장르별 신학적 연결이지 동일 역사 사건 아님"
+  },
+  {
+    "id": "PG018",
+    "titleKo": "새 언약 주제",
+    "relationType": "quotation_or_theme",
+    "passages": [
+      {
+        "bookId": "JER",
+        "chapterStart": 31,
+        "chapterEnd": 31
+      },
+      {
+        "bookId": "LUK",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "HEB",
+        "chapterStart": 8,
+        "chapterEnd": 10
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "문맥을 보존하고 절별 대조 필요"
+  },
+  {
+    "id": "PG019",
+    "titleKo": "여호와의 날",
+    "relationType": "thematic_link",
+    "passages": [
+      {
+        "bookId": "JOL",
+        "chapterStart": 2,
+        "chapterEnd": 3
+      },
+      {
+        "bookId": "1TH",
+        "chapterStart": 5,
+        "chapterEnd": 5
+      },
+      {
+        "bookId": "2PE",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "시대별 표현을 단순한 하나의 날짜로 취급하지 않음"
+  },
+  {
+    "id": "PG020",
+    "titleKo": "새 창조와 회복",
+    "relationType": "thematic_link",
+    "passages": [
+      {
+        "bookId": "ISA",
+        "chapterStart": 65,
+        "chapterEnd": 66
+      },
+      {
+        "bookId": "REV",
+        "chapterStart": 21,
+        "chapterEnd": 22
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "예언과 묵시 환상의 표현 구별"
+  },
+  {
+    "id": "PG021",
+    "titleKo": "말라기와 복음서의 준비 서사",
+    "relationType": "quotation_or_theme",
+    "passages": [
+      {
+        "bookId": "MAL",
+        "chapterStart": 3,
+        "chapterEnd": 4
+      },
+      {
+        "bookId": "MRK",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      },
+      {
+        "bookId": "LUK",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "본문 연결의 성격과 출처를 절별 재검증"
+  },
+  {
+    "id": "PG022",
+    "titleKo": "이스라엘의 과거 회고",
+    "relationType": "thematic_link",
+    "passages": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 6,
+        "chapterEnd": 11
+      },
+      {
+        "bookId": "JOS",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "NEH",
+        "chapterStart": 9,
+        "chapterEnd": 9
+      },
+      {
+        "bookId": "ACT",
+        "chapterStart": 7,
+        "chapterEnd": 7
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "회고/설교의 강조점 비교"
+  },
+  {
+    "id": "PG023",
+    "titleKo": "유월절과 출애굽",
+    "relationType": "thematic_link",
+    "passages": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 12,
+        "chapterEnd": 13
+      },
+      {
+        "bookId": "MAT",
+        "chapterStart": 26,
+        "chapterEnd": 26
+      },
+      {
+        "bookId": "1CO",
+        "chapterStart": 5,
+        "chapterEnd": 5
+      }
+    ],
+    "verseLevelAlignment": "not_reviewed",
+    "sameEventDecision": "not_assumed",
+    "reviewStatus": "seed_pending_exegetical_review",
+    "cautionKo": "절기와 신학적 연관성만 표현"
+  }
+]

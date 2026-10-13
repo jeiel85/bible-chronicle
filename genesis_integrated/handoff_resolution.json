@@ -1,0 +1,22 @@
+[
+  {
+    "aliasId": "handoff-gen-012",
+    "resolvesTo": "ep-gen-023",
+    "status": "resolved_to_next_genesis_phase"
+  },
+  {
+    "aliasId": "handoff-gen-026",
+    "resolvesTo": "ep-gen-064",
+    "status": "resolved_to_next_genesis_phase"
+  },
+  {
+    "aliasId": "handoff-gen-037",
+    "resolvesTo": "ep-gen-116",
+    "status": "resolved_to_next_genesis_phase"
+  },
+  {
+    "aliasId": "handoff-exo-001",
+    "resolvesTo": null,
+    "status": "locked_until_exodus_design"
+  }
+]

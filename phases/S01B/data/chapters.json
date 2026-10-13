@@ -1,0 +1,141 @@
+[
+  {
+    "chapterId": "GEN.012",
+    "verses": 20,
+    "episodeIds": [
+      "ep-gen-023",
+      "ep-gen-024",
+      "ep-gen-025"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.013",
+    "verses": 18,
+    "episodeIds": [
+      "ep-gen-026",
+      "ep-gen-027",
+      "ep-gen-028"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.014",
+    "verses": 24,
+    "episodeIds": [
+      "ep-gen-029",
+      "ep-gen-030",
+      "ep-gen-031"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.015",
+    "verses": 21,
+    "episodeIds": [
+      "ep-gen-032",
+      "ep-gen-033"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.016",
+    "verses": 16,
+    "episodeIds": [
+      "ep-gen-034",
+      "ep-gen-035"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.017",
+    "verses": 27,
+    "episodeIds": [
+      "ep-gen-036",
+      "ep-gen-037"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.018",
+    "verses": 33,
+    "episodeIds": [
+      "ep-gen-038",
+      "ep-gen-039"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.019",
+    "verses": 38,
+    "episodeIds": [
+      "ep-gen-040",
+      "ep-gen-041",
+      "ep-gen-042",
+      "ep-gen-043"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.020",
+    "verses": 18,
+    "episodeIds": [
+      "ep-gen-044",
+      "ep-gen-045"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.021",
+    "verses": 34,
+    "episodeIds": [
+      "ep-gen-046",
+      "ep-gen-047",
+      "ep-gen-048"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.022",
+    "verses": 24,
+    "episodeIds": [
+      "ep-gen-049",
+      "ep-gen-050",
+      "ep-gen-051"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.023",
+    "verses": 20,
+    "episodeIds": [
+      "ep-gen-052",
+      "ep-gen-053"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.024",
+    "verses": 67,
+    "episodeIds": [
+      "ep-gen-054",
+      "ep-gen-055",
+      "ep-gen-056",
+      "ep-gen-057",
+      "ep-gen-058"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  },
+  {
+    "chapterId": "GEN.025",
+    "verses": 34,
+    "episodeIds": [
+      "ep-gen-059",
+      "ep-gen-060",
+      "ep-gen-061",
+      "ep-gen-062",
+      "ep-gen-063"
+    ],
+    "reviewStatus": "draft_not_verse_commentary_approved"
+  }
+]

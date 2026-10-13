@@ -1,0 +1,5688 @@
+[
+  {
+    "id": "ep-gen-116",
+    "stageId": "S01D",
+    "titleKo": "편애와 형제 갈등",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 4
+      },
+      "osis": "GEN.37.1-GEN.37.4"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱 가족은 가나안에 거주",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 형들의 일을 아버지에게 알림",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "특별한 옷과 편애가 형제 갈등을 드러냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱 가족은 가나안에 거주 → 요셉이 형들의 일을 아버지에게 알림 → 특별한 옷과 편애가 형제 갈등을 드러냄",
+    "knowledgeObjectiveKo": "요셉에게 특별한 옷을 준 사람은?",
+    "canonicalOutcomeId": "canon-gen-116",
+    "canonicalNextId": "ep-gen-117",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-116"
+    ],
+    "illustrationId": "art-gen-116",
+    "lessonId": "lesson-gen-116",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-117",
+    "stageId": "S01D",
+    "titleKo": "두 꿈과 형제들의 반응",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 5
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 11
+      },
+      "osis": "GEN.37.5-GEN.37.11"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 곡식 단의 꿈을 이야기함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "해와 달과 별의 꿈이 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "형들은 시기하고 야곱은 그 말을 마음에 둠",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 곡식 단의 꿈을 이야기함 → 해와 달과 별의 꿈이 이어짐 → 형들은 시기하고 야곱은 그 말을 마음에 둠",
+    "knowledgeObjectiveKo": "요셉의 두 번째 꿈에 나타나는 것은?",
+    "canonicalOutcomeId": "canon-gen-117",
+    "canonicalNextId": "ep-gen-118",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "jacob",
+      "brothers"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-117"
+    ],
+    "illustrationId": "art-gen-117",
+    "lessonId": "lesson-gen-117",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-118",
+    "stageId": "S01D",
+    "titleKo": "형들을 찾아가는 길",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 17
+      },
+      "osis": "GEN.37.12-GEN.37.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형들이 세겜에서 양을 침",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 요셉을 보냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 도단으로 향함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형들이 세겜에서 양을 침 → 야곱이 요셉을 보냄 → 요셉이 도단으로 향함",
+    "knowledgeObjectiveKo": "요셉이 형들을 찾아간 곳 중 뒤에 언급되는 지명은?",
+    "canonicalOutcomeId": "canon-gen-118",
+    "canonicalNextId": "ep-gen-119",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "jacob",
+      "brothers"
+    ],
+    "placeIds": [
+      "shechem",
+      "dothan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-118"
+    ],
+    "illustrationId": "art-gen-118",
+    "lessonId": "lesson-gen-118",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-119",
+    "stageId": "S01D",
+    "titleKo": "구덩이와 매매",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 28
+      },
+      "osis": "GEN.37.18-GEN.37.28"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형들이 멀리서 요셉을 보고 모의함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "르우벤의 제안으로 구덩이에 넣음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "상인들과 요셉의 매매가 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형들이 멀리서 요셉을 보고 모의함 → 르우벤의 제안으로 구덩이에 넣음 → 상인들과 요셉의 매매가 이어짐",
+    "knowledgeObjectiveKo": "요셉을 먼저 구덩이에 넣자고 제안한 형은?",
+    "canonicalOutcomeId": "canon-gen-119",
+    "canonicalNextId": "ep-gen-120",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers",
+      "reuben",
+      "judah",
+      "merchants"
+    ],
+    "placeIds": [
+      "dothan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-119"
+    ],
+    "illustrationId": "art-gen-119",
+    "lessonId": "lesson-gen-119",
+    "sensitivity": [
+      "child_trafficking"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-120",
+    "stageId": "S01D",
+    "titleKo": "옷으로 속이다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 29
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 36
+      },
+      "osis": "GEN.37.29-GEN.37.36"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "르우벤이 돌아와 요셉을 찾지 못함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들이 옷을 이용하여 아버지를 속임",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉은 애굽으로 팔려감",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "르우벤이 돌아와 요셉을 찾지 못함 → 형들이 옷을 이용하여 아버지를 속임 → 요셉은 애굽으로 팔려감",
+    "knowledgeObjectiveKo": "야곱을 속일 때 제시된 물건은?",
+    "canonicalOutcomeId": "canon-gen-120",
+    "canonicalNextId": "ep-gen-121",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "brothers",
+      "reuben",
+      "potiphar"
+    ],
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-120"
+    ],
+    "illustrationId": "art-gen-120",
+    "lessonId": "lesson-gen-120",
+    "sensitivity": [
+      "grief",
+      "child_trafficking"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-121",
+    "stageId": "S01D",
+    "titleKo": "유다의 집과 다말",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 11
+      },
+      "osis": "GEN.38.1-GEN.38.11"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "유다가 형제들에게서 떠남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "유다의 아들들의 죽음이 기록됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "다말이 아버지 집으로 돌아감",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "유다가 형제들에게서 떠남 → 유다의 아들들의 죽음이 기록됨 → 다말이 아버지 집으로 돌아감",
+    "knowledgeObjectiveKo": "이 이야기의 며느리 이름은?",
+    "canonicalOutcomeId": "canon-gen-121",
+    "canonicalNextId": "ep-gen-122",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "judah",
+      "tamar",
+      "er",
+      "onan",
+      "shelah"
+    ],
+    "placeIds": [
+      "adullam",
+      "timnah"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-121"
+    ],
+    "illustrationId": "art-gen-121",
+    "lessonId": "lesson-gen-121",
+    "sensitivity": [
+      "death",
+      "sexual_ethics"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-122",
+    "stageId": "S01D",
+    "titleKo": "다말과 증표",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 19
+      },
+      "osis": "GEN.38.12-GEN.38.19"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "시간이 흐르고 유다가 딤나로 향함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "다말이 가림옷을 입고 유다를 만남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "도장·끈·지팡이가 증표로 남음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "시간이 흐르고 유다가 딤나로 향함 → 다말이 가림옷을 입고 유다를 만남 → 도장·끈·지팡이가 증표로 남음",
+    "knowledgeObjectiveKo": "다말이 유다에게 받은 증표에 포함된 것은?",
+    "canonicalOutcomeId": "canon-gen-122",
+    "canonicalNextId": "ep-gen-123",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "judah",
+      "tamar"
+    ],
+    "placeIds": [
+      "timnah"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-122"
+    ],
+    "illustrationId": "art-gen-122",
+    "lessonId": "lesson-gen-122",
+    "sensitivity": [
+      "sexual_ethics",
+      "adult_theme"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-123",
+    "stageId": "S01D",
+    "titleKo": "찾지 못한 증표",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 23
+      },
+      "osis": "GEN.38.20-GEN.38.23"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "유다가 증표를 돌려받으려 사람을 보냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "해당 여인을 찾지 못함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "유다는 일을 덮으려 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "유다가 증표를 돌려받으려 사람을 보냄 → 해당 여인을 찾지 못함 → 유다는 일을 덮으려 함",
+    "knowledgeObjectiveKo": "유다가 다시 찾으려 한 것은?",
+    "canonicalOutcomeId": "canon-gen-123",
+    "canonicalNextId": "ep-gen-124",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "judah",
+      "tamar",
+      "hirah"
+    ],
+    "placeIds": [
+      "timnah"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-123"
+    ],
+    "illustrationId": "art-gen-123",
+    "lessonId": "lesson-gen-123",
+    "sensitivity": [
+      "adult_theme"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-124",
+    "stageId": "S01D",
+    "titleKo": "다말의 정당함 인정",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 24
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 26
+      },
+      "osis": "GEN.38.24-GEN.38.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "다말의 임신 소식으로 생명의 위기가 옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "다말이 증표를 제시함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "유다가 자신의 책임을 인정함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "다말의 임신 소식으로 생명의 위기가 옴 → 다말이 증표를 제시함 → 유다가 자신의 책임을 인정함",
+    "knowledgeObjectiveKo": "유다가 자신의 책임을 인정하게 된 단서는?",
+    "canonicalOutcomeId": "canon-gen-124",
+    "canonicalNextId": "ep-gen-125",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "judah",
+      "tamar"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-124"
+    ],
+    "illustrationId": "art-gen-124",
+    "lessonId": "lesson-gen-124",
+    "sensitivity": [
+      "threatened_execution",
+      "sexual_ethics"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-125",
+    "stageId": "S01D",
+    "titleKo": "베레스와 세라",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 30
+      },
+      "osis": "GEN.38.27-GEN.38.30"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "다말이 쌍둥이를 출산함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "아이들이 태어나는 순서가 기록됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "베레스와 세라의 계보가 시작됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "다말이 쌍둥이를 출산함 → 아이들이 태어나는 순서가 기록됨 → 베레스와 세라의 계보가 시작됨",
+    "knowledgeObjectiveKo": "다말에게 태어난 쌍둥이는?",
+    "canonicalOutcomeId": "canon-gen-125",
+    "canonicalNextId": "ep-gen-126",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "tamar",
+      "perez",
+      "zerah"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-125"
+    ],
+    "illustrationId": "art-gen-125",
+    "lessonId": "lesson-gen-125",
+    "sensitivity": [
+      "birth"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-126",
+    "stageId": "S01D",
+    "titleKo": "애굽 집의 요셉",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 6
+      },
+      "osis": "GEN.39.1-GEN.39.6"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 보디발의 집에 들어감",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "집안일을 맡으며 신임을 얻음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "보디발이 일을 요셉에게 맡김",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 보디발의 집에 들어감 → 집안일을 맡으며 신임을 얻음 → 보디발이 일을 요셉에게 맡김",
+    "knowledgeObjectiveKo": "요셉을 산 애굽의 관리 이름은?",
+    "canonicalOutcomeId": "canon-gen-126",
+    "canonicalNextId": "ep-gen-127",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "potiphar"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-126"
+    ],
+    "illustrationId": "art-gen-126",
+    "lessonId": "lesson-gen-126",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-127",
+    "stageId": "S01D",
+    "titleKo": "거절과 도망",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 12
+      },
+      "osis": "GEN.39.7-GEN.39.12"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "보디발 아내가 요셉을 유혹함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 이를 거절함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 겉옷을 두고 자리를 피함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "보디발 아내가 요셉을 유혹함 → 요셉이 이를 거절함 → 요셉이 겉옷을 두고 자리를 피함",
+    "knowledgeObjectiveKo": "요셉이 유혹 앞에서 한 행동은?",
+    "canonicalOutcomeId": "canon-gen-127",
+    "canonicalNextId": "ep-gen-128",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "potiphars_wife"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-127"
+    ],
+    "illustrationId": "art-gen-127",
+    "lessonId": "lesson-gen-127",
+    "sensitivity": [
+      "sexual_coercion"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-128",
+    "stageId": "S01D",
+    "titleKo": "거짓 고발",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 18
+      },
+      "osis": "GEN.39.13-GEN.39.18"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "보디발의 아내가 옷을 이용하여 주장함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "집 사람과 남편에게 이야기를 반복함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉에게 거짓 혐의가 씌워짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "보디발의 아내가 옷을 이용하여 주장함 → 집 사람과 남편에게 이야기를 반복함 → 요셉에게 거짓 혐의가 씌워짐",
+    "knowledgeObjectiveKo": "거짓 고발에 이용된 물건은?",
+    "canonicalOutcomeId": "canon-gen-128",
+    "canonicalNextId": "ep-gen-129",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "potiphars_wife",
+      "potiphar"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-128"
+    ],
+    "illustrationId": "art-gen-128",
+    "lessonId": "lesson-gen-128",
+    "sensitivity": [
+      "false_accusation",
+      "sexual_coercion"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-129",
+    "stageId": "S01D",
+    "titleKo": "감옥에서도 계속된 이야기",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 19
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 23
+      },
+      "osis": "GEN.39.19-GEN.39.23"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "보디발이 말을 듣고 화를 냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 왕의 죄수를 가두는 곳에 수감됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "간수가 일을 요셉에게 맡김",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "보디발이 말을 듣고 화를 냄 → 요셉이 왕의 죄수를 가두는 곳에 수감됨 → 간수가 일을 요셉에게 맡김",
+    "knowledgeObjectiveKo": "감옥에서 요셉을 신임한 사람은?",
+    "canonicalOutcomeId": "canon-gen-129",
+    "canonicalNextId": "ep-gen-130",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "potiphar",
+      "jailer"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-129"
+    ],
+    "illustrationId": "art-gen-129",
+    "lessonId": "lesson-gen-129",
+    "sensitivity": [
+      "imprisonment"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-130",
+    "stageId": "S01D",
+    "titleKo": "두 관원의 꿈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 8
+      },
+      "osis": "GEN.40.1-GEN.40.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "술 맡은 관원장과 떡 굽는 관원장이 수감됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "두 사람이 각기 꿈을 꿈",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 꿈을 듣고자 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "술 맡은 관원장과 떡 굽는 관원장이 수감됨 → 두 사람이 각기 꿈을 꿈 → 요셉이 꿈을 듣고자 함",
+    "knowledgeObjectiveKo": "꿈을 꾼 두 왕실 관원은?",
+    "canonicalOutcomeId": "canon-gen-130",
+    "canonicalNextId": "ep-gen-131",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "cupbearer",
+      "baker"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-130"
+    ],
+    "illustrationId": "art-gen-130",
+    "lessonId": "lesson-gen-130",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-131",
+    "stageId": "S01D",
+    "titleKo": "술 맡은 관원장의 꿈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 15
+      },
+      "osis": "GEN.40.9-GEN.40.15"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "술 맡은 관원장이 포도나무 꿈을 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 사흘 뒤 회복될 것이라 해석함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 자신을 기억해 달라 부탁함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "술 맡은 관원장이 포도나무 꿈을 설명함 → 요셉이 사흘 뒤 회복될 것이라 해석함 → 요셉이 자신을 기억해 달라 부탁함",
+    "knowledgeObjectiveKo": "술 맡은 관원장 꿈의 식물은?",
+    "canonicalOutcomeId": "canon-gen-131",
+    "canonicalNextId": "ep-gen-132",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "cupbearer"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-131"
+    ],
+    "illustrationId": "art-gen-131",
+    "lessonId": "lesson-gen-131",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-132",
+    "stageId": "S01D",
+    "titleKo": "떡 굽는 관원장의 꿈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 19
+      },
+      "osis": "GEN.40.16-GEN.40.19"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "떡 굽는 관원장이 바구니 꿈을 이야기함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 다른 결말을 해석함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "서로 다른 운명이 대비됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "떡 굽는 관원장이 바구니 꿈을 이야기함 → 요셉이 다른 결말을 해석함 → 서로 다른 운명이 대비됨",
+    "knowledgeObjectiveKo": "떡 굽는 관원장 꿈에 나타난 것은?",
+    "canonicalOutcomeId": "canon-gen-132",
+    "canonicalNextId": "ep-gen-133",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "baker"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-132"
+    ],
+    "illustrationId": "art-gen-132",
+    "lessonId": "lesson-gen-132",
+    "sensitivity": [
+      "death_sentence"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-133",
+    "stageId": "S01D",
+    "titleKo": "엇갈린 결과와 잊힌 요셉",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 23
+      },
+      "osis": "GEN.40.20-GEN.40.23"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "바로 생일에 두 관원의 처지가 결정됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "술 맡은 관원장은 복직됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "그러나 요셉은 기억되지 못함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "바로 생일에 두 관원의 처지가 결정됨 → 술 맡은 관원장은 복직됨 → 그러나 요셉은 기억되지 못함",
+    "knowledgeObjectiveKo": "복직한 뒤 요셉을 잊은 사람은?",
+    "canonicalOutcomeId": "canon-gen-133",
+    "canonicalNextId": "ep-gen-134",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "cupbearer",
+      "baker",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-133"
+    ],
+    "illustrationId": "art-gen-133",
+    "lessonId": "lesson-gen-133",
+    "sensitivity": [
+      "execution"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-134",
+    "stageId": "S01D",
+    "titleKo": "바로의 두 꿈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 8
+      },
+      "osis": "GEN.41.1-GEN.41.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이 년이 지나 바로가 나일강과 이삭의 꿈을 꿈",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "해석자가 나타나지 않음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "궁정의 불안이 커짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "이 년이 지나 바로가 나일강과 이삭의 꿈을 꿈 → 해석자가 나타나지 않음 → 궁정의 불안이 커짐",
+    "knowledgeObjectiveKo": "바로의 꿈에 등장하는 동물은?",
+    "canonicalOutcomeId": "canon-gen-134",
+    "canonicalNextId": "ep-gen-135",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "pharaoh"
+    ],
+    "placeIds": [
+      "nile",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-134"
+    ],
+    "illustrationId": "art-gen-134",
+    "lessonId": "lesson-gen-134",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-135",
+    "stageId": "S01D",
+    "titleKo": "기억나는 요셉",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 16
+      },
+      "osis": "GEN.41.9-GEN.41.16"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "술 맡은 관원장이 요셉을 떠올림",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 감옥에서 궁정으로 나옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 해석의 공을 하나님께 돌림",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "술 맡은 관원장이 요셉을 떠올림 → 요셉이 감옥에서 궁정으로 나옴 → 요셉이 해석의 공을 하나님께 돌림",
+    "knowledgeObjectiveKo": "바로에게 요셉을 소개한 이는?",
+    "canonicalOutcomeId": "canon-gen-135",
+    "canonicalNextId": "ep-gen-136",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "cupbearer",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-135"
+    ],
+    "illustrationId": "art-gen-135",
+    "lessonId": "lesson-gen-135",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-136",
+    "stageId": "S01D",
+    "titleKo": "풍년과 흉년의 예고",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 32
+      },
+      "osis": "GEN.41.17-GEN.41.32"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "바로가 두 꿈을 재진술함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 두 꿈을 연결해 해석함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "일곱 해 풍년 뒤 일곱 해 흉년이 예고됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "바로가 두 꿈을 재진술함 → 요셉이 두 꿈을 연결해 해석함 → 일곱 해 풍년 뒤 일곱 해 흉년이 예고됨",
+    "knowledgeObjectiveKo": "꿈에서 예고된 순서는?",
+    "canonicalOutcomeId": "canon-gen-136",
+    "canonicalNextId": "ep-gen-137",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "nile",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-136"
+    ],
+    "illustrationId": "art-gen-136",
+    "lessonId": "lesson-gen-136",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-137",
+    "stageId": "S01D",
+    "titleKo": "식량 관리 제안",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 33
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 40
+      },
+      "osis": "GEN.41.33-GEN.41.40"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 감독 체계를 제안함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "풍년의 오분의 일을 저장하자고 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "바로가 요셉을 주요 관리로 세움",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 감독 체계를 제안함 → 풍년의 오분의 일을 저장하자고 함 → 바로가 요셉을 주요 관리로 세움",
+    "knowledgeObjectiveKo": "요셉이 풍년 때 저장하도록 제안한 몫은?",
+    "canonicalOutcomeId": "canon-gen-137",
+    "canonicalNextId": "ep-gen-138",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-137"
+    ],
+    "illustrationId": "art-gen-137",
+    "lessonId": "lesson-gen-137",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-138",
+    "stageId": "S01D",
+    "titleKo": "왕의 권한을 받은 요셉",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 41
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 45
+      },
+      "osis": "GEN.41.41-GEN.41.45"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "바로가 반지를 주고 옷을 입힘",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 애굽 전역의 관리로 세워짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉의 애굽 이름과 결혼 이야기가 나옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "바로가 반지를 주고 옷을 입힘 → 요셉이 애굽 전역의 관리로 세워짐 → 요셉의 애굽 이름과 결혼 이야기가 나옴",
+    "knowledgeObjectiveKo": "바로가 요셉에게 준 권한의 상징은?",
+    "canonicalOutcomeId": "canon-gen-138",
+    "canonicalNextId": "ep-gen-139",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh",
+      "asenath"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-138"
+    ],
+    "illustrationId": "art-gen-138",
+    "lessonId": "lesson-gen-138",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-139",
+    "stageId": "S01D",
+    "titleKo": "저장과 두 아들",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 46
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 52
+      },
+      "osis": "GEN.41.46-GEN.41.52"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 서른 살에 바로 앞에 섬",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "풍년 동안 곡물을 모음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "므낫세와 에브라임이 태어남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 서른 살에 바로 앞에 섬 → 풍년 동안 곡물을 모음 → 므낫세와 에브라임이 태어남",
+    "knowledgeObjectiveKo": "요셉의 두 아들은?",
+    "canonicalOutcomeId": "canon-gen-139",
+    "canonicalNextId": "ep-gen-140",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "asenath",
+      "manasseh",
+      "ephraim"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-139"
+    ],
+    "illustrationId": "art-gen-139",
+    "lessonId": "lesson-gen-139",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-140",
+    "stageId": "S01D",
+    "titleKo": "흉년 시작과 곡식 배급",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 53
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 57
+      },
+      "osis": "GEN.41.53-GEN.41.57"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "풍년 일곱 해가 끝남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "흉년이 여러 땅에 미침",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "사람들이 요셉에게 곡식을 구함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "풍년 일곱 해가 끝남 → 흉년이 여러 땅에 미침 → 사람들이 요셉에게 곡식을 구함",
+    "knowledgeObjectiveKo": "흉년이 시작되자 사람들이 찾아간 인물은?",
+    "canonicalOutcomeId": "canon-gen-140",
+    "canonicalNextId": "ep-gen-141",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt",
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-140"
+    ],
+    "illustrationId": "art-gen-140",
+    "lessonId": "lesson-gen-140",
+    "sensitivity": [
+      "famine"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-141",
+    "stageId": "S01D",
+    "titleKo": "형제들의 첫 애굽행",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 5
+      },
+      "osis": "GEN.42.1-GEN.42.5"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "가나안에 먹을 것이 부족해짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 열 형제를 보냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "베냐민은 함께 보내지 않음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "가나안에 먹을 것이 부족해짐 → 야곱이 열 형제를 보냄 → 베냐민은 함께 보내지 않음",
+    "knowledgeObjectiveKo": "첫 여정에 동행하지 않은 동생은?",
+    "canonicalOutcomeId": "canon-gen-141",
+    "canonicalNextId": "ep-gen-142",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "brothers",
+      "benjamin"
+    ],
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-141"
+    ],
+    "illustrationId": "art-gen-141",
+    "lessonId": "lesson-gen-141",
+    "sensitivity": [
+      "famine"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-142",
+    "stageId": "S01D",
+    "titleKo": "알아보지 못하는 형제들",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 6
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 17
+      },
+      "osis": "GEN.42.6-GEN.42.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형들은 요셉 앞에 절함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉은 형들을 알아보지만 형들은 모름",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 그들을 시험하며 구금함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형들은 요셉 앞에 절함 → 요셉은 형들을 알아보지만 형들은 모름 → 요셉이 그들을 시험하며 구금함",
+    "knowledgeObjectiveKo": "형들이 요셉을 알아보았는가?",
+    "canonicalOutcomeId": "canon-gen-142",
+    "canonicalNextId": "ep-gen-143",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-142"
+    ],
+    "illustrationId": "art-gen-142",
+    "lessonId": "lesson-gen-142",
+    "sensitivity": [
+      "imprisonment"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-143",
+    "stageId": "S01D",
+    "titleKo": "시므온이 남다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 25
+      },
+      "osis": "GEN.42.18-GEN.42.25"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 형제들에게 조건을 제시함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들이 과거의 죄를 떠올림",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "시므온이 붙잡히고 곡식이 준비됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 형제들에게 조건을 제시함 → 형들이 과거의 죄를 떠올림 → 시므온이 붙잡히고 곡식이 준비됨",
+    "knowledgeObjectiveKo": "애굽에 남겨진 형제는?",
+    "canonicalOutcomeId": "canon-gen-143",
+    "canonicalNextId": "ep-gen-144",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers",
+      "simeon"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-143"
+    ],
+    "illustrationId": "art-gen-143",
+    "lessonId": "lesson-gen-143",
+    "sensitivity": [
+      "guilt",
+      "imprisonment"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-144",
+    "stageId": "S01D",
+    "titleKo": "되돌아온 돈",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 28
+      },
+      "osis": "GEN.42.26-GEN.42.28"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형들이 곡식을 싣고 떠남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "한 형제가 자루에서 돈을 발견함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "형들이 놀라고 두려워함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형들이 곡식을 싣고 떠남 → 한 형제가 자루에서 돈을 발견함 → 형들이 놀라고 두려워함",
+    "knowledgeObjectiveKo": "곡식 자루에서 발견한 것은?",
+    "canonicalOutcomeId": "canon-gen-144",
+    "canonicalNextId": "ep-gen-145",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "brothers"
+    ],
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-144"
+    ],
+    "illustrationId": "art-gen-144",
+    "lessonId": "lesson-gen-144",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-145",
+    "stageId": "S01D",
+    "titleKo": "야곱의 두려움",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 29
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 38
+      },
+      "osis": "GEN.42.29-GEN.42.38"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형들이 가나안에서 상황을 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "돈이 다시 발견됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱은 베냐민을 보내기를 거절함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형들이 가나안에서 상황을 설명함 → 돈이 다시 발견됨 → 야곱은 베냐민을 보내기를 거절함",
+    "knowledgeObjectiveKo": "야곱이 다시 떠나보내기 두려워한 이는?",
+    "canonicalOutcomeId": "canon-gen-145",
+    "canonicalNextId": "ep-gen-146",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "reuben",
+      "brothers",
+      "benjamin"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-145"
+    ],
+    "illustrationId": "art-gen-145",
+    "lessonId": "lesson-gen-145",
+    "sensitivity": [
+      "grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-146",
+    "stageId": "S01D",
+    "titleKo": "유다의 책임 선언",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 10
+      },
+      "osis": "GEN.43.1-GEN.43.10"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "기근이 심해짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "다시 가려면 베냐민이 필요함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "유다가 그의 안전을 보증함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "기근이 심해짐 → 다시 가려면 베냐민이 필요함 → 유다가 그의 안전을 보증함",
+    "knowledgeObjectiveKo": "베냐민의 안전을 보증한 형은?",
+    "canonicalOutcomeId": "canon-gen-146",
+    "canonicalNextId": "ep-gen-147",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "judah",
+      "benjamin",
+      "brothers"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-146"
+    ],
+    "illustrationId": "art-gen-146",
+    "lessonId": "lesson-gen-146",
+    "sensitivity": [
+      "famine"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-147",
+    "stageId": "S01D",
+    "titleKo": "예물과 두 번째 여정",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 11
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 15
+      },
+      "osis": "GEN.43.11-GEN.43.15"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 예물과 돈을 준비하게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들이 베냐민과 함께 길을 떠남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "애굽의 요셉 앞에 도착함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 예물과 돈을 준비하게 함 → 형들이 베냐민과 함께 길을 떠남 → 애굽의 요셉 앞에 도착함",
+    "knowledgeObjectiveKo": "형들과 함께 두 번째로 애굽에 간 동생은?",
+    "canonicalOutcomeId": "canon-gen-147",
+    "canonicalNextId": "ep-gen-148",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "brothers",
+      "benjamin"
+    ],
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-147"
+    ],
+    "illustrationId": "art-gen-147",
+    "lessonId": "lesson-gen-147",
+    "sensitivity": [
+      "famine"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-148",
+    "stageId": "S01D",
+    "titleKo": "요셉의 집으로",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 25
+      },
+      "osis": "GEN.43.16-GEN.43.25"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 베냐민을 보고 형들을 집에 들이게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들이 돈 문제를 해명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "시므온이 돌아오고 잔치가 준비됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 베냐민을 보고 형들을 집에 들이게 함 → 형들이 돈 문제를 해명함 → 시므온이 돌아오고 잔치가 준비됨",
+    "knowledgeObjectiveKo": "형제들이 초대받은 곳은?",
+    "canonicalOutcomeId": "canon-gen-148",
+    "canonicalNextId": "ep-gen-149",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers",
+      "simeon",
+      "benjamin",
+      "steward"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-148"
+    ],
+    "illustrationId": "art-gen-148",
+    "lessonId": "lesson-gen-148",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-149",
+    "stageId": "S01D",
+    "titleKo": "형제들의 식탁",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 34
+      },
+      "osis": "GEN.43.26-GEN.43.34"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형들이 요셉 앞에서 절함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉은 베냐민을 보고 감정이 북받침",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "베냐민에게 더 많은 음식이 주어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형들이 요셉 앞에서 절함 → 요셉은 베냐민을 보고 감정이 북받침 → 베냐민에게 더 많은 음식이 주어짐",
+    "knowledgeObjectiveKo": "다른 형제들보다 더 많은 음식을 받은 이는?",
+    "canonicalOutcomeId": "canon-gen-149",
+    "canonicalNextId": "ep-gen-150",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers",
+      "benjamin"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-149"
+    ],
+    "illustrationId": "art-gen-149",
+    "lessonId": "lesson-gen-149",
+    "sensitivity": [
+      "grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-150",
+    "stageId": "S01D",
+    "titleKo": "은잔의 시험",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 5
+      },
+      "osis": "GEN.44.1-GEN.44.5"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 집사에게 자루에 곡식과 돈을 넣게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "베냐민의 자루에 은잔을 넣음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "떠난 형들을 다시 쫓게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 집사에게 자루에 곡식과 돈을 넣게 함 → 베냐민의 자루에 은잔을 넣음 → 떠난 형들을 다시 쫓게 함",
+    "knowledgeObjectiveKo": "은잔을 넣도록 지정된 자루 주인은?",
+    "canonicalOutcomeId": "canon-gen-150",
+    "canonicalNextId": "ep-gen-151",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "benjamin",
+      "steward",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-150"
+    ],
+    "illustrationId": "art-gen-150",
+    "lessonId": "lesson-gen-150",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-151",
+    "stageId": "S01D",
+    "titleKo": "은잔 발견",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 6
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 13
+      },
+      "osis": "GEN.44.6-GEN.44.13"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "청지기가 형제들에게 고함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들이 자루를 열게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "베냐민의 자루에서 잔이 나옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "청지기가 형제들에게 고함 → 형들이 자루를 열게 함 → 베냐민의 자루에서 잔이 나옴",
+    "knowledgeObjectiveKo": "은잔이 발견된 곳은?",
+    "canonicalOutcomeId": "canon-gen-151",
+    "canonicalNextId": "ep-gen-152",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "benjamin",
+      "brothers",
+      "steward"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-151"
+    ],
+    "illustrationId": "art-gen-151",
+    "lessonId": "lesson-gen-151",
+    "sensitivity": [
+      "false_accusation"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-152",
+    "stageId": "S01D",
+    "titleKo": "판결 앞의 형제들",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 17
+      },
+      "osis": "GEN.44.14-GEN.44.17"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "유다와 형제들이 되돌아옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 자신의 종으로 남을 사람을 지목함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "형제들은 곤란에 처함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "유다와 형제들이 되돌아옴 → 요셉이 자신의 종으로 남을 사람을 지목함 → 형제들은 곤란에 처함",
+    "knowledgeObjectiveKo": "요셉이 종으로 남기려 한 사람은?",
+    "canonicalOutcomeId": "canon-gen-152",
+    "canonicalNextId": "ep-gen-153",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "judah",
+      "brothers",
+      "benjamin"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-152"
+    ],
+    "illustrationId": "art-gen-152",
+    "lessonId": "lesson-gen-152",
+    "sensitivity": [
+      "coercive_power"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-153",
+    "stageId": "S01D",
+    "titleKo": "유다의 긴 변론",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 34
+      },
+      "osis": "GEN.44.18-GEN.44.34"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "유다가 아버지의 슬픔을 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "베냐민 없는 귀환을 거절함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "자신이 대신 남겠다고 제안함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "유다가 아버지의 슬픔을 설명함 → 베냐민 없는 귀환을 거절함 → 자신이 대신 남겠다고 제안함",
+    "knowledgeObjectiveKo": "베냐민 대신 종으로 남겠다고 한 이는?",
+    "canonicalOutcomeId": "canon-gen-153",
+    "canonicalNextId": "ep-gen-154",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "judah",
+      "joseph",
+      "benjamin"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-153"
+    ],
+    "illustrationId": "art-gen-153",
+    "lessonId": "lesson-gen-153",
+    "sensitivity": [
+      "family_grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-154",
+    "stageId": "S01D",
+    "titleKo": "요셉의 정체 공개",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 8
+      },
+      "osis": "GEN.45.1-GEN.45.8"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 수행원을 물림",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들에게 자신의 정체를 밝힘",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "그간의 일을 보존의 관점에서 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 수행원을 물림 → 형들에게 자신의 정체를 밝힘 → 그간의 일을 보존의 관점에서 설명함",
+    "knowledgeObjectiveKo": "요셉은 누구에게 정체를 밝혔는가?",
+    "canonicalOutcomeId": "canon-gen-154",
+    "canonicalNextId": "ep-gen-155",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-154"
+    ],
+    "illustrationId": "art-gen-154",
+    "lessonId": "lesson-gen-154",
+    "sensitivity": [
+      "reconciliation"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-155",
+    "stageId": "S01D",
+    "titleKo": "아버지를 부르다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 15
+      },
+      "osis": "GEN.45.9-GEN.45.15"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 아버지를 데려오라 부탁함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "고센 거주 계획을 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "형제들이 울며 대화함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 아버지를 데려오라 부탁함 → 고센 거주 계획을 설명함 → 형제들이 울며 대화함",
+    "knowledgeObjectiveKo": "요셉이 아버지를 데려오려는 곳은?",
+    "canonicalOutcomeId": "canon-gen-155",
+    "canonicalNextId": "ep-gen-156",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers",
+      "benjamin",
+      "jacob"
+    ],
+    "placeIds": [
+      "egypt",
+      "goshen"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-155"
+    ],
+    "illustrationId": "art-gen-155",
+    "lessonId": "lesson-gen-155",
+    "sensitivity": [
+      "reconciliation"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-156",
+    "stageId": "S01D",
+    "titleKo": "바로의 지원",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 20
+      },
+      "osis": "GEN.45.16-GEN.45.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형제들의 방문이 바로에게 전해짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "바로가 가족을 데려올 지원을 명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "좋은 땅을 제공하겠다고 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "형제들의 방문이 바로에게 전해짐 → 바로가 가족을 데려올 지원을 명함 → 좋은 땅을 제공하겠다고 함",
+    "knowledgeObjectiveKo": "가족 이동을 돕겠다고 말한 통치자는?",
+    "canonicalOutcomeId": "canon-gen-156",
+    "canonicalNextId": "ep-gen-157",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "pharaoh",
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-156"
+    ],
+    "illustrationId": "art-gen-156",
+    "lessonId": "lesson-gen-156",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-157",
+    "stageId": "S01D",
+    "titleKo": "야곱에게 전한 소식",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 28
+      },
+      "osis": "GEN.45.21-GEN.45.28"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 수레와 선물을 보냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "형들이 가나안으로 돌아와 소식을 전함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 요셉을 만나기로 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 수레와 선물을 보냄 → 형들이 가나안으로 돌아와 소식을 전함 → 야곱이 요셉을 만나기로 함",
+    "knowledgeObjectiveKo": "야곱이 아들의 생존을 알게 된 계기는?",
+    "canonicalOutcomeId": "canon-gen-157",
+    "canonicalNextId": "ep-gen-158",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "brothers",
+      "joseph"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-157"
+    ],
+    "illustrationId": "art-gen-157",
+    "lessonId": "lesson-gen-157",
+    "sensitivity": [
+      "grief",
+      "reconciliation"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-158",
+    "stageId": "S01D",
+    "titleKo": "브엘세바에서 애굽으로",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 7
+      },
+      "osis": "GEN.46.1-GEN.46.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이스라엘이 브엘세바에서 제사함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "밤 환상 속 약속을 들음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "가족들이 애굽으로 향함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "이스라엘이 브엘세바에서 제사함 → 밤 환상 속 약속을 들음 → 가족들이 애굽으로 향함",
+    "knowledgeObjectiveKo": "야곱이 애굽으로 가는 길에 제사한 곳은?",
+    "canonicalOutcomeId": "canon-gen-158",
+    "canonicalNextId": "ep-gen-159",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "beersheba",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-158"
+    ],
+    "illustrationId": "art-gen-158",
+    "lessonId": "lesson-gen-158",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-159",
+    "stageId": "S01D",
+    "titleKo": "내려간 가족의 명단",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 27
+      },
+      "osis": "GEN.46.8-GEN.46.27"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "애굽에 들어간 야곱 가족의 이름들이 열거됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "가족별 계보와 인원 합산을 제시함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "본문과 다른 전승의 인원수 차이를 주석으로 안내",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "애굽에 들어간 야곱 가족의 이름들이 열거됨 → 가족별 계보와 인원 합산을 제시함 → 본문과 다른 전승의 인원수 차이를 주석으로 안내",
+    "knowledgeObjectiveKo": "이 단락의 핵심 자료 형식은?",
+    "canonicalOutcomeId": "canon-gen-159",
+    "canonicalNextId": "ep-gen-160",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "brothers",
+      "benjamin",
+      "joseph"
+    ],
+    "placeIds": [
+      "canaan",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-159"
+    ],
+    "illustrationId": "art-gen-159",
+    "lessonId": "lesson-gen-159",
+    "sensitivity": [
+      "genealogy"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-160",
+    "stageId": "S01D",
+    "titleKo": "고센에서 재회",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 28
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 30
+      },
+      "osis": "GEN.46.28-GEN.46.30"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 유다를 먼저 보냄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 고센에서 아버지를 만남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "부자는 오랜 세월 후 재회함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 유다를 먼저 보냄 → 요셉이 고센에서 아버지를 만남 → 부자는 오랜 세월 후 재회함",
+    "knowledgeObjectiveKo": "야곱을 맞으러 고센에 나온 아들은?",
+    "canonicalOutcomeId": "canon-gen-160",
+    "canonicalNextId": "ep-gen-161",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "judah"
+    ],
+    "placeIds": [
+      "goshen"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-160"
+    ],
+    "illustrationId": "art-gen-160",
+    "lessonId": "lesson-gen-160",
+    "sensitivity": [
+      "reconciliation"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-161",
+    "stageId": "S01D",
+    "titleKo": "목축업을 소개하다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 31
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 34
+      },
+      "osis": "GEN.46.31-GEN.46.34"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 형제들에게 바로 앞에서 할 말을 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "목축업과 가축을 언급하게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "고센 거주 배경을 소개함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 형제들에게 바로 앞에서 할 말을 설명함 → 목축업과 가축을 언급하게 함 → 고센 거주 배경을 소개함",
+    "knowledgeObjectiveKo": "요셉이 형제들에게 설명하라고 한 생업은?",
+    "canonicalOutcomeId": "canon-gen-161",
+    "canonicalNextId": "ep-gen-162",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "goshen",
+      "egypt"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-161"
+    ],
+    "illustrationId": "art-gen-161",
+    "lessonId": "lesson-gen-161",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-162",
+    "stageId": "S01D",
+    "titleKo": "바로 앞의 형제들",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 6
+      },
+      "osis": "GEN.47.1-GEN.47.6"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 가족의 도착을 알림",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "바로가 일부 형제들의 일을 물음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "고센 거주가 허락됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 가족의 도착을 알림 → 바로가 일부 형제들의 일을 물음 → 고센 거주가 허락됨",
+    "knowledgeObjectiveKo": "바로가 형제들에게 물은 것은?",
+    "canonicalOutcomeId": "canon-gen-162",
+    "canonicalNextId": "ep-gen-163",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt",
+      "goshen"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-162"
+    ],
+    "illustrationId": "art-gen-162",
+    "lessonId": "lesson-gen-162",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-163",
+    "stageId": "S01D",
+    "titleKo": "야곱과 바로의 만남",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 12
+      },
+      "osis": "GEN.47.7-GEN.47.12"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 바로를 만나 축복함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "자신의 나이와 삶을 이야기함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉이 가족을 부양함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 바로를 만나 축복함 → 자신의 나이와 삶을 이야기함 → 요셉이 가족을 부양함",
+    "knowledgeObjectiveKo": "바로를 만나 축복한 사람은?",
+    "canonicalOutcomeId": "canon-gen-163",
+    "canonicalNextId": "ep-gen-164",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "pharaoh",
+      "joseph"
+    ],
+    "placeIds": [
+      "egypt",
+      "goshen"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-163"
+    ],
+    "illustrationId": "art-gen-163",
+    "lessonId": "lesson-gen-163",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-164",
+    "stageId": "S01D",
+    "titleKo": "기근 아래 애굽의 토지",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 22
+      },
+      "osis": "GEN.47.13-GEN.47.22"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "극심한 기근으로 식량이 부족해짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 돈과 가축을 받고 곡식을 줌",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "토지의 왕실 귀속과 제사장 예외가 기록됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "극심한 기근으로 식량이 부족해짐 → 요셉이 돈과 가축을 받고 곡식을 줌 → 토지의 왕실 귀속과 제사장 예외가 기록됨",
+    "knowledgeObjectiveKo": "토지 귀속에서 본문이 예외로 다루는 집단은?",
+    "canonicalOutcomeId": "canon-gen-164",
+    "canonicalNextId": "ep-gen-165",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-164"
+    ],
+    "illustrationId": "art-gen-164",
+    "lessonId": "lesson-gen-164",
+    "sensitivity": [
+      "famine",
+      "economic_inequality"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-165",
+    "stageId": "S01D",
+    "titleKo": "농지와 오분의 일",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 23
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 26
+      },
+      "osis": "GEN.47.23-GEN.47.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 씨앗과 수확 의무를 설명함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "수확의 오분의 일을 왕에게 바치게 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "그 제도가 이어진다고 서술함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 씨앗과 수확 의무를 설명함 → 수확의 오분의 일을 왕에게 바치게 함 → 그 제도가 이어진다고 서술함",
+    "knowledgeObjectiveKo": "이 장의 수확 규정에서 왕에게 주는 몫은?",
+    "canonicalOutcomeId": "canon-gen-165",
+    "canonicalNextId": "ep-gen-166",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-165"
+    ],
+    "illustrationId": "art-gen-165",
+    "lessonId": "lesson-gen-165",
+    "sensitivity": [
+      "economic_inequality"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-166",
+    "stageId": "S01D",
+    "titleKo": "야곱의 마지막 부탁",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 31
+      },
+      "osis": "GEN.47.27-GEN.47.31"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "가족이 고센에 정착함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 늙어감",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉에게 가나안 선영에 묻어 달라고 부탁함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "가족이 고센에 정착함 → 야곱이 늙어감 → 요셉에게 가나안 선영에 묻어 달라고 부탁함",
+    "knowledgeObjectiveKo": "야곱이 장례를 위해 요청한 곳은?",
+    "canonicalOutcomeId": "canon-gen-166",
+    "canonicalNextId": "ep-gen-167",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph"
+    ],
+    "placeIds": [
+      "goshen",
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-166"
+    ],
+    "illustrationId": "art-gen-166",
+    "lessonId": "lesson-gen-166",
+    "sensitivity": [
+      "death",
+      "grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-167",
+    "stageId": "S01D",
+    "titleKo": "요셉의 아들을 데려오다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 7
+      },
+      "osis": "GEN.48.1-GEN.48.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 병들었다는 소식이 전해짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 두 아들을 데려옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱이 이전 약속을 돌아봄",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 병들었다는 소식이 전해짐 → 요셉이 두 아들을 데려옴 → 야곱이 이전 약속을 돌아봄",
+    "knowledgeObjectiveKo": "요셉이 야곱에게 데려온 두 아들은?",
+    "canonicalOutcomeId": "canon-gen-167",
+    "canonicalNextId": "ep-gen-168",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "ephraim",
+      "manasseh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-167"
+    ],
+    "illustrationId": "art-gen-167",
+    "lessonId": "lesson-gen-167",
+    "sensitivity": [
+      "illness"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-168",
+    "stageId": "S01D",
+    "titleKo": "손을 교차해 축복",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 16
+      },
+      "osis": "GEN.48.8-GEN.48.16"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 요셉의 두 아들을 안고 축복함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "손을 교차하여 에브라임의 머리에 오른손을 얹음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "축복이 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 요셉의 두 아들을 안고 축복함 → 손을 교차하여 에브라임의 머리에 오른손을 얹음 → 축복이 이어짐",
+    "knowledgeObjectiveKo": "야곱이 오른손을 얹은 손자는?",
+    "canonicalOutcomeId": "canon-gen-168",
+    "canonicalNextId": "ep-gen-169",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "ephraim",
+      "manasseh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-168"
+    ],
+    "illustrationId": "art-gen-168",
+    "lessonId": "lesson-gen-168",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-169",
+    "stageId": "S01D",
+    "titleKo": "요셉의 반응과 야곱의 뜻",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 20
+      },
+      "osis": "GEN.48.17-GEN.48.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 손을 바로잡으려 함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "야곱이 의도적으로 선택했음을 말함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "에브라임과 므낫세에 대한 축복이 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 손을 바로잡으려 함 → 야곱이 의도적으로 선택했음을 말함 → 에브라임과 므낫세에 대한 축복이 이어짐",
+    "knowledgeObjectiveKo": "야곱이 먼저 축복한 대상은?",
+    "canonicalOutcomeId": "canon-gen-169",
+    "canonicalNextId": "ep-gen-170",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "ephraim",
+      "manasseh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-169"
+    ],
+    "illustrationId": "art-gen-169",
+    "lessonId": "lesson-gen-169",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-170",
+    "stageId": "S01D",
+    "titleKo": "땅을 향한 유언",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 22
+      },
+      "osis": "GEN.48.21-GEN.48.22"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 죽음이 가까움을 이야기함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "하나님이 가족을 땅으로 돌아가게 하실 것을 말함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉에게 특별한 몫을 언급함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 죽음이 가까움을 이야기함 → 하나님이 가족을 땅으로 돌아가게 하실 것을 말함 → 요셉에게 특별한 몫을 언급함",
+    "knowledgeObjectiveKo": "야곱이 미래에 돌아갈 땅으로 바라본 곳은?",
+    "canonicalOutcomeId": "canon-gen-170",
+    "canonicalNextId": "ep-gen-171",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph"
+    ],
+    "placeIds": [
+      "egypt",
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-170"
+    ],
+    "illustrationId": "art-gen-170",
+    "lessonId": "lesson-gen-170",
+    "sensitivity": [
+      "death"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-171",
+    "stageId": "S01D",
+    "titleKo": "장자 르우벤의 자리",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 4
+      },
+      "osis": "GEN.49.1-GEN.49.4"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 아들들을 불러 모음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "르우벤의 장자 지위와 과거 행동을 언급함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "아들별 발언이 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 아들들을 불러 모음 → 르우벤의 장자 지위와 과거 행동을 언급함 → 아들별 발언이 이어짐",
+    "knowledgeObjectiveKo": "야곱이 제일 먼저 언급하는 아들은?",
+    "canonicalOutcomeId": "canon-gen-171",
+    "canonicalNextId": "ep-gen-172",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "reuben",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-171"
+    ],
+    "illustrationId": "art-gen-171",
+    "lessonId": "lesson-gen-171",
+    "sensitivity": [
+      "family_conflict"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-172",
+    "stageId": "S01D",
+    "titleKo": "시므온·레위·유다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 5
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 12
+      },
+      "osis": "GEN.49.5-GEN.49.12"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 시므온과 레위의 폭력을 지적함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "유다에 대해 지도력에 관한 시적 표현을 말함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "후대 해석과 본문의 시어를 구분함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 시므온과 레위의 폭력을 지적함 → 유다에 대해 지도력에 관한 시적 표현을 말함 → 후대 해석과 본문의 시어를 구분함",
+    "knowledgeObjectiveKo": "여기서 지도력의 이미지가 강조된 아들은?",
+    "canonicalOutcomeId": "canon-gen-172",
+    "canonicalNextId": "ep-gen-173",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "judah",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-172"
+    ],
+    "illustrationId": "art-gen-172",
+    "lessonId": "lesson-gen-172",
+    "sensitivity": [
+      "violence",
+      "poetry"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-173",
+    "stageId": "S01D",
+    "titleKo": "여러 아들의 축복 시어",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 21
+      },
+      "osis": "GEN.49.13-GEN.49.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "스불론·잇사갈·단·갓·아셀·납달리를 언급함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "지리와 비유가 혼합됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "후대 영토로 역투영하지 않음",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "스불론·잇사갈·단·갓·아셀·납달리를 언급함 → 지리와 비유가 혼합됨 → 후대 영토로 역투영하지 않음",
+    "knowledgeObjectiveKo": "이 부분의 특징적 문학 형식은?",
+    "canonicalOutcomeId": "canon-gen-173",
+    "canonicalNextId": "ep-gen-174",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-173"
+    ],
+    "illustrationId": "art-gen-173",
+    "lessonId": "lesson-gen-173",
+    "sensitivity": [
+      "poetry"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-174",
+    "stageId": "S01D",
+    "titleKo": "요셉과 베냐민",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 28
+      },
+      "osis": "GEN.49.22-GEN.49.28"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉에게 풍성한 축복의 말이 주어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "베냐민도 비유로 묘사됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "전체 아들에 대한 축복이 마무리됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉에게 풍성한 축복의 말이 주어짐 → 베냐민도 비유로 묘사됨 → 전체 아들에 대한 축복이 마무리됨",
+    "knowledgeObjectiveKo": "마지막에 언급되는 아들의 이름은?",
+    "canonicalOutcomeId": "canon-gen-174",
+    "canonicalNextId": "ep-gen-175",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "benjamin",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-174"
+    ],
+    "illustrationId": "art-gen-174",
+    "lessonId": "lesson-gen-174",
+    "sensitivity": [
+      "poetry"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-175",
+    "stageId": "S01D",
+    "titleKo": "매장 지시와 야곱의 죽음",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 29
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 33
+      },
+      "osis": "GEN.49.29-GEN.49.33"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱이 가나안의 가족 묘지에 묻어 달라 당부함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "매장지와 가족 선대가 열거됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "야곱의 죽음이 기록됨",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱이 가나안의 가족 묘지에 묻어 달라 당부함 → 매장지와 가족 선대가 열거됨 → 야곱의 죽음이 기록됨",
+    "knowledgeObjectiveKo": "야곱이 부탁한 장례 장소는?",
+    "canonicalOutcomeId": "canon-gen-175",
+    "canonicalNextId": "ep-gen-176",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "jacob",
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "machpelah",
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-175"
+    ],
+    "illustrationId": "art-gen-175",
+    "lessonId": "lesson-gen-175",
+    "sensitivity": [
+      "death",
+      "grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-176",
+    "stageId": "S01D",
+    "titleKo": "가나안에서 야곱의 장례",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 14
+      },
+      "osis": "GEN.50.1-GEN.50.14"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 애도하며 장례를 준비함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "긴 애도와 장례 행렬이 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "가나안 매장 뒤 애굽으로 돌아옴",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 애도하며 장례를 준비함 → 긴 애도와 장례 행렬이 이어짐 → 가나안 매장 뒤 애굽으로 돌아옴",
+    "knowledgeObjectiveKo": "장례 행렬이 향한 곳은?",
+    "canonicalOutcomeId": "canon-gen-176",
+    "canonicalNextId": "ep-gen-177",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers",
+      "jacob"
+    ],
+    "placeIds": [
+      "egypt",
+      "canaan",
+      "machpelah"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-176"
+    ],
+    "illustrationId": "art-gen-176",
+    "lessonId": "lesson-gen-176",
+    "sensitivity": [
+      "death",
+      "grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-177",
+    "stageId": "S01D",
+    "titleKo": "형제들의 두려움과 용서",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 21
+      },
+      "osis": "GEN.50.15-GEN.50.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "야곱의 죽음 뒤 형들이 두려워함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "요셉이 형들을 안심시키며 말함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "가족에 대한 돌봄을 약속함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "야곱의 죽음 뒤 형들이 두려워함 → 요셉이 형들을 안심시키며 말함 → 가족에 대한 돌봄을 약속함",
+    "knowledgeObjectiveKo": "형들을 두려움에서 안심시키려 한 사람은?",
+    "canonicalOutcomeId": "canon-gen-177",
+    "canonicalNextId": "ep-gen-178",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-177"
+    ],
+    "illustrationId": "art-gen-177",
+    "lessonId": "lesson-gen-177",
+    "sensitivity": [
+      "reconciliation",
+      "guilt"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-178",
+    "stageId": "S01D",
+    "titleKo": "요셉의 후손",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 23
+      },
+      "osis": "GEN.50.22-GEN.50.23"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 애굽에서 오래 삶",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "에브라임 후손과 므낫세 가족에 대한 언급이 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "여러 세대가 이어짐",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 애굽에서 오래 삶 → 에브라임 후손과 므낫세 가족에 대한 언급이 이어짐 → 여러 세대가 이어짐",
+    "knowledgeObjectiveKo": "요셉이 애굽에서 본 것은?",
+    "canonicalOutcomeId": "canon-gen-178",
+    "canonicalNextId": "ep-gen-179",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "ephraim",
+      "manasseh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "comparative_egypt_no_historicized_story_pin",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-178"
+    ],
+    "illustrationId": "art-gen-178",
+    "lessonId": "lesson-gen-178",
+    "sensitivity": [
+      "genealogy"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  },
+  {
+    "id": "ep-gen-179",
+    "stageId": "S01D",
+    "titleKo": "요셉의 죽음과 출애굽의 예고",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 24
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 26
+      },
+      "osis": "GEN.50.24-GEN.50.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "요셉이 형제들에게 하나님의 돌보심을 말함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 2,
+        "textKo": "훗날 나갈 때 자신의 유골을 가지고 가라 당부함",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      },
+      {
+        "step": 3,
+        "textKo": "요셉의 죽음으로 창세기가 끝남",
+        "basis": "biblical_narrative_editorial_paraphrase_not_approved"
+      }
+    ],
+    "narrativeSummaryKo": "요셉이 형제들에게 하나님의 돌보심을 말함 → 훗날 나갈 때 자신의 유골을 가지고 가라 당부함 → 요셉의 죽음으로 창세기가 끝남",
+    "knowledgeObjectiveKo": "요셉이 후일 이스라엘에게 부탁한 것은?",
+    "canonicalOutcomeId": "canon-gen-179",
+    "canonicalNextId": "handoff-exo-001",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "joseph",
+      "brothers"
+    ],
+    "placeIds": [
+      "egypt",
+      "canaan"
+    ],
+    "mapMode": "historical_region_with_biblical_uncertainty",
+    "mapConfidence": "regional_only_event_location_unverified",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01D-CLAIM-179"
+    ],
+    "illustrationId": "art-gen-179",
+    "lessonId": "lesson-gen-179",
+    "sensitivity": [
+      "death",
+      "grief"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_child_safety_and_trauma_review"
+    },
+    "releaseReady": false,
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveVisuals": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ]
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "verifiedAt": "2026-10-13",
+  "koreanRevised1998": {
+    "owner": "대한성서공회",
+    "evidenceId": "KBS-COPY",
+    "permissionToRepublishInApp": "not_provided",
+    "embedInZip": false,
+    "releaseGate": "must_obtain_written_or_applicable_license"
+  },
+  "worldEnglishBible": {
+    "sourceId": "WEB-PD",
+    "rights": "public_domain",
+    "trademarkNote": "do not call modified text World English Bible",
+    "embedInZip": false,
+    "reason": "source English text not downloaded or verse-matched in this run; not a Korean translation"
+  },
+  "britishMuseumImages": {
+    "sourceId": "BM-FLOOD-IMG",
+    "rights": "museum image specifically describes CC BY-NC-SA 4.0 for non-commercial sharing and separate commercial licensing",
+    "embedInZip": false,
+    "releaseGate": "choose original illustrations or individual asset permissions"
+  },
+  "generatedIllustrations": {
+    "embedded": false,
+    "reviewNeeds": [
+      "biblical accuracy",
+      "sensitive scenes",
+      "historical costume",
+      "source inspiration rights"
+    ],
+    "releaseGate": "asset_production_and_review_required"
+  }
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "abram",
+    "labelKo": "아브람",
+    "identityNoteKo": "아브라함으로 이름 변경 전",
+    "aliasOf": "abraham",
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "abraham",
+    "labelKo": "아브라함",
+    "identityNoteKo": "이름 변경 후",
+    "aliasOf": "abram",
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "sarai",
+    "labelKo": "사래",
+    "identityNoteKo": "사라로 이름 변경 전",
+    "aliasOf": "sarah",
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "sarah",
+    "labelKo": "사라",
+    "identityNoteKo": "이름 변경 후",
+    "aliasOf": "sarai",
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "lot",
+    "labelKo": "롯",
+    "identityNoteKo": "아브라함의 조카",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "hagar",
+    "labelKo": "하갈",
+    "identityNoteKo": "애굽 출신 여종; 자신의 고통을 기록에 반영",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "ishmael",
+    "labelKo": "이스마엘",
+    "identityNoteKo": "아브라함과 하갈의 아들",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "isaac",
+    "labelKo": "이삭",
+    "identityNoteKo": "아브라함과 사라의 아들",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "rebekah",
+    "labelKo": "리브가",
+    "identityNoteKo": "브두엘의 딸; 혼인 의사 직접 표명",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "esau",
+    "labelKo": "에서",
+    "identityNoteKo": "이삭과 리브가의 장자",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "jacob",
+    "labelKo": "야곱",
+    "identityNoteKo": "이삭과 리브가의 아들",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "abimelech",
+    "labelKo": "아비멜렉",
+    "identityNoteKo": "그랄 왕으로 서술됨",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "pharaoh",
+    "labelKo": "바로",
+    "identityNoteKo": "애굽 왕; 개인명 기록되지 않음",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "servant_unnamed",
+    "labelKo": "아브라함의 집안 관리인",
+    "identityNoteKo": "창세기 24장 인물의 이름은 기록되지 않음",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "melchizedek",
+    "labelKo": "멜기세덱",
+    "identityNoteKo": "살렘 왕이며 제사장으로 서술",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "king_sodom",
+    "labelKo": "소돔 왕",
+    "identityNoteKo": "창 14장의 소돔 왕",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "kings_east",
+    "labelKo": "동쪽 네 왕",
+    "identityNoteKo": "창 14장에 묘사된 왕들; 외부 확인 불가",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "kings_plain",
+    "labelKo": "다섯 왕",
+    "identityNoteKo": "창 14장의 연합왕들; 외부 확인 불가",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "visitors",
+    "labelKo": "방문객/사자",
+    "identityNoteKo": "창 18장과 19장의 표현 차이를 보존",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "lot_wife",
+    "labelKo": "롯의 아내",
+    "identityNoteKo": "이름 미기재",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "lot_daughters",
+    "labelKo": "롯의 딸들",
+    "identityNoteKo": "민감한 사건을 선정적으로 묘사하지 않음",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "nahor_family",
+    "labelKo": "나홀의 집안",
+    "identityNoteKo": "계보 단위",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "laban",
+    "labelKo": "라반",
+    "identityNoteKo": "리브가의 오빠",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "bethuel",
+    "labelKo": "브두엘",
+    "identityNoteKo": "리브가의 아버지",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "ephron",
+    "labelKo": "에브론",
+    "identityNoteKo": "매장지 거래 상대",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  },
+  {
+    "id": "keturah",
+    "labelKo": "그두라",
+    "identityNoteKo": "아브라함의 다른 아내",
+    "aliasOf": null,
+    "historicalProof": "scriptural_character_not_independently_attested"
+  }
+]

@@ -1,0 +1,2840 @@
+[
+  {
+    "episodeId": "ep-gen-001",
+    "entrySceneId": "ep-gen-001/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-001/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "빛과 질서의 시작",
+        "linesKo": [
+          "본문 범위: GEN.1.1-GEN.1.13",
+          "태초와 빛의 구분",
+          "궁창과 물의 구분",
+          "땅·바다·식물의 등장"
+        ],
+        "nextRequired": "ep-gen-001/recap",
+        "choices": [
+          {
+            "id": "ep-gen-001/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-001/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-001/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-001/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C01"
+            }
+          },
+          {
+            "id": "ep-gen-001/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-001/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-001/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-001/recap",
+        "choices": [
+          {
+            "id": "ep-gen-001/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-001/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-001/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-001/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "창조 서술의 반복 구조와 질서화",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-001/recap",
+        "choices": [
+          {
+            "id": "ep-gen-001/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-001/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-001/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-001/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-001/recap",
+        "choices": [
+          {
+            "id": "ep-gen-001/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-001/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-001/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-001/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "땅·바다·식물의 등장",
+          "학습 목표: 창조 서술의 반복 구조와 질서화"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-001",
+        "canonicalNextId": "ep-gen-002",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-002",
+    "entrySceneId": "ep-gen-002/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-002/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "하늘의 광명과 생명의 다양성",
+        "linesKo": [
+          "본문 범위: GEN.1.14-GEN.1.25",
+          "낮·밤·절기 구분을 위한 광명",
+          "물과 하늘의 생물",
+          "땅의 생물"
+        ],
+        "nextRequired": "ep-gen-002/recap",
+        "choices": [
+          {
+            "id": "ep-gen-002/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-002/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-002/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-002/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C01"
+            }
+          },
+          {
+            "id": "ep-gen-002/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-002/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-002/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-002/recap",
+        "choices": [
+          {
+            "id": "ep-gen-002/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-002/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-002/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-002/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "본문의 창조일 배열·기능을 비교",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-002/recap",
+        "choices": [
+          {
+            "id": "ep-gen-002/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-002/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-002/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-002/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-002/recap",
+        "choices": [
+          {
+            "id": "ep-gen-002/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-002/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-002/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-002/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "땅의 생물",
+          "학습 목표: 본문의 창조일 배열·기능을 비교"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-002",
+        "canonicalNextId": "ep-gen-003",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-003",
+    "entrySceneId": "ep-gen-003/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-003/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "사람과 일곱째 날",
+        "linesKo": [
+          "본문 범위: GEN.1.26-GEN.2.3",
+          "사람이 하나님의 형상으로 창조됨",
+          "생육과 피조 세계 돌봄",
+          "창조의 마침과 일곱째 날 쉼"
+        ],
+        "nextRequired": "ep-gen-003/recap",
+        "choices": [
+          {
+            "id": "ep-gen-003/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-003/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-003/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-003/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C01"
+            }
+          },
+          {
+            "id": "ep-gen-003/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-003/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-003/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-003/recap",
+        "choices": [
+          {
+            "id": "ep-gen-003/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-003/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-003/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-003/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "인간의 존엄성과 안식의 위치",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-003/recap",
+        "choices": [
+          {
+            "id": "ep-gen-003/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-003/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-003/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-003/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-003/recap",
+        "choices": [
+          {
+            "id": "ep-gen-003/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-003/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-003/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-003/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "창조의 마침과 일곱째 날 쉼",
+          "학습 목표: 인간의 존엄성과 안식의 위치"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-003",
+        "canonicalNextId": "ep-gen-004",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-004",
+    "entrySceneId": "ep-gen-004/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-004/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "에덴의 사람과 사명",
+        "linesKo": [
+          "본문 범위: GEN.2.4-GEN.2.17",
+          "사람을 지으심",
+          "에덴·강·나무를 서술",
+          "경작과 돌봄 및 금지 명령"
+        ],
+        "nextRequired": "ep-gen-004/recap",
+        "choices": [
+          {
+            "id": "ep-gen-004/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "아담 관점(고정된 본문 사건 관찰)으로 보기",
+            "next": "ep-gen-004/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "adam"
+            }
+          },
+          {
+            "id": "ep-gen-004/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-004/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C02"
+            }
+          },
+          {
+            "id": "ep-gen-004/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-004/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-004/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "아담 관점(고정된 본문 사건 관찰)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-004/recap",
+        "choices": [
+          {
+            "id": "ep-gen-004/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-004/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-004/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-004/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "지리적 위치와 본문 기능을 구분",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-004/recap",
+        "choices": [
+          {
+            "id": "ep-gen-004/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-004/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-004/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-004/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-004/recap",
+        "choices": [
+          {
+            "id": "ep-gen-004/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-004/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-004/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-004/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "경작과 돌봄 및 금지 명령",
+          "학습 목표: 지리적 위치와 본문 기능을 구분"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-004",
+        "canonicalNextId": "ep-gen-005",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-005",
+    "entrySceneId": "ep-gen-005/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-005/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "서로 마주하는 동반자",
+        "linesKo": [
+          "본문 범위: GEN.2.18-GEN.2.25",
+          "혼자 있음의 의미",
+          "동물 이름 붙이기",
+          "여자의 창조와 한 몸의 관계"
+        ],
+        "nextRequired": "ep-gen-005/recap",
+        "choices": [
+          {
+            "id": "ep-gen-005/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "아담 관점(고정된 본문 사건 관찰)으로 보기",
+            "next": "ep-gen-005/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "adam"
+            }
+          },
+          {
+            "id": "ep-gen-005/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-005/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C02"
+            }
+          },
+          {
+            "id": "ep-gen-005/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-005/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-005/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "아담 관점(고정된 본문 사건 관찰)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-005/recap",
+        "choices": [
+          {
+            "id": "ep-gen-005/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-005/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-005/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-005/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "본문의 관계·동반성 읽기",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-005/recap",
+        "choices": [
+          {
+            "id": "ep-gen-005/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-005/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-005/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-005/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-005/recap",
+        "choices": [
+          {
+            "id": "ep-gen-005/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-005/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-005/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-005/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "여자의 창조와 한 몸의 관계",
+          "학습 목표: 본문의 관계·동반성 읽기"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-005",
+        "canonicalNextId": "ep-gen-006",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-006",
+    "entrySceneId": "ep-gen-006/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-006/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "금지와 유혹",
+        "linesKo": [
+          "본문 범위: GEN.3.1-GEN.3.7",
+          "뱀과 여자의 대화",
+          "열매를 먹는 서술",
+          "눈이 밝아지고 가림"
+        ],
+        "nextRequired": "ep-gen-006/recap",
+        "choices": [
+          {
+            "id": "ep-gen-006/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "하와 관점(고정된 본문 사건 관찰)으로 보기",
+            "next": "ep-gen-006/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "eve"
+            }
+          },
+          {
+            "id": "ep-gen-006/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-006/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C04"
+            }
+          },
+          {
+            "id": "ep-gen-006/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-006/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-006/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "하와 관점(고정된 본문 사건 관찰)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-006/recap",
+        "choices": [
+          {
+            "id": "ep-gen-006/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-006/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-006/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-006/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "서술된 말과 후대 해석의 분리",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-006/recap",
+        "choices": [
+          {
+            "id": "ep-gen-006/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-006/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-006/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-006/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-006/recap",
+        "choices": [
+          {
+            "id": "ep-gen-006/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-006/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-006/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-006/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "눈이 밝아지고 가림",
+          "학습 목표: 서술된 말과 후대 해석의 분리"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-006",
+        "canonicalNextId": "ep-gen-007",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-007",
+    "entrySceneId": "ep-gen-007/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-007/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "동산 밖으로",
+        "linesKo": [
+          "본문 범위: GEN.3.8-GEN.3.24",
+          "숨음과 질문",
+          "각 대상에게 선고",
+          "가죽옷·동산 추방"
+        ],
+        "nextRequired": "ep-gen-007/recap",
+        "choices": [
+          {
+            "id": "ep-gen-007/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "아담 관점(고정된 본문 사건 관찰)으로 보기",
+            "next": "ep-gen-007/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "adam"
+            }
+          },
+          {
+            "id": "ep-gen-007/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-007/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C04"
+            }
+          },
+          {
+            "id": "ep-gen-007/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-007/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-007/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "아담 관점(고정된 본문 사건 관찰)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-007/recap",
+        "choices": [
+          {
+            "id": "ep-gen-007/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-007/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-007/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-007/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "본문 속 결과는 비가변으로 유지",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-007/recap",
+        "choices": [
+          {
+            "id": "ep-gen-007/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-007/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-007/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-007/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-007/recap",
+        "choices": [
+          {
+            "id": "ep-gen-007/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-007/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-007/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-007/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "가죽옷·동산 추방",
+          "학습 목표: 본문 속 결과는 비가변으로 유지"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-007",
+        "canonicalNextId": "ep-gen-008",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-008",
+    "entrySceneId": "ep-gen-008/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-008/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "두 형제와 예물",
+        "linesKo": [
+          "본문 범위: GEN.4.1-GEN.4.8",
+          "가인과 아벨의 생업",
+          "예물에 대한 반응",
+          "들에서 아벨을 죽임"
+        ],
+        "nextRequired": "ep-gen-008/recap",
+        "choices": [
+          {
+            "id": "ep-gen-008/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "가인 관점(판단·행동 변경 불가)으로 보기",
+            "next": "ep-gen-008/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "cain"
+            }
+          },
+          {
+            "id": "ep-gen-008/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-008/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C05"
+            }
+          },
+          {
+            "id": "ep-gen-008/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-008/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-008/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "가인 관점(판단·행동 변경 불가)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-008/recap",
+        "choices": [
+          {
+            "id": "ep-gen-008/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-008/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-008/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-008/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "동기를 본문 이상으로 단정하지 않기",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-008/recap",
+        "choices": [
+          {
+            "id": "ep-gen-008/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-008/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-008/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-008/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-008/recap",
+        "choices": [
+          {
+            "id": "ep-gen-008/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-008/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-008/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-008/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "들에서 아벨을 죽임",
+          "학습 목표: 동기를 본문 이상으로 단정하지 않기"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-008",
+        "canonicalNextId": "ep-gen-009",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-009",
+    "entrySceneId": "ep-gen-009/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-009/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "가인에게 던져진 질문",
+        "linesKo": [
+          "본문 범위: GEN.4.9-GEN.4.16",
+          "아벨의 행방 질문",
+          "가인의 책임과 처분",
+          "표와 놋 땅 이동"
+        ],
+        "nextRequired": "ep-gen-009/recap",
+        "choices": [
+          {
+            "id": "ep-gen-009/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "가인 관점(판단·행동 변경 불가)으로 보기",
+            "next": "ep-gen-009/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "cain"
+            }
+          },
+          {
+            "id": "ep-gen-009/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-009/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C05"
+            }
+          },
+          {
+            "id": "ep-gen-009/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-009/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-009/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "가인 관점(판단·행동 변경 불가)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-009/recap",
+        "choices": [
+          {
+            "id": "ep-gen-009/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-009/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-009/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-009/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "가인의 표의 구체적 모양은 본문에 없음",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-009/recap",
+        "choices": [
+          {
+            "id": "ep-gen-009/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-009/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-009/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-009/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-009/recap",
+        "choices": [
+          {
+            "id": "ep-gen-009/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-009/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-009/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-009/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "표와 놋 땅 이동",
+          "학습 목표: 가인의 표의 구체적 모양은 본문에 없음"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-009",
+        "canonicalNextId": "ep-gen-010",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-010",
+    "entrySceneId": "ep-gen-010/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-010/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "도시·기술·새로운 세대",
+        "linesKo": [
+          "본문 범위: GEN.4.17-GEN.4.26",
+          "가인의 자손과 도시",
+          "문화·직업 발달 서술",
+          "셋·에노스 계보"
+        ],
+        "nextRequired": "ep-gen-010/recap",
+        "choices": [
+          {
+            "id": "ep-gen-010/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-010/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-010/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-010/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C06"
+            }
+          },
+          {
+            "id": "ep-gen-010/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-010/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-010/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-010/recap",
+        "choices": [
+          {
+            "id": "ep-gen-010/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-010/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-010/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-010/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "문명 발전 목록은 역사유적 위치 목록이 아님",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-010/recap",
+        "choices": [
+          {
+            "id": "ep-gen-010/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-010/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-010/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-010/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-010/recap",
+        "choices": [
+          {
+            "id": "ep-gen-010/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-010/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-010/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-010/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "셋·에노스 계보",
+          "학습 목표: 문명 발전 목록은 역사유적 위치 목록이 아님"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-010",
+        "canonicalNextId": "ep-gen-011",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-011",
+    "entrySceneId": "ep-gen-011/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-011/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "아담에서 노아까지",
+        "linesKo": [
+          "본문 범위: GEN.5.1-GEN.5.32",
+          "아담 계보의 시작",
+          "생몰 연수와 자손의 반복",
+          "노아의 계보 도달"
+        ],
+        "nextRequired": "ep-gen-011/recap",
+        "choices": [
+          {
+            "id": "ep-gen-011/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-011/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-011/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-011/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C06"
+            }
+          },
+          {
+            "id": "ep-gen-011/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-011/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-011/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-011/recap",
+        "choices": [
+          {
+            "id": "ep-gen-011/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-011/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-011/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-011/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "족보의 문학적 기능과 연대 계산의 한계",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-011/recap",
+        "choices": [
+          {
+            "id": "ep-gen-011/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-011/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-011/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-011/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: none",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-011/recap",
+        "choices": [
+          {
+            "id": "ep-gen-011/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-011/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-011/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-011/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "노아의 계보 도달",
+          "학습 목표: 족보의 문학적 기능과 연대 계산의 한계"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-011",
+        "canonicalNextId": "ep-gen-012",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-012",
+    "entrySceneId": "ep-gen-012/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-012/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "폭력으로 가득한 세상",
+        "linesKo": [
+          "본문 범위: GEN.6.1-GEN.6.8",
+          "사람 번성과 난해한 표현",
+          "인간 악에 관한 서술",
+          "노아가 은혜를 입음"
+        ],
+        "nextRequired": "ep-gen-012/recap",
+        "choices": [
+          {
+            "id": "ep-gen-012/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-012/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-012/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-012/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C08"
+            }
+          },
+          {
+            "id": "ep-gen-012/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-012/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-012/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-012/recap",
+        "choices": [
+          {
+            "id": "ep-gen-012/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-012/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-012/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-012/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "하나님의 아들들·네피림 해석 다양성 표시",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-012/recap",
+        "choices": [
+          {
+            "id": "ep-gen-012/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-012/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-012/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-012/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-012/recap",
+        "choices": [
+          {
+            "id": "ep-gen-012/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-012/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-012/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-012/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "노아가 은혜를 입음",
+          "학습 목표: 하나님의 아들들·네피림 해석 다양성 표시"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-012",
+        "canonicalNextId": "ep-gen-013",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-013",
+    "entrySceneId": "ep-gen-013/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-013/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "방주를 준비하는 노아",
+        "linesKo": [
+          "본문 범위: GEN.6.9-GEN.6.22",
+          "노아 세대의 평가",
+          "방주 제작 명령과 치수",
+          "명령에 따름"
+        ],
+        "nextRequired": "ep-gen-013/recap",
+        "choices": [
+          {
+            "id": "ep-gen-013/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)으로 보기",
+            "next": "ep-gen-013/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "noah"
+            }
+          },
+          {
+            "id": "ep-gen-013/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-013/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C09"
+            }
+          },
+          {
+            "id": "ep-gen-013/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-013/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-013/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-013/recap",
+        "choices": [
+          {
+            "id": "ep-gen-013/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-013/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-013/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-013/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "방주 치수는 본문 자료로만 제시",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-013/recap",
+        "choices": [
+          {
+            "id": "ep-gen-013/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-013/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-013/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-013/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-013/recap",
+        "choices": [
+          {
+            "id": "ep-gen-013/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-013/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-013/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-013/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "명령에 따름",
+          "학습 목표: 방주 치수는 본문 자료로만 제시"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-013",
+        "canonicalNextId": "ep-gen-014",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-014",
+    "entrySceneId": "ep-gen-014/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-014/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "큰물이 덮다",
+        "linesKo": [
+          "본문 범위: GEN.7.1-GEN.7.24",
+          "방주 입장",
+          "비와 큰 깊음의 샘",
+          "물의 지속과 심판"
+        ],
+        "nextRequired": "ep-gen-014/recap",
+        "choices": [
+          {
+            "id": "ep-gen-014/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)으로 보기",
+            "next": "ep-gen-014/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "noah"
+            }
+          },
+          {
+            "id": "ep-gen-014/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-014/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C09"
+            }
+          },
+          {
+            "id": "ep-gen-014/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-014/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-014/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-014/recap",
+        "choices": [
+          {
+            "id": "ep-gen-014/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-014/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-014/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-014/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "전 지구적 홍수의 고고학적 확정 주장 금지",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-014/recap",
+        "choices": [
+          {
+            "id": "ep-gen-014/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-014/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-014/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-014/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-014/recap",
+        "choices": [
+          {
+            "id": "ep-gen-014/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-014/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-014/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-014/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "물의 지속과 심판",
+          "학습 목표: 전 지구적 홍수의 고고학적 확정 주장 금지"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-014",
+        "canonicalNextId": "ep-gen-015",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-015",
+    "entrySceneId": "ep-gen-015/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-015/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "물이 물러가다",
+        "linesKo": [
+          "본문 범위: GEN.8.1-GEN.8.19",
+          "물이 감해지는 서술",
+          "까마귀·비둘기 내보냄",
+          "땅 마름과 방주 밖으로"
+        ],
+        "nextRequired": "ep-gen-015/recap",
+        "choices": [
+          {
+            "id": "ep-gen-015/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)으로 보기",
+            "next": "ep-gen-015/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "noah"
+            }
+          },
+          {
+            "id": "ep-gen-015/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-015/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C09"
+            }
+          },
+          {
+            "id": "ep-gen-015/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-015/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-015/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-015/recap",
+        "choices": [
+          {
+            "id": "ep-gen-015/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-015/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-015/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-015/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "방주 정착지는 특정 아라라트산 정상으로 고정하지 않기",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-015/recap",
+        "choices": [
+          {
+            "id": "ep-gen-015/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-015/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-015/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-015/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-015/recap",
+        "choices": [
+          {
+            "id": "ep-gen-015/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-015/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-015/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-015/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "땅 마름과 방주 밖으로",
+          "학습 목표: 방주 정착지는 특정 아라라트산 정상으로 고정하지 않기"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-015",
+        "canonicalNextId": "ep-gen-016",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-016",
+    "entrySceneId": "ep-gen-016/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-016/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "제단과 무지개 언약",
+        "linesKo": [
+          "본문 범위: GEN.8.20-GEN.9.17",
+          "방주에서 나와 제단",
+          "먹을거리·생명에 관한 규정",
+          "언약과 무지개 징표"
+        ],
+        "nextRequired": "ep-gen-016/recap",
+        "choices": [
+          {
+            "id": "ep-gen-016/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "노아 관점(말/행동은 본문 밖으로 창작하지 않음)으로 보기",
+            "next": "ep-gen-016/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "noah"
+            }
+          },
+          {
+            "id": "ep-gen-016/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-016/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C09"
+            }
+          },
+          {
+            "id": "ep-gen-016/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-016/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-016/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "노아 관점(말/행동은 본문 밖으로 창작하지 않음)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-016/recap",
+        "choices": [
+          {
+            "id": "ep-gen-016/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-016/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-016/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-016/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "언약 상대와 내용이 무엇인지 본문을 기준으로 학습",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-016/recap",
+        "choices": [
+          {
+            "id": "ep-gen-016/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-016/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-016/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-016/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-016/recap",
+        "choices": [
+          {
+            "id": "ep-gen-016/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-016/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-016/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-016/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "언약과 무지개 징표",
+          "학습 목표: 언약 상대와 내용이 무엇인지 본문을 기준으로 학습"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-016",
+        "canonicalNextId": "ep-gen-017",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-017",
+    "entrySceneId": "ep-gen-017/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-017/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "노아의 포도원과 가족",
+        "linesKo": [
+          "본문 범위: GEN.9.18-GEN.9.29",
+          "세 아들의 언급",
+          "포도주 사건과 노출",
+          "가나안 관련 선고와 노아의 죽음"
+        ],
+        "nextRequired": "ep-gen-017/recap",
+        "choices": [
+          {
+            "id": "ep-gen-017/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-017/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-017/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-017/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C12"
+            }
+          },
+          {
+            "id": "ep-gen-017/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-017/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-017/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-017/recap",
+        "choices": [
+          {
+            "id": "ep-gen-017/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-017/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-017/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-017/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "함이 아닌 가나안이 저주 대상이라는 본문 구분; 인종 정당화 금지",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-017/recap",
+        "choices": [
+          {
+            "id": "ep-gen-017/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-017/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-017/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-017/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: symbolic",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-017/recap",
+        "choices": [
+          {
+            "id": "ep-gen-017/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-017/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-017/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-017/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "가나안 관련 선고와 노아의 죽음",
+          "학습 목표: 함이 아닌 가나안이 저주 대상이라는 본문 구분; 인종 정당화 금지"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-017",
+        "canonicalNextId": "ep-gen-018",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-018",
+    "entrySceneId": "ep-gen-018/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-018/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "열방의 계보: 야벳·함",
+        "linesKo": [
+          "본문 범위: GEN.10.1-GEN.10.20",
+          "노아 자손의 갈래",
+          "야벳 계열",
+          "함 계열과 니므롯 언급"
+        ],
+        "nextRequired": "ep-gen-018/recap",
+        "choices": [
+          {
+            "id": "ep-gen-018/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-018/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-018/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-018/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C13"
+            }
+          },
+          {
+            "id": "ep-gen-018/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-018/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-018/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-018/recap",
+        "choices": [
+          {
+            "id": "ep-gen-018/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-018/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-018/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-018/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "현대 민족·인종에 기계적으로 일대일 대응 금지",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-018/recap",
+        "choices": [
+          {
+            "id": "ep-gen-018/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-018/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-018/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-018/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: conceptual",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-018/recap",
+        "choices": [
+          {
+            "id": "ep-gen-018/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-018/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-018/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-018/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "함 계열과 니므롯 언급",
+          "학습 목표: 현대 민족·인종에 기계적으로 일대일 대응 금지"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-018",
+        "canonicalNextId": "ep-gen-019",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-019",
+    "entrySceneId": "ep-gen-019/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-019/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "열방의 계보: 셈",
+        "linesKo": [
+          "본문 범위: GEN.10.21-GEN.10.32",
+          "셈 계열 서술",
+          "계보와 거주 관련 표현",
+          "민족·언어·땅 분포의 목록"
+        ],
+        "nextRequired": "ep-gen-019/recap",
+        "choices": [
+          {
+            "id": "ep-gen-019/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-019/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-019/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-019/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C13"
+            }
+          },
+          {
+            "id": "ep-gen-019/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-019/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-019/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-019/recap",
+        "choices": [
+          {
+            "id": "ep-gen-019/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-019/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-019/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-019/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "창세기 10장과 11장은 현대적 연대 순서로 강제 배치 금지",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-019/recap",
+        "choices": [
+          {
+            "id": "ep-gen-019/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-019/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-019/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-019/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: conceptual",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-019/recap",
+        "choices": [
+          {
+            "id": "ep-gen-019/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-019/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-019/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-019/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "민족·언어·땅 분포의 목록",
+          "학습 목표: 창세기 10장과 11장은 현대적 연대 순서로 강제 배치 금지"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-019",
+        "canonicalNextId": "ep-gen-020",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-020",
+    "entrySceneId": "ep-gen-020/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-020/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "시날 평지와 바벨의 탑",
+        "linesKo": [
+          "본문 범위: GEN.11.1-GEN.11.9",
+          "언어의 하나됨",
+          "벽돌과 성읍·탑 건설",
+          "말의 혼잡과 흩어짐"
+        ],
+        "nextRequired": "ep-gen-020/recap",
+        "choices": [
+          {
+            "id": "ep-gen-020/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "가상 목격자(창작 인물 표지 필수)으로 보기",
+            "next": "ep-gen-020/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness"
+            }
+          },
+          {
+            "id": "ep-gen-020/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-020/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C14"
+            }
+          },
+          {
+            "id": "ep-gen-020/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-020/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-020/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "가상 목격자(창작 인물 표지 필수)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-020/recap",
+        "choices": [
+          {
+            "id": "ep-gen-020/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-020/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-020/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-020/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "실존 에테멘안키를 곧 성경의 탑으로 확정하지 않기",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-020/recap",
+        "choices": [
+          {
+            "id": "ep-gen-020/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-020/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-020/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-020/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: region_uncertain",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-020/recap",
+        "choices": [
+          {
+            "id": "ep-gen-020/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-020/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-020/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-020/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "말의 혼잡과 흩어짐",
+          "학습 목표: 실존 에테멘안키를 곧 성경의 탑으로 확정하지 않기"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-020",
+        "canonicalNextId": "ep-gen-021",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-021",
+    "entrySceneId": "ep-gen-021/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-021/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "셈에서 아브람으로",
+        "linesKo": [
+          "본문 범위: GEN.11.10-GEN.11.26",
+          "셈부터 아르박삿 계보",
+          "세대마다 출생·수명 기재",
+          "데라와 아브람의 도달"
+        ],
+        "nextRequired": "ep-gen-021/recap",
+        "choices": [
+          {
+            "id": "ep-gen-021/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "독자·역사 관찰자으로 보기",
+            "next": "ep-gen-021/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "observer"
+            }
+          },
+          {
+            "id": "ep-gen-021/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-021/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C07"
+            }
+          },
+          {
+            "id": "ep-gen-021/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-021/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-021/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "독자·역사 관찰자",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-021/recap",
+        "choices": [
+          {
+            "id": "ep-gen-021/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-021/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-021/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-021/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "계보를 고정 기원전 연표로 역산하지 않음",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-021/recap",
+        "choices": [
+          {
+            "id": "ep-gen-021/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-021/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-021/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-021/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: none",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-021/recap",
+        "choices": [
+          {
+            "id": "ep-gen-021/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-021/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-021/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-021/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "데라와 아브람의 도달",
+          "학습 목표: 계보를 고정 기원전 연표로 역산하지 않음"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-021",
+        "canonicalNextId": "ep-gen-022",
+        "choices": []
+      }
+    ]
+  },
+  {
+    "episodeId": "ep-gen-022",
+    "entrySceneId": "ep-gen-022/opening",
+    "scenes": [
+      {
+        "id": "ep-gen-022/opening",
+        "sceneType": "canonical_summary",
+        "headerKo": "데라의 가족과 하란",
+        "linesKo": [
+          "본문 범위: GEN.11.27-GEN.11.32",
+          "데라의 가족 관계",
+          "우르에서 가나안으로 떠남",
+          "하란에 머묾과 데라의 죽음"
+        ],
+        "nextRequired": "ep-gen-022/recap",
+        "choices": [
+          {
+            "id": "ep-gen-022/open-perspective",
+            "kind": "narrative_perspective",
+            "labelKo": "가상 목격자(창작 인물 표지 필수)으로 보기",
+            "next": "ep-gen-022/perspective",
+            "effect": {
+              "type": "set_perspective",
+              "value": "fictional_witness"
+            }
+          },
+          {
+            "id": "ep-gen-022/open-evidence",
+            "kind": "inspection",
+            "labelKo": "본문·근거 비교",
+            "next": "ep-gen-022/evidence",
+            "effect": {
+              "type": "reveal_card",
+              "value": "C16"
+            }
+          },
+          {
+            "id": "ep-gen-022/open-map",
+            "kind": "learning_focus",
+            "labelKo": "지리와 시대 살펴보기",
+            "next": "ep-gen-022/map",
+            "effect": {
+              "type": "open_panel",
+              "value": "map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-022/perspective",
+        "sceneType": "perspective_lens",
+        "headerKo": "관점 체험 (재구성 표지)",
+        "linesKo": [
+          "가상 목격자(창작 인물 표지 필수)",
+          "본문에 없는 1인칭 대사·심리는 추가하지 않는다."
+        ],
+        "nextRequired": "ep-gen-022/recap",
+        "choices": [
+          {
+            "id": "ep-gen-022/perspective-done",
+            "kind": "reflection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-022/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-022/perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-022/evidence",
+        "sceneType": "evidence_comparison",
+        "headerKo": "본문과 학술 자료",
+        "linesKo": [
+          "우르의 정확한 위치 및 시기는 해석상 여지 남음",
+          "외부 자료가 해당 사건 전체를 증명하는 것은 아니다."
+        ],
+        "nextRequired": "ep-gen-022/recap",
+        "choices": [
+          {
+            "id": "ep-gen-022/evidence-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-022/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-022/evidence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-022/map",
+        "sceneType": "map_or_symbolic",
+        "headerKo": "지리·시대 살펴보기",
+        "linesKo": [
+          "지도 모드: region_uncertain",
+          "확정 연대/좌표 없으면 좌표·연대 숫자를 생성하지 않는다."
+        ],
+        "nextRequired": "ep-gen-022/recap",
+        "choices": [
+          {
+            "id": "ep-gen-022/map-done",
+            "kind": "inspection",
+            "labelKo": "이야기 계속",
+            "next": "ep-gen-022/recap",
+            "effect": {
+              "type": "mark_visited",
+              "value": "ep-gen-022/map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ep-gen-022/recap",
+        "sceneType": "locked_canonical_outcome",
+        "headerKo": "본문 요약과 다음 연결",
+        "linesKo": [
+          "하란에 머묾과 데라의 죽음",
+          "학습 목표: 우르의 정확한 위치 및 시기는 해석상 여지 남음"
+        ],
+        "nextRequired": null,
+        "canonicalOutcomeId": "canon-gen-022",
+        "canonicalNextId": "handoff-gen-012",
+        "choices": []
+      }
+    ]
+  }
+]

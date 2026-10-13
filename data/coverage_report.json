@@ -1,0 +1,11 @@
+{
+  "canon": "Protestant 66-book",
+  "books": 66,
+  "chapters": 1189,
+  "oldTestamentBooks": 39,
+  "newTestamentBooks": 27,
+  "authoredChapters": 0,
+  "reviewedChapters": 0,
+  "status": "index_only_not_authored",
+  "warning": "This manifest is not the Bible text nor a fact-checked commentary."
+}

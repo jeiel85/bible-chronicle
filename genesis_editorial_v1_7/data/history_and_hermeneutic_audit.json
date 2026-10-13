@@ -1,0 +1,517 @@
+[
+  {
+    "id": "HIST-GEN-001",
+    "scope": "GEN.1.1-2.3",
+    "claimKo": "창세기 1장은 일곱째 날의 안식으로 마무리되는 정형화된 창조 서사이다",
+    "claimType": "textual_literary",
+    "evidenceVerdict": "supported_as_textual_observation",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "interpretationLimitKo": "우주 형성의 과학적 상세 과정까지 입증하지 않음",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-002",
+    "scope": "GEN.1.1",
+    "claimKo": "1:1 히브리어 시작절은 문법상 복수의 번역 가능성이 있다",
+    "claimType": "scholarship",
+    "evidenceVerdict": "scholarly_discussion",
+    "sourceIds": [
+      "YALE-CREATION"
+    ],
+    "interpretationLimitKo": "개역개정 번역의 오류로 단정하지 않음",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-003",
+    "scope": "GEN.1.26",
+    "claimKo": "하나님의 형상은 사람의 특별한 위상을 나타낸다",
+    "claimType": "textual_theological",
+    "evidenceVerdict": "interpretive_multiple",
+    "sourceIds": [
+      "YALE-LECTURE"
+    ],
+    "interpretationLimitKo": "복수형·형상의 세부 뜻에 대한 합의 없음",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-004",
+    "scope": "GEN.2.4",
+    "claimKo": "창 1장과 2장 창조 서술은 서로 다른 문학적 초점을 가진다",
+    "claimType": "literary",
+    "evidenceVerdict": "multiple_scholarly_models",
+    "sourceIds": [
+      "YALE-CREATION",
+      "OUP-BRODIE-CRE",
+      "OUP-CARR"
+    ],
+    "interpretationLimitKo": "자료비평의 P·비P 구성도, 상보적 읽기도 병렬 제시",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-005",
+    "scope": "GEN.2.8",
+    "claimKo": "에덴의 정확한 지리 좌표를 확인할 수 있다",
+    "claimType": "historical_geographic",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "interpretationLimitKo": "지도에서 가상·상징으로 표시",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-006",
+    "scope": "GEN.3.15",
+    "claimKo": "여자의 후손에 대한 말씀은 본래 문맥 자체에서 메시아를 명시한다",
+    "claimType": "theological",
+    "evidenceVerdict": "interpretation_not_empirical_fact",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "interpretationLimitKo": "후대 기독교의 예표 해석은 별도 태그",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-007",
+    "scope": "GEN.4.17",
+    "claimKo": "가인이 건축한 도시의 위치가 발굴됐다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "YALE-INTRO"
+    ],
+    "interpretationLimitKo": "실제 도시 유적명 배당 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-008",
+    "scope": "GEN.5.1-32",
+    "claimKo": "족보 숫자가 고고학·지질학의 독립된 연대측정 근거다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "interpretationLimitKo": "절대연대 자동 환산 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-009",
+    "scope": "GEN.6.1-4",
+    "claimKo": "하나님의 아들들은 단일하게 검증된 특정 존재 집단이다",
+    "claimType": "textual",
+    "evidenceVerdict": "contested_interpretation",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "interpretationLimitKo": "전통별 해석 병렬",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-010",
+    "scope": "GEN.6.5-9.17",
+    "claimKo": "메소포타미아에는 성경 밖 홍수 문학 전승이 있다",
+    "claimType": "external_artifact_and_literature",
+    "evidenceVerdict": "established_for_literary_tradition",
+    "sourceIds": [
+      "BM-FLOOD",
+      "OUP-CARR-FLOOD"
+    ],
+    "interpretationLimitKo": "이로부터 노아 홍수 사건의 실제 범위를 증명하지 않음",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-011",
+    "scope": "GEN.7.1-24",
+    "claimKo": "노아 홍수가 지구 전체를 덮었다는 것을 고고학이 검증했다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "interpretationLimitKo": "고고학 출처를 역사 사실 증명의 근거로 사용하지 않음",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-012",
+    "scope": "GEN.8.4",
+    "claimKo": "노아 방주의 현재 좌표와 실물이 확인되었다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-CARR-FLOOD"
+    ],
+    "interpretationLimitKo": "아라랏 산지 수준의 본문 참조만",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-013",
+    "scope": "GEN.9.25",
+    "claimKo": "가나안에 대한 저주는 인종 차별을 정당화한다",
+    "claimType": "ethical_textual",
+    "evidenceVerdict": "false_normative_claim",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "interpretationLimitKo": "종교적 남용을 경고, 본문이 동의한다는 주장 차단",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-014",
+    "scope": "GEN.10.1-32",
+    "claimKo": "열방표는 현대 민족의 직접적인 유전자 지도다",
+    "claimType": "historical_anthropology",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "interpretationLimitKo": "고대 명칭과 현대 집단 동일시 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-015",
+    "scope": "GEN.11.1-9",
+    "claimKo": "바벨탑을 현존 에테멘안키와 동일한 건축물로 확정할 수 있다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-CARR"
+    ],
+    "interpretationLimitKo": "비슷한 메소포타미아 도시문화는 설명 가능, 동일성 아님",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-016",
+    "scope": "GEN.12.1-25.34",
+    "claimKo": "아브라함·이삭·야곱의 활동 연도와 실존이 고고학적으로 입증됐다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "전승과 사람의 개인적 실존 인증을 구분",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-017",
+    "scope": "GEN.12.10-20",
+    "claimKo": "아브람이 만난 파라오의 개인 이름이 확인됐다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "왕조·실명 배정 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-018",
+    "scope": "GEN.14.1-24",
+    "claimKo": "네 왕의 전쟁이 독립 사료로 연대까지 검증되었다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "동명이인 추정 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-019",
+    "scope": "GEN.16.1-16",
+    "claimKo": "하갈과 이스마엘의 기록이 현대 민족 전체를 일률 규정한다",
+    "claimType": "interpretation",
+    "evidenceVerdict": "unsupported_generalization",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "현대 민족과 직접 동일시 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-020",
+    "scope": "GEN.18.1-19.38",
+    "claimKo": "고대 도시의 특정 파괴층이 소돔 멸망을 확증한다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "특정 후보 유적 좌표의 사실 확정 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-021",
+    "scope": "GEN.22.1-19",
+    "claimKo": "모리아 산=성전산 동일성이 고고학으로 확정됐다",
+    "claimType": "historical_geographic",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "후대 성경 전승/해석을 별도 표시",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-022",
+    "scope": "GEN.23.1-20",
+    "claimKo": "현재 헤브론의 기념 건축물이 막벨라 굴 거래를 직접 입증한다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "전승 장소와 거래 실증 구별",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-023",
+    "scope": "GEN.27.1-28.22",
+    "claimKo": "야곱의 벧엘 사건 날짜와 사다리 구조물이 발굴됐다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "본문 환상 장면을 실제 구조물로 만들지 않음",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-024",
+    "scope": "GEN.32.22-32",
+    "claimKo": "브니엘 야곱 씨름 위치를 GPS로 확정할 수 있다",
+    "claimType": "historical_geographic",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "근거 수준에 맞춘 지도",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-025",
+    "scope": "GEN.34.1-31",
+    "claimKo": "시므온·레위의 행동은 승리 보상을 주어야 한다",
+    "claimType": "ethical_gameplay",
+    "evidenceVerdict": "prohibited_design_interpretation",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "성폭력/보복 폭력은 오락·보상화 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-026",
+    "scope": "GEN.36.1-43",
+    "claimKo": "에돔 왕의 이름은 각각 고고학적으로 확인되고 재위 기간이 알려져 있다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-SPERLING"
+    ],
+    "interpretationLimitKo": "별도 비교 연구 전까지 왕조 연대표 확정 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-027",
+    "scope": "GEN.37.1-50.26",
+    "claimKo": "요셉이 봉사한 파라오의 실명·왕조·연도를 확인할 수 있다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "interpretationLimitKo": "가설은 학설로만 기록",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-028",
+    "scope": "GEN.37.1-50.26",
+    "claimKo": "이집트 중왕국의 존재와 문화적 배경은 고고학적으로 확인된다",
+    "claimType": "external_historical_context",
+    "evidenceVerdict": "established_independently",
+    "sourceIds": [
+      "MET-MK"
+    ],
+    "interpretationLimitKo": "이것이 요셉 이야기가 중왕국에서 일어났다는 증명 아님",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-029",
+    "scope": "GEN.38.1-30",
+    "claimKo": "유다·다말 이야기는 요셉 이야기에 전혀 관련 없는 우연 삽입이다",
+    "claimType": "literary",
+    "evidenceVerdict": "contested_but_connections_studied",
+    "sourceIds": [
+      "OUP-BRODIE"
+    ],
+    "interpretationLimitKo": "문학적 연계는 학술적 해석, 사건 역사 확증 아님",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-030",
+    "scope": "GEN.41.1-57",
+    "claimKo": "요셉이 고안한 7년 비축 정책의 직접적 행정문서가 발견됐다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "interpretationLimitKo": "이집트 곡물 행정 일반과 개인 이야기 구별",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-031",
+    "scope": "GEN.46.1-27",
+    "claimKo": "가족 수 전승의 모든 차이는 반드시 한 숫자로 조정할 수 있다",
+    "claimType": "textual",
+    "evidenceVerdict": "textual_variant_requires_review",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "interpretationLimitKo": "본문 전승을 보존하여 차이를 주석으로 제시",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-032",
+    "scope": "GEN.47.13-26",
+    "claimKo": "요셉 정책이 이집트의 한 왕조 법령으로 독립 확인됐다",
+    "claimType": "historical",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-HOFF",
+      "MET-MK"
+    ],
+    "interpretationLimitKo": "토지 소유 서사와 실제 제도 비교는 추가 연구",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-033",
+    "scope": "GEN.49.1-28",
+    "claimKo": "유다·지파에 대한 시적 말은 문자 그대로 각 개인의 미래 일지다",
+    "claimType": "literary",
+    "evidenceVerdict": "interpretive_historical_uncertain",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "interpretationLimitKo": "지파·왕권 관련 독해는 문학적 역사적 논의",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "id": "HIST-GEN-034",
+    "scope": "GEN.50.1-26",
+    "claimKo": "요셉의 무덤·관은 고고학적으로 확인됐다",
+    "claimType": "archaeological",
+    "evidenceVerdict": "not_established",
+    "sourceIds": [
+      "OUP-HOFF"
+    ],
+    "interpretationLimitKo": "장소 전승을 고고학적 인증으로 표시 금지",
+    "reviewedMode": "documented_public_source_scope_checked_not_independent_event_proven",
+    "archaeologistSignoff": false,
+    "biblicalScholarSignoff": false,
+    "releaseReady": false
+  }
+]

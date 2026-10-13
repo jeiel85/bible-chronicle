@@ -1,0 +1,662 @@
+[
+  {
+    "id": "GEN",
+    "nameKo": "창세기",
+    "order": 1,
+    "chapters": 50,
+    "testament": "OT",
+    "genre": "torah_narrative",
+    "stageId": "S01",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "EXO",
+    "nameKo": "출애굽기",
+    "order": 2,
+    "chapters": 40,
+    "testament": "OT",
+    "genre": "torah_narrative",
+    "stageId": "S02",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "LEV",
+    "nameKo": "레위기",
+    "order": 3,
+    "chapters": 27,
+    "testament": "OT",
+    "genre": "law",
+    "stageId": "S02",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "NUM",
+    "nameKo": "민수기",
+    "order": 4,
+    "chapters": 36,
+    "testament": "OT",
+    "genre": "torah_narrative",
+    "stageId": "S02",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "DEU",
+    "nameKo": "신명기",
+    "order": 5,
+    "chapters": 34,
+    "testament": "OT",
+    "genre": "law",
+    "stageId": "S02",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JOS",
+    "nameKo": "여호수아",
+    "order": 6,
+    "chapters": 24,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S03",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JDG",
+    "nameKo": "사사기",
+    "order": 7,
+    "chapters": 21,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S03",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "RUT",
+    "nameKo": "룻기",
+    "order": 8,
+    "chapters": 4,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S03",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1SA",
+    "nameKo": "사무엘상",
+    "order": 9,
+    "chapters": 31,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S04",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2SA",
+    "nameKo": "사무엘하",
+    "order": 10,
+    "chapters": 24,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S04",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1KI",
+    "nameKo": "열왕기상",
+    "order": 11,
+    "chapters": 22,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S04",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2KI",
+    "nameKo": "열왕기하",
+    "order": 12,
+    "chapters": 25,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S04",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1CH",
+    "nameKo": "역대상",
+    "order": 13,
+    "chapters": 29,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S05",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2CH",
+    "nameKo": "역대하",
+    "order": 14,
+    "chapters": 36,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S05",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "EZR",
+    "nameKo": "에스라",
+    "order": 15,
+    "chapters": 10,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S05",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "NEH",
+    "nameKo": "느헤미야",
+    "order": 16,
+    "chapters": 13,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S05",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "EST",
+    "nameKo": "에스더",
+    "order": 17,
+    "chapters": 10,
+    "testament": "OT",
+    "genre": "historical_narrative",
+    "stageId": "S05",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JOB",
+    "nameKo": "욥기",
+    "order": 18,
+    "chapters": 42,
+    "testament": "OT",
+    "genre": "wisdom",
+    "stageId": "S06",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "PSA",
+    "nameKo": "시편",
+    "order": 19,
+    "chapters": 150,
+    "testament": "OT",
+    "genre": "poetry",
+    "stageId": "S06",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "PRO",
+    "nameKo": "잠언",
+    "order": 20,
+    "chapters": 31,
+    "testament": "OT",
+    "genre": "wisdom",
+    "stageId": "S06",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "ECC",
+    "nameKo": "전도서",
+    "order": 21,
+    "chapters": 12,
+    "testament": "OT",
+    "genre": "wisdom",
+    "stageId": "S06",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "SNG",
+    "nameKo": "아가",
+    "order": 22,
+    "chapters": 8,
+    "testament": "OT",
+    "genre": "poetry",
+    "stageId": "S06",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "ISA",
+    "nameKo": "이사야",
+    "order": 23,
+    "chapters": 66,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S07",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JER",
+    "nameKo": "예레미야",
+    "order": 24,
+    "chapters": 52,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S07",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "LAM",
+    "nameKo": "예레미야애가",
+    "order": 25,
+    "chapters": 5,
+    "testament": "OT",
+    "genre": "poetry",
+    "stageId": "S07",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "EZK",
+    "nameKo": "에스겔",
+    "order": 26,
+    "chapters": 48,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S07",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "DAN",
+    "nameKo": "다니엘",
+    "order": 27,
+    "chapters": 12,
+    "testament": "OT",
+    "genre": "apocalyptic",
+    "stageId": "S07",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "HOS",
+    "nameKo": "호세아",
+    "order": 28,
+    "chapters": 14,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JOL",
+    "nameKo": "요엘",
+    "order": 29,
+    "chapters": 3,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "AMO",
+    "nameKo": "아모스",
+    "order": 30,
+    "chapters": 9,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "OBA",
+    "nameKo": "오바댜",
+    "order": 31,
+    "chapters": 1,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JON",
+    "nameKo": "요나",
+    "order": 32,
+    "chapters": 4,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "MIC",
+    "nameKo": "미가",
+    "order": 33,
+    "chapters": 7,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "NAM",
+    "nameKo": "나훔",
+    "order": 34,
+    "chapters": 3,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "HAB",
+    "nameKo": "하박국",
+    "order": 35,
+    "chapters": 3,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "ZEP",
+    "nameKo": "스바냐",
+    "order": 36,
+    "chapters": 3,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "HAG",
+    "nameKo": "학개",
+    "order": 37,
+    "chapters": 2,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "ZEC",
+    "nameKo": "스가랴",
+    "order": 38,
+    "chapters": 14,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "MAL",
+    "nameKo": "말라기",
+    "order": 39,
+    "chapters": 4,
+    "testament": "OT",
+    "genre": "prophecy",
+    "stageId": "S08",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "MAT",
+    "nameKo": "마태복음",
+    "order": 40,
+    "chapters": 28,
+    "testament": "NT",
+    "genre": "gospel",
+    "stageId": "S09",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "MRK",
+    "nameKo": "마가복음",
+    "order": 41,
+    "chapters": 16,
+    "testament": "NT",
+    "genre": "gospel",
+    "stageId": "S09",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "LUK",
+    "nameKo": "누가복음",
+    "order": 42,
+    "chapters": 24,
+    "testament": "NT",
+    "genre": "gospel",
+    "stageId": "S09",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JHN",
+    "nameKo": "요한복음",
+    "order": 43,
+    "chapters": 21,
+    "testament": "NT",
+    "genre": "gospel",
+    "stageId": "S09",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "ACT",
+    "nameKo": "사도행전",
+    "order": 44,
+    "chapters": 28,
+    "testament": "NT",
+    "genre": "historical_narrative",
+    "stageId": "S10",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "ROM",
+    "nameKo": "로마서",
+    "order": 45,
+    "chapters": 16,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1CO",
+    "nameKo": "고린도전서",
+    "order": 46,
+    "chapters": 16,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2CO",
+    "nameKo": "고린도후서",
+    "order": 47,
+    "chapters": 13,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "GAL",
+    "nameKo": "갈라디아서",
+    "order": 48,
+    "chapters": 6,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "EPH",
+    "nameKo": "에베소서",
+    "order": 49,
+    "chapters": 6,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "PHP",
+    "nameKo": "빌립보서",
+    "order": 50,
+    "chapters": 4,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "COL",
+    "nameKo": "골로새서",
+    "order": 51,
+    "chapters": 4,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1TH",
+    "nameKo": "데살로니가전서",
+    "order": 52,
+    "chapters": 5,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2TH",
+    "nameKo": "데살로니가후서",
+    "order": 53,
+    "chapters": 3,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1TI",
+    "nameKo": "디모데전서",
+    "order": 54,
+    "chapters": 6,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2TI",
+    "nameKo": "디모데후서",
+    "order": 55,
+    "chapters": 4,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "TIT",
+    "nameKo": "디도서",
+    "order": 56,
+    "chapters": 3,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "PHM",
+    "nameKo": "빌레몬서",
+    "order": 57,
+    "chapters": 1,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S11",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "HEB",
+    "nameKo": "히브리서",
+    "order": 58,
+    "chapters": 13,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JAS",
+    "nameKo": "야고보서",
+    "order": 59,
+    "chapters": 5,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1PE",
+    "nameKo": "베드로전서",
+    "order": 60,
+    "chapters": 5,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2PE",
+    "nameKo": "베드로후서",
+    "order": 61,
+    "chapters": 3,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "1JN",
+    "nameKo": "요한일서",
+    "order": 62,
+    "chapters": 5,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "2JN",
+    "nameKo": "요한이서",
+    "order": 63,
+    "chapters": 1,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "3JN",
+    "nameKo": "요한삼서",
+    "order": 64,
+    "chapters": 1,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "JUD",
+    "nameKo": "유다서",
+    "order": 65,
+    "chapters": 1,
+    "testament": "NT",
+    "genre": "epistle",
+    "stageId": "S12",
+    "sourceRegistry": "v1.1/books.json"
+  },
+  {
+    "id": "REV",
+    "nameKo": "요한계시록",
+    "order": 66,
+    "chapters": 22,
+    "testament": "NT",
+    "genre": "apocalyptic",
+    "stageId": "S13",
+    "sourceRegistry": "v1.1/books.json"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "from": "handoff-gen-037",
+    "to": "ep-gen-116",
+    "type": "previous_phase_alias_resolution",
+    "source": "GEN.36.43-GEN.37.1"
+  },
+  {
+    "from": "ep-gen-179",
+    "to": "handoff-exo-001",
+    "type": "next_phase_pending",
+    "source": "GEN.50.26-EXO.1.1"
+  },
+  {
+    "from": "ep-gen-124",
+    "to": "ep-gen-153",
+    "type": "judah_character_arc",
+    "source": "GEN.38.26;GEN.44.18-34"
+  },
+  {
+    "from": "ep-gen-159",
+    "to": "ep-gen-174",
+    "type": "genealogy_to_blessing",
+    "source": "GEN.46.8-27;GEN.49.1-28"
+  },
+  {
+    "from": "ep-gen-179",
+    "to": "handoff-exo-001",
+    "type": "joseph_bones_to_exodus_future",
+    "source": "GEN.50.24-26;EXO.13.19"
+  },
+  {
+    "from": "ep-gen-175",
+    "to": "ep-gen-176",
+    "type": "burial_request_to_funeral",
+    "source": "GEN.49.29-50.14"
+  },
+  {
+    "from": "ep-gen-137",
+    "to": "ep-gen-165",
+    "type": "grain_management_to_land_policy",
+    "source": "GEN.41.33-40;GEN.47.13-26"
+  }
+]

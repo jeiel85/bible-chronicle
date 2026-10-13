@@ -1,0 +1,20 @@
+{
+  "version": "1.7.0",
+  "reportDate": "2026-10-13",
+  "legacyFilesPreserved": 201,
+  "preservationStatus": "byte_identical",
+  "genesisChaptersWithCommentary": 50,
+  "episodeRecordsLinked": 179,
+  "versesMapped": 1533,
+  "verseSpecificCommentariesDrafted": 74,
+  "versesNotIndividuallyCommented": 1459,
+  "historyAndInterpretationClaimsScoped": 34,
+  "sourcesRegistered": 14,
+  "externalSpecialistSignOffs": 0,
+  "completeVerseByVerseExegesis": false,
+  "archaeologicalProofAllEvents": false,
+  "licensedKoreanBibleTextEmbedded": false,
+  "publicationApproved": false,
+  "qaType": "schema_and_data_integrity_only",
+  "errors": []
+}

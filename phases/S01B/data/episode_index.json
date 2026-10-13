@@ -1,0 +1,3635 @@
+[
+  {
+    "id": "ep-gen-023",
+    "stageId": "S01B",
+    "titleKo": "부르심과 출발",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 5
+      },
+      "osis": "GEN.12.1-GEN.12.5"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브람에게 떠나라는 말씀",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "민족·이름·복의 약속",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "가족·소유와 함께 하란을 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-023",
+    "canonicalNextId": "ep-gen-024",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram",
+      "sarai",
+      "lot"
+    ],
+    "placeIds": [
+      "haran",
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-023"
+    ],
+    "illustrationId": "art-gen-023",
+    "lessonId": "lesson-gen-023",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브람에게 떠나라는 말씀 → 민족·이름·복의 약속 → 가족·소유와 함께 하란을 떠남",
+    "knowledgeObjectiveKo": "약속과 이동의 연결",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-024",
+    "stageId": "S01B",
+    "titleKo": "세겜과 벧엘의 제단",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 6
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 9
+      },
+      "osis": "GEN.12.6-GEN.12.9"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "세겜 모레 상수리나무 근처 이동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "땅에 대한 약속과 제단",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "벧엘·아이 사이 제단과 남방 이동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-024",
+    "canonicalNextId": "ep-gen-025",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram"
+    ],
+    "placeIds": [
+      "shechem",
+      "bethel",
+      "negeb"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-024"
+    ],
+    "illustrationId": "art-gen-024",
+    "lessonId": "lesson-gen-024",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "세겜 모레 상수리나무 근처 이동 → 땅에 대한 약속과 제단 → 벧엘·아이 사이 제단과 남방 이동",
+    "knowledgeObjectiveKo": "서사의 공간 이동과 제단",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-025",
+    "stageId": "S01B",
+    "titleKo": "기근과 애굽에서의 사래",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 20
+      },
+      "osis": "GEN.12.10-GEN.12.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "기근으로 애굽 이동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "사래를 누이라 소개한 사건",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "바로가 돌려보내고 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-025",
+    "canonicalNextId": "ep-gen-026",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram",
+      "sarai",
+      "pharaoh"
+    ],
+    "placeIds": [
+      "egypt"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-025"
+    ],
+    "illustrationId": "art-gen-025",
+    "lessonId": "lesson-gen-025",
+    "sensitivity": [
+      "coercion",
+      "women_safety",
+      "slavery_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "기근으로 애굽 이동 → 사래를 누이라 소개한 사건 → 바로가 돌려보내고 떠남",
+    "knowledgeObjectiveKo": "본문 속 두려움과 윤리 문제 읽기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-026",
+    "stageId": "S01B",
+    "titleKo": "목자들 사이의 다툼",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 7
+      },
+      "osis": "GEN.13.1-GEN.13.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "애굽에서 네겝으로 돌아옴",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "가축과 재산 증가",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "두 집안의 목자들 사이 충돌",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-026",
+    "canonicalNextId": "ep-gen-027",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram",
+      "lot"
+    ],
+    "placeIds": [
+      "negeb",
+      "bethel"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-026"
+    ],
+    "illustrationId": "art-gen-026",
+    "lessonId": "lesson-gen-026",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "애굽에서 네겝으로 돌아옴 → 가축과 재산 증가 → 두 집안의 목자들 사이 충돌",
+    "knowledgeObjectiveKo": "갈등의 원인을 본문에서 찾기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-027",
+    "stageId": "S01B",
+    "titleKo": "롯이 요단 들을 택하다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 13
+      },
+      "osis": "GEN.13.8-GEN.13.13"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브람이 평화로운 분리를 제안",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "롯이 요단 들을 고름",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "롯은 소돔 가까이 거주",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-027",
+    "canonicalNextId": "ep-gen-028",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram",
+      "lot"
+    ],
+    "placeIds": [
+      "jordan_plain",
+      "sodom"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-027"
+    ],
+    "illustrationId": "art-gen-027",
+    "lessonId": "lesson-gen-027",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브람이 평화로운 분리를 제안 → 롯이 요단 들을 고름 → 롯은 소돔 가까이 거주",
+    "knowledgeObjectiveKo": "선택의 서술을 결과 조작과 구별",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-028",
+    "stageId": "S01B",
+    "titleKo": "약속의 재확인과 헤브론",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 18
+      },
+      "osis": "GEN.13.14-GEN.13.18"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "자손과 땅에 대한 약속",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "땅의 사방을 바라봄",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "헤브론 마므레에서 제단",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-028",
+    "canonicalNextId": "ep-gen-029",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram"
+    ],
+    "placeIds": [
+      "hebron"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-028"
+    ],
+    "illustrationId": "art-gen-028",
+    "lessonId": "lesson-gen-028",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "자손과 땅에 대한 약속 → 땅의 사방을 바라봄 → 헤브론 마므레에서 제단",
+    "knowledgeObjectiveKo": "땅 약속의 반복과 표현",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-029",
+    "stageId": "S01B",
+    "titleKo": "네 왕과 다섯 왕의 전쟁",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 12
+      },
+      "osis": "GEN.14.1-GEN.14.12"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "동맹 왕국의 군사 행동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "싯딤 골짜기에서 충돌",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "소돔에 살던 롯이 사로잡힘",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-029",
+    "canonicalNextId": "ep-gen-030",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "lot",
+      "kings_east",
+      "kings_plain"
+    ],
+    "placeIds": [
+      "siddim",
+      "sodom"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-029"
+    ],
+    "illustrationId": "art-gen-029",
+    "lessonId": "lesson-gen-029",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "동맹 왕국의 군사 행동 → 싯딤 골짜기에서 충돌 → 소돔에 살던 롯이 사로잡힘",
+    "knowledgeObjectiveKo": "전투 이야기와 외부 사료 증명을 분리",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-030",
+    "stageId": "S01B",
+    "titleKo": "아브람의 롯 구출",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 16
+      },
+      "osis": "GEN.14.13-GEN.14.16"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "도망자가 소식을 전함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "아브람과 동맹이 추격",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "롯과 재물을 되찾음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-030",
+    "canonicalNextId": "ep-gen-031",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram",
+      "lot"
+    ],
+    "placeIds": [
+      "dan_region",
+      "damascus_region"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-030"
+    ],
+    "illustrationId": "art-gen-030",
+    "lessonId": "lesson-gen-030",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "도망자가 소식을 전함 → 아브람과 동맹이 추격 → 롯과 재물을 되찾음",
+    "knowledgeObjectiveKo": "추격 방향은 본문 수준에서만 표시",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-031",
+    "stageId": "S01B",
+    "titleKo": "멜기세덱과 전리품",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 24
+      },
+      "osis": "GEN.14.17-GEN.14.24"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "살렘 왕 멜기세덱 등장",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "축복과 십분의 일",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "소돔 왕의 제안에 대한 아브람의 답",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-031",
+    "canonicalNextId": "ep-gen-032",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram",
+      "melchizedek",
+      "king_sodom"
+    ],
+    "placeIds": [
+      "salem_uncertain"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-031"
+    ],
+    "illustrationId": "art-gen-031",
+    "lessonId": "lesson-gen-031",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "살렘 왕 멜기세덱 등장 → 축복과 십분의 일 → 소돔 왕의 제안에 대한 아브람의 답",
+    "knowledgeObjectiveKo": "멜기세덱과 소돔 왕의 차이",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-032",
+    "stageId": "S01B",
+    "titleKo": "별을 바라보는 약속",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 6
+      },
+      "osis": "GEN.15.1-GEN.15.6"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브람이 자손 문제를 묻다",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "하늘의 별과 자손의 비유",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "아브람의 믿음 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-032",
+    "canonicalNextId": "ep-gen-033",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-032"
+    ],
+    "illustrationId": "art-gen-032",
+    "lessonId": "lesson-gen-032",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브람이 자손 문제를 묻다 → 하늘의 별과 자손의 비유 → 아브람의 믿음 서술",
+    "knowledgeObjectiveKo": "믿음과 약속의 텍스트 관찰",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-033",
+    "stageId": "S01B",
+    "titleKo": "언약과 미래의 예고",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 21
+      },
+      "osis": "GEN.15.7-GEN.15.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "땅을 주겠다는 약속과 희생 제물",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "후손의 타국 체류·압제와 귀환 예고",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "언약의 선언",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-033",
+    "canonicalNextId": "ep-gen-034",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abram"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-033"
+    ],
+    "illustrationId": "art-gen-033",
+    "lessonId": "lesson-gen-033",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "땅을 주겠다는 약속과 희생 제물 → 후손의 타국 체류·압제와 귀환 예고 → 언약의 선언",
+    "knowledgeObjectiveKo": "언약 장면과 예고를 구분",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-034",
+    "stageId": "S01B",
+    "titleKo": "사래와 하갈의 갈등",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 6
+      },
+      "osis": "GEN.16.1-GEN.16.6"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사래가 하갈을 아브람에게 줌",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "하갈이 임신한 후 관계가 악화",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "하갈이 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-034",
+    "canonicalNextId": "ep-gen-035",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "sarai",
+      "hagar",
+      "abram"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-034"
+    ],
+    "illustrationId": "art-gen-034",
+    "lessonId": "lesson-gen-034",
+    "sensitivity": [
+      "coercion",
+      "women_safety",
+      "slavery_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "사래가 하갈을 아브람에게 줌 → 하갈이 임신한 후 관계가 악화 → 하갈이 떠남",
+    "knowledgeObjectiveKo": "여성·종 신분의 권력 비대칭 이해",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-035",
+    "stageId": "S01B",
+    "titleKo": "하갈과 이스마엘",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 16
+      },
+      "osis": "GEN.16.7-GEN.16.16"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "광야 길에서 하갈을 만나는 여호와의 사자",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "이스마엘 이름을 알려줌",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "하갈이 돌아와 이스마엘을 낳음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-035",
+    "canonicalNextId": "ep-gen-036",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "hagar",
+      "ishmael"
+    ],
+    "placeIds": [
+      "shur_region",
+      "beer_lahai_roi"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-035"
+    ],
+    "illustrationId": "art-gen-035",
+    "lessonId": "lesson-gen-035",
+    "sensitivity": [
+      "coercion",
+      "women_safety",
+      "slavery_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "광야 길에서 하갈을 만나는 여호와의 사자 → 이스마엘 이름을 알려줌 → 하갈이 돌아와 이스마엘을 낳음",
+    "knowledgeObjectiveKo": "본문에 등장하는 하갈의 목소리",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-036",
+    "stageId": "S01B",
+    "titleKo": "아브라함과 언약의 표",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 14
+      },
+      "osis": "GEN.17.1-GEN.17.14"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이름 아브람에서 아브라함으로",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "많은 민족의 조상이라는 약속",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "할례를 언약의 표로 명함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-036",
+    "canonicalNextId": "ep-gen-037",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-036"
+    ],
+    "illustrationId": "art-gen-036",
+    "lessonId": "lesson-gen-036",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "이름 아브람에서 아브라함으로 → 많은 민족의 조상이라는 약속 → 할례를 언약의 표로 명함",
+    "knowledgeObjectiveKo": "이름과 언약 표징의 역할",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-037",
+    "stageId": "S01B",
+    "titleKo": "사라의 이름과 이삭의 약속",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 27
+      },
+      "osis": "GEN.17.15-GEN.17.27"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사래에서 사라로 이름 변경",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "사라가 낳을 아들 이삭 약속",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "이스마엘에 대한 약속과 할례 시행",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-037",
+    "canonicalNextId": "ep-gen-038",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "sarah",
+      "ishmael"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "conceptual",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-037"
+    ],
+    "illustrationId": "art-gen-037",
+    "lessonId": "lesson-gen-037",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "사래에서 사라로 이름 변경 → 사라가 낳을 아들 이삭 약속 → 이스마엘에 대한 약속과 할례 시행",
+    "knowledgeObjectiveKo": "이삭과 이스마엘 약속의 차이",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-038",
+    "stageId": "S01B",
+    "titleKo": "마므레의 방문객",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 15
+      },
+      "osis": "GEN.18.1-GEN.18.15"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브라함이 방문객을 맞음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "음식을 준비하고 대접함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "사라가 아들 약속을 듣고 웃음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-038",
+    "canonicalNextId": "ep-gen-039",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "sarah",
+      "visitors"
+    ],
+    "placeIds": [
+      "hebron"
+    ],
+    "mapMode": "conceptual",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-038"
+    ],
+    "illustrationId": "art-gen-038",
+    "lessonId": "lesson-gen-038",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브라함이 방문객을 맞음 → 음식을 준비하고 대접함 → 사라가 아들 약속을 듣고 웃음",
+    "knowledgeObjectiveKo": "환대와 약속의 반복",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-039",
+    "stageId": "S01B",
+    "titleKo": "소돔을 위한 중보",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 33
+      },
+      "osis": "GEN.18.16-GEN.18.33"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "소돔의 죄악에 대한 대화",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "아브라함이 의인 수를 두고 간구",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "말씀을 마치고 각자 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-039",
+    "canonicalNextId": "ep-gen-040",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham"
+    ],
+    "placeIds": [
+      "sodom"
+    ],
+    "mapMode": "conceptual",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-039"
+    ],
+    "illustrationId": "art-gen-039",
+    "lessonId": "lesson-gen-039",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "소돔의 죄악에 대한 대화 → 아브라함이 의인 수를 두고 간구 → 말씀을 마치고 각자 떠남",
+    "knowledgeObjectiveKo": "질문하는 신앙과 공동체 정의",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-040",
+    "stageId": "S01B",
+    "titleKo": "롯의 집에 온 방문객",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 11
+      },
+      "osis": "GEN.19.1-GEN.19.11"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "롯이 손님을 맞음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "폭력적 군중이 집을 에워쌈",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "방문객이 롯을 보호함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-040",
+    "canonicalNextId": "ep-gen-041",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "lot",
+      "visitors"
+    ],
+    "placeIds": [
+      "sodom"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-040"
+    ],
+    "illustrationId": "art-gen-040",
+    "lessonId": "lesson-gen-040",
+    "sensitivity": [
+      "sexual_violence_threat",
+      "mob_violence"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "롯이 손님을 맞음 → 폭력적 군중이 집을 에워쌈 → 방문객이 롯을 보호함",
+    "knowledgeObjectiveKo": "폭력과 환대의 대비",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-041",
+    "stageId": "S01B",
+    "titleKo": "롯 가족의 탈출",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 22
+      },
+      "osis": "GEN.19.12-GEN.19.22"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "방문객의 탈출 경고",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "롯 가족이 도시를 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "소알로 피신 요청",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-041",
+    "canonicalNextId": "ep-gen-042",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "lot",
+      "lot_wife",
+      "lot_daughters"
+    ],
+    "placeIds": [
+      "sodom",
+      "zoar"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-041"
+    ],
+    "illustrationId": "art-gen-041",
+    "lessonId": "lesson-gen-041",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "방문객의 탈출 경고 → 롯 가족이 도시를 떠남 → 소알로 피신 요청",
+    "knowledgeObjectiveKo": "대피 서사와 인물 반응",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-042",
+    "stageId": "S01B",
+    "titleKo": "소돔과 고모라의 멸망",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 23
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 29
+      },
+      "osis": "GEN.19.23-GEN.19.29"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "소돔과 고모라의 멸망",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "롯의 아내에 관한 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "아브라함이 멀리서 연기를 봄",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-042",
+    "canonicalNextId": "ep-gen-043",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "lot",
+      "lot_wife",
+      "abraham"
+    ],
+    "placeIds": [
+      "sodom",
+      "gomorrah"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-042"
+    ],
+    "illustrationId": "art-gen-042",
+    "lessonId": "lesson-gen-042",
+    "sensitivity": [
+      "mass_casualty"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "소돔과 고모라의 멸망 → 롯의 아내에 관한 서술 → 아브라함이 멀리서 연기를 봄",
+    "knowledgeObjectiveKo": "파괴 이야기와 위치 불확실성",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-043",
+    "stageId": "S01B",
+    "titleKo": "롯과 두 딸의 후일담",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 30
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 38
+      },
+      "osis": "GEN.19.30-GEN.19.38"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "롯과 두 딸이 산지 동굴에 거주",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "두 딸의 행동과 출산",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "모압과 암몬 조상에 관한 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-043",
+    "canonicalNextId": "ep-gen-044",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "lot",
+      "lot_daughters"
+    ],
+    "placeIds": [
+      "moab_ammon_region"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-043"
+    ],
+    "illustrationId": "art-gen-043",
+    "lessonId": "lesson-gen-043",
+    "sensitivity": [
+      "incest",
+      "sexual_coercion",
+      "intoxication"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "롯과 두 딸이 산지 동굴에 거주 → 두 딸의 행동과 출산 → 모압과 암몬 조상에 관한 서술",
+    "knowledgeObjectiveKo": "윤리적 문제를 미화하지 않고 읽기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-044",
+    "stageId": "S01B",
+    "titleKo": "그랄의 아비멜렉",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 7
+      },
+      "osis": "GEN.20.1-GEN.20.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브라함이 그랄로 이동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "사라를 누이라 말함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "아비멜렉이 꿈에서 경고 받음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-044",
+    "canonicalNextId": "ep-gen-045",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "sarah",
+      "abimelech"
+    ],
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-044"
+    ],
+    "illustrationId": "art-gen-044",
+    "lessonId": "lesson-gen-044",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브라함이 그랄로 이동 → 사라를 누이라 말함 → 아비멜렉이 꿈에서 경고 받음",
+    "knowledgeObjectiveKo": "반복되는 사건의 비교 읽기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-045",
+    "stageId": "S01B",
+    "titleKo": "사라를 돌려보내다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 18
+      },
+      "osis": "GEN.20.8-GEN.20.18"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아비멜렉이 아브라함을 책망",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "사라를 돌려보내고 선물 제공",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "아브라함의 기도와 집안 회복",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-045",
+    "canonicalNextId": "ep-gen-046",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "sarah",
+      "abimelech"
+    ],
+    "placeIds": [
+      "gerar"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-045"
+    ],
+    "illustrationId": "art-gen-045",
+    "lessonId": "lesson-gen-045",
+    "sensitivity": [
+      "coercion",
+      "women_safety",
+      "slavery_power_imbalance"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아비멜렉이 아브라함을 책망 → 사라를 돌려보내고 선물 제공 → 아브라함의 기도와 집안 회복",
+    "knowledgeObjectiveKo": "책임·회복 서술 확인",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-046",
+    "stageId": "S01B",
+    "titleKo": "이삭의 탄생",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 7
+      },
+      "osis": "GEN.21.1-GEN.21.7"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사라가 이삭을 낳음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "아브라함이 이름을 지음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "약속과 기쁨의 연결",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-046",
+    "canonicalNextId": "ep-gen-047",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "sarah",
+      "isaac"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-046"
+    ],
+    "illustrationId": "art-gen-046",
+    "lessonId": "lesson-gen-046",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "사라가 이삭을 낳음 → 아브라함이 이름을 지음 → 약속과 기쁨의 연결",
+    "knowledgeObjectiveKo": "앞선 약속의 성취 추적",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-047",
+    "stageId": "S01B",
+    "titleKo": "하갈과 이스마엘의 광야",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 21
+      },
+      "osis": "GEN.21.8-GEN.21.21"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "가족 갈등으로 하갈과 아들이 떠남",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "광야에서 물이 떨어지는 위기",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "하나님이 하갈과 아이를 돌보심",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-047",
+    "canonicalNextId": "ep-gen-048",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "hagar",
+      "ishmael",
+      "abraham",
+      "sarah"
+    ],
+    "placeIds": [
+      "beersheba_wilderness",
+      "paran"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-047"
+    ],
+    "illustrationId": "art-gen-047",
+    "lessonId": "lesson-gen-047",
+    "sensitivity": [
+      "child_endangerment",
+      "family_expulsion"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "가족 갈등으로 하갈과 아들이 떠남 → 광야에서 물이 떨어지는 위기 → 하나님이 하갈과 아이를 돌보심",
+    "knowledgeObjectiveKo": "취약한 인물을 중심으로 읽기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-048",
+    "stageId": "S01B",
+    "titleKo": "브엘세바의 우물과 맹세",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 34
+      },
+      "osis": "GEN.21.22-GEN.21.34"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아비멜렉과 관계를 확인",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "우물 권리를 두고 분쟁 정리",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "맹세와 브엘세바의 이름",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-048",
+    "canonicalNextId": "ep-gen-049",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "abimelech"
+    ],
+    "placeIds": [
+      "beersheba"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-048"
+    ],
+    "illustrationId": "art-gen-048",
+    "lessonId": "lesson-gen-048",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아비멜렉과 관계를 확인 → 우물 권리를 두고 분쟁 정리 → 맹세와 브엘세바의 이름",
+    "knowledgeObjectiveKo": "생활 자원·우물 외교 관찰",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-049",
+    "stageId": "S01B",
+    "titleKo": "이삭을 바치라는 시험",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 14
+      },
+      "osis": "GEN.22.1-GEN.22.14"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브라함이 시험을 받음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "모리아 땅으로 이동",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "행위를 멈추게 하고 숫양을 준비하심",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-049",
+    "canonicalNextId": "ep-gen-050",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "isaac"
+    ],
+    "placeIds": [
+      "moriah_unknown"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-049"
+    ],
+    "illustrationId": "art-gen-049",
+    "lessonId": "lesson-gen-049",
+    "sensitivity": [
+      "child_endangerment",
+      "religious_violence_context"
+    ],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "needs_review"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브라함이 시험을 받음 → 모리아 땅으로 이동 → 행위를 멈추게 하고 숫양을 준비하심",
+    "knowledgeObjectiveKo": "시험의 결말과 생명 보호를 명료히",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": true,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-050",
+    "stageId": "S01B",
+    "titleKo": "약속의 재확인",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 19
+      },
+      "osis": "GEN.22.15-GEN.22.19"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "여호와의 사자가 다시 부름",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "후손과 복의 약속 재진술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "아브라함이 브엘세바로 돌아감",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-050",
+    "canonicalNextId": "ep-gen-051",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "isaac"
+    ],
+    "placeIds": [
+      "beersheba"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-050"
+    ],
+    "illustrationId": "art-gen-050",
+    "lessonId": "lesson-gen-050",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "여호와의 사자가 다시 부름 → 후손과 복의 약속 재진술 → 아브라함이 브엘세바로 돌아감",
+    "knowledgeObjectiveKo": "언약 축복 반복 패턴",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-051",
+    "stageId": "S01B",
+    "titleKo": "나홀 가문의 소식",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 24
+      },
+      "osis": "GEN.22.20-GEN.22.24"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "나홀의 가족 소식을 들음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "브두엘과 리브가 계보 등장",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "다음 혼인 이야기의 복선",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-051",
+    "canonicalNextId": "ep-gen-052",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "nahor_family"
+    ],
+    "placeIds": [
+      "aramaic_region"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-051"
+    ],
+    "illustrationId": "art-gen-051",
+    "lessonId": "lesson-gen-051",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "나홀의 가족 소식을 들음 → 브두엘과 리브가 계보 등장 → 다음 혼인 이야기의 복선",
+    "knowledgeObjectiveKo": "계보와 다음 사건 연결",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-052",
+    "stageId": "S01B",
+    "titleKo": "사라의 죽음과 매장지 청원",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 9
+      },
+      "osis": "GEN.23.1-GEN.23.9"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "사라의 죽음(127세) 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "아브라함이 슬퍼함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "매장지를 요청함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-052",
+    "canonicalNextId": "ep-gen-053",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "sarah"
+    ],
+    "placeIds": [
+      "hebron"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-052"
+    ],
+    "illustrationId": "art-gen-052",
+    "lessonId": "lesson-gen-052",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "사라의 죽음(127세) 서술 → 아브라함이 슬퍼함 → 매장지를 요청함",
+    "knowledgeObjectiveKo": "상실과 장례 문화 서술",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-053",
+    "stageId": "S01B",
+    "titleKo": "막벨라 굴을 사다",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 20
+      },
+      "osis": "GEN.23.10-GEN.23.20"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "에브론과 공개 협상",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "밭과 굴 값을 지급",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "매장 소유지를 확보하고 사라 장사",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-053",
+    "canonicalNextId": "ep-gen-054",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "ephron"
+    ],
+    "placeIds": [
+      "machpelah",
+      "hebron"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-053"
+    ],
+    "illustrationId": "art-gen-053",
+    "lessonId": "lesson-gen-053",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "에브론과 공개 협상 → 밭과 굴 값을 지급 → 매장 소유지를 확보하고 사라 장사",
+    "knowledgeObjectiveKo": "문서화된 거래와 권리 개념",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-054",
+    "stageId": "S01B",
+    "titleKo": "이삭의 결혼을 위한 파송",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 9
+      },
+      "osis": "GEN.24.1-GEN.24.9"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브라함이 집안 관리인에게 맹세를 요구",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "가나안 사람이 아닌 친족 쪽에서 배우자를 구하도록 지시",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "관리인이 약속",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-054",
+    "canonicalNextId": "ep-gen-055",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "servant_unnamed",
+      "isaac"
+    ],
+    "placeIds": [
+      "canaan",
+      "aram_naharaim"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-054"
+    ],
+    "illustrationId": "art-gen-054",
+    "lessonId": "lesson-gen-054",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브라함이 집안 관리인에게 맹세를 요구 → 가나안 사람이 아닌 친족 쪽에서 배우자를 구하도록 지시 → 관리인이 약속",
+    "knowledgeObjectiveKo": "혼인·이동의 의도 읽기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-055",
+    "stageId": "S01B",
+    "titleKo": "우물에서 만난 리브가",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 27
+      },
+      "osis": "GEN.24.10-GEN.24.27"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "관리인이 나홀의 성으로 향함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "우물가에서 리브가의 친절을 봄",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "관리인이 감사",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-055",
+    "canonicalNextId": "ep-gen-056",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "servant_unnamed",
+      "rebekah"
+    ],
+    "placeIds": [
+      "nahor_city"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-055"
+    ],
+    "illustrationId": "art-gen-055",
+    "lessonId": "lesson-gen-055",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "관리인이 나홀의 성으로 향함 → 우물가에서 리브가의 친절을 봄 → 관리인이 감사",
+    "knowledgeObjectiveKo": "우물 장면과 행동을 추적",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-056",
+    "stageId": "S01B",
+    "titleKo": "집안에 전해진 사명",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 28
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 49
+      },
+      "osis": "GEN.24.28-GEN.24.49"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "리브가가 가족에게 알림",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "관리인이 목적과 과정 설명",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "가족의 답을 구함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-056",
+    "canonicalNextId": "ep-gen-057",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "servant_unnamed",
+      "rebekah",
+      "laban",
+      "bethuel"
+    ],
+    "placeIds": [
+      "nahor_city"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-056"
+    ],
+    "illustrationId": "art-gen-056",
+    "lessonId": "lesson-gen-056",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "리브가가 가족에게 알림 → 관리인이 목적과 과정 설명 → 가족의 답을 구함",
+    "knowledgeObjectiveKo": "이야기 내 재서술과 반복 구별",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-057",
+    "stageId": "S01B",
+    "titleKo": "리브가의 동의와 떠남",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 50
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 61
+      },
+      "osis": "GEN.24.50-GEN.24.61"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "가족이 혼인을 허락함",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "리브가 본인에게 의사를 물음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "리브가가 떠나기로 답하고 출발",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-057",
+    "canonicalNextId": "ep-gen-058",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "rebekah",
+      "servant_unnamed",
+      "laban",
+      "bethuel"
+    ],
+    "placeIds": [
+      "nahor_city",
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-057"
+    ],
+    "illustrationId": "art-gen-057",
+    "lessonId": "lesson-gen-057",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "가족이 혼인을 허락함 → 리브가 본인에게 의사를 물음 → 리브가가 떠나기로 답하고 출발",
+    "knowledgeObjectiveKo": "리브가의 의사 표명을 명시",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-058",
+    "stageId": "S01B",
+    "titleKo": "이삭과 리브가의 만남",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 62
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 67
+      },
+      "osis": "GEN.24.62-GEN.24.67"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이삭이 들판에 나옴",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "리브가와 관리인이 도착",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "이삭이 리브가를 아내로 맞음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-058",
+    "canonicalNextId": "ep-gen-059",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "rebekah",
+      "servant_unnamed"
+    ],
+    "placeIds": [
+      "beer_lahai_roi",
+      "negeb"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-058"
+    ],
+    "illustrationId": "art-gen-058",
+    "lessonId": "lesson-gen-058",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "이삭이 들판에 나옴 → 리브가와 관리인이 도착 → 이삭이 리브가를 아내로 맞음",
+    "knowledgeObjectiveKo": "혼인 서사의 결말 확인",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-059",
+    "stageId": "S01B",
+    "titleKo": "그두라와 후손의 계보",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 6
+      },
+      "osis": "GEN.25.1-GEN.25.6"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "그두라의 자녀 이름 기록",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "여러 계열의 후손 연결",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "이삭과 다른 아들들에게 재산을 분배",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-059",
+    "canonicalNextId": "ep-gen-060",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "keturah",
+      "isaac"
+    ],
+    "placeIds": [
+      "eastern_regions"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-059"
+    ],
+    "illustrationId": "art-gen-059",
+    "lessonId": "lesson-gen-059",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "그두라의 자녀 이름 기록 → 여러 계열의 후손 연결 → 이삭과 다른 아들들에게 재산을 분배",
+    "knowledgeObjectiveKo": "계보를 사건 대신 관계망으로 표현",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-060",
+    "stageId": "S01B",
+    "titleKo": "아브라함의 죽음과 장례",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 11
+      },
+      "osis": "GEN.25.7-GEN.25.11"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "아브라함의 생애 175년 기록",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "이삭과 이스마엘이 장사",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "이삭을 향한 축복과 이후 거처",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-060",
+    "canonicalNextId": "ep-gen-061",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "abraham",
+      "isaac",
+      "ishmael"
+    ],
+    "placeIds": [
+      "machpelah",
+      "beer_lahai_roi"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-060"
+    ],
+    "illustrationId": "art-gen-060",
+    "lessonId": "lesson-gen-060",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "아브라함의 생애 175년 기록 → 이삭과 이스마엘이 장사 → 이삭을 향한 축복과 이후 거처",
+    "knowledgeObjectiveKo": "두 아들의 공동 장례 주목",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-061",
+    "stageId": "S01B",
+    "titleKo": "이스마엘의 열두 족장",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 18
+      },
+      "osis": "GEN.25.12-GEN.25.18"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "이스마엘 자손의 이름 기록",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "열두 족장과 거처 서술",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "이스마엘 삶의 마무리",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-061",
+    "canonicalNextId": "ep-gen-062",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "ishmael"
+    ],
+    "placeIds": [
+      "eastern_regions"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-061"
+    ],
+    "illustrationId": "art-gen-061",
+    "lessonId": "lesson-gen-061",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "이스마엘 자손의 이름 기록 → 열두 족장과 거처 서술 → 이스마엘 삶의 마무리",
+    "knowledgeObjectiveKo": "이스마엘 계열도 언약 서사에서 누락하지 않기",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-062",
+    "stageId": "S01B",
+    "titleKo": "에서와 야곱의 탄생",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 19
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 26
+      },
+      "osis": "GEN.25.19-GEN.25.26"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "리브가의 임신과 질문",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "쌍둥이에 관한 말씀",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "에서와 야곱 출생",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-062",
+    "canonicalNextId": "ep-gen-063",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "isaac",
+      "rebekah",
+      "esau",
+      "jacob"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-062"
+    ],
+    "illustrationId": "art-gen-062",
+    "lessonId": "lesson-gen-062",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "리브가의 임신과 질문 → 쌍둥이에 관한 말씀 → 에서와 야곱 출생",
+    "knowledgeObjectiveKo": "앞으로 이어질 갈등의 씨앗",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  },
+  {
+    "id": "ep-gen-063",
+    "stageId": "S01B",
+    "titleKo": "장자의 명분 거래",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 34
+      },
+      "osis": "GEN.25.27-GEN.25.34"
+    },
+    "beatPlan": [
+      {
+        "step": 1,
+        "textKo": "형제의 성격과 부모의 편애",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 2,
+        "textKo": "지친 에서가 음식을 요청",
+        "basis": "biblical_story_outline_not_direct_quote"
+      },
+      {
+        "step": 3,
+        "textKo": "에서가 장자의 명분을 팔음",
+        "basis": "biblical_story_outline_not_direct_quote"
+      }
+    ],
+    "canonicalOutcomeId": "canon-gen-063",
+    "canonicalNextId": "handoff-gen-026",
+    "canonicalOutcomeLocked": true,
+    "gameClass": "linear_learning",
+    "primaryPerspective": "observer",
+    "allowedPerspectives": [
+      "observer",
+      "character_lens_without_unrecorded_dialogue",
+      "fictional_witness_explicitly_labeled"
+    ],
+    "castIds": [
+      "esau",
+      "jacob",
+      "isaac",
+      "rebekah"
+    ],
+    "placeIds": [
+      "canaan"
+    ],
+    "mapMode": "region_uncertain",
+    "mapConfidence": "mixed_broad_or_unlocated",
+    "absoluteYearBce": null,
+    "historicalStatus": "biblical_narrative_unverified_externally",
+    "claimIds": [
+      "S01B-CLAIM-063"
+    ],
+    "illustrationId": "art-gen-063",
+    "lessonId": "lesson-gen-063",
+    "sensitivity": [],
+    "review": {
+      "passage": "editorial_draft",
+      "historical": "needs_human_review",
+      "theological": "needs_human_review",
+      "map": "needs_human_review",
+      "rights": "not_cleared",
+      "lesson": "needs_human_review",
+      "sensitiveContent": "not_applicable"
+    },
+    "releaseReady": false,
+    "narrativeSummaryKo": "형제의 성격과 부모의 편애 → 지친 에서가 음식을 요청 → 에서가 장자의 명분을 팔음",
+    "knowledgeObjectiveKo": "선택 평가와 서사 결과 고정",
+    "ui": {
+      "cinematicIntro": true,
+      "evidenceDrawer": true,
+      "mapTab": true,
+      "perspectiveSwitcher": true,
+      "skipSensitiveScenes": false,
+      "orientation": [
+        "portrait",
+        "landscape",
+        "desktop"
+      ],
+      "keyboardAndScreenReader": true
+    }
+  }
+]

@@ -1,0 +1,633 @@
+[
+  {
+    "chapter": 1,
+    "chapterId": "GEN.001",
+    "versesMapped": 31,
+    "episodeIds": [
+      "ep-gen-001",
+      "ep-gen-002",
+      "ep-gen-003"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 2,
+    "chapterId": "GEN.002",
+    "versesMapped": 25,
+    "episodeIds": [
+      "ep-gen-003",
+      "ep-gen-004",
+      "ep-gen-005"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 3,
+    "chapterId": "GEN.003",
+    "versesMapped": 24,
+    "episodeIds": [
+      "ep-gen-006",
+      "ep-gen-007"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 4,
+    "chapterId": "GEN.004",
+    "versesMapped": 26,
+    "episodeIds": [
+      "ep-gen-008",
+      "ep-gen-009",
+      "ep-gen-010"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 5,
+    "chapterId": "GEN.005",
+    "versesMapped": 32,
+    "episodeIds": [
+      "ep-gen-011"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 6,
+    "chapterId": "GEN.006",
+    "versesMapped": 22,
+    "episodeIds": [
+      "ep-gen-012",
+      "ep-gen-013"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 7,
+    "chapterId": "GEN.007",
+    "versesMapped": 24,
+    "episodeIds": [
+      "ep-gen-014"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 8,
+    "chapterId": "GEN.008",
+    "versesMapped": 22,
+    "episodeIds": [
+      "ep-gen-015",
+      "ep-gen-016"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 9,
+    "chapterId": "GEN.009",
+    "versesMapped": 29,
+    "episodeIds": [
+      "ep-gen-016",
+      "ep-gen-017"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 10,
+    "chapterId": "GEN.010",
+    "versesMapped": 32,
+    "episodeIds": [
+      "ep-gen-018",
+      "ep-gen-019"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 11,
+    "chapterId": "GEN.011",
+    "versesMapped": 32,
+    "episodeIds": [
+      "ep-gen-020",
+      "ep-gen-021",
+      "ep-gen-022"
+    ],
+    "module": "S01A",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 12,
+    "chapterId": "GEN.012",
+    "versesMapped": 20,
+    "episodeIds": [
+      "ep-gen-023",
+      "ep-gen-024",
+      "ep-gen-025"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 13,
+    "chapterId": "GEN.013",
+    "versesMapped": 18,
+    "episodeIds": [
+      "ep-gen-026",
+      "ep-gen-027",
+      "ep-gen-028"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 14,
+    "chapterId": "GEN.014",
+    "versesMapped": 24,
+    "episodeIds": [
+      "ep-gen-029",
+      "ep-gen-030",
+      "ep-gen-031"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 15,
+    "chapterId": "GEN.015",
+    "versesMapped": 21,
+    "episodeIds": [
+      "ep-gen-032",
+      "ep-gen-033"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 16,
+    "chapterId": "GEN.016",
+    "versesMapped": 16,
+    "episodeIds": [
+      "ep-gen-034",
+      "ep-gen-035"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 17,
+    "chapterId": "GEN.017",
+    "versesMapped": 27,
+    "episodeIds": [
+      "ep-gen-036",
+      "ep-gen-037"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 18,
+    "chapterId": "GEN.018",
+    "versesMapped": 33,
+    "episodeIds": [
+      "ep-gen-038",
+      "ep-gen-039"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 19,
+    "chapterId": "GEN.019",
+    "versesMapped": 38,
+    "episodeIds": [
+      "ep-gen-040",
+      "ep-gen-041",
+      "ep-gen-042",
+      "ep-gen-043"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 20,
+    "chapterId": "GEN.020",
+    "versesMapped": 18,
+    "episodeIds": [
+      "ep-gen-044",
+      "ep-gen-045"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 21,
+    "chapterId": "GEN.021",
+    "versesMapped": 34,
+    "episodeIds": [
+      "ep-gen-046",
+      "ep-gen-047",
+      "ep-gen-048"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 22,
+    "chapterId": "GEN.022",
+    "versesMapped": 24,
+    "episodeIds": [
+      "ep-gen-049",
+      "ep-gen-050",
+      "ep-gen-051"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 23,
+    "chapterId": "GEN.023",
+    "versesMapped": 20,
+    "episodeIds": [
+      "ep-gen-052",
+      "ep-gen-053"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 24,
+    "chapterId": "GEN.024",
+    "versesMapped": 67,
+    "episodeIds": [
+      "ep-gen-054",
+      "ep-gen-055",
+      "ep-gen-056",
+      "ep-gen-057",
+      "ep-gen-058"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 25,
+    "chapterId": "GEN.025",
+    "versesMapped": 34,
+    "episodeIds": [
+      "ep-gen-059",
+      "ep-gen-060",
+      "ep-gen-061",
+      "ep-gen-062",
+      "ep-gen-063"
+    ],
+    "module": "S01B",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 26,
+    "chapterId": "GEN.026",
+    "versesMapped": 35,
+    "episodeIds": [
+      "ep-gen-064",
+      "ep-gen-065",
+      "ep-gen-066",
+      "ep-gen-067",
+      "ep-gen-068",
+      "ep-gen-069",
+      "ep-gen-070"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 27,
+    "chapterId": "GEN.027",
+    "versesMapped": 46,
+    "episodeIds": [
+      "ep-gen-071",
+      "ep-gen-072",
+      "ep-gen-073",
+      "ep-gen-074",
+      "ep-gen-075"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 28,
+    "chapterId": "GEN.028",
+    "versesMapped": 22,
+    "episodeIds": [
+      "ep-gen-076",
+      "ep-gen-077",
+      "ep-gen-078"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 29,
+    "chapterId": "GEN.029",
+    "versesMapped": 35,
+    "episodeIds": [
+      "ep-gen-079",
+      "ep-gen-080",
+      "ep-gen-081",
+      "ep-gen-082"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 30,
+    "chapterId": "GEN.030",
+    "versesMapped": 43,
+    "episodeIds": [
+      "ep-gen-083",
+      "ep-gen-084",
+      "ep-gen-085",
+      "ep-gen-086",
+      "ep-gen-087",
+      "ep-gen-088"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 31,
+    "chapterId": "GEN.031",
+    "versesMapped": 55,
+    "episodeIds": [
+      "ep-gen-089",
+      "ep-gen-090",
+      "ep-gen-091",
+      "ep-gen-092",
+      "ep-gen-093"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 32,
+    "chapterId": "GEN.032",
+    "versesMapped": 32,
+    "episodeIds": [
+      "ep-gen-094",
+      "ep-gen-095",
+      "ep-gen-096",
+      "ep-gen-097"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 33,
+    "chapterId": "GEN.033",
+    "versesMapped": 20,
+    "episodeIds": [
+      "ep-gen-098",
+      "ep-gen-099",
+      "ep-gen-100"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 34,
+    "chapterId": "GEN.034",
+    "versesMapped": 31,
+    "episodeIds": [
+      "ep-gen-101",
+      "ep-gen-102",
+      "ep-gen-103",
+      "ep-gen-104"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 35,
+    "chapterId": "GEN.035",
+    "versesMapped": 29,
+    "episodeIds": [
+      "ep-gen-105",
+      "ep-gen-106",
+      "ep-gen-107",
+      "ep-gen-108",
+      "ep-gen-109"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 36,
+    "chapterId": "GEN.036",
+    "versesMapped": 43,
+    "episodeIds": [
+      "ep-gen-110",
+      "ep-gen-111",
+      "ep-gen-112",
+      "ep-gen-113",
+      "ep-gen-114",
+      "ep-gen-115"
+    ],
+    "module": "S01C",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 37,
+    "chapterId": "GEN.037",
+    "versesMapped": 36,
+    "episodeIds": [
+      "ep-gen-116",
+      "ep-gen-117",
+      "ep-gen-118",
+      "ep-gen-119",
+      "ep-gen-120"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 38,
+    "chapterId": "GEN.038",
+    "versesMapped": 30,
+    "episodeIds": [
+      "ep-gen-121",
+      "ep-gen-122",
+      "ep-gen-123",
+      "ep-gen-124",
+      "ep-gen-125"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 39,
+    "chapterId": "GEN.039",
+    "versesMapped": 23,
+    "episodeIds": [
+      "ep-gen-126",
+      "ep-gen-127",
+      "ep-gen-128",
+      "ep-gen-129"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 40,
+    "chapterId": "GEN.040",
+    "versesMapped": 23,
+    "episodeIds": [
+      "ep-gen-130",
+      "ep-gen-131",
+      "ep-gen-132",
+      "ep-gen-133"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 41,
+    "chapterId": "GEN.041",
+    "versesMapped": 57,
+    "episodeIds": [
+      "ep-gen-134",
+      "ep-gen-135",
+      "ep-gen-136",
+      "ep-gen-137",
+      "ep-gen-138",
+      "ep-gen-139",
+      "ep-gen-140"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 42,
+    "chapterId": "GEN.042",
+    "versesMapped": 38,
+    "episodeIds": [
+      "ep-gen-141",
+      "ep-gen-142",
+      "ep-gen-143",
+      "ep-gen-144",
+      "ep-gen-145"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 43,
+    "chapterId": "GEN.043",
+    "versesMapped": 34,
+    "episodeIds": [
+      "ep-gen-146",
+      "ep-gen-147",
+      "ep-gen-148",
+      "ep-gen-149"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 44,
+    "chapterId": "GEN.044",
+    "versesMapped": 34,
+    "episodeIds": [
+      "ep-gen-150",
+      "ep-gen-151",
+      "ep-gen-152",
+      "ep-gen-153"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 45,
+    "chapterId": "GEN.045",
+    "versesMapped": 28,
+    "episodeIds": [
+      "ep-gen-154",
+      "ep-gen-155",
+      "ep-gen-156",
+      "ep-gen-157"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 46,
+    "chapterId": "GEN.046",
+    "versesMapped": 34,
+    "episodeIds": [
+      "ep-gen-158",
+      "ep-gen-159",
+      "ep-gen-160",
+      "ep-gen-161"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 47,
+    "chapterId": "GEN.047",
+    "versesMapped": 31,
+    "episodeIds": [
+      "ep-gen-162",
+      "ep-gen-163",
+      "ep-gen-164",
+      "ep-gen-165",
+      "ep-gen-166"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 48,
+    "chapterId": "GEN.048",
+    "versesMapped": 22,
+    "episodeIds": [
+      "ep-gen-167",
+      "ep-gen-168",
+      "ep-gen-169",
+      "ep-gen-170"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 49,
+    "chapterId": "GEN.049",
+    "versesMapped": 33,
+    "episodeIds": [
+      "ep-gen-171",
+      "ep-gen-172",
+      "ep-gen-173",
+      "ep-gen-174",
+      "ep-gen-175"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  },
+  {
+    "chapter": 50,
+    "chapterId": "GEN.050",
+    "versesMapped": 26,
+    "episodeIds": [
+      "ep-gen-176",
+      "ep-gen-177",
+      "ep-gen-178",
+      "ep-gen-179"
+    ],
+    "module": "S01D",
+    "contentStatus": "draft_not_reviewed"
+  }
+]

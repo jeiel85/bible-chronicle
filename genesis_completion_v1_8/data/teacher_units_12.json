@@ -1,0 +1,553 @@
+[
+  {
+    "unitId": "G01",
+    "startChapter": 1,
+    "endChapter": 5,
+    "titleKo": "창조·타락·초기 인류",
+    "primaryEpisodeIds": [
+      "ep-gen-001",
+      "ep-gen-002",
+      "ep-gen-003",
+      "ep-gen-004",
+      "ep-gen-005",
+      "ep-gen-006",
+      "ep-gen-007",
+      "ep-gen-008",
+      "ep-gen-009",
+      "ep-gen-010",
+      "ep-gen-011"
+    ],
+    "learningOutcomesKo": [
+      "창세기 1~5장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G02",
+    "startChapter": 6,
+    "endChapter": 11,
+    "titleKo": "홍수·바벨·계보",
+    "primaryEpisodeIds": [
+      "ep-gen-012",
+      "ep-gen-013",
+      "ep-gen-014",
+      "ep-gen-015",
+      "ep-gen-016",
+      "ep-gen-017",
+      "ep-gen-018",
+      "ep-gen-019",
+      "ep-gen-020",
+      "ep-gen-021",
+      "ep-gen-022"
+    ],
+    "learningOutcomesKo": [
+      "창세기 6~11장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G03",
+    "startChapter": 12,
+    "endChapter": 17,
+    "titleKo": "아브람의 부르심·언약",
+    "primaryEpisodeIds": [
+      "ep-gen-023",
+      "ep-gen-024",
+      "ep-gen-025",
+      "ep-gen-026",
+      "ep-gen-027",
+      "ep-gen-028",
+      "ep-gen-029",
+      "ep-gen-030",
+      "ep-gen-031",
+      "ep-gen-032",
+      "ep-gen-033",
+      "ep-gen-034",
+      "ep-gen-035",
+      "ep-gen-036",
+      "ep-gen-037"
+    ],
+    "learningOutcomesKo": [
+      "창세기 12~17장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G04",
+    "startChapter": 18,
+    "endChapter": 21,
+    "titleKo": "소돔·이삭의 탄생",
+    "primaryEpisodeIds": [
+      "ep-gen-038",
+      "ep-gen-039",
+      "ep-gen-040",
+      "ep-gen-041",
+      "ep-gen-042",
+      "ep-gen-043",
+      "ep-gen-044",
+      "ep-gen-045",
+      "ep-gen-046",
+      "ep-gen-047",
+      "ep-gen-048"
+    ],
+    "learningOutcomesKo": [
+      "창세기 18~21장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G05",
+    "startChapter": 22,
+    "endChapter": 25,
+    "titleKo": "시험·상실·가계",
+    "primaryEpisodeIds": [
+      "ep-gen-049",
+      "ep-gen-050",
+      "ep-gen-051",
+      "ep-gen-052",
+      "ep-gen-053",
+      "ep-gen-054",
+      "ep-gen-055",
+      "ep-gen-056",
+      "ep-gen-057",
+      "ep-gen-058",
+      "ep-gen-059",
+      "ep-gen-060",
+      "ep-gen-061",
+      "ep-gen-062",
+      "ep-gen-063"
+    ],
+    "learningOutcomesKo": [
+      "창세기 22~25장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G06",
+    "startChapter": 26,
+    "endChapter": 28,
+    "titleKo": "이삭·야곱의 축복",
+    "primaryEpisodeIds": [
+      "ep-gen-064",
+      "ep-gen-065",
+      "ep-gen-066",
+      "ep-gen-067",
+      "ep-gen-068",
+      "ep-gen-069",
+      "ep-gen-070",
+      "ep-gen-071",
+      "ep-gen-072",
+      "ep-gen-073",
+      "ep-gen-074",
+      "ep-gen-075",
+      "ep-gen-076",
+      "ep-gen-077",
+      "ep-gen-078"
+    ],
+    "learningOutcomesKo": [
+      "창세기 26~28장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G07",
+    "startChapter": 29,
+    "endChapter": 31,
+    "titleKo": "라반과 야곱의 가정",
+    "primaryEpisodeIds": [
+      "ep-gen-079",
+      "ep-gen-080",
+      "ep-gen-081",
+      "ep-gen-082",
+      "ep-gen-083",
+      "ep-gen-084",
+      "ep-gen-085",
+      "ep-gen-086",
+      "ep-gen-087",
+      "ep-gen-088",
+      "ep-gen-089",
+      "ep-gen-090",
+      "ep-gen-091",
+      "ep-gen-092",
+      "ep-gen-093"
+    ],
+    "learningOutcomesKo": [
+      "창세기 29~31장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G08",
+    "startChapter": 32,
+    "endChapter": 36,
+    "titleKo": "귀향·화해·에돔",
+    "primaryEpisodeIds": [
+      "ep-gen-094",
+      "ep-gen-095",
+      "ep-gen-096",
+      "ep-gen-097",
+      "ep-gen-098",
+      "ep-gen-099",
+      "ep-gen-100",
+      "ep-gen-101",
+      "ep-gen-102",
+      "ep-gen-103",
+      "ep-gen-104",
+      "ep-gen-105",
+      "ep-gen-106",
+      "ep-gen-107",
+      "ep-gen-108",
+      "ep-gen-109",
+      "ep-gen-110",
+      "ep-gen-111",
+      "ep-gen-112",
+      "ep-gen-113",
+      "ep-gen-114",
+      "ep-gen-115"
+    ],
+    "learningOutcomesKo": [
+      "창세기 32~36장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G09",
+    "startChapter": 37,
+    "endChapter": 39,
+    "titleKo": "요셉·유다·다말",
+    "primaryEpisodeIds": [
+      "ep-gen-116",
+      "ep-gen-117",
+      "ep-gen-118",
+      "ep-gen-119",
+      "ep-gen-120",
+      "ep-gen-121",
+      "ep-gen-122",
+      "ep-gen-123",
+      "ep-gen-124",
+      "ep-gen-125",
+      "ep-gen-126",
+      "ep-gen-127",
+      "ep-gen-128",
+      "ep-gen-129"
+    ],
+    "learningOutcomesKo": [
+      "창세기 37~39장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G10",
+    "startChapter": 40,
+    "endChapter": 42,
+    "titleKo": "꿈·식량·흉년",
+    "primaryEpisodeIds": [
+      "ep-gen-130",
+      "ep-gen-131",
+      "ep-gen-132",
+      "ep-gen-133",
+      "ep-gen-134",
+      "ep-gen-135",
+      "ep-gen-136",
+      "ep-gen-137",
+      "ep-gen-138",
+      "ep-gen-139",
+      "ep-gen-140",
+      "ep-gen-141",
+      "ep-gen-142",
+      "ep-gen-143",
+      "ep-gen-144",
+      "ep-gen-145"
+    ],
+    "learningOutcomesKo": [
+      "창세기 40~42장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G11",
+    "startChapter": 43,
+    "endChapter": 46,
+    "titleKo": "형제의 재회·이주",
+    "primaryEpisodeIds": [
+      "ep-gen-146",
+      "ep-gen-147",
+      "ep-gen-148",
+      "ep-gen-149",
+      "ep-gen-150",
+      "ep-gen-151",
+      "ep-gen-152",
+      "ep-gen-153",
+      "ep-gen-154",
+      "ep-gen-155",
+      "ep-gen-156",
+      "ep-gen-157",
+      "ep-gen-158",
+      "ep-gen-159",
+      "ep-gen-160",
+      "ep-gen-161"
+    ],
+    "learningOutcomesKo": [
+      "창세기 43~46장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  },
+  {
+    "unitId": "G12",
+    "startChapter": 47,
+    "endChapter": 50,
+    "titleKo": "정착·장례·축복",
+    "primaryEpisodeIds": [
+      "ep-gen-162",
+      "ep-gen-163",
+      "ep-gen-164",
+      "ep-gen-165",
+      "ep-gen-166",
+      "ep-gen-167",
+      "ep-gen-168",
+      "ep-gen-169",
+      "ep-gen-170",
+      "ep-gen-171",
+      "ep-gen-172",
+      "ep-gen-173",
+      "ep-gen-174",
+      "ep-gen-175",
+      "ep-gen-176",
+      "ep-gen-177",
+      "ep-gen-178",
+      "ep-gen-179"
+    ],
+    "learningOutcomesKo": [
+      "창세기 47~50장의 사건들을 본문 순서대로 연결한다.",
+      "기록된 사실과 해석·추정을 분리한다.",
+      "지리·시대의 미확정 사항을 지도에서 바르게 표시한다."
+    ],
+    "activityPlanKo": [
+      "관찰자 모드로 사건을 진행하고 근거 절을 찾는다.",
+      "인물 관계도에서 두 인물의 관계를 설명한다.",
+      "역사적 사실과 성경 서술을 다른 카드로 구분한다.",
+      "선택지의 학습 경로만 달라지고 정해진 사건이 유지되는지 확인한다."
+    ],
+    "assessmentKo": [
+      "성경 본문에서 근거 구절 2개 제시",
+      "확정되지 않은 사실 1개 표시",
+      "선택 후 정경 결말이 동일한지 설명"
+    ],
+    "ageGroups": {
+      "children": "상징·사건의 원인을 간단한 언어로 설명; 폭력 상세 묘사 생략",
+      "teen": "본문의 난제와 인물 윤리 질문을 추가",
+      "adult": "사료 수준·문학적 구성·전승 차이를 비교"
+    },
+    "teacherSignoff": false,
+    "releaseReady": false
+  }
+]

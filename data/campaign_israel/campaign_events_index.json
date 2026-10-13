@@ -1,0 +1,7300 @@
+[
+  {
+    "id": "isl-0001",
+    "displayOrder": 1,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "창조와 인간의 자리",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "문학 장르와 신앙 서술",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0002",
+    "displayOrder": 2,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "타락과 에덴 동산",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "창조와 인간의 책임",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0003",
+    "displayOrder": 3,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "가인과 아벨",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 4,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "폭력의 시작",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0004",
+    "displayOrder": 4,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "족보와 노아",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 5,
+        "chapterEnd": 6
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "족보의 역할",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0005",
+    "displayOrder": 5,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "홍수와 언약",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 7,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "신학적 맥락",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0006",
+    "displayOrder": 6,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "민족들의 목록과 바벨",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 10,
+        "chapterEnd": 11
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "족장 이야기 전의 배경",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0007",
+    "displayOrder": 7,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P00",
+    "titleKo": "역대상의 계보와 이스라엘의 기억",
+    "scriptureRefs": [
+      {
+        "bookId": "1CH",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "context",
+    "learningFocusKo": "실제 시간 순서가 아닌 문헌 자료실",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0008",
+    "displayOrder": 8,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "아브람을 부르심",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "땅과 민족의 약속",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0009",
+    "displayOrder": 9,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "롯과의 분리",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "가나안의 지리",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0010",
+    "displayOrder": 10,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "롯을 구출함",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "고대 도시·왕명 연대 미확정",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0011",
+    "displayOrder": 11,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "횃불 언약",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "자손과 땅의 약속",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0012",
+    "displayOrder": 12,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "하갈과 이스마엘",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "가족의 갈등",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0013",
+    "displayOrder": 13,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "할례 언약과 이름 변화",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "약속의 표시",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0014",
+    "displayOrder": 14,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "소돔과 고모라",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 18,
+        "chapterEnd": 19
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "심판 서사·위치 미확정",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0015",
+    "displayOrder": 15,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "아브라함과 아비멜렉",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "그랄 전승",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0016",
+    "displayOrder": 16,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "이삭의 출생",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "약속 성취",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0017",
+    "displayOrder": 17,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "이삭을 바치라는 시험",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "믿음과 순종",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0018",
+    "displayOrder": 18,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "사라의 죽음과 막벨라",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "매장지 기억",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0019",
+    "displayOrder": 19,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "리브가와 이삭",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "가족의 계보",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0020",
+    "displayOrder": 20,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "아브라함의 죽음과 에서·야곱",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "장자권",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0021",
+    "displayOrder": 21,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "이삭의 우물과 언약",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 26,
+        "chapterEnd": 26
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "정착 생활",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0022",
+    "displayOrder": 22,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "야곱의 축복과 벧엘",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 27,
+        "chapterEnd": 28
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "도주와 약속",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0023",
+    "displayOrder": 23,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "야곱의 결혼과 자녀",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 29,
+        "chapterEnd": 30
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "열두 지파의 기원",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0024",
+    "displayOrder": 24,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "야곱의 귀향과 얍복",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 31,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "이스라엘 이름",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0025",
+    "displayOrder": 25,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "디나와 세겜의 사건",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "폭력 묘사 배려",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0026",
+    "displayOrder": 26,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "벧엘과 라헬의 죽음",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 35,
+        "chapterEnd": 35
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "지파 계보",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0027",
+    "displayOrder": 27,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P01",
+    "titleKo": "에서의 족보",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "patriarch",
+    "learningFocusKo": "에돔의 계보",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0028",
+    "displayOrder": 28,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "요셉의 꿈과 형제들",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 37,
+        "chapterEnd": 37
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "가족 분열",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0029",
+    "displayOrder": 29,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "유다와 다말",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 38,
+        "chapterEnd": 38
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "유다 지파 계보",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0030",
+    "displayOrder": 30,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "보디발 집과 감옥",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 39,
+        "chapterEnd": 40
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "이집트의 삶",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0031",
+    "displayOrder": 31,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "요셉의 총리 등용",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 41,
+        "chapterEnd": 41
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "기근 대비",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0032",
+    "displayOrder": 32,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "형제들의 첫 방문",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 42,
+        "chapterEnd": 42
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "기근과 이주",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0033",
+    "displayOrder": 33,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "베냐민을 데려옴",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 43,
+        "chapterEnd": 44
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "형제 관계의 변화",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0034",
+    "displayOrder": 34,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "요셉의 정체와 용서",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 45,
+        "chapterEnd": 45
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "화해",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0035",
+    "displayOrder": 35,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "야곱 가족이 애굽으로",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 46,
+        "chapterEnd": 47
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "이집트 고센의 지리",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0036",
+    "displayOrder": 36,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "에브라임·므낫세 축복",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 48,
+        "chapterEnd": 48
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "요셉 자손 지파",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0037",
+    "displayOrder": 37,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "열두 아들에 대한 축복",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 49,
+        "chapterEnd": 49
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "계보와 복",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0038",
+    "displayOrder": 38,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P02",
+    "titleKo": "야곱 장례와 요셉의 죽음",
+    "scriptureRefs": [
+      {
+        "bookId": "GEN",
+        "chapterStart": 50,
+        "chapterEnd": 50
+      }
+    ],
+    "lane": "joseph",
+    "learningFocusKo": "창세기의 마무리",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0039",
+    "displayOrder": 39,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "애굽의 압제와 모세의 탄생",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "이스라엘의 고난",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0040",
+    "displayOrder": 40,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "떨기나무에서의 부르심",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 3,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "하나님의 이름",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0041",
+    "displayOrder": 41,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "바로와 첫 대면",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 5,
+        "chapterEnd": 6
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "노동과 압박",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0042",
+    "displayOrder": 42,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "열 가지 재앙",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 7,
+        "chapterEnd": 11
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "재앙의 순서",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0043",
+    "displayOrder": 43,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "첫 유월절과 출애굽",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 12,
+        "chapterEnd": 13
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "절기와 해방",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0044",
+    "displayOrder": 44,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "바다를 건넘",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 14,
+        "chapterEnd": 15
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "경로·바다 위치 논쟁",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0045",
+    "displayOrder": 45,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "만나와 메추라기",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "광야 식량",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0046",
+    "displayOrder": 46,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "르비딤과 아말렉",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "갈등과 물",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0047",
+    "displayOrder": 47,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "이드로의 조언",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "재판 체계",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0048",
+    "displayOrder": 48,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "시내산 언약과 십계명",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 19,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "언약 형성",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0049",
+    "displayOrder": 49,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "사회법과 언약 체결",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 21,
+        "chapterEnd": 24
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "법과 공동체",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0050",
+    "displayOrder": 50,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "성막과 제사장 지침",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 25,
+        "chapterEnd": 31
+      },
+      {
+        "bookId": "LEV",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "비사건 콘텐츠/규범형 학습",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0051",
+    "displayOrder": 51,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "금송아지와 언약 갱신",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 32,
+        "chapterEnd": 34
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "실패와 용서",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0052",
+    "displayOrder": 52,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "성막 제작과 완성",
+    "scriptureRefs": [
+      {
+        "bookId": "EXO",
+        "chapterStart": 35,
+        "chapterEnd": 40
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "성막 구조",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0053",
+    "displayOrder": 53,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "제사장 위임과 나답·아비후",
+    "scriptureRefs": [
+      {
+        "bookId": "LEV",
+        "chapterStart": 8,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "거룩함",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0054",
+    "displayOrder": 54,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P03",
+    "titleKo": "정결법·속죄일·성결 규례",
+    "scriptureRefs": [
+      {
+        "bookId": "LEV",
+        "chapterStart": 11,
+        "chapterEnd": 27
+      }
+    ],
+    "lane": "exodus",
+    "learningFocusKo": "비사건 콘텐츠/주제형 학습",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0055",
+    "displayOrder": 55,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "첫 계수와 진영 구성",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "열두 지파의 배치",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0056",
+    "displayOrder": 56,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "나실인·봉헌·유월절",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 5,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "광야 공동체",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0057",
+    "displayOrder": 57,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "출발과 원망",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 10,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "인도하심",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0058",
+    "displayOrder": 58,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "정탐꾼과 불신앙",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 13,
+        "chapterEnd": 14
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "40년 광야",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0059",
+    "displayOrder": 59,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "고라의 반역과 아론의 지팡이",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 15,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "권위와 제사",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0060",
+    "displayOrder": 60,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "붉은 암송아지와 므리바",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "정결과 모세의 실수",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0061",
+    "displayOrder": 61,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "놋뱀과 광야 승리",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "에돔 우회와 전투",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0062",
+    "displayOrder": 62,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "발락과 발람",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 22,
+        "chapterEnd": 24
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "모압과 여호와",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0063",
+    "displayOrder": 63,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "브올 사건·새 인구 조사",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 25,
+        "chapterEnd": 27
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "다음 세대",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0064",
+    "displayOrder": 64,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "절기와 전쟁과 서원",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 28,
+        "chapterEnd": 31
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "공동체 규례",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0065",
+    "displayOrder": 65,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "요단 동편 지파와 경로",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 32,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "요단 동편 정착",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0066",
+    "displayOrder": 66,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "땅의 경계·도피성·상속",
+    "scriptureRefs": [
+      {
+        "bookId": "NUM",
+        "chapterStart": 34,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "정착 준비",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0067",
+    "displayOrder": 67,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "모세의 역사 회고와 십계명",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 1,
+        "chapterEnd": 5
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "후대 교육",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0068",
+    "displayOrder": 68,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "쉐마와 율법 교육",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 6,
+        "chapterEnd": 11
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "자녀 교육",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0069",
+    "displayOrder": 69,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "언약의 법과 사회 윤리",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 12,
+        "chapterEnd": 26
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "학습 자료 중심",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0070",
+    "displayOrder": 70,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "복과 저주·언약 갱신",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 27,
+        "chapterEnd": 30
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "순종·불순종",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0071",
+    "displayOrder": 71,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "여호수아 위임·모세의 노래",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 31,
+        "chapterEnd": 32
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "세대 교체",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0072",
+    "displayOrder": 72,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P04",
+    "titleKo": "모세의 축복과 죽음",
+    "scriptureRefs": [
+      {
+        "bookId": "DEU",
+        "chapterStart": 33,
+        "chapterEnd": 34
+      }
+    ],
+    "lane": "wilderness",
+    "learningFocusKo": "여호수아로 전환",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0073",
+    "displayOrder": 73,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "여호수아 소명과 정탐",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "지도 열기",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0074",
+    "displayOrder": 74,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "요단강 도하와 길갈 돌",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 3,
+        "chapterEnd": 5
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "기억과 의례",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0075",
+    "displayOrder": 75,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "여리고의 함락",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 6,
+        "chapterEnd": 6
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "고고학·연대 논쟁",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0076",
+    "displayOrder": 76,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "아간 사건과 아이 성",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 7,
+        "chapterEnd": 8
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "전쟁과 언약",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0077",
+    "displayOrder": 77,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "기브온과 남부 연합",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "고대 정치 구도",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0078",
+    "displayOrder": 78,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "북부 가나안 전쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 11,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "지도 연출에 불확실성 표기",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0079",
+    "displayOrder": 79,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "요단 동서편 땅 분배",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 13,
+        "chapterEnd": 19
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "지파별 영역",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0080",
+    "displayOrder": 80,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "도피성과 레위인의 성읍",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 20,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "거주 인프라",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0081",
+    "displayOrder": 81,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "동편 제단 논쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "지파 연합",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0082",
+    "displayOrder": 82,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P05",
+    "titleKo": "세겜 언약 갱신",
+    "scriptureRefs": [
+      {
+        "bookId": "JOS",
+        "chapterStart": 23,
+        "chapterEnd": 24
+      }
+    ],
+    "lane": "settlement",
+    "learningFocusKo": "지도/언약",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0083",
+    "displayOrder": 83,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "사사 시대의 시작과 실패",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "지파의 분산",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0084",
+    "displayOrder": 84,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "옷니엘과 에훗과 삼갈",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "사사 주기",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0085",
+    "displayOrder": 85,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "드보라와 바락",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 4,
+        "chapterEnd": 5
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "드보라의 노래",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0086",
+    "displayOrder": 86,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "기드온의 소명과 승리",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 6,
+        "chapterEnd": 8
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "주변 세력",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0087",
+    "displayOrder": 87,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "아비멜렉의 참극",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 9,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "왕정 전조",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0088",
+    "displayOrder": 88,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "돌라와 야일",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 10,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "작은 사사들",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0089",
+    "displayOrder": 89,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "입다와 서원",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 11,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "서사 속 모호한 지점 분리",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0090",
+    "displayOrder": 90,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "입산·엘론·압돈",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "작은 사사들",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0091",
+    "displayOrder": 91,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "삼손과 블레셋",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 13,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "삼손 서사 전체",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0092",
+    "displayOrder": 92,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "미가의 신상과 단 지파",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 17,
+        "chapterEnd": 18
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "종교 혼란",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0093",
+    "displayOrder": 93,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "기브아 사건과 베냐민 전쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "JDG",
+        "chapterStart": 19,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "폭력/미성년자 노출 보호",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0094",
+    "displayOrder": 94,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P06",
+    "titleKo": "룻과 나오미, 보아스",
+    "scriptureRefs": [
+      {
+        "bookId": "RUT",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "judges",
+    "learningFocusKo": "다윗 왕가로 이어지는 계보",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0095",
+    "displayOrder": 95,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "사무엘의 출생과 엘리 가문",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "제사장 체제",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0096",
+    "displayOrder": 96,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "언약궤와 블레셋",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 4,
+        "chapterEnd": 7
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "실로·벧세메스·미스바",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0097",
+    "displayOrder": 97,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "왕을 요구하는 백성",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 8,
+        "chapterEnd": 8
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "왕정 체제로 변화",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0098",
+    "displayOrder": 98,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "사울의 기름부음과 즉위",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 9,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "첫 왕",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0099",
+    "displayOrder": 99,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "사울의 불순종과 갈등",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 13,
+        "chapterEnd": 15
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "언약 순종",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0100",
+    "displayOrder": 100,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "다윗의 선택과 기름부음",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "외모와 중심",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0101",
+    "displayOrder": 101,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "다윗과 골리앗",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "전투와 신뢰",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0102",
+    "displayOrder": 102,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "다윗과 요나단, 사울의 질투",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "우정과 왕권 갈등",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0103",
+    "displayOrder": 103,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "다윗의 도피와 놉의 학살",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 21,
+        "chapterEnd": 23
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "참혹한 결과",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0104",
+    "displayOrder": 104,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "다윗이 사울을 살림",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "1SA",
+        "chapterStart": 26,
+        "chapterEnd": 26
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "권력과 절제",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0105",
+    "displayOrder": 105,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "나발과 아비가일",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "분쟁 해결",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0106",
+    "displayOrder": 106,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "블레셋과 엔돌의 사울",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 27,
+        "chapterEnd": 29
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "전쟁 전야",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0107",
+    "displayOrder": 107,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P07",
+    "titleKo": "시글락과 길보아",
+    "scriptureRefs": [
+      {
+        "bookId": "1SA",
+        "chapterStart": 30,
+        "chapterEnd": 31
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 10,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "사울의 최후",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0108",
+    "displayOrder": 108,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "다윗의 애가와 헤브론 즉위",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "남북 통합 이전 단계",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0109",
+    "displayOrder": 109,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "이스보셋과 통일 과정",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 3,
+        "chapterEnd": 5
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "내전과 왕조 전환",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0110",
+    "displayOrder": 110,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "예루살렘 점령과 언약궤",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 5,
+        "chapterEnd": 6
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 11,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "도성·종교 중심",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0111",
+    "displayOrder": 111,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "다윗 언약",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 7,
+        "chapterEnd": 7
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "왕조와 약속",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0112",
+    "displayOrder": 112,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "다윗 왕국의 전쟁과 신하들",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 8,
+        "chapterEnd": 10
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 18,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "영역 지도는 추정 표시",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0113",
+    "displayOrder": 113,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "밧세바와 우리아",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 11,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "권력 남용과 회개",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0114",
+    "displayOrder": 114,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "암논·다말과 압살롬",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 13,
+        "chapterEnd": 15
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "가정의 상처",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0115",
+    "displayOrder": 115,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "압살롬의 반란과 최후",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 16,
+        "chapterEnd": 19
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "국가 내전",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0116",
+    "displayOrder": 116,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "세바의 반란과 말년",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 20,
+        "chapterEnd": 23
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "왕권 후반",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0117",
+    "displayOrder": 117,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "인구 조사와 타작마당",
+    "scriptureRefs": [
+      {
+        "bookId": "2SA",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "1CH",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "성전 자리와 연결",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0118",
+    "displayOrder": 118,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P08",
+    "titleKo": "성전 준비와 다윗의 유언",
+    "scriptureRefs": [
+      {
+        "bookId": "1CH",
+        "chapterStart": 22,
+        "chapterEnd": 29
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "역대기의 관점",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0119",
+    "displayOrder": 119,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P09",
+    "titleKo": "왕위 계승 경쟁과 솔로몬 즉위",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "아도니야와 솔로몬",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0120",
+    "displayOrder": 120,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P09",
+    "titleKo": "솔로몬의 지혜와 재판",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 3,
+        "chapterEnd": 4
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "국가 조직",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0121",
+    "displayOrder": 121,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P09",
+    "titleKo": "성전 건축과 봉헌",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 5,
+        "chapterEnd": 8
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 2,
+        "chapterEnd": 7
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "성막→성전",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0122",
+    "displayOrder": 122,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P09",
+    "titleKo": "솔로몬의 외교·경제·건축",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 8,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "교역 관계",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0123",
+    "displayOrder": 123,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P09",
+    "titleKo": "솔로몬의 우상숭배와 심판 예고",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 11,
+        "chapterEnd": 11
+      }
+    ],
+    "lane": "united",
+    "learningFocusKo": "분열의 신학적 설명",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0124",
+    "displayOrder": 124,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "세겜 회의와 왕국 분열",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 10,
+        "chapterEnd": 11
+      }
+    ],
+    "lane": "both",
+    "learningFocusKo": "르호보암 강압과 여로보암 선택",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0125",
+    "displayOrder": 125,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "벧엘과 단의 금송아지",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 12,
+        "chapterEnd": 13
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "북왕국 예배 제도",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0126",
+    "displayOrder": 126,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "여로보암 가문의 심판 예고",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "아히야와 여로보암",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0127",
+    "displayOrder": 127,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "르호보암과 애굽 시삭의 침공",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "남유다 초반",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0128",
+    "displayOrder": 128,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "아비얌과 아사의 통치",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 13,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "개혁과 전쟁",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0129",
+    "displayOrder": 129,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "나답·바아사·엘라·시므리",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 15,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "연속 왕조 교체",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0130",
+    "displayOrder": 130,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "디브니와 오므리의 왕권 경쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "경합자로 표시",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0131",
+    "displayOrder": 131,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "오므리와 사마리아 수도",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "수도 변화",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0132",
+    "displayOrder": 132,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P10",
+    "titleKo": "여호사밧의 개혁",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 17,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "동시대 왕국 비교",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0133",
+    "displayOrder": 133,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "아합과 이세벨의 통치",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "바알 숭배와 권력",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0134",
+    "displayOrder": 134,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "엘리야와 가뭄, 사르밧",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "선지자 등장",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0135",
+    "displayOrder": 135,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "갈멜산의 대결",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "신앙과 권력",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0136",
+    "displayOrder": 136,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "호렙산의 엘리야",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 19,
+        "chapterEnd": 19
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "절망과 사명",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0137",
+    "displayOrder": 137,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "아람과 아합의 전쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "강국과 전투",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0138",
+    "displayOrder": 138,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "나봇 포도원 사건",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "정의와 억압",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0139",
+    "displayOrder": 139,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "아합의 최후와 미가야",
+    "scriptureRefs": [
+      {
+        "bookId": "1KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      }
+    ],
+    "lane": "both",
+    "learningFocusKo": "북왕국·남왕국 동맹",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0140",
+    "displayOrder": 140,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P11",
+    "titleKo": "아하시야와 엘리야",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "왕위 계승",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0141",
+    "displayOrder": 141,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "남유다 여호람 통치",
+    "scriptureRefs": [
+      {
+        "bookId": "2CH",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "아합 집안과 왕실 혼인",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0142",
+    "displayOrder": 142,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "엘리야 승천과 엘리사",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 2,
+        "chapterEnd": 2
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "예언 사역 계승",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0143",
+    "displayOrder": 143,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "모압과의 전쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 3,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "모압석비와 별개 시각",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0144",
+    "displayOrder": 144,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "과부의 기름·수넴 여인",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 4,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "삶의 회복",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0145",
+    "displayOrder": 145,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "나아만과 게하시",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 5,
+        "chapterEnd": 5
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "아람과 이스라엘",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0146",
+    "displayOrder": 146,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "도끼·도단·사마리아 포위",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 6,
+        "chapterEnd": 7
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "아람의 위협",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0147",
+    "displayOrder": 147,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "수넴 여인·하사엘 예고",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 8,
+        "chapterEnd": 8
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "아람 왕권 변화",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0148",
+    "displayOrder": 148,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "예후의 쿠데타와 아합 왕가 최후",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 9,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "both",
+    "learningFocusKo": "예후의 폭력과 개혁",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0149",
+    "displayOrder": 149,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "아달랴의 찬탈과 요아스 보호",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 11,
+        "chapterEnd": 11
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 22,
+        "chapterEnd": 23
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "남유다 왕조 위기",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0150",
+    "displayOrder": 150,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "요아스의 성전 수리",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 12,
+        "chapterEnd": 12
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "개혁과 쇠퇴",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0151",
+    "displayOrder": 151,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "북왕국 여호아하스와 요아스",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "아람과의 충돌",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0152",
+    "displayOrder": 152,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "엘리사의 마지막과 죽음",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 13,
+        "chapterEnd": 13
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "예언 사역의 마무리",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0153",
+    "displayOrder": 153,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P12",
+    "titleKo": "아마샤와 북왕국 요아스의 전쟁",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      }
+    ],
+    "lane": "both",
+    "learningFocusKo": "왕국 간 군사 충돌",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0154",
+    "displayOrder": 154,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "여로보암 2세의 확장",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 14,
+        "chapterEnd": 14
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "북왕국 마지막 번영",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0155",
+    "displayOrder": 155,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "아모스의 정의·예배 비판",
+    "scriptureRefs": [
+      {
+        "bookId": "AMO",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "사회 불의와 심판",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0156",
+    "displayOrder": 156,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "호세아의 언약·우상숭배 비판",
+    "scriptureRefs": [
+      {
+        "bookId": "HOS",
+        "chapterStart": 1,
+        "chapterEnd": 14
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "결혼 비유·회복",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0157",
+    "displayOrder": 157,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "요나와 니느웨",
+    "scriptureRefs": [
+      {
+        "bookId": "JON",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "서술 배경과 저술 연대를 분리",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0158",
+    "displayOrder": 158,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "유다 웃시야와 요담",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 26,
+        "chapterEnd": 27
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "남유다 변화",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0159",
+    "displayOrder": 159,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "북왕국 왕위 쟁탈전",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "스가랴·살룸·므나헴·브가히야·베가",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0160",
+    "displayOrder": 160,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "앗수르의 조공과 영토 상실",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 15,
+        "chapterEnd": 15
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "제국의 팽창",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0161",
+    "displayOrder": 161,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P13",
+    "titleKo": "이사야의 소명과 왕국 경고",
+    "scriptureRefs": [
+      {
+        "bookId": "ISA",
+        "chapterStart": 1,
+        "chapterEnd": 6
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "남유다 예언의 문학 단락",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0162",
+    "displayOrder": 162,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P14",
+    "titleKo": "베가·르신과 아하스의 대립",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 7,
+        "chapterEnd": 8
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 28,
+        "chapterEnd": 28
+      }
+    ],
+    "lane": "both",
+    "learningFocusKo": "시리아-에브라임 전쟁",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0163",
+    "displayOrder": 163,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P14",
+    "titleKo": "호세아가 마지막 왕이 됨",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "제국의 종속",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0164",
+    "displayOrder": 164,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P14",
+    "titleKo": "사마리아 포위와 북왕국 멸망",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "722/721 전후 사료 비교",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0165",
+    "displayOrder": 165,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P14",
+    "titleKo": "강제 이주와 사마리아의 재구성",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "전면적 인구 소멸로 오해 금지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0166",
+    "displayOrder": 166,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P14",
+    "titleKo": "북왕국 멸망의 성경적 해석",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 17,
+        "chapterEnd": 17
+      },
+      {
+        "bookId": "HOS",
+        "chapterStart": 1,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "AMO",
+        "chapterStart": 1,
+        "chapterEnd": 9
+      }
+    ],
+    "lane": "north",
+    "learningFocusKo": "본문의 원인 분석",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0167",
+    "displayOrder": 167,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "아하스와 앗수르 종속",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 16,
+        "chapterEnd": 16
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 28,
+        "chapterEnd": 28
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "조공과 종교 정책",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0168",
+    "displayOrder": 168,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "히스기야의 종교 개혁",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 29,
+        "chapterEnd": 31
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "유월절",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0169",
+    "displayOrder": 169,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "앗수르의 라기스 함락",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 18
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 32,
+        "chapterEnd": 32
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "701년 부조 사료",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0170",
+    "displayOrder": 170,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "예루살렘 포위 위기와 이사야",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 18,
+        "chapterEnd": 19
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 36,
+        "chapterEnd": 37
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "서로 다른 자료 시점",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0171",
+    "displayOrder": 171,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "히스기야의 병과 바벨론 사절",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 20,
+        "chapterEnd": 20
+      },
+      {
+        "bookId": "ISA",
+        "chapterStart": 38,
+        "chapterEnd": 39
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "다음 제국의 그림자",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0172",
+    "displayOrder": 172,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "이사야의 심판·위로·회복 예언",
+    "scriptureRefs": [
+      {
+        "bookId": "ISA",
+        "chapterStart": 9,
+        "chapterEnd": 66
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "예언서의 문학·편집 층위 주의",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0173",
+    "displayOrder": 173,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P15",
+    "titleKo": "미가의 불의 비판과 회복 약속",
+    "scriptureRefs": [
+      {
+        "bookId": "MIC",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "북/남 왕국 배경",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0174",
+    "displayOrder": 174,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P16",
+    "titleKo": "므낫세가 왕이 됨",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "통치 시작",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0175",
+    "displayOrder": 175,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P16",
+    "titleKo": "므낫세의 우상숭배와 아들 희생",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "절별 활동·7가지 악행과 연결",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0176",
+    "displayOrder": 176,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P16",
+    "titleKo": "므낫세가 무죄한 피를 흘림",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "과장된 시각 재현 금지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0177",
+    "displayOrder": 177,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P16",
+    "titleKo": "역대하에 기록된 므낫세의 겸비",
+    "scriptureRefs": [
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "열왕기와 역대기 병행 서술 구분",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0178",
+    "displayOrder": 178,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P16",
+    "titleKo": "아몬의 통치와 죽음",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 21,
+        "chapterEnd": 21
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "왕위 교체",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0179",
+    "displayOrder": 179,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "요시야의 즉위와 우상 제거",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "개혁의 시작",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0180",
+    "displayOrder": 180,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "성전 수리와 율법책 발견",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "중심 사건",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0181",
+    "displayOrder": 181,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "여선지자 훌다의 경고",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 22,
+        "chapterEnd": 22
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 34,
+        "chapterEnd": 34
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "심판 예고와 반응",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0182",
+    "displayOrder": 182,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "언약 갱신과 유월절",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 35,
+        "chapterEnd": 35
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "공동체 개혁",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0183",
+    "displayOrder": 183,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "요시야 시대의 스바냐",
+    "scriptureRefs": [
+      {
+        "bookId": "ZEP",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "선지서의 시대 배경",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0184",
+    "displayOrder": 184,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "요시야의 므깃도 죽음",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 35,
+        "chapterEnd": 35
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "애굽의 세력 부상",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0185",
+    "displayOrder": 185,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "나훔의 니느웨 심판",
+    "scriptureRefs": [
+      {
+        "bookId": "NAM",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "기원전 612년 전후 독립 연표",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0186",
+    "displayOrder": 186,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P17",
+    "titleKo": "하박국의 질문과 응답",
+    "scriptureRefs": [
+      {
+        "bookId": "HAB",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "정확한 작성 시기 단정 금지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0187",
+    "displayOrder": 187,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "여호아하스의 짧은 통치",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 23
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "이집트 개입",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0188",
+    "displayOrder": 188,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "여호야김과 바벨론의 부상",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 23,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "애굽→바벨론 패권",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0189",
+    "displayOrder": 189,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "예레미야의 경고와 성전 설교",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 1,
+        "chapterEnd": 26
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "예언서 배열과 사건 연대는 별개",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0190",
+    "displayOrder": 190,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "바룩과 두루마리를 불사른 왕",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "왕과 말씀",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0191",
+    "displayOrder": 191,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "바룩에게 주어진 말씀",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 45,
+        "chapterEnd": 45
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "예레미야서 배열과 연대 차이",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0192",
+    "displayOrder": 192,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "열방에 대한 예레미야의 예언",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 46,
+        "chapterEnd": 51
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "애굽·블레셋·모압·암몬·에돔·바벨론 등",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0193",
+    "displayOrder": 193,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "여호야긴 시대 첫 주요 포로 이송",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 27,
+        "chapterEnd": 29
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "597년 바벨론 연대기",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0194",
+    "displayOrder": 194,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "시드기야의 즉위와 정세",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 24,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 27,
+        "chapterEnd": 29
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "바벨론 봉신",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0195",
+    "displayOrder": 195,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "시드기야의 반란과 예루살렘 포위",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 34,
+        "chapterEnd": 39
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "전쟁·기근·정치",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0196",
+    "displayOrder": 196,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "예루살렘 함락과 성전 소실",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 39,
+        "chapterEnd": 39
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "587/586년경/학술 연대차",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0197",
+    "displayOrder": 197,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "시드기야가 붙잡히고 포로가 됨",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 39,
+        "chapterEnd": 39
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "잔혹행위 장면 유아 보호",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0198",
+    "displayOrder": 198,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "성전 기물과 포로 이동",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "포로 규모의 단계 구분",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0199",
+    "displayOrder": 199,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "남은 농민과 그다랴 행정",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 40,
+        "chapterEnd": 40
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "인구가 전부 떠난 것은 아님",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0200",
+    "displayOrder": 200,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P18",
+    "titleKo": "그다랴 암살과 애굽 이주",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 41,
+        "chapterEnd": 44
+      }
+    ],
+    "lane": "south",
+    "learningFocusKo": "멸망 이후 잔존 사회",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0201",
+    "displayOrder": 201,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "예루살렘을 위한 애가",
+    "scriptureRefs": [
+      {
+        "bookId": "LAM",
+        "chapterStart": 1,
+        "chapterEnd": 5
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "애가를 영화식 사건으로 오인 금지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0202",
+    "displayOrder": 202,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "예레미야의 위로와 새 언약",
+    "scriptureRefs": [
+      {
+        "bookId": "JER",
+        "chapterStart": 30,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "심판과 회복의 언약",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0203",
+    "displayOrder": 203,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "에스겔의 소명과 성전 환상",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 1,
+        "chapterEnd": 11
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "상징·환상 표현",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0204",
+    "displayOrder": 204,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "예루살렘 멸망과 에스겔 예언",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 12,
+        "chapterEnd": 24
+      },
+      {
+        "bookId": "EZK",
+        "chapterStart": 33,
+        "chapterEnd": 33
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "배경과 본문 연결",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0205",
+    "displayOrder": 205,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "열방 심판과 회복의 예언",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 25,
+        "chapterEnd": 32
+      },
+      {
+        "bookId": "EZK",
+        "chapterStart": 34,
+        "chapterEnd": 39
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "두 막대기/마른 뼈",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0206",
+    "displayOrder": 206,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "새 성전 환상",
+    "scriptureRefs": [
+      {
+        "bookId": "EZK",
+        "chapterStart": 40,
+        "chapterEnd": 48
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "환상 지도 vs 실제 역사 지도",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0207",
+    "displayOrder": 207,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "다니엘과 바벨론 궁정 이야기",
+    "scriptureRefs": [
+      {
+        "bookId": "DAN",
+        "chapterStart": 1,
+        "chapterEnd": 6
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "인물/작성 연대 구분",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0208",
+    "displayOrder": 208,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "다니엘의 묵시 환상",
+    "scriptureRefs": [
+      {
+        "bookId": "DAN",
+        "chapterStart": 7,
+        "chapterEnd": 12
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "묵시 문학·상징",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0209",
+    "displayOrder": 209,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "오바댜의 에돔 신탁",
+    "scriptureRefs": [
+      {
+        "bookId": "OBA",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "책의 정확한 작성 시기 단정 금지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0210",
+    "displayOrder": 210,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P19",
+    "titleKo": "여호야긴 석방으로 마감",
+    "scriptureRefs": [
+      {
+        "bookId": "2KI",
+        "chapterStart": 25,
+        "chapterEnd": 25
+      },
+      {
+        "bookId": "JER",
+        "chapterStart": 52,
+        "chapterEnd": 52
+      }
+    ],
+    "lane": "exile",
+    "learningFocusKo": "왕조의 여지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0211",
+    "displayOrder": 211,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "고레스와 귀환 허용",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 1,
+        "chapterEnd": 1
+      },
+      {
+        "bookId": "2CH",
+        "chapterStart": 36,
+        "chapterEnd": 36
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "성경 본문과 고레스 원통의 문구 혼동 금지",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0212",
+    "displayOrder": 212,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "귀환자의 명부와 제단",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 2,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "사람·지파 목록",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0213",
+    "displayOrder": 213,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "성전 재건 방해와 완공",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 4,
+        "chapterEnd": 6
+      },
+      {
+        "bookId": "HAG",
+        "chapterStart": 1,
+        "chapterEnd": 2
+      },
+      {
+        "bookId": "ZEC",
+        "chapterStart": 1,
+        "chapterEnd": 8
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "페르시아 통치",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0214",
+    "displayOrder": 214,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "에스라의 귀환과 율법 교육",
+    "scriptureRefs": [
+      {
+        "bookId": "EZR",
+        "chapterStart": 7,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "율법 교육",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0215",
+    "displayOrder": 215,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "느헤미야의 성벽 재건",
+    "scriptureRefs": [
+      {
+        "bookId": "NEH",
+        "chapterStart": 1,
+        "chapterEnd": 7
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "예루살렘 재건",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0216",
+    "displayOrder": 216,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "율법 낭독·언약·봉헌",
+    "scriptureRefs": [
+      {
+        "bookId": "NEH",
+        "chapterStart": 8,
+        "chapterEnd": 13
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "공동체 회복",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0217",
+    "displayOrder": 217,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "에스더의 디아스포라 이야기",
+    "scriptureRefs": [
+      {
+        "bookId": "EST",
+        "chapterStart": 1,
+        "chapterEnd": 10
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "페르시아 역사적 배경",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0218",
+    "displayOrder": 218,
+    "timelinePlacement": "campaign_sequence",
+    "periodId": "P20",
+    "titleKo": "스가랴 후기·말라기의 메시지",
+    "scriptureRefs": [
+      {
+        "bookId": "ZEC",
+        "chapterStart": 9,
+        "chapterEnd": 14
+      },
+      {
+        "bookId": "MAL",
+        "chapterStart": 1,
+        "chapterEnd": 4
+      }
+    ],
+    "lane": "epilogue",
+    "learningFocusKo": "저술·편집 시기 연구 참고",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  },
+  {
+    "id": "isl-0219",
+    "displayOrder": 219,
+    "timelinePlacement": "non_chronological_appendix",
+    "periodId": "PXX",
+    "titleKo": "요엘의 예언과 여호와의 날",
+    "scriptureRefs": [
+      {
+        "bookId": "JOL",
+        "chapterStart": 1,
+        "chapterEnd": 3
+      }
+    ],
+    "lane": "prophetic",
+    "learningFocusKo": "저술 시기 미확정·시간순 연대표 비표시",
+    "canonicalOutcomeLocked": true,
+    "contentStatus": "outline_not_authored",
+    "historicalFactcheckStatus": "pending_per_event_review",
+    "artStatus": "not_commissioned",
+    "mapStatus": "unverified",
+    "creativeReconstructionAllowedOnlyWithLabel": true,
+    "date": {
+      "kind": "unreviewed"
+    },
+    "sceneTemplates": [
+      "chronicle_card",
+      "passage_view",
+      "map_context",
+      "compare_sources",
+      "reflection"
+    ]
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "id": "S00",
+    "titleKo": "마스터 체계 확정",
+    "bookIds": [],
+    "focusKo": "핵심 계약·색인·검증 파이프라인",
+    "acceptanceGateKo": "마스터 스키마와 누락 체크 통과",
+    "requiredFiles": [
+      "MASTER_README.md",
+      "data/chapter_master_index.json",
+      "scripts/validate_master.py"
+    ],
+    "workStatus": "architecture_ready",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S01",
+    "titleKo": "창세기",
+    "bookIds": [
+      "GEN"
+    ],
+    "focusKo": "창조·원역사·족장·요셉",
+    "acceptanceGateKo": "4시점 대신 3개 시점 규칙과 불확정 지도 검증",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S02",
+    "titleKo": "출애굽~신명기",
+    "bookIds": [
+      "EXO",
+      "LEV",
+      "NUM",
+      "DEU"
+    ],
+    "focusKo": "출애굽·광야·율법·언약·성막",
+    "acceptanceGateKo": "율법을 분기형 역사 사건으로 강제하지 않음",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S03",
+    "titleKo": "여호수아~룻기",
+    "bookIds": [
+      "JOS",
+      "JDG",
+      "RUT"
+    ],
+    "focusKo": "가나안·사사·지파·룻",
+    "acceptanceGateKo": "정복·폭력 서술 교육적 맥락과 연대 불확실성",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S04",
+    "titleKo": "사무엘~열왕기",
+    "bookIds": [
+      "1SA",
+      "2SA",
+      "1KI",
+      "2KI"
+    ],
+    "focusKo": "통일·분열왕국·멸망",
+    "acceptanceGateKo": "기존 isl-0001..0219 링크 유지·병렬 왕국 검증",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S05",
+    "titleKo": "역대기~에스더",
+    "bookIds": [
+      "1CH",
+      "2CH",
+      "EZR",
+      "NEH",
+      "EST"
+    ],
+    "focusKo": "병행 역사·귀환·공동체 재건",
+    "acceptanceGateKo": "중복 사건 병합 금지·역대기의 독특한 신학적 관점 존중",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S06",
+    "titleKo": "욥기~아가",
+    "bookIds": [
+      "JOB",
+      "PSA",
+      "PRO",
+      "ECC",
+      "SNG"
+    ],
+    "focusKo": "지혜·탄식·시·사랑",
+    "acceptanceGateKo": "시가서를 단일 연대기 사건으로 위장하지 않음",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S07",
+    "titleKo": "이사야~다니엘",
+    "bookIds": [
+      "ISA",
+      "JER",
+      "LAM",
+      "EZK",
+      "DAN"
+    ],
+    "focusKo": "대예언서·애가·환상",
+    "acceptanceGateKo": "심판·회복·환상의 장르와 저작 배경 논의 분리",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S08",
+    "titleKo": "호세아~말라기",
+    "bookIds": [
+      "HOS",
+      "JOL",
+      "AMO",
+      "OBA",
+      "JON",
+      "MIC",
+      "NAM",
+      "HAB",
+      "ZEP",
+      "HAG",
+      "ZEC",
+      "MAL"
+    ],
+    "focusKo": "소예언서와 후기예언",
+    "acceptanceGateKo": "예언의 시대 배치 미확정 표시",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S09",
+    "titleKo": "사복음서",
+    "bookIds": [
+      "MAT",
+      "MRK",
+      "LUK",
+      "JHN"
+    ],
+    "focusKo": "예수의 생애와 가르침",
+    "acceptanceGateKo": "공관복음·요한 복음의 차이를 강제 조화하지 않음",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S10",
+    "titleKo": "사도행전",
+    "bookIds": [
+      "ACT"
+    ],
+    "focusKo": "교회·선교·이동",
+    "acceptanceGateKo": "사도행전과 서신의 선교 연대 비확정 대비",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S11",
+    "titleKo": "바울 서신",
+    "bookIds": [
+      "ROM",
+      "1CO",
+      "2CO",
+      "GAL",
+      "EPH",
+      "PHP",
+      "COL",
+      "1TH",
+      "2TH",
+      "1TI",
+      "2TI",
+      "TIT",
+      "PHM"
+    ],
+    "focusKo": "바울 및 바울 명의 서신 전반",
+    "acceptanceGateKo": "저작 관련 학술 이견·수신 상황 제시",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S12",
+    "titleKo": "히브리서~유다서",
+    "bookIds": [
+      "HEB",
+      "JAS",
+      "1PE",
+      "2PE",
+      "1JN",
+      "2JN",
+      "3JN",
+      "JUD"
+    ],
+    "focusKo": "히브리서·일반서신",
+    "acceptanceGateKo": "수신 맥락·저자 견해의 불확정 표기",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S13",
+    "titleKo": "요한계시록",
+    "bookIds": [
+      "REV"
+    ],
+    "focusKo": "일곱 교회와 묵시 환상",
+    "acceptanceGateKo": "상징을 지도 위 실재 역사 경계로 변환 금지",
+    "requiredFiles": [
+      "episode_index.json",
+      "chapters.json",
+      "passage_links.json",
+      "claims.json",
+      "geography.json",
+      "assets_manifest.json",
+      "lessons.json",
+      "QA_REPORT.md"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  },
+  {
+    "id": "S14",
+    "titleKo": "통합 및 출판검증",
+    "bookIds": [],
+    "focusKo": "전체 품질·지도·대조·교육평가",
+    "acceptanceGateKo": "66권 1,189장·병행본문·라이선스·접근성 통합 점검",
+    "requiredFiles": [
+      "INTEGRATION_QA.md",
+      "release_manifest.json"
+    ],
+    "workStatus": "not_started",
+    "evidenceStatus": "not_bulk_verified"
+  }
+]

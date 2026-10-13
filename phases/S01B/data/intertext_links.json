@@ -1,0 +1,32 @@
+[
+  {
+    "from": "GEN.11.31-GEN.11.32",
+    "to": "ep-gen-023",
+    "kind": "cross_phase_context",
+    "noteKo": "하란 정착과 창세기 12장의 떠남"
+  },
+  {
+    "from": "ep-gen-038",
+    "to": "ep-gen-039",
+    "kind": "continuous_story",
+    "noteKo": "마므레 방문과 소돔 중보"
+  },
+  {
+    "from": "ep-gen-051",
+    "to": "ep-gen-055",
+    "kind": "foreshadowing",
+    "noteKo": "나홀 가문의 리브가 계보와 혼인"
+  },
+  {
+    "from": "ep-gen-060",
+    "to": "ep-gen-062",
+    "kind": "lineage_transition",
+    "noteKo": "아브라함 계보에서 이삭 가계로 전환"
+  },
+  {
+    "from": "ep-gen-063",
+    "to": "handoff-gen-026",
+    "kind": "next_phase",
+    "noteKo": "에서와 야곱 형제 갈등의 후속은 창 26장 이후"
+  }
+]

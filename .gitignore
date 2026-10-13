@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Image generation scratch (tools/codex_images.py work dirs)
+art_out/
+**/_work/
+
+# Release signing material (never commit)
+.keystore/
+*.jks
+*.keystore

@@ -1,0 +1,15 @@
+{
+  "base": "v1.3.0",
+  "target": "v1.4.0",
+  "baseZipSha256": "e2c88d544806c407cfd139a60e9469e981b1b9aae325012a97b451889872f422",
+  "preservedFileCount": 87,
+  "modifiedMetaFiles": [
+    "CHANGELOG.md",
+    "LATEST_RELEASE.md",
+    "README.md",
+    "master/NEXT_REQUEST.md"
+  ],
+  "addedPhase": "S01B",
+  "draftOnly": true,
+  "verification": "script_only_not_academic_peer_review"
+}

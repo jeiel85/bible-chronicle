@@ -1,0 +1,3582 @@
+[
+  {
+    "id": "ep-gen-001",
+    "next": "ep-gen-002",
+    "resolvedNext": "ep-gen-002",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 13
+      },
+      "osis": "GEN.1.1-GEN.1.13"
+    },
+    "titleKo": "빛과 질서의 시작",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-002",
+    "next": "ep-gen-003",
+    "resolvedNext": "ep-gen-003",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 25
+      },
+      "osis": "GEN.1.14-GEN.1.25"
+    },
+    "titleKo": "하늘의 광명과 생명의 다양성",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-003",
+    "next": "ep-gen-004",
+    "resolvedNext": "ep-gen-004",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 1,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 3
+      },
+      "osis": "GEN.1.26-GEN.2.3"
+    },
+    "titleKo": "사람과 일곱째 날",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-004",
+    "next": "ep-gen-005",
+    "resolvedNext": "ep-gen-005",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 17
+      },
+      "osis": "GEN.2.4-GEN.2.17"
+    },
+    "titleKo": "에덴의 사람과 사명",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-005",
+    "next": "ep-gen-006",
+    "resolvedNext": "ep-gen-006",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 2,
+        "verse": 25
+      },
+      "osis": "GEN.2.18-GEN.2.25"
+    },
+    "titleKo": "서로 마주하는 동반자",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-006",
+    "next": "ep-gen-007",
+    "resolvedNext": "ep-gen-007",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 7
+      },
+      "osis": "GEN.3.1-GEN.3.7"
+    },
+    "titleKo": "금지와 유혹",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-007",
+    "next": "ep-gen-008",
+    "resolvedNext": "ep-gen-008",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 3,
+        "verse": 24
+      },
+      "osis": "GEN.3.8-GEN.3.24"
+    },
+    "titleKo": "동산 밖으로",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-008",
+    "next": "ep-gen-009",
+    "resolvedNext": "ep-gen-009",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 8
+      },
+      "osis": "GEN.4.1-GEN.4.8"
+    },
+    "titleKo": "두 형제와 예물",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-009",
+    "next": "ep-gen-010",
+    "resolvedNext": "ep-gen-010",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 16
+      },
+      "osis": "GEN.4.9-GEN.4.16"
+    },
+    "titleKo": "가인에게 던져진 질문",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-010",
+    "next": "ep-gen-011",
+    "resolvedNext": "ep-gen-011",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 4,
+        "verse": 26
+      },
+      "osis": "GEN.4.17-GEN.4.26"
+    },
+    "titleKo": "도시·기술·새로운 세대",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-011",
+    "next": "ep-gen-012",
+    "resolvedNext": "ep-gen-012",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 5,
+        "verse": 32
+      },
+      "osis": "GEN.5.1-GEN.5.32"
+    },
+    "titleKo": "아담에서 노아까지",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-012",
+    "next": "ep-gen-013",
+    "resolvedNext": "ep-gen-013",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 8
+      },
+      "osis": "GEN.6.1-GEN.6.8"
+    },
+    "titleKo": "폭력으로 가득한 세상",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-013",
+    "next": "ep-gen-014",
+    "resolvedNext": "ep-gen-014",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 6,
+        "verse": 22
+      },
+      "osis": "GEN.6.9-GEN.6.22"
+    },
+    "titleKo": "방주를 준비하는 노아",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-014",
+    "next": "ep-gen-015",
+    "resolvedNext": "ep-gen-015",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 7,
+        "verse": 24
+      },
+      "osis": "GEN.7.1-GEN.7.24"
+    },
+    "titleKo": "큰물이 덮다",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-015",
+    "next": "ep-gen-016",
+    "resolvedNext": "ep-gen-016",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 8,
+        "verse": 19
+      },
+      "osis": "GEN.8.1-GEN.8.19"
+    },
+    "titleKo": "물이 물러가다",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-016",
+    "next": "ep-gen-017",
+    "resolvedNext": "ep-gen-017",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 8,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 9,
+        "verse": 17
+      },
+      "osis": "GEN.8.20-GEN.9.17"
+    },
+    "titleKo": "제단과 무지개 언약",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-017",
+    "next": "ep-gen-018",
+    "resolvedNext": "ep-gen-018",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 9,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 9,
+        "verse": 29
+      },
+      "osis": "GEN.9.18-GEN.9.29"
+    },
+    "titleKo": "노아의 포도원과 가족",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-018",
+    "next": "ep-gen-019",
+    "resolvedNext": "ep-gen-019",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 20
+      },
+      "osis": "GEN.10.1-GEN.10.20"
+    },
+    "titleKo": "열방의 계보: 야벳·함",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-019",
+    "next": "ep-gen-020",
+    "resolvedNext": "ep-gen-020",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 10,
+        "verse": 32
+      },
+      "osis": "GEN.10.21-GEN.10.32"
+    },
+    "titleKo": "열방의 계보: 셈",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-020",
+    "next": "ep-gen-021",
+    "resolvedNext": "ep-gen-021",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 9
+      },
+      "osis": "GEN.11.1-GEN.11.9"
+    },
+    "titleKo": "시날 평지와 바벨의 탑",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-021",
+    "next": "ep-gen-022",
+    "resolvedNext": "ep-gen-022",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 26
+      },
+      "osis": "GEN.11.10-GEN.11.26"
+    },
+    "titleKo": "셈에서 아브람으로",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-022",
+    "next": "handoff-gen-012",
+    "resolvedNext": "ep-gen-023",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 11,
+        "verse": 32
+      },
+      "osis": "GEN.11.27-GEN.11.32"
+    },
+    "titleKo": "데라의 가족과 하란",
+    "phase": "S01A"
+  },
+  {
+    "id": "ep-gen-023",
+    "next": "ep-gen-024",
+    "resolvedNext": "ep-gen-024",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 5
+      },
+      "osis": "GEN.12.1-GEN.12.5"
+    },
+    "titleKo": "부르심과 출발",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-024",
+    "next": "ep-gen-025",
+    "resolvedNext": "ep-gen-025",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 6
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 9
+      },
+      "osis": "GEN.12.6-GEN.12.9"
+    },
+    "titleKo": "세겜과 벧엘의 제단",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-025",
+    "next": "ep-gen-026",
+    "resolvedNext": "ep-gen-026",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 12,
+        "verse": 20
+      },
+      "osis": "GEN.12.10-GEN.12.20"
+    },
+    "titleKo": "기근과 애굽에서의 사래",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-026",
+    "next": "ep-gen-027",
+    "resolvedNext": "ep-gen-027",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 7
+      },
+      "osis": "GEN.13.1-GEN.13.7"
+    },
+    "titleKo": "목자들 사이의 다툼",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-027",
+    "next": "ep-gen-028",
+    "resolvedNext": "ep-gen-028",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 13
+      },
+      "osis": "GEN.13.8-GEN.13.13"
+    },
+    "titleKo": "롯이 요단 들을 택하다",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-028",
+    "next": "ep-gen-029",
+    "resolvedNext": "ep-gen-029",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 13,
+        "verse": 18
+      },
+      "osis": "GEN.13.14-GEN.13.18"
+    },
+    "titleKo": "약속의 재확인과 헤브론",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-029",
+    "next": "ep-gen-030",
+    "resolvedNext": "ep-gen-030",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 12
+      },
+      "osis": "GEN.14.1-GEN.14.12"
+    },
+    "titleKo": "네 왕과 다섯 왕의 전쟁",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-030",
+    "next": "ep-gen-031",
+    "resolvedNext": "ep-gen-031",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 16
+      },
+      "osis": "GEN.14.13-GEN.14.16"
+    },
+    "titleKo": "아브람의 롯 구출",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-031",
+    "next": "ep-gen-032",
+    "resolvedNext": "ep-gen-032",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 14,
+        "verse": 24
+      },
+      "osis": "GEN.14.17-GEN.14.24"
+    },
+    "titleKo": "멜기세덱과 전리품",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-032",
+    "next": "ep-gen-033",
+    "resolvedNext": "ep-gen-033",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 6
+      },
+      "osis": "GEN.15.1-GEN.15.6"
+    },
+    "titleKo": "별을 바라보는 약속",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-033",
+    "next": "ep-gen-034",
+    "resolvedNext": "ep-gen-034",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 15,
+        "verse": 21
+      },
+      "osis": "GEN.15.7-GEN.15.21"
+    },
+    "titleKo": "언약과 미래의 예고",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-034",
+    "next": "ep-gen-035",
+    "resolvedNext": "ep-gen-035",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 6
+      },
+      "osis": "GEN.16.1-GEN.16.6"
+    },
+    "titleKo": "사래와 하갈의 갈등",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-035",
+    "next": "ep-gen-036",
+    "resolvedNext": "ep-gen-036",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 16,
+        "verse": 16
+      },
+      "osis": "GEN.16.7-GEN.16.16"
+    },
+    "titleKo": "하갈과 이스마엘",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-036",
+    "next": "ep-gen-037",
+    "resolvedNext": "ep-gen-037",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 14
+      },
+      "osis": "GEN.17.1-GEN.17.14"
+    },
+    "titleKo": "아브라함과 언약의 표",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-037",
+    "next": "ep-gen-038",
+    "resolvedNext": "ep-gen-038",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 17,
+        "verse": 27
+      },
+      "osis": "GEN.17.15-GEN.17.27"
+    },
+    "titleKo": "사라의 이름과 이삭의 약속",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-038",
+    "next": "ep-gen-039",
+    "resolvedNext": "ep-gen-039",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 15
+      },
+      "osis": "GEN.18.1-GEN.18.15"
+    },
+    "titleKo": "마므레의 방문객",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-039",
+    "next": "ep-gen-040",
+    "resolvedNext": "ep-gen-040",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 18,
+        "verse": 33
+      },
+      "osis": "GEN.18.16-GEN.18.33"
+    },
+    "titleKo": "소돔을 위한 중보",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-040",
+    "next": "ep-gen-041",
+    "resolvedNext": "ep-gen-041",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 11
+      },
+      "osis": "GEN.19.1-GEN.19.11"
+    },
+    "titleKo": "롯의 집에 온 방문객",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-041",
+    "next": "ep-gen-042",
+    "resolvedNext": "ep-gen-042",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 22
+      },
+      "osis": "GEN.19.12-GEN.19.22"
+    },
+    "titleKo": "롯 가족의 탈출",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-042",
+    "next": "ep-gen-043",
+    "resolvedNext": "ep-gen-043",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 23
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 29
+      },
+      "osis": "GEN.19.23-GEN.19.29"
+    },
+    "titleKo": "소돔과 고모라의 멸망",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-043",
+    "next": "ep-gen-044",
+    "resolvedNext": "ep-gen-044",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 30
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 19,
+        "verse": 38
+      },
+      "osis": "GEN.19.30-GEN.19.38"
+    },
+    "titleKo": "롯과 두 딸의 후일담",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-044",
+    "next": "ep-gen-045",
+    "resolvedNext": "ep-gen-045",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 7
+      },
+      "osis": "GEN.20.1-GEN.20.7"
+    },
+    "titleKo": "그랄의 아비멜렉",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-045",
+    "next": "ep-gen-046",
+    "resolvedNext": "ep-gen-046",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 20,
+        "verse": 18
+      },
+      "osis": "GEN.20.8-GEN.20.18"
+    },
+    "titleKo": "사라를 돌려보내다",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-046",
+    "next": "ep-gen-047",
+    "resolvedNext": "ep-gen-047",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 7
+      },
+      "osis": "GEN.21.1-GEN.21.7"
+    },
+    "titleKo": "이삭의 탄생",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-047",
+    "next": "ep-gen-048",
+    "resolvedNext": "ep-gen-048",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 21
+      },
+      "osis": "GEN.21.8-GEN.21.21"
+    },
+    "titleKo": "하갈과 이스마엘의 광야",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-048",
+    "next": "ep-gen-049",
+    "resolvedNext": "ep-gen-049",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 21,
+        "verse": 34
+      },
+      "osis": "GEN.21.22-GEN.21.34"
+    },
+    "titleKo": "브엘세바의 우물과 맹세",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-049",
+    "next": "ep-gen-050",
+    "resolvedNext": "ep-gen-050",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 14
+      },
+      "osis": "GEN.22.1-GEN.22.14"
+    },
+    "titleKo": "이삭을 바치라는 시험",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-050",
+    "next": "ep-gen-051",
+    "resolvedNext": "ep-gen-051",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 19
+      },
+      "osis": "GEN.22.15-GEN.22.19"
+    },
+    "titleKo": "약속의 재확인",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-051",
+    "next": "ep-gen-052",
+    "resolvedNext": "ep-gen-052",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 22,
+        "verse": 24
+      },
+      "osis": "GEN.22.20-GEN.22.24"
+    },
+    "titleKo": "나홀 가문의 소식",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-052",
+    "next": "ep-gen-053",
+    "resolvedNext": "ep-gen-053",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 9
+      },
+      "osis": "GEN.23.1-GEN.23.9"
+    },
+    "titleKo": "사라의 죽음과 매장지 청원",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-053",
+    "next": "ep-gen-054",
+    "resolvedNext": "ep-gen-054",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 23,
+        "verse": 20
+      },
+      "osis": "GEN.23.10-GEN.23.20"
+    },
+    "titleKo": "막벨라 굴을 사다",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-054",
+    "next": "ep-gen-055",
+    "resolvedNext": "ep-gen-055",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 9
+      },
+      "osis": "GEN.24.1-GEN.24.9"
+    },
+    "titleKo": "이삭의 결혼을 위한 파송",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-055",
+    "next": "ep-gen-056",
+    "resolvedNext": "ep-gen-056",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 27
+      },
+      "osis": "GEN.24.10-GEN.24.27"
+    },
+    "titleKo": "우물에서 만난 리브가",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-056",
+    "next": "ep-gen-057",
+    "resolvedNext": "ep-gen-057",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 28
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 49
+      },
+      "osis": "GEN.24.28-GEN.24.49"
+    },
+    "titleKo": "집안에 전해진 사명",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-057",
+    "next": "ep-gen-058",
+    "resolvedNext": "ep-gen-058",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 50
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 61
+      },
+      "osis": "GEN.24.50-GEN.24.61"
+    },
+    "titleKo": "리브가의 동의와 떠남",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-058",
+    "next": "ep-gen-059",
+    "resolvedNext": "ep-gen-059",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 62
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 24,
+        "verse": 67
+      },
+      "osis": "GEN.24.62-GEN.24.67"
+    },
+    "titleKo": "이삭과 리브가의 만남",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-059",
+    "next": "ep-gen-060",
+    "resolvedNext": "ep-gen-060",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 6
+      },
+      "osis": "GEN.25.1-GEN.25.6"
+    },
+    "titleKo": "그두라와 후손의 계보",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-060",
+    "next": "ep-gen-061",
+    "resolvedNext": "ep-gen-061",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 11
+      },
+      "osis": "GEN.25.7-GEN.25.11"
+    },
+    "titleKo": "아브라함의 죽음과 장례",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-061",
+    "next": "ep-gen-062",
+    "resolvedNext": "ep-gen-062",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 18
+      },
+      "osis": "GEN.25.12-GEN.25.18"
+    },
+    "titleKo": "이스마엘의 열두 족장",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-062",
+    "next": "ep-gen-063",
+    "resolvedNext": "ep-gen-063",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 19
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 26
+      },
+      "osis": "GEN.25.19-GEN.25.26"
+    },
+    "titleKo": "에서와 야곱의 탄생",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-063",
+    "next": "handoff-gen-026",
+    "resolvedNext": "ep-gen-064",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 25,
+        "verse": 34
+      },
+      "osis": "GEN.25.27-GEN.25.34"
+    },
+    "titleKo": "장자의 명분 거래",
+    "phase": "S01B"
+  },
+  {
+    "id": "ep-gen-064",
+    "next": "ep-gen-065",
+    "resolvedNext": "ep-gen-065",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 6
+      },
+      "osis": "GEN.26.1-GEN.26.6"
+    },
+    "titleKo": "이삭에게 이어진 약속",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-065",
+    "next": "ep-gen-066",
+    "resolvedNext": "ep-gen-066",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 11
+      },
+      "osis": "GEN.26.7-GEN.26.11"
+    },
+    "titleKo": "리브가를 누이라 말하다",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-066",
+    "next": "ep-gen-067",
+    "resolvedNext": "ep-gen-067",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 17
+      },
+      "osis": "GEN.26.12-GEN.26.17"
+    },
+    "titleKo": "풍요와 시기",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-067",
+    "next": "ep-gen-068",
+    "resolvedNext": "ep-gen-068",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 22
+      },
+      "osis": "GEN.26.18-GEN.26.22"
+    },
+    "titleKo": "에섹·싯나·르호봇",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-068",
+    "next": "ep-gen-069",
+    "resolvedNext": "ep-gen-069",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 23
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 25
+      },
+      "osis": "GEN.26.23-GEN.26.25"
+    },
+    "titleKo": "브엘세바의 제단",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-069",
+    "next": "ep-gen-070",
+    "resolvedNext": "ep-gen-070",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 33
+      },
+      "osis": "GEN.26.26-GEN.26.33"
+    },
+    "titleKo": "아비멜렉과 언약",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-070",
+    "next": "ep-gen-071",
+    "resolvedNext": "ep-gen-071",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 34
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 26,
+        "verse": 35
+      },
+      "osis": "GEN.26.34-GEN.26.35"
+    },
+    "titleKo": "에서의 혼인",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-071",
+    "next": "ep-gen-072",
+    "resolvedNext": "ep-gen-072",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 4
+      },
+      "osis": "GEN.27.1-GEN.27.4"
+    },
+    "titleKo": "맏아들을 부른 이삭",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-072",
+    "next": "ep-gen-073",
+    "resolvedNext": "ep-gen-073",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 5
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 17
+      },
+      "osis": "GEN.27.5-GEN.27.17"
+    },
+    "titleKo": "리브가와 야곱의 계획",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-073",
+    "next": "ep-gen-074",
+    "resolvedNext": "ep-gen-074",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 29
+      },
+      "osis": "GEN.27.18-GEN.27.29"
+    },
+    "titleKo": "야곱이 받은 축복",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-074",
+    "next": "ep-gen-075",
+    "resolvedNext": "ep-gen-075",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 30
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 40
+      },
+      "osis": "GEN.27.30-GEN.27.40"
+    },
+    "titleKo": "에서의 눈물",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-075",
+    "next": "ep-gen-076",
+    "resolvedNext": "ep-gen-076",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 41
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 27,
+        "verse": 46
+      },
+      "osis": "GEN.27.41-GEN.27.46"
+    },
+    "titleKo": "형제 사이의 위기",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-076",
+    "next": "ep-gen-077",
+    "resolvedNext": "ep-gen-077",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 9
+      },
+      "osis": "GEN.28.1-GEN.28.9"
+    },
+    "titleKo": "고향을 떠나는 야곱",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-077",
+    "next": "ep-gen-078",
+    "resolvedNext": "ep-gen-078",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 10
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 17
+      },
+      "osis": "GEN.28.10-GEN.28.17"
+    },
+    "titleKo": "벧엘의 꿈",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-078",
+    "next": "ep-gen-079",
+    "resolvedNext": "ep-gen-079",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 28,
+        "verse": 22
+      },
+      "osis": "GEN.28.18-GEN.28.22"
+    },
+    "titleKo": "벧엘의 기둥과 서원",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-079",
+    "next": "ep-gen-080",
+    "resolvedNext": "ep-gen-080",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 14
+      },
+      "osis": "GEN.29.1-GEN.29.14"
+    },
+    "titleKo": "우물가의 라헬",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-080",
+    "next": "ep-gen-081",
+    "resolvedNext": "ep-gen-081",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 20
+      },
+      "osis": "GEN.29.15-GEN.29.20"
+    },
+    "titleKo": "칠 년의 수고",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-081",
+    "next": "ep-gen-082",
+    "resolvedNext": "ep-gen-082",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 30
+      },
+      "osis": "GEN.29.21-GEN.29.30"
+    },
+    "titleKo": "혼인의 속임과 두 아내",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-082",
+    "next": "ep-gen-083",
+    "resolvedNext": "ep-gen-083",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 31
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 29,
+        "verse": 35
+      },
+      "osis": "GEN.29.31-GEN.29.35"
+    },
+    "titleKo": "레아의 네 아들",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-083",
+    "next": "ep-gen-084",
+    "resolvedNext": "ep-gen-084",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 8
+      },
+      "osis": "GEN.30.1-GEN.30.8"
+    },
+    "titleKo": "라헬과 빌하",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-084",
+    "next": "ep-gen-085",
+    "resolvedNext": "ep-gen-085",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 13
+      },
+      "osis": "GEN.30.9-GEN.30.13"
+    },
+    "titleKo": "레아와 실바",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-085",
+    "next": "ep-gen-086",
+    "resolvedNext": "ep-gen-086",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 21
+      },
+      "osis": "GEN.30.14-GEN.30.21"
+    },
+    "titleKo": "합환채와 가족의 확장",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-086",
+    "next": "ep-gen-087",
+    "resolvedNext": "ep-gen-087",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 24
+      },
+      "osis": "GEN.30.22-GEN.30.24"
+    },
+    "titleKo": "요셉의 탄생",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-087",
+    "next": "ep-gen-088",
+    "resolvedNext": "ep-gen-088",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 25
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 36
+      },
+      "osis": "GEN.30.25-GEN.30.36"
+    },
+    "titleKo": "고향으로 돌아갈 때",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-088",
+    "next": "ep-gen-089",
+    "resolvedNext": "ep-gen-089",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 37
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 30,
+        "verse": 43
+      },
+      "osis": "GEN.30.37-GEN.30.43"
+    },
+    "titleKo": "가축 번식 이야기",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-089",
+    "next": "ep-gen-090",
+    "resolvedNext": "ep-gen-090",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 16
+      },
+      "osis": "GEN.31.1-GEN.31.16"
+    },
+    "titleKo": "떠날 결심",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-090",
+    "next": "ep-gen-091",
+    "resolvedNext": "ep-gen-091",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 21
+      },
+      "osis": "GEN.31.17-GEN.31.21"
+    },
+    "titleKo": "라반의 집을 떠나다",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-091",
+    "next": "ep-gen-092",
+    "resolvedNext": "ep-gen-092",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 35
+      },
+      "osis": "GEN.31.22-GEN.31.35"
+    },
+    "titleKo": "추격과 수색",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-092",
+    "next": "ep-gen-093",
+    "resolvedNext": "ep-gen-093",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 36
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 42
+      },
+      "osis": "GEN.31.36-GEN.31.42"
+    },
+    "titleKo": "야곱의 항변",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-093",
+    "next": "ep-gen-094",
+    "resolvedNext": "ep-gen-094",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 43
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 31,
+        "verse": 55
+      },
+      "osis": "GEN.31.43-GEN.31.55"
+    },
+    "titleKo": "언약의 돌무더기",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-094",
+    "next": "ep-gen-095",
+    "resolvedNext": "ep-gen-095",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 8
+      },
+      "osis": "GEN.32.1-GEN.32.8"
+    },
+    "titleKo": "마하나임과 형 에서의 소식",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-095",
+    "next": "ep-gen-096",
+    "resolvedNext": "ep-gen-096",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 12
+      },
+      "osis": "GEN.32.9-GEN.32.12"
+    },
+    "titleKo": "두려움 속의 기도",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-096",
+    "next": "ep-gen-097",
+    "resolvedNext": "ep-gen-097",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 21
+      },
+      "osis": "GEN.32.13-GEN.32.21"
+    },
+    "titleKo": "화해를 위한 예물",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-097",
+    "next": "ep-gen-098",
+    "resolvedNext": "ep-gen-098",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 32,
+        "verse": 32
+      },
+      "osis": "GEN.32.22-GEN.32.32"
+    },
+    "titleKo": "얍복강의 밤과 이스라엘",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-098",
+    "next": "ep-gen-099",
+    "resolvedNext": "ep-gen-099",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 11
+      },
+      "osis": "GEN.33.1-GEN.33.11"
+    },
+    "titleKo": "형제의 재회",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-099",
+    "next": "ep-gen-100",
+    "resolvedNext": "ep-gen-100",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 17
+      },
+      "osis": "GEN.33.12-GEN.33.17"
+    },
+    "titleKo": "에돔으로 가는 길과 숙곳",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-100",
+    "next": "ep-gen-101",
+    "resolvedNext": "ep-gen-101",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 33,
+        "verse": 20
+      },
+      "osis": "GEN.33.18-GEN.33.20"
+    },
+    "titleKo": "세겜에 자리 잡다",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-101",
+    "next": "ep-gen-102",
+    "resolvedNext": "ep-gen-102",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 7
+      },
+      "osis": "GEN.34.1-GEN.34.7"
+    },
+    "titleKo": "디나에게 일어난 폭력",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-102",
+    "next": "ep-gen-103",
+    "resolvedNext": "ep-gen-103",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 17
+      },
+      "osis": "GEN.34.8-GEN.34.17"
+    },
+    "titleKo": "혼인 제안과 조건",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-103",
+    "next": "ep-gen-104",
+    "resolvedNext": "ep-gen-104",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 24
+      },
+      "osis": "GEN.34.18-GEN.34.24"
+    },
+    "titleKo": "세겜의 성문 합의",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-104",
+    "next": "ep-gen-105",
+    "resolvedNext": "ep-gen-105",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 25
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 34,
+        "verse": 31
+      },
+      "osis": "GEN.34.25-GEN.34.31"
+    },
+    "titleKo": "시므온과 레위의 보복",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-105",
+    "next": "ep-gen-106",
+    "resolvedNext": "ep-gen-106",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 8
+      },
+      "osis": "GEN.35.1-GEN.35.8"
+    },
+    "titleKo": "벧엘로 돌아가다",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-106",
+    "next": "ep-gen-107",
+    "resolvedNext": "ep-gen-107",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 15
+      },
+      "osis": "GEN.35.9-GEN.35.15"
+    },
+    "titleKo": "이스라엘이라는 이름의 재확인",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-107",
+    "next": "ep-gen-108",
+    "resolvedNext": "ep-gen-108",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 20
+      },
+      "osis": "GEN.35.16-GEN.35.20"
+    },
+    "titleKo": "베냐민의 탄생과 라헬의 죽음",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-108",
+    "next": "ep-gen-109",
+    "resolvedNext": "ep-gen-109",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 26
+      },
+      "osis": "GEN.35.21-GEN.35.26"
+    },
+    "titleKo": "열두 아들의 명단",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-109",
+    "next": "ep-gen-110",
+    "resolvedNext": "ep-gen-110",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 35,
+        "verse": 29
+      },
+      "osis": "GEN.35.27-GEN.35.29"
+    },
+    "titleKo": "이삭의 죽음",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-110",
+    "next": "ep-gen-111",
+    "resolvedNext": "ep-gen-111",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 8
+      },
+      "osis": "GEN.36.1-GEN.36.8"
+    },
+    "titleKo": "에서의 가정과 세일 이주",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-111",
+    "next": "ep-gen-112",
+    "resolvedNext": "ep-gen-112",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 14
+      },
+      "osis": "GEN.36.9-GEN.36.14"
+    },
+    "titleKo": "에서의 자손",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-112",
+    "next": "ep-gen-113",
+    "resolvedNext": "ep-gen-113",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 19
+      },
+      "osis": "GEN.36.15-GEN.36.19"
+    },
+    "titleKo": "에돔의 족장들",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-113",
+    "next": "ep-gen-114",
+    "resolvedNext": "ep-gen-114",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 30
+      },
+      "osis": "GEN.36.20-GEN.36.30"
+    },
+    "titleKo": "세일 원주민 호리 족속",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-114",
+    "next": "ep-gen-115",
+    "resolvedNext": "ep-gen-115",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 31
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 39
+      },
+      "osis": "GEN.36.31-GEN.36.39"
+    },
+    "titleKo": "이스라엘 왕 이전 에돔 왕 목록",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-115",
+    "next": "handoff-gen-037",
+    "resolvedNext": "ep-gen-116",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 40
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 36,
+        "verse": 43
+      },
+      "osis": "GEN.36.40-GEN.36.43"
+    },
+    "titleKo": "에돔의 거주지와 족장",
+    "phase": "S01C"
+  },
+  {
+    "id": "ep-gen-116",
+    "next": "ep-gen-117",
+    "resolvedNext": "ep-gen-117",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 4
+      },
+      "osis": "GEN.37.1-GEN.37.4"
+    },
+    "titleKo": "편애와 형제 갈등",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-117",
+    "next": "ep-gen-118",
+    "resolvedNext": "ep-gen-118",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 5
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 11
+      },
+      "osis": "GEN.37.5-GEN.37.11"
+    },
+    "titleKo": "두 꿈과 형제들의 반응",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-118",
+    "next": "ep-gen-119",
+    "resolvedNext": "ep-gen-119",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 17
+      },
+      "osis": "GEN.37.12-GEN.37.17"
+    },
+    "titleKo": "형들을 찾아가는 길",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-119",
+    "next": "ep-gen-120",
+    "resolvedNext": "ep-gen-120",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 28
+      },
+      "osis": "GEN.37.18-GEN.37.28"
+    },
+    "titleKo": "구덩이와 매매",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-120",
+    "next": "ep-gen-121",
+    "resolvedNext": "ep-gen-121",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 29
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 37,
+        "verse": 36
+      },
+      "osis": "GEN.37.29-GEN.37.36"
+    },
+    "titleKo": "옷으로 속이다",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-121",
+    "next": "ep-gen-122",
+    "resolvedNext": "ep-gen-122",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 11
+      },
+      "osis": "GEN.38.1-GEN.38.11"
+    },
+    "titleKo": "유다의 집과 다말",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-122",
+    "next": "ep-gen-123",
+    "resolvedNext": "ep-gen-123",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 12
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 19
+      },
+      "osis": "GEN.38.12-GEN.38.19"
+    },
+    "titleKo": "다말과 증표",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-123",
+    "next": "ep-gen-124",
+    "resolvedNext": "ep-gen-124",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 23
+      },
+      "osis": "GEN.38.20-GEN.38.23"
+    },
+    "titleKo": "찾지 못한 증표",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-124",
+    "next": "ep-gen-125",
+    "resolvedNext": "ep-gen-125",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 24
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 26
+      },
+      "osis": "GEN.38.24-GEN.38.26"
+    },
+    "titleKo": "다말의 정당함 인정",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-125",
+    "next": "ep-gen-126",
+    "resolvedNext": "ep-gen-126",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 38,
+        "verse": 30
+      },
+      "osis": "GEN.38.27-GEN.38.30"
+    },
+    "titleKo": "베레스와 세라",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-126",
+    "next": "ep-gen-127",
+    "resolvedNext": "ep-gen-127",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 6
+      },
+      "osis": "GEN.39.1-GEN.39.6"
+    },
+    "titleKo": "애굽 집의 요셉",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-127",
+    "next": "ep-gen-128",
+    "resolvedNext": "ep-gen-128",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 12
+      },
+      "osis": "GEN.39.7-GEN.39.12"
+    },
+    "titleKo": "거절과 도망",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-128",
+    "next": "ep-gen-129",
+    "resolvedNext": "ep-gen-129",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 18
+      },
+      "osis": "GEN.39.13-GEN.39.18"
+    },
+    "titleKo": "거짓 고발",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-129",
+    "next": "ep-gen-130",
+    "resolvedNext": "ep-gen-130",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 19
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 39,
+        "verse": 23
+      },
+      "osis": "GEN.39.19-GEN.39.23"
+    },
+    "titleKo": "감옥에서도 계속된 이야기",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-130",
+    "next": "ep-gen-131",
+    "resolvedNext": "ep-gen-131",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 8
+      },
+      "osis": "GEN.40.1-GEN.40.8"
+    },
+    "titleKo": "두 관원의 꿈",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-131",
+    "next": "ep-gen-132",
+    "resolvedNext": "ep-gen-132",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 15
+      },
+      "osis": "GEN.40.9-GEN.40.15"
+    },
+    "titleKo": "술 맡은 관원장의 꿈",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-132",
+    "next": "ep-gen-133",
+    "resolvedNext": "ep-gen-133",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 19
+      },
+      "osis": "GEN.40.16-GEN.40.19"
+    },
+    "titleKo": "떡 굽는 관원장의 꿈",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-133",
+    "next": "ep-gen-134",
+    "resolvedNext": "ep-gen-134",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 20
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 40,
+        "verse": 23
+      },
+      "osis": "GEN.40.20-GEN.40.23"
+    },
+    "titleKo": "엇갈린 결과와 잊힌 요셉",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-134",
+    "next": "ep-gen-135",
+    "resolvedNext": "ep-gen-135",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 8
+      },
+      "osis": "GEN.41.1-GEN.41.8"
+    },
+    "titleKo": "바로의 두 꿈",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-135",
+    "next": "ep-gen-136",
+    "resolvedNext": "ep-gen-136",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 16
+      },
+      "osis": "GEN.41.9-GEN.41.16"
+    },
+    "titleKo": "기억나는 요셉",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-136",
+    "next": "ep-gen-137",
+    "resolvedNext": "ep-gen-137",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 32
+      },
+      "osis": "GEN.41.17-GEN.41.32"
+    },
+    "titleKo": "풍년과 흉년의 예고",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-137",
+    "next": "ep-gen-138",
+    "resolvedNext": "ep-gen-138",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 33
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 40
+      },
+      "osis": "GEN.41.33-GEN.41.40"
+    },
+    "titleKo": "식량 관리 제안",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-138",
+    "next": "ep-gen-139",
+    "resolvedNext": "ep-gen-139",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 41
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 45
+      },
+      "osis": "GEN.41.41-GEN.41.45"
+    },
+    "titleKo": "왕의 권한을 받은 요셉",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-139",
+    "next": "ep-gen-140",
+    "resolvedNext": "ep-gen-140",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 46
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 52
+      },
+      "osis": "GEN.41.46-GEN.41.52"
+    },
+    "titleKo": "저장과 두 아들",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-140",
+    "next": "ep-gen-141",
+    "resolvedNext": "ep-gen-141",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 53
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 41,
+        "verse": 57
+      },
+      "osis": "GEN.41.53-GEN.41.57"
+    },
+    "titleKo": "흉년 시작과 곡식 배급",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-141",
+    "next": "ep-gen-142",
+    "resolvedNext": "ep-gen-142",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 5
+      },
+      "osis": "GEN.42.1-GEN.42.5"
+    },
+    "titleKo": "형제들의 첫 애굽행",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-142",
+    "next": "ep-gen-143",
+    "resolvedNext": "ep-gen-143",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 6
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 17
+      },
+      "osis": "GEN.42.6-GEN.42.17"
+    },
+    "titleKo": "알아보지 못하는 형제들",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-143",
+    "next": "ep-gen-144",
+    "resolvedNext": "ep-gen-144",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 25
+      },
+      "osis": "GEN.42.18-GEN.42.25"
+    },
+    "titleKo": "시므온이 남다",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-144",
+    "next": "ep-gen-145",
+    "resolvedNext": "ep-gen-145",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 28
+      },
+      "osis": "GEN.42.26-GEN.42.28"
+    },
+    "titleKo": "되돌아온 돈",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-145",
+    "next": "ep-gen-146",
+    "resolvedNext": "ep-gen-146",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 29
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 42,
+        "verse": 38
+      },
+      "osis": "GEN.42.29-GEN.42.38"
+    },
+    "titleKo": "야곱의 두려움",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-146",
+    "next": "ep-gen-147",
+    "resolvedNext": "ep-gen-147",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 10
+      },
+      "osis": "GEN.43.1-GEN.43.10"
+    },
+    "titleKo": "유다의 책임 선언",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-147",
+    "next": "ep-gen-148",
+    "resolvedNext": "ep-gen-148",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 11
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 15
+      },
+      "osis": "GEN.43.11-GEN.43.15"
+    },
+    "titleKo": "예물과 두 번째 여정",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-148",
+    "next": "ep-gen-149",
+    "resolvedNext": "ep-gen-149",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 25
+      },
+      "osis": "GEN.43.16-GEN.43.25"
+    },
+    "titleKo": "요셉의 집으로",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-149",
+    "next": "ep-gen-150",
+    "resolvedNext": "ep-gen-150",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 26
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 43,
+        "verse": 34
+      },
+      "osis": "GEN.43.26-GEN.43.34"
+    },
+    "titleKo": "형제들의 식탁",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-150",
+    "next": "ep-gen-151",
+    "resolvedNext": "ep-gen-151",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 5
+      },
+      "osis": "GEN.44.1-GEN.44.5"
+    },
+    "titleKo": "은잔의 시험",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-151",
+    "next": "ep-gen-152",
+    "resolvedNext": "ep-gen-152",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 6
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 13
+      },
+      "osis": "GEN.44.6-GEN.44.13"
+    },
+    "titleKo": "은잔 발견",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-152",
+    "next": "ep-gen-153",
+    "resolvedNext": "ep-gen-153",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 14
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 17
+      },
+      "osis": "GEN.44.14-GEN.44.17"
+    },
+    "titleKo": "판결 앞의 형제들",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-153",
+    "next": "ep-gen-154",
+    "resolvedNext": "ep-gen-154",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 18
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 44,
+        "verse": 34
+      },
+      "osis": "GEN.44.18-GEN.44.34"
+    },
+    "titleKo": "유다의 긴 변론",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-154",
+    "next": "ep-gen-155",
+    "resolvedNext": "ep-gen-155",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 8
+      },
+      "osis": "GEN.45.1-GEN.45.8"
+    },
+    "titleKo": "요셉의 정체 공개",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-155",
+    "next": "ep-gen-156",
+    "resolvedNext": "ep-gen-156",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 9
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 15
+      },
+      "osis": "GEN.45.9-GEN.45.15"
+    },
+    "titleKo": "아버지를 부르다",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-156",
+    "next": "ep-gen-157",
+    "resolvedNext": "ep-gen-157",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 16
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 20
+      },
+      "osis": "GEN.45.16-GEN.45.20"
+    },
+    "titleKo": "바로의 지원",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-157",
+    "next": "ep-gen-158",
+    "resolvedNext": "ep-gen-158",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 45,
+        "verse": 28
+      },
+      "osis": "GEN.45.21-GEN.45.28"
+    },
+    "titleKo": "야곱에게 전한 소식",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-158",
+    "next": "ep-gen-159",
+    "resolvedNext": "ep-gen-159",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 7
+      },
+      "osis": "GEN.46.1-GEN.46.7"
+    },
+    "titleKo": "브엘세바에서 애굽으로",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-159",
+    "next": "ep-gen-160",
+    "resolvedNext": "ep-gen-160",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 27
+      },
+      "osis": "GEN.46.8-GEN.46.27"
+    },
+    "titleKo": "내려간 가족의 명단",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-160",
+    "next": "ep-gen-161",
+    "resolvedNext": "ep-gen-161",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 28
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 30
+      },
+      "osis": "GEN.46.28-GEN.46.30"
+    },
+    "titleKo": "고센에서 재회",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-161",
+    "next": "ep-gen-162",
+    "resolvedNext": "ep-gen-162",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 31
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 46,
+        "verse": 34
+      },
+      "osis": "GEN.46.31-GEN.46.34"
+    },
+    "titleKo": "목축업을 소개하다",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-162",
+    "next": "ep-gen-163",
+    "resolvedNext": "ep-gen-163",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 6
+      },
+      "osis": "GEN.47.1-GEN.47.6"
+    },
+    "titleKo": "바로 앞의 형제들",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-163",
+    "next": "ep-gen-164",
+    "resolvedNext": "ep-gen-164",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 7
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 12
+      },
+      "osis": "GEN.47.7-GEN.47.12"
+    },
+    "titleKo": "야곱과 바로의 만남",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-164",
+    "next": "ep-gen-165",
+    "resolvedNext": "ep-gen-165",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 22
+      },
+      "osis": "GEN.47.13-GEN.47.22"
+    },
+    "titleKo": "기근 아래 애굽의 토지",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-165",
+    "next": "ep-gen-166",
+    "resolvedNext": "ep-gen-166",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 23
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 26
+      },
+      "osis": "GEN.47.23-GEN.47.26"
+    },
+    "titleKo": "농지와 오분의 일",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-166",
+    "next": "ep-gen-167",
+    "resolvedNext": "ep-gen-167",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 27
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 47,
+        "verse": 31
+      },
+      "osis": "GEN.47.27-GEN.47.31"
+    },
+    "titleKo": "야곱의 마지막 부탁",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-167",
+    "next": "ep-gen-168",
+    "resolvedNext": "ep-gen-168",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 7
+      },
+      "osis": "GEN.48.1-GEN.48.7"
+    },
+    "titleKo": "요셉의 아들을 데려오다",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-168",
+    "next": "ep-gen-169",
+    "resolvedNext": "ep-gen-169",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 8
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 16
+      },
+      "osis": "GEN.48.8-GEN.48.16"
+    },
+    "titleKo": "손을 교차해 축복",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-169",
+    "next": "ep-gen-170",
+    "resolvedNext": "ep-gen-170",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 17
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 20
+      },
+      "osis": "GEN.48.17-GEN.48.20"
+    },
+    "titleKo": "요셉의 반응과 야곱의 뜻",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-170",
+    "next": "ep-gen-171",
+    "resolvedNext": "ep-gen-171",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 21
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 48,
+        "verse": 22
+      },
+      "osis": "GEN.48.21-GEN.48.22"
+    },
+    "titleKo": "땅을 향한 유언",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-171",
+    "next": "ep-gen-172",
+    "resolvedNext": "ep-gen-172",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 4
+      },
+      "osis": "GEN.49.1-GEN.49.4"
+    },
+    "titleKo": "장자 르우벤의 자리",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-172",
+    "next": "ep-gen-173",
+    "resolvedNext": "ep-gen-173",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 5
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 12
+      },
+      "osis": "GEN.49.5-GEN.49.12"
+    },
+    "titleKo": "시므온·레위·유다",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-173",
+    "next": "ep-gen-174",
+    "resolvedNext": "ep-gen-174",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 13
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 21
+      },
+      "osis": "GEN.49.13-GEN.49.21"
+    },
+    "titleKo": "여러 아들의 축복 시어",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-174",
+    "next": "ep-gen-175",
+    "resolvedNext": "ep-gen-175",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 28
+      },
+      "osis": "GEN.49.22-GEN.49.28"
+    },
+    "titleKo": "요셉과 베냐민",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-175",
+    "next": "ep-gen-176",
+    "resolvedNext": "ep-gen-176",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 29
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 49,
+        "verse": 33
+      },
+      "osis": "GEN.49.29-GEN.49.33"
+    },
+    "titleKo": "매장 지시와 야곱의 죽음",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-176",
+    "next": "ep-gen-177",
+    "resolvedNext": "ep-gen-177",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 1
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 14
+      },
+      "osis": "GEN.50.1-GEN.50.14"
+    },
+    "titleKo": "가나안에서 야곱의 장례",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-177",
+    "next": "ep-gen-178",
+    "resolvedNext": "ep-gen-178",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 15
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 21
+      },
+      "osis": "GEN.50.15-GEN.50.21"
+    },
+    "titleKo": "형제들의 두려움과 용서",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-178",
+    "next": "ep-gen-179",
+    "resolvedNext": "ep-gen-179",
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 22
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 23
+      },
+      "osis": "GEN.50.22-GEN.50.23"
+    },
+    "titleKo": "요셉의 후손",
+    "phase": "S01D"
+  },
+  {
+    "id": "ep-gen-179",
+    "next": "handoff-exo-001",
+    "resolvedNext": null,
+    "passage": {
+      "start": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 24
+      },
+      "end": {
+        "bookId": "GEN",
+        "chapter": 50,
+        "verse": 26
+      },
+      "osis": "GEN.50.24-GEN.50.26"
+    },
+    "titleKo": "요셉의 죽음과 출애굽의 예고",
+    "phase": "S01D"
+  }
+]

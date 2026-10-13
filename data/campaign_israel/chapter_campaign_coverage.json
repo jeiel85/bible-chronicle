@@ -1,0 +1,6947 @@
+[
+  {
+    "bookId": "GEN",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0001"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0001"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0002"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0003"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0004"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0004"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0005"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0005"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0005"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0006"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0006"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0008"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0009"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0010"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0011"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0012"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0013"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0014"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0014"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0015"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0016"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0017"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0018"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0019"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0020"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0021"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0022"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0022"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0023"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0023"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0024"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0024"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0024"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0025"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0026"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0027"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 37,
+    "linkedCampaignEventIds": [
+      "isl-0028"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 38,
+    "linkedCampaignEventIds": [
+      "isl-0029"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 39,
+    "linkedCampaignEventIds": [
+      "isl-0030"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 40,
+    "linkedCampaignEventIds": [
+      "isl-0030"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 41,
+    "linkedCampaignEventIds": [
+      "isl-0031"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 42,
+    "linkedCampaignEventIds": [
+      "isl-0032"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 43,
+    "linkedCampaignEventIds": [
+      "isl-0033"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 44,
+    "linkedCampaignEventIds": [
+      "isl-0033"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 45,
+    "linkedCampaignEventIds": [
+      "isl-0034"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 46,
+    "linkedCampaignEventIds": [
+      "isl-0035"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 47,
+    "linkedCampaignEventIds": [
+      "isl-0035"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 48,
+    "linkedCampaignEventIds": [
+      "isl-0036"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 49,
+    "linkedCampaignEventIds": [
+      "isl-0037"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "GEN",
+    "chapter": 50,
+    "linkedCampaignEventIds": [
+      "isl-0038"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0039"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0039"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0040"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0040"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0041"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0041"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0042"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0042"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0042"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0042"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0042"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0043"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0043"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0044"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0044"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0045"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0046"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0047"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0048"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0048"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0049"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0049"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0049"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0049"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0051"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0051"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0051"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0052"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0052"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 37,
+    "linkedCampaignEventIds": [
+      "isl-0052"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 38,
+    "linkedCampaignEventIds": [
+      "isl-0052"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 39,
+    "linkedCampaignEventIds": [
+      "isl-0052"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EXO",
+    "chapter": 40,
+    "linkedCampaignEventIds": [
+      "isl-0052"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0050"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0053"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0053"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0053"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LEV",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0054"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0055"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0055"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0055"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0055"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0056"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0056"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0056"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0056"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0056"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0057"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0057"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0057"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0058"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0058"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0059"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0059"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0059"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0060"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0060"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0060"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0061"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0062"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0062"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0062"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0063"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0063"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0063"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0064"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0064"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0064"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0064"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0065"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0065"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0066"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0066"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NUM",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0066"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0067"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0067"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0067"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0067"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0067"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0068"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0068"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0068"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0068"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0068"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0068"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0069"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0070"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0070"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0070"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0070"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0071"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0071"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0072"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DEU",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0072"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0073"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0073"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0074"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0074"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0074"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0075"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0076"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0076"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0077"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0077"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0078"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0078"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0079"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0080"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0080"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0081"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0082"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOS",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0082"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0083"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0083"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0084"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0085"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0085"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0086"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0086"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0086"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0087"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0088"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0089"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0089",
+      "isl-0090"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0091"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0091"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0091"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0091"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0092"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0092"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0093"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0093"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JDG",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0093"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "RUT",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0094"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "RUT",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0094"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "RUT",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0094"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "RUT",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0094"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0095"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0095"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0095"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0096"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0096"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0096"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0096"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0097"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0098"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0098"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0098"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0098"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0099"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0099"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0099"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0100"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0101"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0102"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0102"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0102"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0103"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0103"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0103"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0104"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0105"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0104"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0106"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0106"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0106"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0107"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1SA",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0107"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0108"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0108"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0109"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0109"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0109",
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0111"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0112"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0112"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0112"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0113"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0113"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0114"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0114"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0114"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0115"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0115"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0115"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0115"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0116"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0116"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0116"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0116"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2SA",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0117"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0119"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0119"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0120"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0120"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0122"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0122"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0123"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0124",
+      "isl-0125"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0125"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0126",
+      "isl-0127"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0128",
+      "isl-0129"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0129",
+      "isl-0130",
+      "isl-0131",
+      "isl-0133"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0134"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0135"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0136"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0137"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0138"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1KI",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0132",
+      "isl-0139"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0140"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0142"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0143"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0144"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0145"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0146"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0146"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0147"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0148"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0148"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0149"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0150"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0151",
+      "isl-0152"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0153",
+      "isl-0154"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0158",
+      "isl-0159",
+      "isl-0160"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0162",
+      "isl-0167"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0163",
+      "isl-0164",
+      "isl-0165",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0168",
+      "isl-0169",
+      "isl-0170"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0170"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0171"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0174",
+      "isl-0175",
+      "isl-0176",
+      "isl-0178"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0179",
+      "isl-0180",
+      "isl-0181"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0179",
+      "isl-0182",
+      "isl-0184",
+      "isl-0187",
+      "isl-0188"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0188",
+      "isl-0193",
+      "isl-0194"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2KI",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0195",
+      "isl-0196",
+      "isl-0197",
+      "isl-0198",
+      "isl-0199",
+      "isl-0200",
+      "isl-0210"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0007"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0107"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0110"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0111"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0112"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0112"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0112"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0117"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "1CH",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0118"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0120"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0121"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0122"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0122"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0124"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0124"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0127"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0128"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0128"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0128"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0128"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0132"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0132",
+      "isl-0139"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0132"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0132"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0141"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0149"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0149"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0150"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0153"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0158"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0158"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0162",
+      "isl-0167"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0168"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0168"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0168"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0169"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0174",
+      "isl-0175",
+      "isl-0177",
+      "isl-0178"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0179",
+      "isl-0180",
+      "isl-0181"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0182",
+      "isl-0184"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "2CH",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0187",
+      "isl-0188",
+      "isl-0193",
+      "isl-0196",
+      "isl-0211"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0161"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0161"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0161"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0161"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0161"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0161"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0162"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0162"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0169",
+      "isl-0170",
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 37,
+    "linkedCampaignEventIds": [
+      "isl-0170",
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 38,
+    "linkedCampaignEventIds": [
+      "isl-0171",
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 39,
+    "linkedCampaignEventIds": [
+      "isl-0171",
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 40,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 41,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 42,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 43,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 44,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 45,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 46,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 47,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 48,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 49,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 50,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 51,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 52,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 53,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 54,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 55,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 56,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 57,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 58,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 59,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 60,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 61,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 62,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 63,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 64,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 65,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ISA",
+    "chapter": 66,
+    "linkedCampaignEventIds": [
+      "isl-0172"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0189"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0193",
+      "isl-0194"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0193",
+      "isl-0194"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0193",
+      "isl-0194"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0202"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0202"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0202"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0202"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0195"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0195"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0190",
+      "isl-0195"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 37,
+    "linkedCampaignEventIds": [
+      "isl-0195"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 38,
+    "linkedCampaignEventIds": [
+      "isl-0195"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 39,
+    "linkedCampaignEventIds": [
+      "isl-0195",
+      "isl-0196",
+      "isl-0197"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 40,
+    "linkedCampaignEventIds": [
+      "isl-0199"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 41,
+    "linkedCampaignEventIds": [
+      "isl-0200"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 42,
+    "linkedCampaignEventIds": [
+      "isl-0200"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 43,
+    "linkedCampaignEventIds": [
+      "isl-0200"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 44,
+    "linkedCampaignEventIds": [
+      "isl-0200"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 45,
+    "linkedCampaignEventIds": [
+      "isl-0191"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 46,
+    "linkedCampaignEventIds": [
+      "isl-0192"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 47,
+    "linkedCampaignEventIds": [
+      "isl-0192"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 48,
+    "linkedCampaignEventIds": [
+      "isl-0192"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 49,
+    "linkedCampaignEventIds": [
+      "isl-0192"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 50,
+    "linkedCampaignEventIds": [
+      "isl-0192"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 51,
+    "linkedCampaignEventIds": [
+      "isl-0192"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JER",
+    "chapter": 52,
+    "linkedCampaignEventIds": [
+      "isl-0195",
+      "isl-0196",
+      "isl-0198",
+      "isl-0210"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LAM",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0201"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LAM",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0201"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LAM",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0201"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LAM",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0201"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "LAM",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0201"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0203"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 15,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 16,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 17,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 18,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 19,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 20,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 21,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 22,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 23,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 24,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 25,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 26,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 27,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 28,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 29,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 30,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 31,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 32,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 33,
+    "linkedCampaignEventIds": [
+      "isl-0204"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 34,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 35,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 36,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 37,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 38,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 39,
+    "linkedCampaignEventIds": [
+      "isl-0205"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 40,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 41,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 42,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 43,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 44,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 45,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 46,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 47,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZK",
+    "chapter": 48,
+    "linkedCampaignEventIds": [
+      "isl-0206"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0207"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0207"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0207"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0207"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0207"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0207"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0208"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0208"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0208"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0208"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0208"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "DAN",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0208"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HOS",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0156",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOL",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0219"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOL",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0219"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JOL",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0219"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "AMO",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0155",
+      "isl-0166"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "OBA",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0209"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JON",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0157"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JON",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0157"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JON",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0157"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "JON",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0157"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MIC",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0173"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NAM",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0185"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NAM",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0185"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NAM",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0185"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HAB",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0186"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HAB",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0186"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HAB",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0186"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEP",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0183"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEP",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0183"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEP",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0183"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HAG",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "HAG",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "ZEC",
+    "chapter": 14,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MAL",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MAL",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MAL",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "MAL",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0218"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0211"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0212"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0212"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0213"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0214"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0214"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0214"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EZR",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0214"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0215"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0216"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0216"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0216"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 11,
+    "linkedCampaignEventIds": [
+      "isl-0216"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 12,
+    "linkedCampaignEventIds": [
+      "isl-0216"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "NEH",
+    "chapter": 13,
+    "linkedCampaignEventIds": [
+      "isl-0216"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 1,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 2,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 3,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 4,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 5,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 6,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 7,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 8,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 9,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  },
+  {
+    "bookId": "EST",
+    "chapter": 10,
+    "linkedCampaignEventIds": [
+      "isl-0217"
+    ],
+    "coverageKind": "chapter_linked_to_outline",
+    "verseLevelEditorialReview": "pending",
+    "actualLessonAuthored": false
+  }
+]

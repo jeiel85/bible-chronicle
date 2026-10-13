@@ -1,0 +1,194 @@
+[
+  {
+    "ref": "GEN.1.1",
+    "reasonKo": "히브리어 도입절의 구문 분석과 시간절 해석 논쟁",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.1.27",
+    "reasonKo": "하나님의 형상과 성별 표현의 번역·신학적 해석",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.2.5",
+    "reasonKo": "밭의 관목·초목과 물 공급 표현의 번역 논쟁",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.2.6",
+    "reasonKo": "지면을 적신 에드(אד)의 의미와 번역 논쟁",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.3.15",
+    "reasonKo": "여자의 후손·뱀 후손의 해석과 기독교 전통적 해석 구별",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.4.7",
+    "reasonKo": "죄가 문에 엎드린 비유와 히브리어 문법",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.6.2",
+    "reasonKo": "하나님의 아들들과 사람의 딸들에 대한 복수의 해석",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.6.4",
+    "reasonKo": "네피림과 고대 근동 전승의 관계",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.7.11",
+    "reasonKo": "홍수의 지리적·역사적 범위 독립 확인 불가",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.10.25",
+    "reasonKo": "벨렉 시대 땅이 나뉜다는 표현의 범위",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.11.1",
+    "reasonKo": "바벨탑 서사와 10장 민족 계보의 편집상 관계",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.11.9",
+    "reasonKo": "바벨이라는 명칭의 어원적 언어유희",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.12.6",
+    "reasonKo": "가나안 지명과 고대 정착지 좌표의 확정 수준",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.14.14",
+    "reasonKo": "단이라는 지명과 후대 지명 사용 문제",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.15.13",
+    "reasonKo": "사백 년 예고와 역사적 연대 해석",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.16.9",
+    "reasonKo": "하갈에게 돌아가라는 명령의 현대 윤리적 오용 방지",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.18.1",
+    "reasonKo": "마므레 방문자의 정체에 대한 서술·신학 해석 구분",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.19.24",
+    "reasonKo": "소돔 위치·멸망의 고고학적 입증 여부",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.22.2",
+    "reasonKo": "모리아 지명의 후대 동일시·위치 논쟁",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.25.23",
+    "reasonKo": "두 민족에 관한 태중 계시의 역사·문학적 의미",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.27.39",
+    "reasonKo": "에서의 축복에 관한 번역과 전치사 의미",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.32.28",
+    "reasonKo": "이스라엘 이름의 의미와 어원 설명",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.34.2",
+    "reasonKo": "디나의 성폭력과 피해자 관점·표현 연령 제한",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.36.31",
+    "reasonKo": "에돔 왕 명단의 상대연대와 왕권 전승",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.37.28",
+    "reasonKo": "미디안·이스마엘 상인 언급의 서술상 관계",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.38.9",
+    "reasonKo": "오난 사건의 문맥과 후대 성 윤리적 오독 방지",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.41.38",
+    "reasonKo": "바로의 하나님의 영 언급을 당대 이집트 종교사로 직접 환원 금지",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.43.32",
+    "reasonKo": "애굽인과 히브리인의 식사 관습을 전체 시대에 일반화 금지",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.46.27",
+    "reasonKo": "애굽 이주 가족 수 70과 다른 본문 전승(행 7:14 등)의 관계",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.47.21",
+    "reasonKo": "백성 이주 및 종속 표현에서 번역·본문 전승 차이",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.49.10",
+    "reasonKo": "유다의 홀과 실로 표현 번역·왕권·메시아 해석 구분",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  },
+  {
+    "ref": "GEN.50.20",
+    "reasonKo": "섭리 고백과 인간 행위의 도덕 책임 구분",
+    "status": "requires_specific_source_check_or_editorial_review",
+    "expertSignoffMandatory": false
+  }
+]

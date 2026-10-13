@@ -1,0 +1,834 @@
+[
+  {
+    "episodeId": "ep-gen-116",
+    "displayTitleKo": "편애와 형제 갈등",
+    "openingLineKo": "야곱 가족은 가나안에 거주",
+    "finalRevealKo": "특별한 옷과 편애가 형제 갈등을 드러냄",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-116"
+  },
+  {
+    "episodeId": "ep-gen-117",
+    "displayTitleKo": "두 꿈과 형제들의 반응",
+    "openingLineKo": "요셉이 곡식 단의 꿈을 이야기함",
+    "finalRevealKo": "형들은 시기하고 야곱은 그 말을 마음에 둠",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-117"
+  },
+  {
+    "episodeId": "ep-gen-118",
+    "displayTitleKo": "형들을 찾아가는 길",
+    "openingLineKo": "형들이 세겜에서 양을 침",
+    "finalRevealKo": "요셉이 도단으로 향함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-118"
+  },
+  {
+    "episodeId": "ep-gen-119",
+    "displayTitleKo": "구덩이와 매매",
+    "openingLineKo": "형들이 멀리서 요셉을 보고 모의함",
+    "finalRevealKo": "상인들과 요셉의 매매가 이어짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-119"
+  },
+  {
+    "episodeId": "ep-gen-120",
+    "displayTitleKo": "옷으로 속이다",
+    "openingLineKo": "르우벤이 돌아와 요셉을 찾지 못함",
+    "finalRevealKo": "요셉은 애굽으로 팔려감",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-120"
+  },
+  {
+    "episodeId": "ep-gen-121",
+    "displayTitleKo": "유다의 집과 다말",
+    "openingLineKo": "유다가 형제들에게서 떠남",
+    "finalRevealKo": "다말이 아버지 집으로 돌아감",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-121"
+  },
+  {
+    "episodeId": "ep-gen-122",
+    "displayTitleKo": "다말과 증표",
+    "openingLineKo": "시간이 흐르고 유다가 딤나로 향함",
+    "finalRevealKo": "도장·끈·지팡이가 증표로 남음",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-122"
+  },
+  {
+    "episodeId": "ep-gen-123",
+    "displayTitleKo": "찾지 못한 증표",
+    "openingLineKo": "유다가 증표를 돌려받으려 사람을 보냄",
+    "finalRevealKo": "유다는 일을 덮으려 함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-123"
+  },
+  {
+    "episodeId": "ep-gen-124",
+    "displayTitleKo": "다말의 정당함 인정",
+    "openingLineKo": "다말의 임신 소식으로 생명의 위기가 옴",
+    "finalRevealKo": "유다가 자신의 책임을 인정함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-124"
+  },
+  {
+    "episodeId": "ep-gen-125",
+    "displayTitleKo": "베레스와 세라",
+    "openingLineKo": "다말이 쌍둥이를 출산함",
+    "finalRevealKo": "베레스와 세라의 계보가 시작됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-125"
+  },
+  {
+    "episodeId": "ep-gen-126",
+    "displayTitleKo": "애굽 집의 요셉",
+    "openingLineKo": "요셉이 보디발의 집에 들어감",
+    "finalRevealKo": "보디발이 일을 요셉에게 맡김",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-126"
+  },
+  {
+    "episodeId": "ep-gen-127",
+    "displayTitleKo": "거절과 도망",
+    "openingLineKo": "보디발 아내가 요셉을 유혹함",
+    "finalRevealKo": "요셉이 겉옷을 두고 자리를 피함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-127"
+  },
+  {
+    "episodeId": "ep-gen-128",
+    "displayTitleKo": "거짓 고발",
+    "openingLineKo": "보디발의 아내가 옷을 이용하여 주장함",
+    "finalRevealKo": "요셉에게 거짓 혐의가 씌워짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-128"
+  },
+  {
+    "episodeId": "ep-gen-129",
+    "displayTitleKo": "감옥에서도 계속된 이야기",
+    "openingLineKo": "보디발이 말을 듣고 화를 냄",
+    "finalRevealKo": "간수가 일을 요셉에게 맡김",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-129"
+  },
+  {
+    "episodeId": "ep-gen-130",
+    "displayTitleKo": "두 관원의 꿈",
+    "openingLineKo": "술 맡은 관원장과 떡 굽는 관원장이 수감됨",
+    "finalRevealKo": "요셉이 꿈을 듣고자 함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-130"
+  },
+  {
+    "episodeId": "ep-gen-131",
+    "displayTitleKo": "술 맡은 관원장의 꿈",
+    "openingLineKo": "술 맡은 관원장이 포도나무 꿈을 설명함",
+    "finalRevealKo": "요셉이 자신을 기억해 달라 부탁함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-131"
+  },
+  {
+    "episodeId": "ep-gen-132",
+    "displayTitleKo": "떡 굽는 관원장의 꿈",
+    "openingLineKo": "떡 굽는 관원장이 바구니 꿈을 이야기함",
+    "finalRevealKo": "서로 다른 운명이 대비됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-132"
+  },
+  {
+    "episodeId": "ep-gen-133",
+    "displayTitleKo": "엇갈린 결과와 잊힌 요셉",
+    "openingLineKo": "바로 생일에 두 관원의 처지가 결정됨",
+    "finalRevealKo": "그러나 요셉은 기억되지 못함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-133"
+  },
+  {
+    "episodeId": "ep-gen-134",
+    "displayTitleKo": "바로의 두 꿈",
+    "openingLineKo": "이 년이 지나 바로가 나일강과 이삭의 꿈을 꿈",
+    "finalRevealKo": "궁정의 불안이 커짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-134"
+  },
+  {
+    "episodeId": "ep-gen-135",
+    "displayTitleKo": "기억나는 요셉",
+    "openingLineKo": "술 맡은 관원장이 요셉을 떠올림",
+    "finalRevealKo": "요셉이 해석의 공을 하나님께 돌림",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-135"
+  },
+  {
+    "episodeId": "ep-gen-136",
+    "displayTitleKo": "풍년과 흉년의 예고",
+    "openingLineKo": "바로가 두 꿈을 재진술함",
+    "finalRevealKo": "일곱 해 풍년 뒤 일곱 해 흉년이 예고됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-136"
+  },
+  {
+    "episodeId": "ep-gen-137",
+    "displayTitleKo": "식량 관리 제안",
+    "openingLineKo": "요셉이 감독 체계를 제안함",
+    "finalRevealKo": "바로가 요셉을 주요 관리로 세움",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-137"
+  },
+  {
+    "episodeId": "ep-gen-138",
+    "displayTitleKo": "왕의 권한을 받은 요셉",
+    "openingLineKo": "바로가 반지를 주고 옷을 입힘",
+    "finalRevealKo": "요셉의 애굽 이름과 결혼 이야기가 나옴",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-138"
+  },
+  {
+    "episodeId": "ep-gen-139",
+    "displayTitleKo": "저장과 두 아들",
+    "openingLineKo": "요셉이 서른 살에 바로 앞에 섬",
+    "finalRevealKo": "므낫세와 에브라임이 태어남",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-139"
+  },
+  {
+    "episodeId": "ep-gen-140",
+    "displayTitleKo": "흉년 시작과 곡식 배급",
+    "openingLineKo": "풍년 일곱 해가 끝남",
+    "finalRevealKo": "사람들이 요셉에게 곡식을 구함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-140"
+  },
+  {
+    "episodeId": "ep-gen-141",
+    "displayTitleKo": "형제들의 첫 애굽행",
+    "openingLineKo": "가나안에 먹을 것이 부족해짐",
+    "finalRevealKo": "베냐민은 함께 보내지 않음",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-141"
+  },
+  {
+    "episodeId": "ep-gen-142",
+    "displayTitleKo": "알아보지 못하는 형제들",
+    "openingLineKo": "형들은 요셉 앞에 절함",
+    "finalRevealKo": "요셉이 그들을 시험하며 구금함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-142"
+  },
+  {
+    "episodeId": "ep-gen-143",
+    "displayTitleKo": "시므온이 남다",
+    "openingLineKo": "요셉이 형제들에게 조건을 제시함",
+    "finalRevealKo": "시므온이 붙잡히고 곡식이 준비됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-143"
+  },
+  {
+    "episodeId": "ep-gen-144",
+    "displayTitleKo": "되돌아온 돈",
+    "openingLineKo": "형들이 곡식을 싣고 떠남",
+    "finalRevealKo": "형들이 놀라고 두려워함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-144"
+  },
+  {
+    "episodeId": "ep-gen-145",
+    "displayTitleKo": "야곱의 두려움",
+    "openingLineKo": "형들이 가나안에서 상황을 설명함",
+    "finalRevealKo": "야곱은 베냐민을 보내기를 거절함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-145"
+  },
+  {
+    "episodeId": "ep-gen-146",
+    "displayTitleKo": "유다의 책임 선언",
+    "openingLineKo": "기근이 심해짐",
+    "finalRevealKo": "유다가 그의 안전을 보증함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-146"
+  },
+  {
+    "episodeId": "ep-gen-147",
+    "displayTitleKo": "예물과 두 번째 여정",
+    "openingLineKo": "야곱이 예물과 돈을 준비하게 함",
+    "finalRevealKo": "애굽의 요셉 앞에 도착함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-147"
+  },
+  {
+    "episodeId": "ep-gen-148",
+    "displayTitleKo": "요셉의 집으로",
+    "openingLineKo": "요셉이 베냐민을 보고 형들을 집에 들이게 함",
+    "finalRevealKo": "시므온이 돌아오고 잔치가 준비됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-148"
+  },
+  {
+    "episodeId": "ep-gen-149",
+    "displayTitleKo": "형제들의 식탁",
+    "openingLineKo": "형들이 요셉 앞에서 절함",
+    "finalRevealKo": "베냐민에게 더 많은 음식이 주어짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-149"
+  },
+  {
+    "episodeId": "ep-gen-150",
+    "displayTitleKo": "은잔의 시험",
+    "openingLineKo": "요셉이 집사에게 자루에 곡식과 돈을 넣게 함",
+    "finalRevealKo": "떠난 형들을 다시 쫓게 함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-150"
+  },
+  {
+    "episodeId": "ep-gen-151",
+    "displayTitleKo": "은잔 발견",
+    "openingLineKo": "청지기가 형제들에게 고함",
+    "finalRevealKo": "베냐민의 자루에서 잔이 나옴",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-151"
+  },
+  {
+    "episodeId": "ep-gen-152",
+    "displayTitleKo": "판결 앞의 형제들",
+    "openingLineKo": "유다와 형제들이 되돌아옴",
+    "finalRevealKo": "형제들은 곤란에 처함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-152"
+  },
+  {
+    "episodeId": "ep-gen-153",
+    "displayTitleKo": "유다의 긴 변론",
+    "openingLineKo": "유다가 아버지의 슬픔을 설명함",
+    "finalRevealKo": "자신이 대신 남겠다고 제안함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-153"
+  },
+  {
+    "episodeId": "ep-gen-154",
+    "displayTitleKo": "요셉의 정체 공개",
+    "openingLineKo": "요셉이 수행원을 물림",
+    "finalRevealKo": "그간의 일을 보존의 관점에서 설명함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-154"
+  },
+  {
+    "episodeId": "ep-gen-155",
+    "displayTitleKo": "아버지를 부르다",
+    "openingLineKo": "요셉이 아버지를 데려오라 부탁함",
+    "finalRevealKo": "형제들이 울며 대화함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-155"
+  },
+  {
+    "episodeId": "ep-gen-156",
+    "displayTitleKo": "바로의 지원",
+    "openingLineKo": "형제들의 방문이 바로에게 전해짐",
+    "finalRevealKo": "좋은 땅을 제공하겠다고 함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-156"
+  },
+  {
+    "episodeId": "ep-gen-157",
+    "displayTitleKo": "야곱에게 전한 소식",
+    "openingLineKo": "요셉이 수레와 선물을 보냄",
+    "finalRevealKo": "야곱이 요셉을 만나기로 함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-157"
+  },
+  {
+    "episodeId": "ep-gen-158",
+    "displayTitleKo": "브엘세바에서 애굽으로",
+    "openingLineKo": "이스라엘이 브엘세바에서 제사함",
+    "finalRevealKo": "가족들이 애굽으로 향함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-158"
+  },
+  {
+    "episodeId": "ep-gen-159",
+    "displayTitleKo": "내려간 가족의 명단",
+    "openingLineKo": "애굽에 들어간 야곱 가족의 이름들이 열거됨",
+    "finalRevealKo": "본문과 다른 전승의 인원수 차이를 주석으로 안내",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-159"
+  },
+  {
+    "episodeId": "ep-gen-160",
+    "displayTitleKo": "고센에서 재회",
+    "openingLineKo": "야곱이 유다를 먼저 보냄",
+    "finalRevealKo": "부자는 오랜 세월 후 재회함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-160"
+  },
+  {
+    "episodeId": "ep-gen-161",
+    "displayTitleKo": "목축업을 소개하다",
+    "openingLineKo": "요셉이 형제들에게 바로 앞에서 할 말을 설명함",
+    "finalRevealKo": "고센 거주 배경을 소개함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-161"
+  },
+  {
+    "episodeId": "ep-gen-162",
+    "displayTitleKo": "바로 앞의 형제들",
+    "openingLineKo": "요셉이 가족의 도착을 알림",
+    "finalRevealKo": "고센 거주가 허락됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-162"
+  },
+  {
+    "episodeId": "ep-gen-163",
+    "displayTitleKo": "야곱과 바로의 만남",
+    "openingLineKo": "야곱이 바로를 만나 축복함",
+    "finalRevealKo": "요셉이 가족을 부양함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-163"
+  },
+  {
+    "episodeId": "ep-gen-164",
+    "displayTitleKo": "기근 아래 애굽의 토지",
+    "openingLineKo": "극심한 기근으로 식량이 부족해짐",
+    "finalRevealKo": "토지의 왕실 귀속과 제사장 예외가 기록됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-164"
+  },
+  {
+    "episodeId": "ep-gen-165",
+    "displayTitleKo": "농지와 오분의 일",
+    "openingLineKo": "요셉이 씨앗과 수확 의무를 설명함",
+    "finalRevealKo": "그 제도가 이어진다고 서술함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-165"
+  },
+  {
+    "episodeId": "ep-gen-166",
+    "displayTitleKo": "야곱의 마지막 부탁",
+    "openingLineKo": "가족이 고센에 정착함",
+    "finalRevealKo": "요셉에게 가나안 선영에 묻어 달라고 부탁함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-166"
+  },
+  {
+    "episodeId": "ep-gen-167",
+    "displayTitleKo": "요셉의 아들을 데려오다",
+    "openingLineKo": "야곱이 병들었다는 소식이 전해짐",
+    "finalRevealKo": "야곱이 이전 약속을 돌아봄",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-167"
+  },
+  {
+    "episodeId": "ep-gen-168",
+    "displayTitleKo": "손을 교차해 축복",
+    "openingLineKo": "야곱이 요셉의 두 아들을 안고 축복함",
+    "finalRevealKo": "축복이 이어짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-168"
+  },
+  {
+    "episodeId": "ep-gen-169",
+    "displayTitleKo": "요셉의 반응과 야곱의 뜻",
+    "openingLineKo": "요셉이 손을 바로잡으려 함",
+    "finalRevealKo": "에브라임과 므낫세에 대한 축복이 이어짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-169"
+  },
+  {
+    "episodeId": "ep-gen-170",
+    "displayTitleKo": "땅을 향한 유언",
+    "openingLineKo": "야곱이 죽음이 가까움을 이야기함",
+    "finalRevealKo": "요셉에게 특별한 몫을 언급함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-170"
+  },
+  {
+    "episodeId": "ep-gen-171",
+    "displayTitleKo": "장자 르우벤의 자리",
+    "openingLineKo": "야곱이 아들들을 불러 모음",
+    "finalRevealKo": "아들별 발언이 이어짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-171"
+  },
+  {
+    "episodeId": "ep-gen-172",
+    "displayTitleKo": "시므온·레위·유다",
+    "openingLineKo": "야곱이 시므온과 레위의 폭력을 지적함",
+    "finalRevealKo": "후대 해석과 본문의 시어를 구분함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-172"
+  },
+  {
+    "episodeId": "ep-gen-173",
+    "displayTitleKo": "여러 아들의 축복 시어",
+    "openingLineKo": "스불론·잇사갈·단·갓·아셀·납달리를 언급함",
+    "finalRevealKo": "후대 영토로 역투영하지 않음",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-173"
+  },
+  {
+    "episodeId": "ep-gen-174",
+    "displayTitleKo": "요셉과 베냐민",
+    "openingLineKo": "요셉에게 풍성한 축복의 말이 주어짐",
+    "finalRevealKo": "전체 아들에 대한 축복이 마무리됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-174"
+  },
+  {
+    "episodeId": "ep-gen-175",
+    "displayTitleKo": "매장 지시와 야곱의 죽음",
+    "openingLineKo": "야곱이 가나안의 가족 묘지에 묻어 달라 당부함",
+    "finalRevealKo": "야곱의 죽음이 기록됨",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-175"
+  },
+  {
+    "episodeId": "ep-gen-176",
+    "displayTitleKo": "가나안에서 야곱의 장례",
+    "openingLineKo": "요셉이 애도하며 장례를 준비함",
+    "finalRevealKo": "가나안 매장 뒤 애굽으로 돌아옴",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-176"
+  },
+  {
+    "episodeId": "ep-gen-177",
+    "displayTitleKo": "형제들의 두려움과 용서",
+    "openingLineKo": "야곱의 죽음 뒤 형들이 두려워함",
+    "finalRevealKo": "가족에 대한 돌봄을 약속함",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-177"
+  },
+  {
+    "episodeId": "ep-gen-178",
+    "displayTitleKo": "요셉의 후손",
+    "openingLineKo": "요셉이 애굽에서 오래 삶",
+    "finalRevealKo": "여러 세대가 이어짐",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-178"
+  },
+  {
+    "episodeId": "ep-gen-179",
+    "displayTitleKo": "요셉의 죽음과 출애굽의 예고",
+    "openingLineKo": "요셉이 형제들에게 하나님의 돌보심을 말함",
+    "finalRevealKo": "요셉의 죽음으로 창세기가 끝남",
+    "microInteractions": [
+      "기록된 인물 관점",
+      "본문 근거와 역사 상태",
+      "지역/계보 지도",
+      "성경 문항"
+    ],
+    "immutableMilestone": "canon-gen-179"
+  }
+]

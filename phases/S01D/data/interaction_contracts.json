@@ -1,0 +1,1794 @@
+[
+  {
+    "episodeId": "ep-gen-116",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-116",
+      "lastSceneId": "ep-gen-116/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-117",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-117",
+      "lastSceneId": "ep-gen-117/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-118",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-118",
+      "lastSceneId": "ep-gen-118/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-119",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-119",
+      "lastSceneId": "ep-gen-119/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-120",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-120",
+      "lastSceneId": "ep-gen-120/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-121",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-121",
+      "lastSceneId": "ep-gen-121/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-122",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-122",
+      "lastSceneId": "ep-gen-122/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-123",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-123",
+      "lastSceneId": "ep-gen-123/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-124",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-124",
+      "lastSceneId": "ep-gen-124/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-125",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-125",
+      "lastSceneId": "ep-gen-125/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-126",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-126",
+      "lastSceneId": "ep-gen-126/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-127",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-127",
+      "lastSceneId": "ep-gen-127/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-128",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-128",
+      "lastSceneId": "ep-gen-128/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-129",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-129",
+      "lastSceneId": "ep-gen-129/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-130",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-130",
+      "lastSceneId": "ep-gen-130/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-131",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-131",
+      "lastSceneId": "ep-gen-131/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-132",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-132",
+      "lastSceneId": "ep-gen-132/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-133",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-133",
+      "lastSceneId": "ep-gen-133/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-134",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-134",
+      "lastSceneId": "ep-gen-134/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-135",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-135",
+      "lastSceneId": "ep-gen-135/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-136",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-136",
+      "lastSceneId": "ep-gen-136/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-137",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-137",
+      "lastSceneId": "ep-gen-137/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-138",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-138",
+      "lastSceneId": "ep-gen-138/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-139",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-139",
+      "lastSceneId": "ep-gen-139/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-140",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-140",
+      "lastSceneId": "ep-gen-140/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-141",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-141",
+      "lastSceneId": "ep-gen-141/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-142",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-142",
+      "lastSceneId": "ep-gen-142/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-143",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-143",
+      "lastSceneId": "ep-gen-143/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-144",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-144",
+      "lastSceneId": "ep-gen-144/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-145",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-145",
+      "lastSceneId": "ep-gen-145/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-146",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-146",
+      "lastSceneId": "ep-gen-146/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-147",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-147",
+      "lastSceneId": "ep-gen-147/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-148",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-148",
+      "lastSceneId": "ep-gen-148/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-149",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-149",
+      "lastSceneId": "ep-gen-149/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-150",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-150",
+      "lastSceneId": "ep-gen-150/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-151",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-151",
+      "lastSceneId": "ep-gen-151/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-152",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-152",
+      "lastSceneId": "ep-gen-152/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-153",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-153",
+      "lastSceneId": "ep-gen-153/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-154",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-154",
+      "lastSceneId": "ep-gen-154/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-155",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-155",
+      "lastSceneId": "ep-gen-155/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-156",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-156",
+      "lastSceneId": "ep-gen-156/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-157",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-157",
+      "lastSceneId": "ep-gen-157/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-158",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-158",
+      "lastSceneId": "ep-gen-158/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-159",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-159",
+      "lastSceneId": "ep-gen-159/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-160",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-160",
+      "lastSceneId": "ep-gen-160/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-161",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-161",
+      "lastSceneId": "ep-gen-161/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-162",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-162",
+      "lastSceneId": "ep-gen-162/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-163",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-163",
+      "lastSceneId": "ep-gen-163/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-164",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-164",
+      "lastSceneId": "ep-gen-164/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-165",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-165",
+      "lastSceneId": "ep-gen-165/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-166",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-166",
+      "lastSceneId": "ep-gen-166/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-167",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-167",
+      "lastSceneId": "ep-gen-167/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-168",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-168",
+      "lastSceneId": "ep-gen-168/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-169",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-169",
+      "lastSceneId": "ep-gen-169/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-170",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-170",
+      "lastSceneId": "ep-gen-170/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-171",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-171",
+      "lastSceneId": "ep-gen-171/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-172",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-172",
+      "lastSceneId": "ep-gen-172/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-173",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-173",
+      "lastSceneId": "ep-gen-173/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-174",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-174",
+      "lastSceneId": "ep-gen-174/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-175",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-175",
+      "lastSceneId": "ep-gen-175/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-176",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-176",
+      "lastSceneId": "ep-gen-176/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-177",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-177",
+      "lastSceneId": "ep-gen-177/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-178",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-178",
+      "lastSceneId": "ep-gen-178/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-179",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome",
+      "Joseph_identity_reveal",
+      "migration_to_Egypt",
+      "Egypt_exodus_future"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-179",
+      "lastSceneId": "ep-gen-179/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  }
+]

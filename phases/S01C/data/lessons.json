@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "lesson-gen-064",
+    "episodeId": "ep-gen-064",
+    "passage": "GEN.26.1-GEN.26.6",
+    "learningGoalKo": "이삭에게 이어진 약속의 본문 순서와 기록·해석을 구별",
+    "questionKo": "기근 때 이삭에게 내려가지 말라고 한 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "애굽",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "하란",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "소돔",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.1-GEN.26.6를 읽고 애굽에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "이삭에게 이어진 약속에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-065",
+    "episodeId": "ep-gen-065",
+    "passage": "GEN.26.7-GEN.26.11",
+    "learningGoalKo": "리브가를 누이라 말하다의 본문 순서와 기록·해석을 구별",
+    "questionKo": "아비멜렉이 보호를 명한 두 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이삭과 리브가",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "야곱과 라헬",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "아브라함과 사라",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.7-GEN.26.11를 읽고 이삭과 리브가에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "리브가를 누이라 말하다에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-066",
+    "episodeId": "ep-gen-066",
+    "passage": "GEN.26.12-GEN.26.17",
+    "learningGoalKo": "풍요와 시기의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이삭이 떠나게 된 갈등의 주요 자원은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "우물과 물",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "성문 열쇠",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "상선 무역",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.12-GEN.26.17를 읽고 우물과 물에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "풍요와 시기에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-067",
+    "episodeId": "ep-gen-067",
+    "passage": "GEN.26.18-GEN.26.22",
+    "learningGoalKo": "에섹·싯나·르호봇의 본문 순서와 기록·해석을 구별",
+    "questionKo": "다툼이 없었던 세 번째 우물의 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "르호봇",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "에섹",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "싯나",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.18-GEN.26.22를 읽고 르호봇에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에섹·싯나·르호봇에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-068",
+    "episodeId": "ep-gen-068",
+    "passage": "GEN.26.23-GEN.26.25",
+    "learningGoalKo": "브엘세바의 제단의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이삭이 제단을 쌓은 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "브엘세바",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "벧엘",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "세겜",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.23-GEN.26.25를 읽고 브엘세바에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "브엘세바의 제단에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-069",
+    "episodeId": "ep-gen-069",
+    "passage": "GEN.26.26-GEN.26.33",
+    "learningGoalKo": "아비멜렉과 언약의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이삭과 아비멜렉은 무엇을 맺었나?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "평화의 맹세",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "왕위 계승",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "전쟁 선포",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.26-GEN.26.33를 읽고 평화의 맹세에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "아비멜렉과 언약에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-070",
+    "episodeId": "ep-gen-070",
+    "passage": "GEN.26.34-GEN.26.35",
+    "learningGoalKo": "에서의 혼인의 본문 순서와 기록·해석을 구별",
+    "questionKo": "에서의 혼인을 두고 근심한 사람들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이삭과 리브가",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "라반과 레아",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉과 베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.26.34-GEN.26.35를 읽고 이삭과 리브가에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에서의 혼인에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-071",
+    "episodeId": "ep-gen-071",
+    "passage": "GEN.27.1-GEN.27.4",
+    "learningGoalKo": "맏아들을 부른 이삭의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이삭이 먼저 불러 음식을 부탁한 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에서",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "야곱",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.27.1-GEN.27.4를 읽고 에서에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "맏아들을 부른 이삭에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-072",
+    "episodeId": "ep-gen-072",
+    "passage": "GEN.27.5-GEN.27.17",
+    "learningGoalKo": "리브가와 야곱의 계획의 본문 순서와 기록·해석을 구별",
+    "questionKo": "리브가가 야곱의 손과 목에 씌운 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "염소 새끼 가죽",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "양털 두건",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "사슴 가죽",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.27.5-GEN.27.17를 읽고 염소 새끼 가죽에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "리브가와 야곱의 계획에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-073",
+    "episodeId": "ep-gen-073",
+    "passage": "GEN.27.18-GEN.27.29",
+    "learningGoalKo": "야곱이 받은 축복의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이삭이 야곱의 정체를 의심한 단서는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "목소리",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "걸음걸이",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "반지",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.27.18-GEN.27.29를 읽고 목소리에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "야곱이 받은 축복에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-074",
+    "episodeId": "ep-gen-074",
+    "passage": "GEN.27.30-GEN.27.40",
+    "learningGoalKo": "에서의 눈물의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이미 축복을 받은 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "야곱",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "에서",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "이스마엘",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.27.30-GEN.27.40를 읽고 야곱에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에서의 눈물에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-075",
+    "episodeId": "ep-gen-075",
+    "passage": "GEN.27.41-GEN.27.46",
+    "learningGoalKo": "형제 사이의 위기의 본문 순서와 기록·해석을 구별",
+    "questionKo": "리브가가 야곱에게 피하도록 생각한 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "라반의 집",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "애굽 궁전",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "소돔 성문",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.27.41-GEN.27.46를 읽고 라반의 집에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "형제 사이의 위기에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-076",
+    "episodeId": "ep-gen-076",
+    "passage": "GEN.28.1-GEN.28.9",
+    "learningGoalKo": "고향을 떠나는 야곱의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 향하는 외가 친족의 지역은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "밧단아람",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "모압",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "니느웨",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.28.1-GEN.28.9를 읽고 밧단아람에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "고향을 떠나는 야곱에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-077",
+    "episodeId": "ep-gen-077",
+    "passage": "GEN.28.10-GEN.28.17",
+    "learningGoalKo": "벧엘의 꿈의 본문 순서와 기록·해석을 구별",
+    "questionKo": "꿈에서 땅과 하늘을 잇는 것으로 등장한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "사다리",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "성벽",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.28.10-GEN.28.17를 읽고 사다리에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "벧엘의 꿈에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-078",
+    "episodeId": "ep-gen-078",
+    "passage": "GEN.28.18-GEN.28.22",
+    "learningGoalKo": "벧엘의 기둥과 서원의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 그곳에 붙인 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "벧엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시온",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "르호봇",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.28.18-GEN.28.22를 읽고 벧엘에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "벧엘의 기둥과 서원에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-079",
+    "episodeId": "ep-gen-079",
+    "passage": "GEN.29.1-GEN.29.14",
+    "learningGoalKo": "우물가의 라헬의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 우물에서 처음 만난 라반의 딸은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "라헬",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "레아",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "디나",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.29.1-GEN.29.14를 읽고 라헬에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "우물가의 라헬에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-080",
+    "episodeId": "ep-gen-080",
+    "passage": "GEN.29.15-GEN.29.20",
+    "learningGoalKo": "칠 년의 수고의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 처음 약속한 일한 기간은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "칠 년",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "사십 년",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "삼 일",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.29.15-GEN.29.20를 읽고 칠 년에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "칠 년의 수고에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-081",
+    "episodeId": "ep-gen-081",
+    "passage": "GEN.29.21-GEN.29.30",
+    "learningGoalKo": "혼인의 속임과 두 아내의 본문 순서와 기록·해석을 구별",
+    "questionKo": "라반이 첫 혼인에서 야곱에게 준 딸은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "레아",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "라헬",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "디나",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.29.21-GEN.29.30를 읽고 레아에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "혼인의 속임과 두 아내에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-082",
+    "episodeId": "ep-gen-082",
+    "passage": "GEN.29.31-GEN.29.35",
+    "learningGoalKo": "레아의 네 아들의 본문 순서와 기록·해석을 구별",
+    "questionKo": "레아가 첫째로 낳은 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "르우벤",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "유다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.29.31-GEN.29.35를 읽고 르우벤에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "레아의 네 아들에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-083",
+    "episodeId": "ep-gen-083",
+    "passage": "GEN.30.1-GEN.30.8",
+    "learningGoalKo": "라헬과 빌하의 본문 순서와 기록·해석을 구별",
+    "questionKo": "빌하를 통해 태어난 두 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "단과 납달리",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "갓과 아셀",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉과 베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.30.1-GEN.30.8를 읽고 단과 납달리에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "라헬과 빌하에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-084",
+    "episodeId": "ep-gen-084",
+    "passage": "GEN.30.9-GEN.30.13",
+    "learningGoalKo": "레아와 실바의 본문 순서와 기록·해석을 구별",
+    "questionKo": "실바의 두 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "갓과 아셀",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "단과 납달리",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "잇사갈과 스불론",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.30.9-GEN.30.13를 읽고 갓과 아셀에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "레아와 실바에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-085",
+    "episodeId": "ep-gen-085",
+    "passage": "GEN.30.14-GEN.30.21",
+    "learningGoalKo": "합환채와 가족의 확장의 본문 순서와 기록·해석을 구별",
+    "questionKo": "레아의 딸로 이름이 언급되는 사람은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "디나",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "드보라",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "미리암",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.30.14-GEN.30.21를 읽고 디나에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "합환채와 가족의 확장에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-086",
+    "episodeId": "ep-gen-086",
+    "passage": "GEN.30.22-GEN.30.24",
+    "learningGoalKo": "요셉의 탄생의 본문 순서와 기록·해석을 구별",
+    "questionKo": "라헬이 이때 낳은 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "요셉",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "베냐민",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "갓",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.30.22-GEN.30.24를 읽고 요셉에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "요셉의 탄생에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-087",
+    "episodeId": "ep-gen-087",
+    "passage": "GEN.30.25-GEN.30.36",
+    "learningGoalKo": "고향으로 돌아갈 때의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이 단락에서 야곱이 라반에게 요구한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "고향으로 돌아가게 해 달라는 것",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "성읍의 왕위",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "군대 지휘권",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.30.25-GEN.30.36를 읽고 고향으로 돌아가게 해 달라는 것에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "고향으로 돌아갈 때에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-088",
+    "episodeId": "ep-gen-088",
+    "passage": "GEN.30.37-GEN.30.43",
+    "learningGoalKo": "가축 번식 이야기의 본문 순서와 기록·해석을 구별",
+    "questionKo": "나뭇가지를 두었다고 기록된 장소는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가축의 물구유",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "성소 제단",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "성문 문설주",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.30.37-GEN.30.43를 읽고 가축의 물구유에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "가축 번식 이야기에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-089",
+    "episodeId": "ep-gen-089",
+    "passage": "GEN.31.1-GEN.31.16",
+    "learningGoalKo": "떠날 결심의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 돌아가려는 땅은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "조상의 땅 가나안",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "앗수르",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바벨론",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.31.1-GEN.31.16를 읽고 조상의 땅 가나안에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "떠날 결심에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-090",
+    "episodeId": "ep-gen-090",
+    "passage": "GEN.31.17-GEN.31.21",
+    "learningGoalKo": "라반의 집을 떠나다의 본문 순서와 기록·해석을 구별",
+    "questionKo": "라헬이 가져간 라반의 물건은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "드라빔",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "법궤",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "성전의 등불",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.31.17-GEN.31.21를 읽고 드라빔에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "라반의 집을 떠나다에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-091",
+    "episodeId": "ep-gen-091",
+    "passage": "GEN.31.22-GEN.31.35",
+    "learningGoalKo": "추격과 수색의 본문 순서와 기록·해석을 구별",
+    "questionKo": "라반이 수색한 물건은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "드라빔",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "금송아지",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "왕관",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.31.22-GEN.31.35를 읽고 드라빔에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "추격과 수색에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-092",
+    "episodeId": "ep-gen-092",
+    "passage": "GEN.31.36-GEN.31.42",
+    "learningGoalKo": "야곱의 항변의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 라반에게 섬겼다고 말한 기간은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이십 년",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "사 년",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "삼십 년",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.31.36-GEN.31.42를 읽고 이십 년에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "야곱의 항변에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-093",
+    "episodeId": "ep-gen-093",
+    "passage": "GEN.31.43-GEN.31.55",
+    "learningGoalKo": "언약의 돌무더기의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱과 라반의 합의를 상징한 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "돌무더기",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "금송아지",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "전차",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.31.43-GEN.31.55를 읽고 돌무더기에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "언약의 돌무더기에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-094",
+    "episodeId": "ep-gen-094",
+    "passage": "GEN.32.1-GEN.32.8",
+    "learningGoalKo": "마하나임과 형 에서의 소식의 본문 순서와 기록·해석을 구별",
+    "questionKo": "에서와 함께 온다고 전해진 사람은 몇 명인가?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "사백 명",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "사십 명",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "사천 명",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.32.1-GEN.32.8를 읽고 사백 명에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "마하나임과 형 에서의 소식에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-095",
+    "episodeId": "ep-gen-095",
+    "passage": "GEN.32.9-GEN.32.12",
+    "learningGoalKo": "두려움 속의 기도의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 기도 중 두려워하는 인물은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에서",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "라반",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "아비멜렉",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.32.9-GEN.32.12를 읽고 에서에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "두려움 속의 기도에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-096",
+    "episodeId": "ep-gen-096",
+    "passage": "GEN.32.13-GEN.32.21",
+    "learningGoalKo": "화해를 위한 예물의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 먼저 보낸 것은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "가축 예물",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "전투 병력",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "왕의 칙령",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.32.13-GEN.32.21를 읽고 가축 예물에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "화해를 위한 예물에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-097",
+    "episodeId": "ep-gen-097",
+    "passage": "GEN.32.22-GEN.32.32",
+    "learningGoalKo": "얍복강의 밤과 이스라엘의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 새로 받은 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이스라엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "유다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "에돔",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.32.22-GEN.32.32를 읽고 이스라엘에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "얍복강의 밤과 이스라엘에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-098",
+    "episodeId": "ep-gen-098",
+    "passage": "GEN.33.1-GEN.33.11",
+    "learningGoalKo": "형제의 재회의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱과 에서의 재회에서 일어난 행동은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "서로 안고 울었다",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "군대를 소집했다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉을 왕으로 세웠다",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.33.1-GEN.33.11를 읽고 서로 안고 울었다에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "형제의 재회에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-099",
+    "episodeId": "ep-gen-099",
+    "passage": "GEN.33.12-GEN.33.17",
+    "learningGoalKo": "에돔으로 가는 길과 숙곳의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 머무르며 초막을 지은 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "숙곳",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "니느웨",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "살렘",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.33.12-GEN.33.17를 읽고 숙곳에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에돔으로 가는 길과 숙곳에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-100",
+    "episodeId": "ep-gen-100",
+    "passage": "GEN.33.18-GEN.33.20",
+    "learningGoalKo": "세겜에 자리 잡다의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱이 땅을 사서 장막을 친 성은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "세겜",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "라기스",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "갈멜",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.33.18-GEN.33.20를 읽고 세겜에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "세겜에 자리 잡다에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-101",
+    "episodeId": "ep-gen-101",
+    "passage": "GEN.34.1-GEN.34.7",
+    "learningGoalKo": "디나에게 일어난 폭력의 본문 순서와 기록·해석을 구별",
+    "questionKo": "피해 경험을 다루는 본문 인물의 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "디나",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "레아",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "리브가",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.34.1-GEN.34.7를 읽고 디나에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "디나에게 일어난 폭력에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성적 폭력 및 집단 보복 살해에 대한 내용 알림. 아동 수업에서는 묘사를 피하고 피해자 책임전가를 금지하며, 교사가 대체 설명을 선택하도록 안내.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-102",
+    "episodeId": "ep-gen-102",
+    "passage": "GEN.34.8-GEN.34.17",
+    "learningGoalKo": "혼인 제안과 조건의 본문 순서와 기록·해석을 구별",
+    "questionKo": "형제들이 내세운 표면적인 조건은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "할례",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "공물 세금",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "성전 건축",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.34.8-GEN.34.17를 읽고 할례에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "혼인 제안과 조건에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성적 폭력 및 집단 보복 살해에 대한 내용 알림. 아동 수업에서는 묘사를 피하고 피해자 책임전가를 금지하며, 교사가 대체 설명을 선택하도록 안내.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-103",
+    "episodeId": "ep-gen-103",
+    "passage": "GEN.34.18-GEN.34.24",
+    "learningGoalKo": "세겜의 성문 합의의 본문 순서와 기록·해석을 구별",
+    "questionKo": "조건을 받아들이도록 설득한 곳은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "성문",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "왕의 침실",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "광야 우물",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.34.18-GEN.34.24를 읽고 성문에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "세겜의 성문 합의에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성적 폭력 및 집단 보복 살해에 대한 내용 알림. 아동 수업에서는 묘사를 피하고 피해자 책임전가를 금지하며, 교사가 대체 설명을 선택하도록 안내.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-104",
+    "episodeId": "ep-gen-104",
+    "passage": "GEN.34.25-GEN.34.31",
+    "learningGoalKo": "시므온과 레위의 보복의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱의 두 아들 중 공격한 이들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "시므온과 레위",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "르우벤과 요셉",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "유다와 베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.34.25-GEN.34.31를 읽고 시므온과 레위에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "시므온과 레위의 보복에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성적 폭력 및 집단 보복 살해에 대한 내용 알림. 아동 수업에서는 묘사를 피하고 피해자 책임전가를 금지하며, 교사가 대체 설명을 선택하도록 안내.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-105",
+    "episodeId": "ep-gen-105",
+    "passage": "GEN.35.1-GEN.35.8",
+    "learningGoalKo": "벧엘로 돌아가다의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱에게 다시 가라는 말씀이 주어진 장소는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "벧엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "바벨",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "고센",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.35.1-GEN.35.8를 읽고 벧엘에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "벧엘로 돌아가다에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-106",
+    "episodeId": "ep-gen-106",
+    "passage": "GEN.35.9-GEN.35.15",
+    "learningGoalKo": "이스라엘이라는 이름의 재확인의 본문 순서와 기록·해석을 구별",
+    "questionKo": "확인된 야곱의 새 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이스라엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "이스마엘",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "여호수아",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.35.9-GEN.35.15를 읽고 이스라엘에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "이스라엘이라는 이름의 재확인에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-107",
+    "episodeId": "ep-gen-107",
+    "passage": "GEN.35.16-GEN.35.20",
+    "learningGoalKo": "베냐민의 탄생과 라헬의 죽음의 본문 순서와 기록·해석을 구별",
+    "questionKo": "라헬이 죽기 전에 낳은 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "베냐민",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "단",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.35.16-GEN.35.20를 읽고 베냐민에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "베냐민의 탄생과 라헬의 죽음에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-108",
+    "episodeId": "ep-gen-108",
+    "passage": "GEN.35.21-GEN.35.26",
+    "learningGoalKo": "열두 아들의 명단의 본문 순서와 기록·해석을 구별",
+    "questionKo": "야곱의 아들 전체 수는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "열두 명",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "열 명",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "열세 명",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.35.21-GEN.35.26를 읽고 열두 명에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "열두 아들의 명단에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-109",
+    "episodeId": "ep-gen-109",
+    "passage": "GEN.35.27-GEN.35.29",
+    "learningGoalKo": "이삭의 죽음의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이삭을 함께 장사한 두 아들은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에서와 야곱",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "요셉과 유다",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "르우벤과 레위",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.35.27-GEN.35.29를 읽고 에서와 야곱에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "이삭의 죽음에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "requires_teacher_moderated_age_gate"
+  },
+  {
+    "id": "lesson-gen-110",
+    "episodeId": "ep-gen-110",
+    "passage": "GEN.36.1-GEN.36.8",
+    "learningGoalKo": "에서의 가정과 세일 이주의 본문 순서와 기록·해석을 구별",
+    "questionKo": "에서가 옮겨 간 산지는?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "세일",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "시내",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "갈멜",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.36.1-GEN.36.8를 읽고 세일에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에서의 가정과 세일 이주에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-111",
+    "episodeId": "ep-gen-111",
+    "passage": "GEN.36.9-GEN.36.14",
+    "learningGoalKo": "에서의 자손의 본문 순서와 기록·해석을 구별",
+    "questionKo": "에서의 아들로 기록되는 두 이름은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "엘리바스와 르우엘",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "단과 납달리",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "요셉과 베냐민",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.36.9-GEN.36.14를 읽고 엘리바스와 르우엘에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에서의 자손에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-112",
+    "episodeId": "ep-gen-112",
+    "passage": "GEN.36.15-GEN.36.19",
+    "learningGoalKo": "에돔의 족장들의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이 장의 중심 족장 목록은 어느 민족과 연결되나?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에돔",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "모압",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "앗수르",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.36.15-GEN.36.19를 읽고 에돔에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에돔의 족장들에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-113",
+    "episodeId": "ep-gen-113",
+    "passage": "GEN.36.20-GEN.36.30",
+    "learningGoalKo": "세일 원주민 호리 족속의 본문 순서와 기록·해석을 구별",
+    "questionKo": "명단에서 세일 산지의 기존 주민으로 언급되는 집단은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "호리 족속",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "블레셋",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "갈대아",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.36.20-GEN.36.30를 읽고 호리 족속에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "세일 원주민 호리 족속에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-114",
+    "episodeId": "ep-gen-114",
+    "passage": "GEN.36.31-GEN.36.39",
+    "learningGoalKo": "이스라엘 왕 이전 에돔 왕 목록의 본문 순서와 기록·해석을 구별",
+    "questionKo": "목록은 무엇이 세워지기 전 에돔 왕들이라 표현하나?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "이스라엘 왕정",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "로마 제국",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "바벨론 포로",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.36.31-GEN.36.39를 읽고 이스라엘 왕정에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "이스라엘 왕 이전 에돔 왕 목록에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  },
+  {
+    "id": "lesson-gen-115",
+    "episodeId": "ep-gen-115",
+    "passage": "GEN.36.40-GEN.36.43",
+    "learningGoalKo": "에돔의 거주지와 족장의 본문 순서와 기록·해석을 구별",
+    "questionKo": "이 장의 마지막에 정리되는 민족은?",
+    "answers": [
+      {
+        "id": "a",
+        "textKo": "에돔",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "textKo": "앗수르",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "textKo": "애굽",
+        "isCorrect": false
+      }
+    ],
+    "answerExplanationKo": "GEN.36.40-GEN.36.43를 읽고 에돔에 해당하는 표현을 찾아 확인하세요. 위 문항은 교육용 요약이며 번역문 직접 인용이 아닙니다.",
+    "reflectionPromptKo": "에돔의 거주지와 족장에서 본문으로 확인되는 장면과 제작상의 연출을 따로 표시해 보세요.",
+    "teacherGuideKo": "성경 본문을 먼저 읽고, 본문 내 표현과 역사적 입증의 수준을 구분하여 지도하세요.",
+    "reviewStatus": "draft_not_educator_approved",
+    "ageSafety": "all_ages_pending_review"
+  }
+]

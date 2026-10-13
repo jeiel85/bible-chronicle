@@ -1,0 +1,1302 @@
+[
+  {
+    "episodeId": "ep-gen-064",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-064",
+      "lastSceneId": "ep-gen-064/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-065",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-065",
+      "lastSceneId": "ep-gen-065/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-066",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-066",
+      "lastSceneId": "ep-gen-066/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-067",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-067",
+      "lastSceneId": "ep-gen-067/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-068",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-068",
+      "lastSceneId": "ep-gen-068/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-069",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-069",
+      "lastSceneId": "ep-gen-069/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-070",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-070",
+      "lastSceneId": "ep-gen-070/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-071",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-071",
+      "lastSceneId": "ep-gen-071/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-072",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-072",
+      "lastSceneId": "ep-gen-072/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-073",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-073",
+      "lastSceneId": "ep-gen-073/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-074",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-074",
+      "lastSceneId": "ep-gen-074/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-075",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-075",
+      "lastSceneId": "ep-gen-075/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-076",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-076",
+      "lastSceneId": "ep-gen-076/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-077",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-077",
+      "lastSceneId": "ep-gen-077/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-078",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-078",
+      "lastSceneId": "ep-gen-078/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-079",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-079",
+      "lastSceneId": "ep-gen-079/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-080",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-080",
+      "lastSceneId": "ep-gen-080/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-081",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-081",
+      "lastSceneId": "ep-gen-081/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-082",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-082",
+      "lastSceneId": "ep-gen-082/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-083",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-083",
+      "lastSceneId": "ep-gen-083/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-084",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-084",
+      "lastSceneId": "ep-gen-084/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-085",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-085",
+      "lastSceneId": "ep-gen-085/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-086",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-086",
+      "lastSceneId": "ep-gen-086/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-087",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-087",
+      "lastSceneId": "ep-gen-087/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-088",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-088",
+      "lastSceneId": "ep-gen-088/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-089",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-089",
+      "lastSceneId": "ep-gen-089/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-090",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-090",
+      "lastSceneId": "ep-gen-090/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-091",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-091",
+      "lastSceneId": "ep-gen-091/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-092",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-092",
+      "lastSceneId": "ep-gen-092/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-093",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-093",
+      "lastSceneId": "ep-gen-093/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-094",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-094",
+      "lastSceneId": "ep-gen-094/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-095",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-095",
+      "lastSceneId": "ep-gen-095/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-096",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-096",
+      "lastSceneId": "ep-gen-096/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-097",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-097",
+      "lastSceneId": "ep-gen-097/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-098",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-098",
+      "lastSceneId": "ep-gen-098/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-099",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-099",
+      "lastSceneId": "ep-gen-099/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-100",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-100",
+      "lastSceneId": "ep-gen-100/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-101",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-101",
+      "lastSceneId": "ep-gen-101/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-102",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-102",
+      "lastSceneId": "ep-gen-102/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-103",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-103",
+      "lastSceneId": "ep-gen-103/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-104",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-104",
+      "lastSceneId": "ep-gen-104/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-105",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-105",
+      "lastSceneId": "ep-gen-105/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-106",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-106",
+      "lastSceneId": "ep-gen-106/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-107",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-107",
+      "lastSceneId": "ep-gen-107/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-108",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-108",
+      "lastSceneId": "ep-gen-108/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-109",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-109",
+      "lastSceneId": "ep-gen-109/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-110",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-110",
+      "lastSceneId": "ep-gen-110/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-111",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-111",
+      "lastSceneId": "ep-gen-111/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-112",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-112",
+      "lastSceneId": "ep-gen-112/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-113",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-113",
+      "lastSceneId": "ep-gen-113/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-114",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-114",
+      "lastSceneId": "ep-gen-114/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  },
+  {
+    "episodeId": "ep-gen-115",
+    "playerChoicesAffect": [
+      "reading_perspective",
+      "evidence_panel",
+      "learning_focus",
+      "local_ui_state"
+    ],
+    "playerChoicesCannotAffect": [
+      "canon_event",
+      "cause_of_death",
+      "lineage",
+      "family_relationship",
+      "geopolitical_outcome"
+    ],
+    "saveSchema": {
+      "episodeId": "ep-gen-115",
+      "lastSceneId": "ep-gen-115/opening",
+      "selectedPerspective": "observer",
+      "visitedEvidence": false,
+      "visitedAtlas": false,
+      "quizAnswered": false
+    },
+    "replay": true
+  }
+]

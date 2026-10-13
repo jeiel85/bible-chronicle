@@ -1,0 +1,23 @@
+{
+  "NKRV": {
+    "owner": "대한성서공회",
+    "officialUrl": "https://bible.bskorea.or.kr/copyright_notice",
+    "verifiedUseGrant": false,
+    "delivery": "references_only",
+    "appEmbedding": "blocked_pending_permission"
+  },
+  "WEB": {
+    "source": "eBible.org",
+    "publicDomain": true,
+    "verifiedUrl": "https://ebible.org/engwebp/copyright.htm",
+    "trademarkRestriction": "modified text must not be called WEB",
+    "includedFullText": false,
+    "developerCanFetch": true
+  },
+  "museumImages": {
+    "imageUrl": "https://www.britishmuseum.org/collection/image/396940001",
+    "pageSays": "CC BY-NC-SA 4.0 for non-commercial sharing; commercial use contact BM Images",
+    "bundledImage": false,
+    "publishGate": "rights_check_required"
+  }
+}

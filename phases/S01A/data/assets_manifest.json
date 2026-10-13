@@ -1,0 +1,662 @@
+[
+  {
+    "id": "art-gen-001",
+    "episodeId": "ep-gen-001",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "빛이 어둠을 가르는 추상적 창조 파노라마",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "빛이 어둠을 가르는 추상적 창조 파노라마",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-002",
+    "episodeId": "ep-gen-002",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "물고기·새·육상 생물과 광명체의 분할 구도",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "물고기·새·육상 생물과 광명체의 분할 구도",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-003",
+    "episodeId": "ep-gen-003",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "인간 실루엣과 쉼의 정경, 신의 물리적 형상 금지",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "인간 실루엣과 쉼의 정경, 신의 물리적 형상 금지",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-004",
+    "episodeId": "ep-gen-004",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "정확한 실재 지도 아닌 에덴 개념 정원",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "정확한 실재 지도 아닌 에덴 개념 정원",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-005",
+    "episodeId": "ep-gen-005",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "남녀가 상호 존중하는 정원 장면",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "남녀가 상호 존중하는 정원 장면",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-006",
+    "episodeId": "ep-gen-006",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "열매를 든 손과 나뭇잎의 거리감; 사과 단정 금지",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "열매를 든 손과 나뭇잎의 거리감; 사과 단정 금지",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-007",
+    "episodeId": "ep-gen-007",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "동산 입구를 떠나는 두 인물의 먼 실루엣",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "동산 입구를 떠나는 두 인물의 먼 실루엣",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-008",
+    "episodeId": "ep-gen-008",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "들판에 서 있는 형제와 떨어진 그림자, 폭력 비노골적",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "들판에 서 있는 형제와 떨어진 그림자, 폭력 비노골적",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-009",
+    "episodeId": "ep-gen-009",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "광활한 땅을 떠나는 한 사람, 표의 외형 미묘화",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "광활한 땅을 떠나는 한 사람, 표의 외형 미묘화",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-010",
+    "episodeId": "ep-gen-010",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "정착지·목축·악기·금속 기술을 도식적으로 병치",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "정착지·목축·악기·금속 기술을 도식적으로 병치",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-011",
+    "episodeId": "ep-gen-011",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "두루마리 형태 세대나무와 이름의 흐름",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "두루마리 형태 세대나무와 이름의 흐름",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-012",
+    "episodeId": "ep-gen-012",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "혼잡한 마을의 원경과 노아의 분리된 실루엣",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "혼잡한 마을의 원경과 노아의 분리된 실루엣",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-013",
+    "episodeId": "ep-gen-013",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "목재 구조를 준비하는 인물들, 실제 유적처럼 표현 금지",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "목재 구조를 준비하는 인물들, 실제 유적처럼 표현 금지",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-014",
+    "episodeId": "ep-gen-014",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "거센 빗줄기와 물속의 방주, 희생 장면 비노골적",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "거센 빗줄기와 물속의 방주, 희생 장면 비노골적",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-015",
+    "episodeId": "ep-gen-015",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "기름진 새싹 가지를 물고 돌아오는 비둘기와 물길",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "기름진 새싹 가지를 물고 돌아오는 비둘기와 물길",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-016",
+    "episodeId": "ep-gen-016",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "구름 사이 무지개와 정적인 가족 실루엣",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "구름 사이 무지개와 정적인 가족 실루엣",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-017",
+    "episodeId": "ep-gen-017",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "가려진 장막과 가족의 거리, 노출 장면 묘사 금지",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "가려진 장막과 가족의 거리, 노출 장면 묘사 금지",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-018",
+    "episodeId": "ep-gen-018",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "고대 이름이 나타나는 연결망, 현 국경 없이",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "고대 이름이 나타나는 연결망, 현 국경 없이",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-019",
+    "episodeId": "ep-gen-019",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "셈의 계보와 퍼지는 점선; 정확한 민족 경계 없음",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "셈의 계보와 퍼지는 점선; 정확한 민족 경계 없음",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-020",
+    "episodeId": "ep-gen-020",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "점토 벽돌 탑과 공사장의 군중, 고고학적 복원도 아님",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "점토 벽돌 탑과 공사장의 군중, 고고학적 복원도 아님",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-021",
+    "episodeId": "ep-gen-021",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "세대의 두루마리가 아브람의 이름으로 집중",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "세대의 두루마리가 아브람의 이름으로 집중",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  },
+  {
+    "id": "art-gen-022",
+    "episodeId": "ep-gen-022",
+    "aspectRatios": [
+      "16:9",
+      "9:16",
+      "4:3"
+    ],
+    "sourceClass": "original_illustration_to_be_commissioned",
+    "licensedAssetPresent": false,
+    "imageFile": null,
+    "visualBriefKo": "사막길의 가족 행렬과 지명표는 불확실로 표기",
+    "baseStyle": "hand-painted grand strategy event painting; warm natural palette; human-scale realism; respectful religious educational tone; subdued brush texture; no lettering, no UI, no modern buildings",
+    "negativeConstraintsKo": [
+      "하나님을 사람 형태로 명확히 그리지 않는다",
+      "성경에 없는 행동을 역사적 사실처럼 확정하지 않는다",
+      "시대 특정 불가능한 곳에 확정 복식/유물 재현이라고 쓰지 않는다",
+      "상업 게임의 특정 원본 아트/UI를 복제하지 않는다",
+      "텍스트를 그림에 직접 넣지 않는다"
+    ],
+    "altTextKo": "사막길의 가족 행렬과 지명표는 불확실로 표기",
+    "productionStatus": "not_created",
+    "rightsStatus": "not_cleared",
+    "requiredReview": [
+      "biblical_story",
+      "historical_visual",
+      "education_age",
+      "license"
+    ]
+  }
+]

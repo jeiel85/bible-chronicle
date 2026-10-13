@@ -138,14 +138,17 @@ export function App() {
   return (
     <div className="app">
       <header className="topbar">
-        <button className="list-toggle" aria-expanded={listOpen} aria-controls="episode-list" onClick={() => setListOpen(open => !open)}>목록</button>
+        <button className="topbar-button menu-toggle" aria-expanded={listOpen} aria-controls="episode-list" onClick={() => setListOpen(open => !open)}>목록</button>
         <div className="era">
           <span className="era-name">요셉의 시대</span>
           <span className="era-meta">{osisToKo(episode.passage.osis)} · {index + 1} / {slice.episodes.length} · 시점: {PERSPECTIVE_INFO[story.perspective].labelKo}</span>
         </div>
-        <button className="list-toggle chronicle-toggle" onClick={() => setEvidenceOpen(true)}>근거 {progress.collectedCardIds.length}</button>
-        <button className="list-toggle chronicle-toggle" onClick={() => setHouseholdOpen(true)}>가문</button>
-        <button className="list-toggle chronicle-toggle" onClick={() => setChronicleOpen(true)}>연대기 {recordedMoments.length}</button>
+        <div className="topbar-actions">
+          <button className="topbar-button" onClick={() => setEvidenceOpen(true)}>근거 {progress.collectedCardIds.length}</button>
+          <button className="topbar-button" onClick={() => setHouseholdOpen(true)}>가문</button>
+          <button className="topbar-button" onClick={() => setChronicleOpen(true)}>연대기 {recordedMoments.length}</button>
+          
+        </div>
         <progress max={slice.episodes.length} value={progress.completedEpisodeIds.length} aria-label="완료한 이야기 수" />
       </header>
 

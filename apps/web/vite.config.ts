@@ -1,6 +1,7 @@
 /// <reference types="vitest" />
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
+import { VitePWA } from 'vite-plugin-pwa';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
@@ -39,7 +40,35 @@ function josephVerseNotes(): Plugin {
 
 export default defineConfig({
   base: './',
-  plugins: [react(), josephVerseNotes()],
+  plugins: [
+    react(),
+    josephVerseNotes(),
+    // Offline-first (docs/03 §1): the whole slice, pictures included (about 2 MB), is cached on first visit.
+    // A new version activates on the next visit; progress lives in IndexedDB and is checked against the
+    // content on load (storage/progress.ts), so an update cannot strand a save on a removed scene.
+    VitePWA({
+      registerType: 'autoUpdate',
+      includeAssets: ['icons/apple-touch-icon.png'],
+      manifest: {
+        name: 'Bible Chronicle — 요셉의 시대',
+        short_name: 'Bible Chronicle',
+        description: '성경의 흐름을 따라가는 문명형 교육 게임 — 요셉의 시대(창세기 37–50장) 개발 미리보기',
+        lang: 'ko',
+        start_url: './',
+        scope: './',
+        display: 'standalone',
+        orientation: 'any',
+        background_color: '#1b1610',
+        theme_color: '#2a2118',
+        icons: [
+          { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+          { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+          { src: 'icons/maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+        ],
+      },
+      workbox: { globPatterns: ['**/*.{js,css,html,png,webp,woff2}'], navigateFallback: 'index.html' },
+    }),
+  ],
   resolve: { alias: { '@repo': repoRoot } },
   server: { fs: { allow: [repoRoot] } },
   // The phase content is versioned separately from the code; a separate chunk keeps code updates from
@@ -49,5 +78,5 @@ export default defineConfig({
       output: { manualChunks: id => (id.includes('/phases/') || id.includes('joseph-verse-notes') ? 'content' : undefined) },
     },
   },
-  test: { environment: 'node' },
+  test: { environment: 'node', include: ['src/**/*.test.ts'] },
 });

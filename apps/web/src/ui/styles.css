@@ -74,17 +74,24 @@ button.primary { background: var(--accent); color: var(--accent-ink); border-col
 }
 .topbar {
   grid-area: top; position: sticky; top: 0; z-index: 3;
-  display: flex; align-items: center; gap: .75rem; padding: .5rem 1rem;
+  display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .75rem; padding: .5rem 1rem;
   background: var(--topbar); color: var(--topbar-ink);
 }
 .topbar progress { width: 6rem; accent-color: var(--accent); }
-.list-toggle { background: transparent; color: var(--topbar-ink); border-color: #6b5b47; padding: .4rem .8rem; }
+.topbar-actions { display: flex; gap: .4rem; }
+/* Narrow phones: the era fills the first line, actions and progress go to the second. */
+@media (max-width: 599px) {
+  .topbar .era { flex: 1 1 calc(100% - 5.5rem); }
+  .topbar .topbar-actions { flex: 1; }
+  .topbar .topbar-button { padding: .4rem .6rem; }
+}
+.topbar-button { background: transparent; color: var(--topbar-ink); border-color: #6b5b47; padding: .4rem .8rem; }
 .era { display: flex; flex-direction: column; flex: 1; min-width: 0; }
 .era-name { font-weight: 700; }
 .era-meta { font-size: .85rem; opacity: .85; }
 
 .episodes {
-  display: none; position: fixed; inset: 3.5rem 0 0 0; z-index: 2; overflow-y: auto;
+  display: none; position: fixed; inset: 7rem 0 0 0; z-index: 2; overflow-y: auto;
   background: var(--surface); padding: .5rem;
 }
 .episodes.open { display: block; }
@@ -150,7 +157,7 @@ button.primary { background: var(--accent); color: var(--accent-ink); border-col
 /* PC: episode list | picture | story */
 @media (min-width: 1024px) {
   .app { grid-template-columns: minmax(14rem, 20fr) 50fr 30fr; grid-template-areas: "top top top" "list art story"; }
-  .list-toggle { display: none; }
+  .menu-toggle { display: none; }
   .episodes { display: block; position: static; grid-area: list; border-right: 1px solid var(--line); }
 }
 
@@ -165,12 +172,13 @@ button.primary { background: var(--accent); color: var(--accent-ink); border-col
 
 /* Historic Moment (docs/16 §3.3): picture fills the screen, text sits on a dark band. */
 .moment {
-  position: fixed; inset: 0; z-index: 10; display: grid; grid-template-rows: minmax(0, 1fr) auto;
+  position: fixed; inset: 0; z-index: 10; overflow-y: auto; overscroll-behavior: contain;
   background: #0f0b07; color: #f3ead8;
 }
-.moment-art { min-height: 0; overflow: hidden; }
+/* Portrait: picture on top, text below; the whole screen scrolls so the button is always reachable. */
+.moment-art { height: 45vh; overflow: hidden; }
 .moment-art img, .moment-art .art-placeholder { width: 100%; height: 100%; object-fit: cover; border-radius: 0; aspect-ratio: auto; }
-.moment-body { padding: 1.25rem 1rem calc(1.25rem + env(safe-area-inset-bottom)); background: linear-gradient(180deg, rgba(15, 11, 7, .85), #0f0b07 40%); max-height: 60vh; overflow-y: auto; }
+.moment-body { padding: 1.25rem 1rem calc(1.25rem + env(safe-area-inset-bottom)); background: #0f0b07; }
 .moment-kicker { color: #d9a066; font-weight: 600; letter-spacing: .04em; font-size: .9rem; margin-bottom: .25rem; }
 .moment h2 { font-family: "Noto Serif KR", serif; font-size: clamp(1.7rem, 6vw, 2.6rem); margin-bottom: .5rem; }
 .moment-handoff { font-size: .95rem; opacity: .9; }
@@ -183,16 +191,16 @@ button.primary { background: var(--accent); color: var(--accent-ink); border-col
 .moment-era_transition .moment-kicker { color: #e8c27a; }
 
 @media (min-width: 900px) and (orientation: landscape) {
-  .moment { grid-template-rows: 1fr; }
-  .moment-art { position: absolute; inset: 0; }
+  .moment { overflow: hidden; }
+  .moment-art { position: absolute; inset: 0; height: auto; }
   .moment-body {
-    position: absolute; left: 0; bottom: 0; width: min(36rem, 45vw); max-height: none;
+    position: absolute; left: 0; bottom: 0; width: min(36rem, 45vw); max-height: calc(100vh - 4rem); overflow-y: auto;
     margin: 0 0 2rem 2rem; border-radius: 16px; background: rgba(15, 11, 7, .82);
   }
 }
 
 /* Chronicle sheet */
-.chronicle-toggle { white-space: nowrap; }
+.topbar-button { white-space: nowrap; }
 .sheet-backdrop { position: fixed; inset: 0; z-index: 8; background: rgba(0, 0, 0, .5); display: flex; justify-content: center; align-items: flex-end; }
 .sheet {
   width: min(40rem, 100%); max-height: 85vh; overflow-y: auto; background: var(--surface);

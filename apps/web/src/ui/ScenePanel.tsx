@@ -1,7 +1,8 @@
 import type { ReactNode } from 'react';
 import type { Slice } from '../content/joseph';
 import type { Episode, Scene } from '../content/types';
-import type { StoryState } from '../engine/story';
+import type { Perspective, StoryState } from '../engine/story';
+import { LensChooser } from './LensViews';
 import { osisToKo, SENSITIVITY_KO } from './labels';
 
 interface Props {
@@ -14,7 +15,10 @@ interface Props {
   onBack: () => void;
   onContinue: () => void;
   onNextEpisode: () => void;
-  onPerspective: (perspective: string) => void;
+  onPerspective: (perspective: Perspective, characterId: string | null) => void;
+  protagonistId: string;
+  /** Shown at the hub between the summary and the branches: the lens card and the verse notes. */
+  beforeChoices?: ReactNode;
   onAnswer: (lessonId: string, answerId: string) => void;
   /** The household's news for this episode, shown at the hub (docs/16 §5). */
   community?: ReactNode;
@@ -40,6 +44,7 @@ export function ScenePanel(props: Props) {
           {episode.sensitivity.filter(tag => SENSITIVITY_KO[tag]).map(tag => <Chip key={tag} kind="caution">{SENSITIVITY_KO[tag]}</Chip>)}
         </div>
         <ol className="beats">{scene.linesKo.map(line => <li key={line}>{line}</li>)}</ol>
+        {props.beforeChoices}
         <h3 className="hub-title">무엇을 살펴볼까요?</h3>
         <p className="hub-note">어느 것을 고르든 이야기는 본문 그대로 이어집니다.</p>
         <div className="choices">
@@ -78,17 +83,8 @@ export function ScenePanel(props: Props) {
   if (scene.sceneType === 'perspective_lens') {
     return (
       <section className="panel" aria-labelledby="scene-heading">
-        <h2 id="scene-heading">{scene.headingKo}</h2>
-        {scene.linesKo.map(line => <p key={line}>{line}</p>)}
-        <div className="choices" role="radiogroup" aria-label="시점">
-          {(scene.perspectiveOptions ?? []).map(option => (
-            <button key={option.id} role="radio" aria-checked={state.perspective === option.id}
-              className={state.perspective === option.id ? 'choice selected' : 'choice'} onClick={() => props.onPerspective(option.id)}>
-              {option.labelKo}
-            </button>
-          ))}
-        </div>
-        <p className="hub-note">시점 렌즈 연출은 다음 단계(M4)에서 붙습니다. 지금은 선택한 시점이 저장만 됩니다.</p>
+        <h2 id="scene-heading">누구의 자리에서 볼까요?</h2>
+        <LensChooser slice={slice} episode={episode} state={state} protagonistId={props.protagonistId} onChoose={props.onPerspective} />
         {back}
       </section>
     );

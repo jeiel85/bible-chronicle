@@ -1,7 +1,8 @@
 import { describe, expect, it } from 'vitest';
 import { buildSlice, joseph } from '../content/joseph';
 import {
-  isAtHub, nextAfter, openBranch, outcomeOf, proceedToOutcome, returnToHub, startEpisode, type StoryState,
+  isAtHub, migratePerspective, nextAfter, openBranch, outcomeOf, proceedToOutcome, returnToHub, setPerspective, startEpisode,
+  type StoryState,
 } from './story';
 
 /** Every order in which a player could open some or none of the hub's branches. */
@@ -83,5 +84,28 @@ describe('hub rules', () => {
 
   it('cannot go back to the hub once the outcome is shown', () => {
     expect(() => returnToHub(joseph, proceedToOutcome(joseph, startEpisode(joseph, first)))).toThrow(/outcome/);
+  });
+});
+
+describe('four viewpoints (docs/16 §4)', () => {
+  const first = joseph.episodes[0].id;
+
+  it('maps every viewpoint value used in the phase packages', () => {
+    expect(migratePerspective('observer')).toEqual({ perspective: 'observer', characterId: null });
+    expect(migratePerspective('character_lens_without_unrecorded_dialogue').perspective).toBe('protagonist');
+    expect(migratePerspective('fictional_witness_explicitly_labeled').perspective).toBe('witness');
+    expect(migratePerspective('fictional_witness').perspective).toBe('witness');
+    expect(migratePerspective('noah')).toEqual({ perspective: 'protagonist', characterId: 'noah' });
+  });
+
+  it('opening the lens branch does not reset the chosen viewpoint', () => {
+    const chosen = setPerspective(startEpisode(joseph, first), 'supporting', 'jacob');
+    const opened = openBranch(joseph, chosen, `${first}/choice-lens`);
+    expect(opened).toMatchObject({ perspective: 'supporting', lensCharacterId: 'jacob' });
+  });
+
+  it('the viewpoint carries to the next episode, the followed person does not', () => {
+    const next = startEpisode(joseph, joseph.episodes[1].id, setPerspective(startEpisode(joseph, first), 'witness').perspective);
+    expect(next).toMatchObject({ perspective: 'witness', lensCharacterId: null });
   });
 });

@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { joseph } from '../content/joseph';
-import { josephMoments, momentAt, type Moment } from '../content/moments';
+import { eraProtagonistId, josephMoments, momentAt, type Moment } from '../content/moments';
+import { verseNotesOf } from '../content/verses';
 import { eventAt, isResolved, josephCommunity, resolve, startCommunity } from '../community/community';
 import {
   currentScene, nextAfter, openBranch, proceedToOutcome, returnToHub, setPerspective, startEpisode, type Next,
@@ -8,6 +9,9 @@ import {
 import { loadProgress, saveProgress, SCHEMA_VERSION, type Progress } from '../storage/progress';
 import { ChronicleDialog } from './ChronicleDialog';
 import { CommunityCard } from './CommunityCard';
+import { EvidenceDialog } from './EvidenceDialog';
+import { LensCard, VerseNotes } from './LensViews';
+import { PERSPECTIVE_INFO } from './lens';
 import { HouseholdDialog } from './HouseholdDialog';
 import { MomentScreen } from './MomentScreen';
 import { ScenePanel } from './ScenePanel';
@@ -16,10 +20,11 @@ import { osisToKo } from './labels';
 const slice = joseph;
 const moments = josephMoments;
 const community = josephCommunity;
+const protagonistId = eraProtagonistId(moments);
 const FIRST = slice.episodes[0].id;
 
 const freshProgress = (): Progress => ({
-  schemaVersion: SCHEMA_VERSION, story: startEpisode(slice, FIRST), completedEpisodeIds: [], quizAnswers: {}, chronicleMomentIds: [],
+  schemaVersion: SCHEMA_VERSION, story: startEpisode(slice, FIRST), completedEpisodeIds: [], quizAnswers: {}, chronicleMomentIds: [], collectedCardIds: [],
   community: startCommunity(community),
 });
 
@@ -37,6 +42,7 @@ export function App() {
   const [listOpen, setListOpen] = useState(false);
   const [chronicleOpen, setChronicleOpen] = useState(false);
   const [householdOpen, setHouseholdOpen] = useState(false);
+  const [evidenceOpen, setEvidenceOpen] = useState(false);
   const [shown, setShown] = useState<ShownMoment | null>(null);
   const headingRef = useRef<HTMLDivElement>(null);
 
@@ -135,8 +141,9 @@ export function App() {
         <button className="list-toggle" aria-expanded={listOpen} aria-controls="episode-list" onClick={() => setListOpen(open => !open)}>목록</button>
         <div className="era">
           <span className="era-name">요셉의 시대</span>
-          <span className="era-meta">{osisToKo(episode.passage.osis)} · {index + 1} / {slice.episodes.length}</span>
+          <span className="era-meta">{osisToKo(episode.passage.osis)} · {index + 1} / {slice.episodes.length} · 시점: {PERSPECTIVE_INFO[story.perspective].labelKo}</span>
         </div>
+        <button className="list-toggle chronicle-toggle" onClick={() => setEvidenceOpen(true)}>근거 {progress.collectedCardIds.length}</button>
         <button className="list-toggle chronicle-toggle" onClick={() => setHouseholdOpen(true)}>가문</button>
         <button className="list-toggle chronicle-toggle" onClick={() => setChronicleOpen(true)}>연대기 {recordedMoments.length}</button>
         <progress max={slice.episodes.length} value={progress.completedEpisodeIds.length} aria-label="완료한 이야기 수" />
@@ -178,11 +185,20 @@ export function App() {
         ) : (
           <ScenePanel
             slice={slice} episode={episode} scene={scene} state={story} quizAnswer={progress.quizAnswers[episode.lessonId]}
-            onOpen={choiceId => update({ ...progress, story: openBranch(slice, story, choiceId) })}
+            onOpen={choiceId => {
+              const opened = openBranch(slice, story, choiceId);
+              const collectedCardIds = [...new Set([...progress.collectedCardIds, ...opened.revealedCardIds])];
+              update({ ...progress, story: opened, collectedCardIds });
+            }}
             onBack={() => update({ ...progress, story: returnToHub(slice, story) })}
             onContinue={() => update({ ...progress, story: proceedToOutcome(slice, story) })}
             onNextEpisode={nextEpisode}
-            onPerspective={perspective => update({ ...progress, story: setPerspective(story, perspective) })}
+            onPerspective={(perspective, characterId) => update({ ...progress, story: setPerspective(story, perspective, characterId) })}
+            protagonistId={protagonistId}
+            beforeChoices={<>
+              <LensCard slice={slice} episode={episode} state={story} protagonistId={protagonistId} hasHouseholdNews={!!communityEvent} />
+              <VerseNotes notes={verseNotesOf(episode.id)} />
+            </>}
             onAnswer={(lessonId, answerId) => update({ ...progress, quizAnswers: { ...progress.quizAnswers, [lessonId]: answerId } })}
             community={communityEvent && (
               <CommunityCard content={community} event={communityEvent} state={progress.community}
@@ -197,6 +213,7 @@ export function App() {
         <ChronicleDialog moments={recordedMoments} onClose={() => setChronicleOpen(false)}
           onOpen={moment => setShown({ moment, mode: 'replay' })} />
       )}
+      {evidenceOpen && !shown && <EvidenceDialog slice={slice} collectedIds={progress.collectedCardIds} onClose={() => setEvidenceOpen(false)} />}
       {householdOpen && !shown && <HouseholdDialog content={community} state={progress.community} onClose={() => setHouseholdOpen(false)} />}
       {shown && <MomentScreen moment={shown.moment} mode={shown.mode} onClose={closeMoment} />}
     </div>

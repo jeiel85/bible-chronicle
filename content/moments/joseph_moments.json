@@ -11,7 +11,7 @@
       "timing": "before",
       "eraLabelKo": "족장 시대 · 가나안",
       "titleKo": "요셉의 시대",
-      "protagonistHandoff": { "fromKo": "야곱", "toKo": "요셉" },
+      "protagonistHandoff": { "fromKo": "야곱", "toKo": "요셉", "toCharacterId": "joseph" },
       "narrationKo": [
         "야곱의 아들들이 가나안에서 아버지의 양 떼를 친다.",
         "이야기의 중심이 야곱에게서 그의 아들 요셉에게로 옮겨 간다.",

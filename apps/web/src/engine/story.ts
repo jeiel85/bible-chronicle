@@ -7,6 +7,24 @@
 import { outcomeScene, type Slice } from '../content/joseph';
 import type { EpisodeGraph, Scene } from '../content/types';
 
+/** The four viewpoints (docs/16 §4, D-003). */
+export type Perspective = 'observer' | 'protagonist' | 'supporting' | 'witness';
+export const PERSPECTIVES: Perspective[] = ['observer', 'protagonist', 'supporting', 'witness'];
+
+/**
+ * Viewpoint values of the phase packages, mapped to the four viewpoints (docs/16 §4 데이터 이관). The
+ * packages stay unchanged; character names used as values (S01A: "noah") are a protagonist lens on them.
+ */
+export function migratePerspective(value: string | undefined): { perspective: Perspective; characterId: string | null } {
+  switch (value) {
+    case undefined: case 'observer': return { perspective: 'observer', characterId: null };
+    case 'protagonist': case 'supporting': case 'witness': return { perspective: value, characterId: null };
+    case 'character_lens_without_unrecorded_dialogue': return { perspective: 'protagonist', characterId: null };
+    case 'fictional_witness': case 'fictional_witness_explicitly_labeled': return { perspective: 'witness', characterId: null };
+    default: return { perspective: 'protagonist', characterId: value };
+  }
+}
+
 export interface StoryState {
   episodeId: string;
   sceneId: string;
@@ -14,7 +32,9 @@ export interface StoryState {
   visitedSceneIds: string[];
   /** Evidence cards revealed (claim ids). */
   revealedCardIds: string[];
-  perspective: string;
+  perspective: Perspective;
+  /** The biblical person a protagonist/supporting lens follows; null: the era's protagonist or the first cast member. */
+  lensCharacterId: string | null;
 }
 
 export type Next = { kind: 'episode'; episodeId: string } | { kind: 'locked'; handoffId: string; noteKo: string };
@@ -31,9 +51,10 @@ export function currentScene(slice: Slice, state: StoryState): Scene {
   return scene;
 }
 
-export function startEpisode(slice: Slice, episodeId: string, perspective = 'observer'): StoryState {
+/** Starts an episode. The viewpoint carries over between episodes; the followed person does not (the cast changes). */
+export function startEpisode(slice: Slice, episodeId: string, perspective: Perspective = 'observer'): StoryState {
   const graph = graphOf(slice, episodeId);
-  return { episodeId, sceneId: graph.entrySceneId, visitedSceneIds: [], revealedCardIds: [], perspective };
+  return { episodeId, sceneId: graph.entrySceneId, visitedSceneIds: [], revealedCardIds: [], perspective, lensCharacterId: null };
 }
 
 export function isAtHub(slice: Slice, state: StoryState): boolean {
@@ -55,7 +76,8 @@ export function openBranch(slice: Slice, state: StoryState, choiceId: string): S
     sceneId: choice.next,
     visitedSceneIds: state.visitedSceneIds.includes(choice.next) ? state.visitedSceneIds : [...state.visitedSceneIds, choice.next],
     revealedCardIds: type === 'reveal_card' && !state.revealedCardIds.includes(value) ? [...state.revealedCardIds, value] : state.revealedCardIds,
-    perspective: type === 'set_perspective' ? value : state.perspective,
+    // set_perspective on a hub choice only opens the lens scene: S01D sets "observer" on all 64 of them as a
+    // template value, which would reset the player's own choice every time. The lens is chosen in that scene.
   };
 }
 
@@ -69,8 +91,8 @@ export function proceedToOutcome(slice: Slice, state: StoryState): StoryState {
   return { ...state, sceneId: outcomeScene(graphOf(slice, state.episodeId)).id };
 }
 
-export function setPerspective(state: StoryState, perspective: string): StoryState {
-  return { ...state, perspective };
+export function setPerspective(state: StoryState, perspective: Perspective, lensCharacterId: string | null = null): StoryState {
+  return { ...state, perspective, lensCharacterId };
 }
 
 /** What follows this episode. Always taken from the content, never from the player's state. */

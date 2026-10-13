@@ -219,3 +219,16 @@ button:disabled { opacity: .55; cursor: not-allowed; }
 .resources dd { margin: 0; display: flex; align-items: center; gap: .4rem; }
 .resources meter { width: 4.5rem; }
 .household-log { padding-left: 1.2rem; }
+
+/* Lenses and verse notes (docs/16 §4) */
+.lens { border-left: 4px solid var(--teal); padding: .4rem 0 .4rem .9rem; margin: .9rem 0; }
+.lens h3 { font-size: 1rem; }
+.lens-verses, .verse-notes ol { list-style: none; padding: 0; margin: .4rem 0; }
+.lens-verses li, .verse-notes li { margin-bottom: .45rem; }
+.verse-num { display: inline-block; min-width: 3rem; font-weight: 700; color: var(--teal); font-variant-numeric: tabular-nums; }
+.verse-notes { margin: .9rem 0; border: 1px solid var(--line); border-radius: 10px; padding: .5rem .8rem; }
+.verse-notes summary { cursor: pointer; font-weight: 600; min-height: 44px; display: flex; align-items: center; }
+.focused { font-size: .92rem; margin: .3rem 0 0 3rem; }
+.verse-notes .limit { margin-left: 3rem; }
+.choice-desc { display: block; font-size: .85rem; color: var(--muted); margin-top: .15rem; }
+.evidence-list { list-style: none; padding: 0; }

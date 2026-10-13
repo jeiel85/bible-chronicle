@@ -11,7 +11,7 @@ export interface Moment {
   timing: 'before' | 'after';
   eraLabelKo: string;
   titleKo: string;
-  protagonistHandoff?: { fromKo: string; toKo: string };
+  protagonistHandoff?: { fromKo: string; toKo: string; toCharacterId: string };
   narrationKo: string[];
   scriptureOsis: string;
   imageId: string;
@@ -56,4 +56,11 @@ export const josephMoments: Moment[] = (momentsJson as { moments: Moment[] }).mo
 
 export function momentAt(moments: Moment[], episodeId: string, timing: Moment['timing']): Moment | undefined {
   return moments.find(moment => moment.episodeId === episodeId && moment.timing === timing);
+}
+
+/** The era's protagonist (docs/16 §3.1): the person its transition hands the story to. */
+export function eraProtagonistId(moments: Moment[]): string {
+  const id = moments.find(moment => moment.kind === 'era_transition')?.protagonistHandoff?.toCharacterId;
+  if (!id) throw new Error('The era has no transition naming its protagonist');
+  return id;
 }

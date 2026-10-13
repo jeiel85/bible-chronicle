@@ -66,7 +66,7 @@ describe('influence runs one way only', () => {
 
   it('story state carries no household data', () => {
     const state = openBranch(joseph, startEpisode(joseph, joseph.episodes[0].id), `${joseph.episodes[0].id}/choice-evidence`);
-    expect(Object.keys(state).sort()).toEqual(['episodeId', 'perspective', 'revealedCardIds', 'sceneId', 'visitedSceneIds']);
+    expect(Object.keys(state).sort()).toEqual(['episodeId', 'lensCharacterId', 'perspective', 'revealedCardIds', 'sceneId', 'visitedSceneIds']);
   });
 });
 

@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "typecheck": "tsc -b --noEmit",
-    "e2e": "playwright test"
+    "e2e": "playwright test",
+    "serve:lan": "vite build && vite preview --host --port 4173 --strictPort"
   },
   "dependencies": {
     "idb-keyval": "6.2.1",

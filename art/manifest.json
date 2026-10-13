@@ -1,0 +1,82 @@
+{
+  "assets": [
+    {
+      "assetId": "char_jacob_elder",
+      "category": "characters",
+      "file": "art/characters/char_jacob_elder.webp",
+      "pixelSize": [
+        1376,
+        768
+      ],
+      "subjectId": null,
+      "kind": "sheet",
+      "createdWithAI": true,
+      "generator": "agy",
+      "prompt": "Jacob (Israel) as a very old patriarch of the ancient Levant (Genesis 47:9), Semitic features, deeply lined weathered olive skin, long white beard and white hair, tired but dignified eyes, slightly bent posture, simple undyed and dark-brown wool robes and a mantle, a wooden walking staff. Not a European old man, no halo, no royal clothing.",
+      "refs": [],
+      "reviewNote": "고대 근동 외모, 후광·글자 없음. 이후 장면의 참조용",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "char_joseph_vizier",
+      "category": "characters",
+      "file": "art/characters/char_joseph_vizier.webp",
+      "pixelSize": [
+        1376,
+        768
+      ],
+      "subjectId": null,
+      "kind": "sheet",
+      "createdWithAI": true,
+      "generator": "agy",
+      "prompt": "The same Joseph at about thirty (Genesis 41:46) as the high official of Egypt (Genesis 41:42): Semitic facial features kept from his youth (same eyes, nose and face shape), now clean-shaven with short dark hair as an Egyptian court official (Genesis 41:14), garments of fine white linen, a gold collar necklace, a signet ring on his right hand. Generic ancient Egyptian court style without any specific pharaoh, dynasty or royal crown; no headdress of a king, no cobra symbol, no hieroglyph text.",
+      "refs": [],
+      "reviewNote": "고대 근동 외모, 후광·글자 없음. 이후 장면의 참조용",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "char_joseph_youth",
+      "category": "characters",
+      "file": "art/characters/char_joseph_youth.webp",
+      "pixelSize": [
+        1376,
+        768
+      ],
+      "subjectId": null,
+      "kind": "sheet",
+      "createdWithAI": true,
+      "generator": "agy",
+      "prompt": "Joseph, son of Jacob, as a seventeen-year-old shepherd in Canaan (Genesis 37:2), patriarchal period. Slim young Semitic man of the ancient Levant, olive-brown skin, dark curly shoulder-length hair, very short beginning beard, dark eyes, gentle but earnest face. He wears a distinctive long ankle-length tunic with long sleeves, woven wool with a few ornamental woven bands of muted red, ochre and indigo (the robe his father gave him; keep it plausible ancient textile, not a rainbow costume), a simple belt and leather sandals. No staff, no halo.",
+      "refs": [],
+      "reviewNote": "고대 근동 외모, 후광·글자 없음. 이후 장면의 참조용",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    },
+    {
+      "assetId": "moment_joseph_era",
+      "category": "moments",
+      "file": "art/moments/moment_joseph_era.webp",
+      "pixelSize": [
+        1376,
+        768
+      ],
+      "subjectId": "moment-joseph-era",
+      "kind": "scene",
+      "createdWithAI": true,
+      "generator": "agy",
+      "prompt": "Historic moment, the opening of the Joseph era (Genesis 37:1-2): golden late afternoon in the hill country of Canaan. A camp of dark goat-hair tents of Jacob's household on a gentle slope, large flocks of sheep and goats. In the middle ground the young Joseph from the reference sheet (same face, same long-sleeved tunic with woven bands) walks toward the camp, while a group of his older brothers, shepherds in plain undyed wool, stand apart with the flocks on the far side, a visible distance between them. Calm, vast, quiet; nobody is fighting.",
+      "refs": [
+        "art_out/joseph_m2/char_joseph_youth.png"
+      ],
+      "reviewNote": "요셉 얼굴·옷이 시트와 일치, 형들과의 거리감 표현. 글자·후광 없음",
+      "adoptedAt": "2026-10-13",
+      "historicalAccuracyStatus": "not_verified",
+      "rightsStatus": "usage_terms_check_required"
+    }
+  ]
+}

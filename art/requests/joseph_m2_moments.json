@@ -1,0 +1,50 @@
+[
+  {
+    "id": "moment_joseph_era",
+    "kind": "scene",
+    "refs": [
+      "art/characters/char_joseph_youth.webp"
+    ],
+    "prompt": "Historic moment, the opening of the Joseph era (Genesis 37:1-2): golden late afternoon in the hill country of Canaan. A camp of dark goat-hair tents of Jacob's household on a gentle slope, large flocks of sheep and goats. In the middle ground the young Joseph from the reference sheet (same face, same long-sleeved tunic with woven bands) walks toward the camp, while a group of his older brothers, shepherds in plain undyed wool, stand apart with the flocks on the far side, a visible distance between them. Calm, vast, quiet; nobody is fighting."
+  },
+  {
+    "id": "moment_joseph_sold",
+    "kind": "scene",
+    "refs": [
+      "art/characters/char_joseph_youth.webp"
+    ],
+    "prompt": "Historic moment, Joseph sold to traders (Genesis 37:25-28), shown with restraint for children: dry barren hills near Dothan at dusk. In the foreground an empty stone-rimmed dry pit. In the middle distance a caravan of Ishmaelite traders with several camels loaded with bundles of spices moves away along a road toward the southwest horizon. Walking with the caravan, seen from behind at a distance, is Joseph from the reference sheet: a SEVENTEEN-YEAR-OLD young man of adult height (not a child), same dark curly hair, wearing only a plain undyed under-tunic because his ornamented robe was taken. On a ridge, tiny silhouettes of shepherd brothers watch. No ropes, no chains, no violence, no visible faces, no blood. Mood: loss and a long road."
+  },
+  {
+    "id": "moment_joseph_vizier",
+    "kind": "scene",
+    "refs": [
+      "art/characters/char_joseph_vizier.webp"
+    ],
+    "prompt": "Historic moment, Joseph made ruler over Egypt (Genesis 41:41-43): a sunlit ancient Egyptian processional road lined with painted columns, the Nile beyond. Seen FROM THE SIDE: a light two-wheeled chariot drawn by two horses moves from left to right, and Joseph from the reference sheet (same face, clean-shaven, white linen, gold collar, signet ring on his hand) stands in it FACING FORWARD in the direction of travel, a driver beside him. Along the road Egyptians bow the knee: kneeling and bowing low with foreheads toward the ground or hands on their knees, in ancient Egyptian manner, NOT Christian praying hands. The pharaoh is NOT shown. Generic Egyptian architecture, no readable hieroglyphs, no specific pharaoh, no royal crown on Joseph."
+  },
+  {
+    "id": "moment_joseph_revealed",
+    "kind": "scene",
+    "refs": [
+      "art/characters/char_joseph_vizier.webp"
+    ],
+    "prompt": "Historic moment, Joseph makes himself known to his brothers (Genesis 45:1-15): inside a private lamp-lit Egyptian hall with plain plastered walls (no carved inscriptions), everyone else has been sent out so only the family is present. Joseph from the reference sheet (same face, clean-shaven, white linen, gold collar) weeps openly and embraces his youngest brother Benjamin, a young Semitic man in Canaanite wool clothing. Around them stand EXACTLY TEN older bearded Semitic brothers (five on the left, five on the right) in travel-worn Canaanite wool garments, frozen in shock and fear, some stepping back. Emotional and tender, no weapons, no Egyptian guards."
+  },
+  {
+    "id": "moment_joseph_descent",
+    "kind": "scene",
+    "refs": [
+      "art/characters/char_jacob_elder.webp"
+    ],
+    "prompt": "Historic moment, Jacob's family goes down to Egypt (Genesis 46:1-7): morning at the edge of the Negev near Beersheba, a simple stone altar with a thin line of smoke behind them. A long procession heads south across dry land: wooden ox-drawn wagons carry women and small children, and very old Jacob from the reference sheet (same face, white beard, dark-brown mantle) sits in the front wagon; his sons walk beside, followed by flocks of sheep, goats and cattle and donkeys with packs. Wide panorama, dusty light, hopeful but solemn."
+  },
+  {
+    "id": "moment_jacob_blessing",
+    "kind": "scene",
+    "refs": [
+      "art/characters/char_jacob_elder.webp"
+    ],
+    "prompt": "Historic moment, Jacob's last blessing (Genesis 49:28-33), gentle and not frightening: a dim room lit by oil lamps. Very old Jacob from the reference sheet (same face, white beard) lies propped on a simple bed, one hand raised in blessing, eyes calm. His twelve grown sons, bearded Semitic men in wool garments, gather closely around the bed, some kneeling, heads bowed, one sitting near his feet. Warm lamplight, quiet grief and reverence. No death imagery, no skulls, no angels, no halos."
+  }
+]

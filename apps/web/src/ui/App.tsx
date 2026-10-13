@@ -1,18 +1,25 @@
 import { useEffect, useRef, useState } from 'react';
 import { joseph } from '../content/joseph';
+import { josephMoments, momentAt, type Moment } from '../content/moments';
 import {
   currentScene, nextAfter, openBranch, proceedToOutcome, returnToHub, setPerspective, startEpisode, type Next,
 } from '../engine/story';
 import { loadProgress, saveProgress, SCHEMA_VERSION, type Progress } from '../storage/progress';
+import { ChronicleDialog } from './ChronicleDialog';
+import { MomentScreen } from './MomentScreen';
 import { ScenePanel } from './ScenePanel';
 import { osisToKo } from './labels';
 
 const slice = joseph;
+const moments = josephMoments;
 const FIRST = slice.episodes[0].id;
 
 const freshProgress = (): Progress => ({
-  schemaVersion: SCHEMA_VERSION, story: startEpisode(slice, FIRST), completedEpisodeIds: [], quizAnswers: {},
+  schemaVersion: SCHEMA_VERSION, story: startEpisode(slice, FIRST), completedEpisodeIds: [], quizAnswers: {}, chronicleMomentIds: [],
 });
+
+/** A moment on screen. In the story it is recorded on close, then the story goes on (advance: to the next episode). */
+type ShownMoment = { moment: Moment; mode: 'replay' } | { moment: Moment; mode: 'story'; base: Progress; advance: boolean };
 
 type Screen = 'loading' | 'title' | 'play';
 
@@ -23,6 +30,8 @@ export function App() {
   const [storageProblem, setStorageProblem] = useState<string | null>(null);
   const [locked, setLocked] = useState<Extract<Next, { kind: 'locked' }> | null>(null);
   const [listOpen, setListOpen] = useState(false);
+  const [chronicleOpen, setChronicleOpen] = useState(false);
+  const [shown, setShown] = useState<ShownMoment | null>(null);
   const headingRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -47,17 +56,48 @@ export function App() {
   const art = slice.artById.get(episode.illustrationId);
   const index = slice.episodes.indexOf(episode);
 
-  const goToEpisode = (episodeId: string) => {
-    update({ ...progress, story: startEpisode(slice, episodeId, story.perspective) });
-    setListOpen(false);
+  const unrecorded = (base: Progress, episodeId: string, timing: Moment['timing']) => {
+    const moment = momentAt(moments, episodeId, timing);
+    return moment && !base.chronicleMomentIds.includes(moment.id) ? moment : undefined;
+  };
+
+  /** Puts the player on an episode's hub, opening with its moment the first time. */
+  const enter = (next: Progress) => {
+    update(next);
+    const atHub = slice.graphById.get(next.story.episodeId)?.entrySceneId === next.story.sceneId;
+    const moment = atHub ? unrecorded(next, next.story.episodeId, 'before') : undefined;
+    if (moment) setShown({ moment, mode: 'story', base: next, advance: false });
+  };
+
+  const advance = (base: Progress) => {
+    const episodeId = base.story.episodeId;
+    const completed = base.completedEpisodeIds.includes(episodeId) ? base.completedEpisodeIds : [...base.completedEpisodeIds, episodeId];
+    const next = nextAfter(slice, episodeId);
+    if (next.kind === 'locked') { update({ ...base, completedEpisodeIds: completed }); setLocked(next); return; }
+    enter({ ...base, completedEpisodeIds: completed, story: startEpisode(slice, next.episodeId, base.story.perspective) });
   };
 
   const nextEpisode = () => {
-    const completed = progress.completedEpisodeIds.includes(episode.id) ? progress.completedEpisodeIds : [...progress.completedEpisodeIds, episode.id];
-    const next = nextAfter(slice, episode.id);
-    if (next.kind === 'locked') { update({ ...progress, completedEpisodeIds: completed }); setLocked(next); return; }
-    update({ ...progress, completedEpisodeIds: completed, story: startEpisode(slice, next.episodeId, story.perspective) });
+    const moment = unrecorded(progress, episode.id, 'after');
+    if (moment) setShown({ moment, mode: 'story', base: progress, advance: true });
+    else advance(progress);
   };
+
+  const closeMoment = () => {
+    if (!shown) return;
+    setShown(null);
+    if (shown.mode === 'replay') return;
+    const recorded = { ...shown.base, chronicleMomentIds: [...shown.base.chronicleMomentIds, shown.moment.id] };
+    if (shown.advance) advance(recorded);
+    else update(recorded);
+  };
+
+  const goToEpisode = (episodeId: string) => {
+    enter({ ...progress, story: startEpisode(slice, episodeId, story.perspective) });
+    setListOpen(false);
+  };
+
+  const recordedMoments = moments.filter(moment => progress.chronicleMomentIds.includes(moment.id));
 
   if (screen === 'loading') return <main className="title-screen"><p>불러오는 중…</p></main>;
 
@@ -68,8 +108,8 @@ export function App() {
         <h1>요셉의 시대</h1>
         <p className="title-lede">야곱의 집에서 애굽의 궁정까지. 이야기는 성경에 기록된 그대로 흐르고, 당신은 그 곁에서 지켜보고 살펴봅니다.</p>
         <div className="title-actions">
-          {hasSave && <button className="primary" onClick={() => setScreen('play')}>이어서 하기 ({index + 1} / {slice.episodes.length})</button>}
-          <button className={hasSave ? '' : 'primary'} onClick={() => { update(freshProgress()); setScreen('play'); }}>
+          {hasSave && <button className="primary" onClick={() => { enter(progress); setScreen('play'); }}>이어서 하기 ({index + 1} / {slice.episodes.length})</button>}
+          <button className={hasSave ? '' : 'primary'} onClick={() => { enter(freshProgress()); setScreen('play'); }}>
             {hasSave ? '처음부터' : '시작하기'}
           </button>
         </div>
@@ -87,6 +127,7 @@ export function App() {
           <span className="era-name">요셉의 시대</span>
           <span className="era-meta">{osisToKo(episode.passage.osis)} · {index + 1} / {slice.episodes.length}</span>
         </div>
+        <button className="list-toggle chronicle-toggle" onClick={() => setChronicleOpen(true)}>연대기 {recordedMoments.length}</button>
         <progress max={slice.episodes.length} value={progress.completedEpisodeIds.length} aria-label="완료한 이야기 수" />
       </header>
 
@@ -136,6 +177,12 @@ export function App() {
         )}
         {storageProblem && <p className="warning" role="alert">진행 저장 실패: {storageProblem}</p>}
       </main>
+
+      {chronicleOpen && !shown && (
+        <ChronicleDialog moments={recordedMoments} onClose={() => setChronicleOpen(false)}
+          onOpen={moment => setShown({ moment, mode: 'replay' })} />
+      )}
+      {shown && <MomentScreen moment={shown.moment} mode={shown.mode} onClose={closeMoment} />}
     </div>
   );
 }

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "eraId": "era-joseph",
+  "basis": "편집부 자체 요약(성경 번역 본문 인용 아님). 신학·본문 검수 전 초안.",
+  "reviewStatus": "draft_not_reviewed",
+  "moments": [
+    {
+      "id": "moment-joseph-era",
+      "kind": "era_transition",
+      "episodeId": "ep-gen-116",
+      "timing": "before",
+      "eraLabelKo": "족장 시대 · 가나안",
+      "titleKo": "요셉의 시대",
+      "protagonistHandoff": { "fromKo": "야곱", "toKo": "요셉" },
+      "narrationKo": [
+        "야곱의 아들들이 가나안에서 아버지의 양 떼를 친다.",
+        "이야기의 중심이 야곱에게서 그의 아들 요셉에게로 옮겨 간다.",
+        "이 시대는 가나안의 장막에서 시작해 애굽에서 끝난다."
+      ],
+      "scriptureOsis": "GEN.37.1-GEN.37.2",
+      "imageId": "moment_joseph_era"
+    },
+    {
+      "id": "moment-joseph-sold",
+      "kind": "moment",
+      "episodeId": "ep-gen-119",
+      "timing": "after",
+      "eraLabelKo": "족장 시대 · 도단 근처",
+      "titleKo": "팔려 가는 요셉",
+      "narrationKo": [
+        "요셉은 은 이십에 이스마엘 상인들에게 팔려 애굽으로 끌려갔다.",
+        "아버지의 집을 떠난 소년의 길은 이제 낯선 땅으로 향한다."
+      ],
+      "scriptureOsis": "GEN.37.25-GEN.37.28",
+      "imageId": "moment_joseph_sold"
+    },
+    {
+      "id": "moment-joseph-vizier",
+      "kind": "moment",
+      "episodeId": "ep-gen-138",
+      "timing": "after",
+      "eraLabelKo": "족장 시대 · 애굽",
+      "titleKo": "애굽의 총리",
+      "narrationKo": [
+        "바로가 요셉의 손에 인장 반지를 끼우고, 세마포 옷을 입히고, 금 사슬을 목에 걸었다.",
+        "요셉은 애굽 온 땅을 맡아 다스리게 되었다. 그의 나이 서른이었다."
+      ],
+      "scriptureOsis": "GEN.41.41-GEN.41.46",
+      "imageId": "moment_joseph_vizier"
+    },
+    {
+      "id": "moment-joseph-revealed",
+      "kind": "moment",
+      "episodeId": "ep-gen-154",
+      "timing": "after",
+      "eraLabelKo": "족장 시대 · 애굽",
+      "titleKo": "정체를 밝힌 요셉",
+      "narrationKo": [
+        "요셉은 곁에 선 사람들을 모두 내보내고, 형들 앞에서 소리 내어 울며 자신이 요셉이라고 밝혔다.",
+        "그는 형들에게, 자신을 먼저 이곳에 보내신 분은 하나님이시라고 말했다."
+      ],
+      "scriptureOsis": "GEN.45.1-GEN.45.8",
+      "imageId": "moment_joseph_revealed"
+    },
+    {
+      "id": "moment-joseph-descent",
+      "kind": "moment",
+      "episodeId": "ep-gen-158",
+      "timing": "after",
+      "eraLabelKo": "족장 시대 · 브엘세바에서 애굽으로",
+      "titleKo": "애굽으로 내려가다",
+      "narrationKo": [
+        "야곱은 브엘세바에서 하나님께 제사를 드린 뒤, 온 가족과 가축을 이끌고 애굽으로 내려갔다.",
+        "아들들은 바로가 보낸 수레에 아버지와 아이들과 아내들을 태웠다."
+      ],
+      "scriptureOsis": "GEN.46.1-GEN.46.7",
+      "imageId": "moment_joseph_descent"
+    },
+    {
+      "id": "moment-jacob-blessing",
+      "kind": "moment",
+      "episodeId": "ep-gen-175",
+      "timing": "after",
+      "eraLabelKo": "족장 시대 · 애굽",
+      "titleKo": "야곱의 마지막 축복",
+      "narrationKo": [
+        "야곱은 열두 아들을 축복한 뒤, 가나안의 막벨라 굴에 자신을 장사해 달라고 당부했다.",
+        "그리고 숨을 거두어 자기 백성에게로 돌아갔다."
+      ],
+      "scriptureOsis": "GEN.49.29-GEN.49.33",
+      "imageId": "moment_jacob_blessing"
+    }
+  ]
+}

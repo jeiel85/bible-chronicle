@@ -12,6 +12,8 @@ export interface Progress {
   completedEpisodeIds: string[];
   /** lessonId -> chosen answer id */
   quizAnswers: Record<string, string>;
+  /** Historic Moments the player has seen, in order: the player's chronicle (docs/16 §3.3). */
+  chronicleMomentIds: string[];
 }
 
 /**
@@ -21,6 +23,8 @@ export interface Progress {
 export function fitsContent(slice: Slice, value: unknown): value is Progress {
   if (!value || typeof value !== 'object') return false;
   const progress = value as Progress;
+  // Saves made before the chronicle existed are kept; they simply have an empty chronicle.
+  if (!Array.isArray(progress.chronicleMomentIds)) progress.chronicleMomentIds = [];
   if (progress.schemaVersion !== SCHEMA_VERSION || !progress.story) return false;
   const graph = slice.graphById.get(progress.story.episodeId);
   return !!graph && graph.scenes.some(scene => scene.id === progress.story.sceneId)

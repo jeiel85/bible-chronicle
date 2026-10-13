@@ -1,0 +1,17 @@
+[
+  {
+    "id": "char_joseph_youth",
+    "kind": "sheet",
+    "prompt": "Joseph, son of Jacob, as a seventeen-year-old shepherd in Canaan (Genesis 37:2), patriarchal period. Slim young Semitic man of the ancient Levant, olive-brown skin, dark curly shoulder-length hair, very short beginning beard, dark eyes, gentle but earnest face. He wears a distinctive long ankle-length tunic with long sleeves, woven wool with a few ornamental woven bands of muted red, ochre and indigo (the robe his father gave him; keep it plausible ancient textile, not a rainbow costume), a simple belt and leather sandals. No staff, no halo."
+  },
+  {
+    "id": "char_joseph_vizier",
+    "kind": "sheet",
+    "prompt": "The same Joseph at about thirty (Genesis 41:46) as the high official of Egypt (Genesis 41:42): Semitic facial features kept from his youth (same eyes, nose and face shape), now clean-shaven with short dark hair as an Egyptian court official (Genesis 41:14), garments of fine white linen, a gold collar necklace, a signet ring on his right hand. Generic ancient Egyptian court style without any specific pharaoh, dynasty or royal crown; no headdress of a king, no cobra symbol, no hieroglyph text."
+  },
+  {
+    "id": "char_jacob_elder",
+    "kind": "sheet",
+    "prompt": "Jacob (Israel) as a very old patriarch of the ancient Levant (Genesis 47:9), Semitic features, deeply lined weathered olive skin, long white beard and white hair, tired but dignified eyes, slightly bent posture, simple undyed and dark-brown wool robes and a mantle, a wooden walking staff. Not a European old man, no halo, no royal clothing."
+  }
+]

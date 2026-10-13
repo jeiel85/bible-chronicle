@@ -44,10 +44,11 @@ v1.10 시안에서 실제로 나온 문제를 막는 규칙이다.
 ## 4. 받은 뒤 처리
 
 1. **검토**: 위 규칙과 07 §6 체크리스트로 본다. 탈락하면 프롬프트를 고쳐 다시 요청한다(같은 id의 파일을 지우고 다시 실행).
-2. **채택**: `art/<category>/<id>.png`(category: `moments`, `places`, `characters`, `community`)로 옮기고 매니페스트에 기록한다.
-3. **매니페스트 필드**(07 §1과 v1.10 매니페스트 호환): `assetId`, `subjectEventId`, `scriptureRefs`, `kind`, `createdWithAI: true`, `generator: "codex"|"agy"`, `prompt`, `refs`, `fictionalElements`, `historicalAccuracyStatus: "not_verified"`, `rightsStatus: "usage_terms_check_required"`, `reviewer`, `reviewedAt`.
-4. **크롭**: 16:9(가로·PC)와 4:5(모바일 세로)는 같은 원본에서 잘라 쓴다. 그래서 프롬프트는 주제를 가운데 1/3 안에 두도록 요구한다.
-5. 시안(v1.10)의 `assetId`·`subjectEventId`는 유지하고 `imageFile`만 새 그림으로 바꾼다(ART_ASSET_INTEGRATION).
+2. **채택**: `python tools/adopt_art.py <요청 파일> <id> <category> <codex|agy> --subject <대상 id> --note "<검토 결과>"`. `art/<category>/<id>.webp`(가로 최대 1920px, category: `moments`, `places`, `characters`, `community`)로 변환하고 `art/manifest.json`에 프롬프트·참조와 함께 기록한다. 탈락한 그림은 `art_out/<batch>/rejected/`로 옮겨 다시 요청한다.
+3. **참조 그림**: 요청 파일의 `refs`는 저장소에 채택된 `art/characters/*.webp`를 가리킨다(`art_out/`은 git 제외라 다시 만들 수 없다).
+4. **매니페스트 필드**(`tools/adopt_art.py`가 기록): `assetId`, `category`, `file`, `pixelSize`, `subjectId`(순간·에피소드 id), `kind`, `createdWithAI: true`, `generator`, `prompt`, `refs`, `reviewNote`, `adoptedAt`, `historicalAccuracyStatus: "not_verified"`, `rightsStatus: "usage_terms_check_required"`. 전문가 검토가 끝나면 두 상태 값과 검토자를 갱신한다.
+5. **크롭**: 16:9(가로·PC)와 4:5(모바일 세로)는 같은 원본에서 잘라 쓴다. 그래서 프롬프트는 주제를 가운데 1/3 안에 두도록 요구한다.
+6. 시안(v1.10)의 `assetId`·`subjectEventId`는 유지하고 `imageFile`만 새 그림으로 바꾼다(ART_ASSET_INTEGRATION).
 
 ## 5. 권리와 표기
 

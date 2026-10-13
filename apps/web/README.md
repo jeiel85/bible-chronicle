@@ -15,4 +15,6 @@ npm run build      # dist/
 - `src/storage/progress.ts`: IndexedDB 진행 저장(정경 결과는 저장하지 않음).
 - `src/ui/`: 화면. 세로·가로·PC 세 가지 배치.
 
+- 역사적 순간: `content/moments/*.json`, 그림은 `art/moments/<imageId>.webp`(없으면 "일러스트 준비 중"). 새 그림을 넣은 뒤에는 개발 서버를 다시 시작해야 보인다(앱 폴더 밖 파일은 감시하지 않음).
+
 알려진 한계: 진행 저장은 비동기라, 클릭 후 수 밀리초 안에 창을 닫으면 마지막 한 걸음이 저장되지 않을 수 있다.

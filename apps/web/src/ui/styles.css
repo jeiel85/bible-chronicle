@@ -243,3 +243,8 @@ button:disabled { opacity: .55; cursor: not-allowed; }
 
 /* Rewritten narration (content/narration) */
 .narration p { font-size: 1.05rem; line-height: 1.75; margin-bottom: .6rem; }
+
+/* Life note sources (content/community/sources.json) */
+.life-sources { list-style: none; padding: 0; margin: .2rem 0 .6rem; font-size: .85rem; }
+.life-sources li { margin-bottom: .25rem; }
+.life-sources a { color: var(--teal); }

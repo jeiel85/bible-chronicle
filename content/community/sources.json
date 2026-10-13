@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-13",
+  "note": "가상 공동체 생활사 메모의 출처 목록(docs/16 §5.1-7). 외부 자료는 원문을 직접 열어 확인했고, 각 자료가 뒷받침하는 것과 뒷받침하지 않는 것을 함께 적는다. 분류는 05_HISTORY_MAP을 따른다.",
+  "sources": [
+    {
+      "id": "SRC-BRIT-TRANSHUMANCE",
+      "kind": "external_secondary",
+      "citationKo": "Encyclopaedia Britannica, \"transhumance\" 항목",
+      "url": "https://www.britannica.com/topic/transhumance",
+      "supportsKo": "이동 목축의 일반 정의: 계절에 따라 가축을 서로 다른 목초지로 옮기며, 대개 경작과 정착지를 함께 둔다.",
+      "limitsKo": "일반 정의다. 족장 시대나 가나안의 목축을 직접 다루지 않는다."
+    },
+    {
+      "id": "SRC-MET-AAMU",
+      "kind": "external_secondary",
+      "citationKo": "The Metropolitan Museum of Art, \"Leaders of the Aamu of Shu\" (33.8.17) — 베니하산 크눔호텝 무덤(3호) 벽화의 1931년 모사화, 제12왕조 세누스레트 2세 시대",
+      "url": "https://www.metmuseum.org/art/collection/search/544548",
+      "supportsKo": "애굽 중왕국 시대 무덤 벽화에 옷차림·수염·머리 모양으로 서아시아 사람임을 알 수 있는 무리가 그려져 있다. 서아시아 사람들과 애굽 사이에 왕래가 있었음을 보여 주는 자료다.",
+      "limitsKo": "교역로, 교역품, 값을 알려 주지 않는다. 요셉 이야기의 연대나 사건을 입증하지 않는다."
+    },
+    {
+      "id": "SRC-PLOS-KABRI",
+      "kind": "external_secondary",
+      "citationKo": "Koh, Yasur-Landau, Cline, \"Characterizing a Middle Bronze Palatial Wine Cellar from Tel Kabri, Israel\", PLoS ONE 9(8): e106406 (2014). doi:10.1371/journal.pone.0106406",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4146609/",
+      "supportsKo": "중기 청동기(약 기원전 1900–1600년) 가나안 궁전의 저장실에서 큰 저장 항아리 40개가 제자리에서 발견되었다.",
+      "limitsKo": "항아리의 내용물은 곡식이 아니라 포도주였다. 궁전 저장실이라 목자 가정의 저장 방식과 규모가 다르다."
+    },
+    {
+      "id": "SRC-UMICH-MEGIDDO",
+      "kind": "external_secondary",
+      "citationKo": "The Land of Israel / Palestine: Image Database, \"Tel Megiddo: the silo\"",
+      "url": "https://image-database.nes.lsa.umich.edu/items/show/62",
+      "supportsKo": "므깃도에서 깊이 약 21피트, 지름 약 34피트의 공공 곡식 저장고(저장 구덩이)가 발굴되었다.",
+      "limitsKo": "기원전 780–650년경의 철기 시대 시설로, 요셉 이야기의 배경보다 훨씬 후대다. 도시의 공공 시설이라 가정의 저장 방식과 다르다."
+    }
+  ]
+}

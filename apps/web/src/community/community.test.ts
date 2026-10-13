@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { joseph } from '../content/joseph';
 import { nextAfter, openBranch, outcomeOf, proceedToOutcome, startEpisode } from '../engine/story';
 import {
-  biblicalNamesOf, canChoose, checkCommunity, eventAt, josephCommunity, resolve, startCommunity,
+  biblicalNamesOf, canChoose, checkCommunity, communitySources, eventAt, josephCommunity, resolve, startCommunity,
   type CommunityContent, type CommunityState,
 } from './community';
 
@@ -30,7 +30,7 @@ function playThrough(pick: (state: CommunityState, choices: string[]) => string 
 
 describe('household content (docs/16 §5.1)', () => {
   it('follows the content rules', () => {
-    expect(checkCommunity(joseph, content, biblicalNamesOf(joseph))).toEqual([]);
+    expect(checkCommunity(joseph, content, biblicalNamesOf(joseph), communitySources)).toEqual([]);
   });
 
   it('catches a household text that names a biblical person', () => {
@@ -38,7 +38,42 @@ describe('household content (docs/16 §5.1)', () => {
       ...content,
       events: [{ ...content.events[0], situationKo: '요셉과 마주친 목자 가족' }],
     };
-    expect(checkCommunity(joseph, named, biblicalNamesOf(joseph))).toContainEqual(expect.stringMatching(/요셉/));
+    expect(checkCommunity(joseph, named, biblicalNamesOf(joseph), communitySources)).toContainEqual(expect.stringMatching(/요셉/));
+  });
+
+  it('requires every life note to have evidence', () => {
+    const unsourced: CommunityContent = { ...content, events: [{ ...content.events[0], lifeNoteSources: [] }] };
+    expect(checkCommunity(joseph, unsourced, biblicalNamesOf(joseph), communitySources)).toContainEqual(expect.stringMatching(/no source/));
+    const unknown: CommunityContent = { ...content, events: [{ ...content.events[0], lifeNoteSources: [{ sourceId: 'SRC-MADE-UP' }] }] };
+    expect(checkCommunity(joseph, unknown, biblicalNamesOf(joseph), communitySources)).toContainEqual(expect.stringMatching(/unknown source/));
+  });
+
+  it('requires an external source for every life-history note', () => {
+    const lifeHistory = content.events.find(event => event.lifeNoteKind === 'life_history')!;
+    const biblicalOnly: CommunityContent = {
+      ...content,
+      events: [{ ...lifeHistory, lifeNoteSources: [{ kind: 'biblical_text', osis: 'GEN.37.25' }] }],
+    };
+    expect(checkCommunity(joseph, biblicalOnly, biblicalNamesOf(joseph), communitySources)).toContainEqual(expect.stringMatching(/needs an external source/));
+  });
+
+  it('classifies every note, and the committed notes are three life-history and six text-background notes', () => {
+    expect(content.events.filter(event => event.lifeNoteKind === 'life_history').map(event => event.id)).toEqual(['cm-joseph-01', 'cm-joseph-02', 'cm-joseph-03']);
+    expect(content.events.filter(event => event.lifeNoteKind === 'text_background')).toHaveLength(6);
+  });
+
+  it('every external source states what it supports and what it does not', () => {
+    for (const source of communitySources) {
+      expect(source.url.startsWith('https://'), source.id).toBe(true);
+      expect(source.supportsKo.length, source.id).toBeGreaterThan(0);
+      expect(source.limitsKo.length, source.id).toBeGreaterThan(0);
+    }
+  });
+
+  it('lets a sourced life note cite biblical people, but not the household story', () => {
+    const event = content.events[0];
+    const citing: CommunityContent = { ...content, events: [{ ...event, lifeNoteKo: '창세기에서 요셉의 형들도 양 떼를 옮겼다.' }] };
+    expect(checkCommunity(joseph, citing, biblicalNamesOf(joseph), communitySources)).toEqual([]);
   });
 
   it('treats a combined cast label as both names', () => {
